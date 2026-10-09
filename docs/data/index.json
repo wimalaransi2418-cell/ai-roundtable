@@ -1,1 +1,9 @@
-{"sessions":[]}
+{
+ "sessions": [
+  {
+   "id": "20261009-2146",
+   "started_at": "2026-10-09T21:46:46+00:00",
+   "question_en": "Should large infrastructure companies like Cloudflare own and control open-source runtimes such as Deno, or should these projects remain independent?"
+  }
+ ]
+}
