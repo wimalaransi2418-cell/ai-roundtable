@@ -1,9 +1,9 @@
 <!DOCTYPE html>
-<html lang="si">
+<html lang="en">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>AI Roundtable · ඒඅයි සාකච්ඡා මේසය</title>
+<title>AI Roundtable</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:wght@500;700&family=Noto+Sans+Sinhala:wght@400;600&family=Noto+Sans:wght@400;600&display=swap" rel="stylesheet">
@@ -21,7 +21,7 @@ h1,h2,.q{font-family:"Bricolage Grotesque","Noto Sans Sinhala",sans-serif}
 header{position:sticky;top:0;z-index:5;background:var(--bg);border-bottom:1px solid var(--line);
   display:flex;gap:12px;align-items:center;justify-content:space-between;padding:10px 16px;flex-wrap:wrap}
 header h1{font-size:1.15rem;margin:0}
-.seg{display:inline-flex;border:1px solid var(--line);border-radius:8px;overflow:hidden}
+.seg{display:none;border:1px solid var(--line);border-radius:8px;overflow:hidden}
 .seg button{border:0;background:transparent;color:var(--ink);padding:6px 12px;font:inherit;cursor:pointer}
 .seg button[aria-pressed="true"]{background:var(--accent);color:var(--bg)}
 button:focus-visible,select:focus-visible{outline:3px solid #4B5BD6;outline-offset:2px}
@@ -57,7 +57,7 @@ footer{max-width:760px;margin:0 auto;padding:0 16px 40px;color:var(--muted);font
 </head>
 <body>
 <header>
-  <h1 id="title">ඒඅයි සාකච්ඡා මේසය</h1>
+  <h1 id="title">AI Roundtable</h1>
   <div class="seg" role="group" aria-label="Language">
     <button data-l="si">සිංහල</button><button data-l="en">English</button><button data-l="both">දෙකම</button>
   </div>
@@ -88,7 +88,7 @@ const T = {
       foot:"The participants are AI models. They can be wrong, so treat this as discussion, not advice or fact. Sessions run automatically and questions are picked from trending topics.",
       why:"Why now"}
 };
-let lang = localStorage.getItem("lang") || "si";
+let lang = "en";
 let index = [], session = null, shown = 0, timer = null, skip = false, token = 0;
 const $ = s => document.querySelector(s);
 const sleep = ms => new Promise(r => setTimeout(r, ms));
