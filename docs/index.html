@@ -1,0 +1,240 @@
+<!DOCTYPE html>
+<html lang="si">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>AI Roundtable · ඒඅයි සාකච්ඡා මේසය</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:wght@500;700&family=Noto+Sans+Sinhala:wght@400;600&family=Noto+Sans:wght@400;600&display=swap" rel="stylesheet">
+<style>
+:root{
+  --bg:#E9EDF3; --panel:#F7F9FC; --ink:#1B2433; --muted:#5B6678; --line:#CBD3DF; --accent:#1B2433;
+}
+@media (prefers-color-scheme: dark){
+  :root{ --bg:#141A26; --panel:#1D2535; --ink:#E7EBF3; --muted:#9AA5B8; --line:#2E3850; --accent:#E7EBF3; }
+}
+*{box-sizing:border-box}
+html{scroll-padding-top:80px}
+body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.65 "Noto Sans","Noto Sans Sinhala",system-ui,sans-serif}
+h1,h2,.q{font-family:"Bricolage Grotesque","Noto Sans Sinhala",sans-serif}
+header{position:sticky;top:0;z-index:5;background:var(--bg);border-bottom:1px solid var(--line);
+  display:flex;gap:12px;align-items:center;justify-content:space-between;padding:10px 16px;flex-wrap:wrap}
+header h1{font-size:1.15rem;margin:0}
+.seg{display:inline-flex;border:1px solid var(--line);border-radius:8px;overflow:hidden}
+.seg button{border:0;background:transparent;color:var(--ink);padding:6px 12px;font:inherit;cursor:pointer}
+.seg button[aria-pressed="true"]{background:var(--accent);color:var(--bg)}
+button:focus-visible,select:focus-visible{outline:3px solid #4B5BD6;outline-offset:2px}
+main{max-width:760px;margin:0 auto;padding:20px 16px 80px}
+.picker{display:flex;gap:8px;align-items:center;margin-bottom:18px}
+select{flex:1;min-width:0;padding:8px;border-radius:8px;border:1px solid var(--line);background:var(--panel);color:var(--ink);font:inherit}
+.btn{border:1px solid var(--line);background:var(--panel);color:var(--ink);padding:8px 12px;border-radius:8px;font:inherit;cursor:pointer}
+.qbox{background:var(--panel);border-left:6px solid var(--accent);padding:16px 18px;border-radius:4px 12px 12px 4px}
+.q{font-size:1.45rem;line-height:1.3;margin:0 0 6px;font-weight:700}
+.q.si,.si{font-family:"Noto Sans Sinhala",sans-serif}
+.why{color:var(--muted);font-size:.92rem;margin:8px 0 0}
+.chips{display:flex;flex-wrap:wrap;gap:8px;margin:14px 0 4px}
+.chip{display:flex;align-items:center;gap:6px;font-size:.88rem;color:var(--muted)}
+.dot{width:12px;height:12px;border-radius:50%}
+.round{margin:28px 0 10px;color:var(--muted);font-size:.9rem;display:flex;align-items:center;gap:10px}
+.round::after{content:"";flex:1;height:1px;background:var(--line)}
+.msg{background:var(--panel);border-left:6px solid var(--c);border-radius:4px 12px 12px 4px;padding:12px 16px;margin:10px 0}
+.msg .who{font-weight:600;color:var(--c);font-size:.95rem}
+.msg .who small{font-weight:400;color:var(--muted);margin-left:8px}
+.msg p{margin:6px 0 0;white-space:pre-wrap}
+.msg p.si{line-height:1.8}
+.msg p + p{padding-top:8px;border-top:1px dashed var(--line)}
+.msg.final{border-left-width:10px}
+.typing{display:inline-flex;gap:4px;padding:10px 4px}
+.typing i{width:7px;height:7px;border-radius:50%;background:var(--muted);animation:b 1s infinite}
+.typing i:nth-child(2){animation-delay:.15s}.typing i:nth-child(3){animation-delay:.3s}
+@keyframes b{0%,60%,100%{opacity:.25}30%{opacity:1}}
+@media (prefers-reduced-motion: reduce){.typing i{animation:none;opacity:.6}}
+.notice{background:#4B5BD6;color:#fff;padding:8px 12px;border-radius:8px;margin-bottom:12px;display:none;cursor:pointer}
+footer{max-width:760px;margin:0 auto;padding:0 16px 40px;color:var(--muted);font-size:.85rem}
+.empty{padding:40px 0;color:var(--muted)}
+</style>
+</head>
+<body>
+<header>
+  <h1 id="title">ඒඅයි සාකච්ඡා මේසය</h1>
+  <div class="seg" role="group" aria-label="Language">
+    <button data-l="si">සිංහල</button><button data-l="en">English</button><button data-l="both">දෙකම</button>
+  </div>
+</header>
+<main>
+  <div class="notice" id="notice"></div>
+  <div class="picker">
+    <select id="sel" aria-label="Session"></select>
+    <button class="btn" id="skip"></button>
+    <button class="btn" id="replay"></button>
+  </div>
+  <div id="view"><p class="empty" id="empty"></p></div>
+</main>
+<footer id="foot"></footer>
+
+<script>
+const T = {
+  si:{title:"ඒඅයි සාකච්ඡා මේසය",skip:"අවසානයට යන්න",replay:"නැවත පෙන්වන්න",
+      empty:"තවම සාකච්ඡාවක් නැහැ. පළමු සැසිය ස්වයංක්‍රීයව ඉක්මනින් පෙනෙනවා.",
+      round:["මුල් අදහස","අනිත් අයට ප්‍රතිචාර","අවසාන ස්ථාවරය","අවසාන නිගමනය"],
+      newer:"අලුත් සාකච්ඡාවක් ඇවිත්. බලන්න ඔබන්න.",
+      foot:"මේ සාකච්ඡා කරන්නේ ඒඅයි මොඩල්. ඒවාට වැරදිය හැකියි, ඒ නිසා මේවා උපදෙස් හෝ කරුණු ලෙස නොගන්න. සැසි ස්වයංක්‍රීයව පැවැත්වේ, ප්‍රශ්න තෝරන්නේ ජනප්‍රිය මාතෘකා වලින්.",
+      why:"ඇයි දැන්"},
+  en:{title:"AI Roundtable",skip:"Skip to end",replay:"Replay",
+      empty:"No discussions yet. The first session will appear automatically soon.",
+      round:["Opening views","Responding to each other","Final positions","Final conclusion"],
+      newer:"A new discussion is available. Click to view.",
+      foot:"The participants are AI models. They can be wrong, so treat this as discussion, not advice or fact. Sessions run automatically and questions are picked from trending topics.",
+      why:"Why now"}
+};
+let lang = localStorage.getItem("lang") || "si";
+let index = [], session = null, shown = 0, timer = null, skip = false, token = 0;
+const $ = s => document.querySelector(s);
+const sleep = ms => new Promise(r => setTimeout(r, ms));
+const L = () => lang === "both" ? "si" : lang;
+const tt = k => T[L()][k];
+
+function chrome(){
+  document.documentElement.lang = L();
+  $("#title").textContent = tt("title");
+  $("#skip").textContent = tt("skip");
+  $("#replay").textContent = tt("replay");
+  $("#foot").innerHTML = "<p>" + T.si.foot + "</p>" + (lang!=="si" ? "<p>"+T.en.foot+"</p>" : "");
+  if (lang==="si") $("#foot").innerHTML = "<p>"+T.si.foot+"</p>";
+  if (lang==="en") $("#foot").innerHTML = "<p>"+T.en.foot+"</p>";
+  document.querySelectorAll(".seg button").forEach(b => b.setAttribute("aria-pressed", b.dataset.l===lang));
+  const e = $("#empty"); if (e) e.textContent = T.si.empty + (lang!=="si" ? " " : "") ;
+  if (e && lang==="en") e.textContent = T.en.empty;
+  if (e && lang==="both") e.textContent = T.si.empty + " / " + T.en.empty;
+}
+
+function paras(obj, key){ // returns [{cls,text}] for current language
+  const out = [];
+  if (lang!=="en" && obj.si) out.push({cls:"si", text:obj.si});
+  if (lang!=="si" && obj.en) out.push({cls:"en", text:obj.en});
+  if (!out.length) out.push({cls:"en", text:obj.en||obj.si||""});
+  return out;
+}
+
+function roundLabel(n){
+  const si = T.si.round[n-1], en = T.en.round[n-1];
+  return lang==="si" ? si : lang==="en" ? en : si + " / " + en;
+}
+
+function questionHTML(s){
+  const q = s.question, why = s.source || {};
+  const qs = [];
+  if (lang!=="en") qs.push(`<h2 class="q si">${esc(q.si)}</h2>`);
+  if (lang!=="si") qs.push(`<h2 class="q">${esc(q.en)}</h2>`);
+  const w = [];
+  if (lang!=="en" && why.why_si) w.push(`${T.si.why}: ${esc(why.why_si)}`);
+  if (lang!=="si" && why.why_en) w.push(`${T.en.why}: ${esc(why.why_en)}`);
+  const chips = s.participants.map(p => `<span class="chip"><span class="dot" style="background:${p.color}"></span>${esc(p.name)}</span>`).join("");
+  return `<div class="qbox">${qs.join("")}${w.map(x=>`<p class="why">${x}</p>`).join("")}<div class="chips">${chips}</div></div><div id="thread"></div>`;
+}
+
+function msgEl(m){
+  const d = document.createElement("div");
+  d.className = "msg" + (m.kind==="conclusion" ? " final" : "");
+  d.style.setProperty("--c", m.color);
+  const persona = lang==="en" ? m.persona_en : m.persona_si;
+  d.innerHTML = `<div class="who">${esc(m.name)}<small>${esc(persona||"")}</small></div>`;
+  return d;
+}
+
+function fill(d, m, frac){
+  d.querySelectorAll("p").forEach(p => p.remove());
+  paras(m).forEach(x => {
+    const p = document.createElement("p"); p.className = x.cls;
+    p.textContent = frac>=1 ? x.text : x.text.slice(0, Math.ceil(x.text.length*frac));
+    d.appendChild(p);
+  });
+}
+
+function renderStatic(upTo){
+  const th = $("#thread"); th.innerHTML = ""; let last = 0;
+  session.messages.slice(0, upTo).forEach(m => {
+    if (m.round !== last){ last = m.round; const r = document.createElement("div"); r.className="round"; r.textContent = roundLabel(m.round); th.appendChild(r); }
+    const d = msgEl(m); fill(d, m, 1); th.appendChild(d);
+  });
+}
+
+async function play(s){
+  const my = ++token; skip = false; session = s; shown = 0;
+  $("#view").innerHTML = questionHTML(s);
+  const th = $("#thread"); let last = 0;
+  for (let i=0; i<s.messages.length; i++){
+    if (my !== token) return;
+    const m = s.messages[i];
+    if (m.round !== last){ last = m.round; const r = document.createElement("div"); r.className="round"; r.textContent = roundLabel(m.round); th.appendChild(r); }
+    if (!skip){
+      const t = document.createElement("div"); t.className="typing"; t.innerHTML="<i></i><i></i><i></i>"; th.appendChild(t);
+      await sleep(900); t.remove();
+    }
+    const d = msgEl(m); th.appendChild(d);
+    const len = Math.max(...paras(m).map(x=>x.text.length));
+    const steps = Math.min(120, Math.max(20, Math.round(len/6)));
+    for (let k=1; k<=steps && !skip; k++){
+      if (my !== token) return;
+      fill(d, m, k/steps); await sleep(28);
+    }
+    fill(d, m, 1); shown = i+1;
+    if (!skip) d.scrollIntoView({block:"nearest", behavior:"smooth"});
+    if (!skip) await sleep(500);
+  }
+  shown = s.messages.length;
+}
+
+function esc(s){ return String(s||"").replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c])); }
+
+async function load(id, animate){
+  const s = await (await fetch(`data/sessions/${id}.json?t=${Date.now()}`)).json();
+  if (animate) play(s); else { token++; session = s; $("#view").innerHTML = questionHTML(s); renderStatic(s.messages.length); shown = s.messages.length; }
+  $("#sel").value = id;
+}
+
+function fillSelect(){
+  const sel = $("#sel"); const cur = sel.value; sel.innerHTML = "";
+  index.forEach(x => {
+    const o = document.createElement("option"); o.value = x.id;
+    const date = new Date(x.started_at).toLocaleString(L()==="si" ? "si-LK" : "en-GB", {dateStyle:"medium", timeStyle:"short"});
+    const q = lang==="en" ? x.question_en : (x.question_si || x.question_en);
+    o.textContent = date + " · " + q; sel.appendChild(o);
+  });
+  if (cur) sel.value = cur;
+}
+
+async function fetchIndex(){
+  const r = await fetch("data/index.json?t=" + Date.now());
+  return (await r.json()).sessions || [];
+}
+
+async function init(){
+  chrome();
+  index = await fetchIndex();
+  if (!index.length){ return; }
+  $("#view").innerHTML = ""; fillSelect(); load(index[0].id, true);
+  setInterval(async () => {
+    try {
+      const fresh = await fetchIndex();
+      if (fresh.length && fresh[0].id !== index[0].id){
+        index = fresh; fillSelect();
+        const n = $("#notice"); n.textContent = tt("newer") + (lang==="both" ? " / " + T.en.newer : ""); n.style.display = "block";
+        n.onclick = () => { n.style.display="none"; load(index[0].id, true); };
+      }
+    } catch(e){}
+  }, 5*60*1000);
+}
+
+document.querySelectorAll(".seg button").forEach(b => b.onclick = () => {
+  lang = b.dataset.l; localStorage.setItem("lang", lang); chrome();
+  if (session){ token++; fillSelect(); $("#view").innerHTML = questionHTML(session); renderStatic(session.messages.length); shown = session.messages.length; }
+});
+$("#sel").onchange = e => load(e.target.value, false);
+$("#skip").onclick = () => { skip = true; };
+$("#replay").onclick = () => { if (session) play(session); };
+init();
+</script>
+</body>
+</html>
