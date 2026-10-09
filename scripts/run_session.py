@@ -109,6 +109,72 @@ def split_bilingual(text):
     return en.strip(), si.strip()
 
 
+# ---------------------------------------------------------------- model discovery
+SKIP_WORDS = ("image", "tts", "live", "audio", "embedding", "guard", "whisper", "vision", "robotics",
+              "computer-use", "veo", "imagen", "aqa", "learnlm", "gemma", "orpheus", "transcribe")
+GEMINI_PREFER = ["gemini-3.8-flash", "gemini-3.5-flash", "gemini-3.5-flash-lite",
+                 "gemini-3.1-flash-lite", "gemini-2.5-flash", "gemini-2.5-flash-lite"]
+
+
+def list_gemini_models():
+    out = json.loads(http("https://generativelanguage.googleapis.com/v1beta/models?pageSize=200",
+                          headers={"x-goog-api-key": os.environ["GEMINI_API_KEY"]}))
+    names = []
+    for m in out.get("models", []):
+        if "generateContent" in m.get("supportedGenerationMethods", []):
+            names.append(m["name"].split("/", 1)[-1])
+    return names
+
+
+def list_groq_models():
+    out = json.loads(http("https://api.groq.com/openai/v1/models",
+                          headers={"Authorization": f"Bearer {os.environ['GROQ_API_KEY']}"}))
+    return [m["id"] for m in out.get("data", [])]
+
+
+def pick_gemini(available):
+    forced = os.environ.get("GEMINI_MODEL")
+    if forced:
+        return forced
+    for name in GEMINI_PREFER:
+        if name in available:
+            return name
+    flash = sorted(n for n in available if "flash" in n and not any(w in n for w in SKIP_WORDS))
+    stable = [n for n in flash if "preview" not in n and "exp" not in n]
+    pool = stable or flash
+    if pool:
+        return pool[-1]
+    raise RuntimeError("No usable Gemini model found for this key. Available: " + ", ".join(available[:20]))
+
+
+def resolve_models():
+    """Replace configured model names with ones that actually exist right now."""
+    try:
+        g = pick_gemini(list_gemini_models())
+    except Exception as e:
+        print("Could not list Gemini models, using configured name:", e)
+        g = GEMINI_MODEL
+    print("Gemini model:", g)
+    MODERATOR["model"] = g
+    try:
+        groq = list_groq_models()
+    except Exception as e:
+        print("Could not list Groq models:", e)
+        groq = []
+    keywords = {"llama": "llama", "qwen": "qwen", "gptoss": "gpt-oss"}
+    for bot in BOTS:
+        if bot["provider"] == "gemini":
+            bot["model"] = g
+        elif groq and bot["model"] not in groq:
+            alt = sorted(m for m in groq if keywords.get(bot["id"], "~~") in m.lower()
+                         and not any(w in m.lower() for w in SKIP_WORDS))
+            if alt:
+                print(f"{bot['name']}: {bot['model']} not available, using {alt[-1]}")
+                bot["model"] = alt[-1]
+            else:
+                print(f"{bot['name']}: no matching Groq model, this bot may be skipped")
+
+
 # ---------------------------------------------------------------- topics
 def get_wikipedia():
     skip = ("Main_Page", "Special:", "Wikipedia:", "Portal:", "Help:", "File:", "Category:", "-")
@@ -254,6 +320,7 @@ def main():
         if not os.environ.get(k):
             sys.exit(f"Missing environment variable {k}")
     SESSIONS.mkdir(parents=True, exist_ok=True)
+    resolve_models()
     index = load_index()
 
     topic = pick_topic(index)
