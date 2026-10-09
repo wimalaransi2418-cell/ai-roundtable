@@ -22,21 +22,19 @@ INDEX = DATA / "index.json"
 
 PAUSE = 5  # seconds between calls (free-tier rate limits)
 
-# Edit this list to change bots. "find" is a keyword used to pick a similar
-# model automatically if the exact model name is no longer offered by Groq.
-BOTS = [
-    dict(id="llama", model="llama-3.3-70b-versatile", find="llama", name="Llama", color="#D98A1F",
-         persona="The Pragmatist: real-world consequences, what works for ordinary people."),
-    dict(id="qwen", model="qwen/qwen3-32b", find="qwen", name="Qwen", color="#1F9E8F",
-         persona="The Skeptic: questions assumptions, looks for weak arguments and missing facts."),
-    dict(id="gptoss", model="openai/gpt-oss-120b", find="gpt-oss", name="GPT-OSS", color="#4B5BD6",
-         persona="The Scientist: evidence, data, how things actually work."),
-    dict(id="kimi", model="moonshotai/kimi-k2-instruct", find="kimi", name="Kimi", color="#C23C7A",
-         persona="The Humanist: ethics, fairness, how people and society are affected."),
+# Bots are chosen automatically from whatever chat models Groq offers today.
+# Personas and colours are assigned in order.
+PERSONAS = [
+    ("The Scientist: evidence, data, how things actually work.", "#4B5BD6"),
+    ("The Skeptic: questions assumptions, looks for weak arguments and missing facts.", "#1F9E8F"),
+    ("The Pragmatist: real-world consequences, what works for ordinary people.", "#D98A1F"),
+    ("The Humanist: ethics, fairness, how people and society are affected.", "#C23C7A"),
 ]
-MODERATOR = dict(id="moderator", model="llama-3.3-70b-versatile", find="llama",
-                 name="Moderator", color="#1B2433")
-SKIP_WORDS = ("guard", "whisper", "tts", "orpheus", "playai", "distil", "vision", "safeguard", "prompt")
+BLOCK = ("guard", "whisper", "tts", "orpheus", "playai", "vision", "safeguard", "prompt", "embed",
+         "distil", "transcribe", "speech")
+PREFER = ["gpt-oss-120b", "qwen", "llama-3.3", "llama", "kimi", "gpt-oss-20b", "deepseek", "mistral", "gemma"]
+BOTS = []  # filled in by resolve_models()
+MODERATOR = dict(id="moderator", model=None, name="Moderator", color="#1B2433")
 
 
 # ---------------------------------------------------------------- http / llm
@@ -85,8 +83,16 @@ def call_llm(bot, system, user, max_tokens=900, temperature=0.8):
     raise RuntimeError(f"{bot['name']} failed: {last}")
 
 
+def rank(model):
+    m = model.lower()
+    for i, key in enumerate(PREFER):
+        if key in m:
+            return i
+    return 99 if "allam" in m else 50
+
+
 def resolve_models():
-    """Check the key works and swap in similar models if a name is gone."""
+    """Check the key works, then choose bots from the models Groq offers right now."""
     try:
         out = json.loads(http("https://api.groq.com/openai/v1/models", headers=groq_headers()))
         available = [m["id"] for m in out.get("data", [])]
@@ -95,17 +101,16 @@ def resolve_models():
         sys.exit(f"GROQ KEY PROBLEM: HTTP {e.code} from Groq.\n{detail}\n"
                  "Check that the GitHub secret is named GROQ_API_KEY and holds a valid, current key.")
     print("Groq models available:", ", ".join(sorted(available)))
-    for bot in BOTS + [MODERATOR]:
-        if bot["model"] in available:
-            continue
-        alt = sorted(m for m in available if bot["find"] in m.lower()
-                     and not any(w in m.lower() for w in SKIP_WORDS))
-        if alt:
-            print(f"{bot['name']}: {bot['model']} not offered, using {alt[-1]}")
-            bot["model"] = alt[-1]
-        else:
-            print(f"{bot['name']}: no matching model, this bot will be skipped")
-            bot["model"] = None
+    chat = sorted((m for m in available if not any(w in m.lower() for w in BLOCK)), key=rank)
+    if len(chat) < 2:
+        sys.exit("Fewer than 2 usable chat models on Groq: " + ", ".join(chat))
+    MODERATOR["model"] = chat[0]
+    for i, model in enumerate(chat[:4]):
+        persona, color = PERSONAS[i]
+        short = model.split("/")[-1]
+        BOTS.append(dict(id=re.sub(r"\W", "", short), model=model, name=short, color=color, persona=persona))
+    print("Moderator:", MODERATOR["model"])
+    print("Bots:", ", ".join(b["model"] for b in BOTS))
 
 
 # ---------------------------------------------------------------- topics
