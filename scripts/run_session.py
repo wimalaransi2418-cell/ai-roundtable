@@ -226,7 +226,7 @@ def transcript(messages):
     return "\n\n".join(f"[{m['name']}] {m['en']}" for m in messages)
 
 
-def run_round(round_no, instruction, question, messages):
+def run_round(round_no, label, instruction, question, messages):
     new = []
     for bot in BOTS:
         if not bot["model"]:
@@ -235,11 +235,11 @@ def run_round(round_no, instruction, question, messages):
                 f"DISCUSSION SO FAR:\n{transcript(messages) or '(you speak first)'}\n\n"
                 f"YOUR TASK: {instruction}")
         try:
-            text = clean(call_llm(bot, bot_system(bot), user, max_tokens=500), bot["name"])
+            text = clean(call_llm(bot, bot_system(bot), user, max_tokens=650), bot["name"])
         except Exception as e:
             print("skip bot:", e)
             continue
-        new.append(dict(kind="bot", round=round_no, bot_id=bot["id"], name=bot["name"],
+        new.append(dict(kind="bot", round=round_no, round_label=label, bot_id=bot["id"], name=bot["name"],
                         color=bot["color"], persona_en=bot["persona"], model=bot["model"], en=text))
         print(f"round {round_no}: {bot['name']} ok")
         time.sleep(PAUSE)
@@ -264,7 +264,7 @@ MY REASONING:
 FINAL CONCLUSION:
 <3-5 sentences>"""
     text = call_llm(MODERATOR, system, user, max_tokens=700, temperature=0.5)
-    return dict(kind="conclusion", round=4, bot_id="moderator", name="Moderator",
+    return dict(kind="conclusion", round=5, round_label="Verdict", bot_id="moderator", name="Moderator",
                 color=MODERATOR["color"], model=MODERATOR["model"], en=text)
 
 
@@ -285,14 +285,16 @@ def main():
 
     messages = []
     rounds = [
-        (1, "Give your opening view on the question in under 110 words."),
-        (2, "Respond directly to at least two other participants BY NAME: agree, challenge or refine "
-            "their points. Under 110 words."),
-        (3, "Give your final position in under 80 words. Name one point from someone else that "
-            "sharpened or changed your view, or say honestly that nothing did."),
+        (1, "Opening views", "Give your opening view on the question in under 120 words."),
+        (2, "Responding to each other", "Respond directly to at least two other participants BY NAME: agree, "
+            "challenge or refine their points. Under 120 words."),
+        (3, "Digging deeper", "Press on the sharpest disagreement so far with a concrete example or a hard "
+            "question for someone BY NAME. Under 120 words."),
+        (4, "Final positions", "Give your final position in under 90 words. Name one point from someone else "
+            "that sharpened or changed your view, or say honestly that nothing did."),
     ]
-    for no, instruction in rounds:
-        new = run_round(no, instruction, question, messages)
+    for no, label, instruction in rounds:
+        new = run_round(no, label, instruction, question, messages)
         if no == 1 and len(new) < 2:
             sys.exit("Fewer than 2 bots answered in round 1; not saving this session.")
         messages += new
