@@ -19,8 +19,17 @@ header{display:flex;align-items:center;gap:12px;flex-wrap:wrap;padding:14px 18px
 .badge.on::before{content:"";display:inline-block;width:8px;height:8px;border-radius:50%;background:#fff;margin-right:6px;animation:b 1.2s infinite}
 #next{color:var(--mut);font-size:.88rem}
 .wrap{display:grid;grid-template-columns:minmax(0,1.05fr) minmax(0,1fr);gap:22px;max-width:1200px;margin:0 auto;padding:0 18px 36px}
-.stage{position:sticky;top:12px;align-self:start}
-.room{position:relative;height:min(540px,calc(100vh - 110px));min-height:420px}
+.left{position:sticky;top:12px;align-self:start;display:flex;flex-direction:column;height:calc(100vh - 80px);min-height:560px;gap:10px}
+.room{position:relative;height:clamp(300px,44vh,400px);flex:none}
+.news{flex:1;min-height:0;overflow:auto;background:#1A1F40;border:1px solid var(--line);border-radius:14px;padding:8px 12px}
+.news summary{cursor:pointer;font-weight:700;padding:4px 0}.news summary small{color:var(--mut);font-weight:400}
+.nw{display:flex;flex-direction:column;gap:1px;width:100%;text-align:left;margin:6px 0;padding:8px 12px;border-radius:12px}
+.nw:hover{border-color:var(--lamp)}.nw .cat{font-size:.74rem;color:var(--lamp);font-weight:700}.nw .hd{font-weight:600;line-height:1.35;white-space:normal}.nw small{color:var(--mut)}
+.ask{background:#1A1F40;border:1px solid var(--line);border-radius:14px;padding:10px 12px;margin-bottom:8px}
+.ask label{font-weight:700;font-size:.9rem}
+.ask textarea{width:100%;margin-top:6px;resize:none;font:inherit;color:var(--ink);background:var(--bg);border:1px solid var(--line);border-radius:10px;padding:8px 10px}
+.arow{display:flex;gap:10px;align-items:center;margin-top:6px}.arow small{flex:1;color:var(--mut)}
+.go{background:var(--lamp);color:#1B1B2F;font-weight:700;border-color:var(--lamp)}.go:disabled{opacity:.45;cursor:not-allowed}
 .table{position:absolute;left:50%;top:52%;width:56%;height:44%;transform:translate(-50%,-50%);border-radius:50%;
   background:radial-gradient(closest-side,#363D78,var(--table));box-shadow:0 0 0 9px var(--rim),0 0 0 11px #1B2050,0 34px 70px #0009;
   display:flex;flex-direction:column;align-items:center;justify-content:center;text-align:center;padding:0 9%;gap:6px}
@@ -39,7 +48,7 @@ header{display:flex;align-items:center;gap:12px;flex-wrap:wrap;padding:14px 18px
 .speaking .mouth{animation:talk .26s infinite alternate;transform-box:fill-box;transform-origin:center}
 @keyframes talk{to{transform:scaleY(2.6)}}
 @keyframes b{0%,60%,100%{opacity:.25}30%{opacity:1}}
-.side{display:flex;flex-direction:column;height:calc(100vh - 80px);min-height:420px}
+.side{display:flex;flex-direction:column;height:calc(100vh - 80px);min-height:560px}
 .bar{display:flex;gap:8px;margin-bottom:6px}
 select,button{font:inherit;color:var(--ink);background:var(--bg2);border:1px solid var(--line);border-radius:10px;padding:7px 12px}
 select{flex:1;min-width:0}
@@ -61,12 +70,13 @@ footer{max-width:1200px;margin:0 auto;padding:0 18px 40px;color:var(--mut);font-
 .empty{color:var(--mut);padding:30px 0}
 @media (max-width:860px){
   :root{--av:50px}
-  .wrap{display:block}.side,.stage{min-width:0}
-  .stage{top:0;z-index:3;background:var(--bg);padding-top:4px;box-shadow:0 10px 18px -8px #000a}
+  .wrap{display:flex;flex-direction:column}.left,.side{display:contents}
+  .stage{order:1;position:sticky;top:0;z-index:3;background:var(--bg);margin:0 -18px;padding:4px 18px 0;box-shadow:0 10px 18px -8px #000a}
+  .ask{order:2}.news{order:3;flex:none;margin-bottom:8px}.bar{order:4}#feed{order:5;scroll-margin-top:330px}
   .room{height:300px;min-height:0}
   .table{width:50%;height:40%}#tq{font-size:.7rem;-webkit-line-clamp:3}
   .nm{font-size:.68rem;padding:0 7px}
-  .side{height:auto}#feed{overflow:visible}
+  #feed{overflow:visible;flex:none}
 }
 @media (prefers-reduced-motion:reduce){*{animation:none!important;transition:none!important}}
 </style>
@@ -78,14 +88,20 @@ footer{max-width:1200px;margin:0 auto;padding:0 18px 40px;color:var(--mut);font-
   <span id="next"></span>
 </header>
 <div class="wrap">
-  <section class="stage"><div class="room">
-    <div class="table"><div id="tq"></div><div id="tround"></div></div>
-    <div id="seats"></div>
-  </div></section>
+  <aside class="left">
+    <section class="stage"><div class="room">
+      <div class="table"><div id="tq"></div><div id="tround"></div></div>
+      <div id="seats"></div>
+    </div></section>
+    <details class="news" id="newsbox" open><summary>Trending now <small id="upd"></small></summary><div id="news"><p class="empty">Loading the moderator's picks…</p></div></details>
+  </aside>
   <section class="side">
-    <div class="bar"><select id="sel" aria-label="Choose a session"></select><button id="skip">Skip</button><button id="replay">Replay</button></div>
+    <div class="ask"><label for="qbox">Ask the roundtable anything</label>
+      <textarea id="qbox" rows="2" maxlength="300" placeholder="e.g. Will AI make teachers more important or less?"></textarea>
+      <div class="arow"><small id="ahint">The AIs will debate it live and give you a verdict.</small><button id="ask" class="go">Ask</button></div></div>
+    <div class="bar"><select id="sel" aria-label="Choose a past session"></select><button id="skip">Skip</button><button id="replay">Replay</button></div>
     <div id="notice"></div>
-    <div id="feed" aria-live="polite"><p class="empty">No discussions yet. The first session will appear here soon.</p></div>
+    <div id="feed" aria-live="polite"><p class="empty">No discussions yet. Pick a story or ask your own question.</p></div>
   </section>
 </div>
 <footer>The participants are AI models and can be wrong, so treat this as conversation, not advice or fact. Sessions run automatically on a schedule and are played back here as they were recorded.</footer>
@@ -94,6 +110,8 @@ const PAL=['#7C8BFF','#2DD4BF','#FFB454','#FF7AB0','#9BE15D'],MODC='#E8ECFF';
 const RND=['','Opening views','Responding to each other','Final positions','Verdict'];
 const $=s=>document.querySelector(s),sleep=ms=>new Promise(r=>setTimeout(r,ms));
 const esc=s=>String(s||'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+const API=""; // paste your Cloudflare Worker address here, e.g. https://roundtable.yourname.workers.dev
+const rl=m=>m.round_label||(m.kind==='conclusion'?'Verdict':RND[m.round]||'');
 let index=[],cur=null,token=0,skip=false;
 
 function pretty(model){const n=(model||'').split('/').pop();let m;
@@ -128,7 +146,8 @@ function badge(t,on){const b=$('#live');b.textContent=t;b.className='badge'+(on?
 
 async function say(my,P,text,opt){
   const seat=$('#seat-'+P.id);
-  if(!opt.instant&&!skip){seat.classList.add('thinking');await sleep(1100);seat.classList.remove('thinking');}
+  if(!opt.instant&&!skip&&!opt.nothink){seat.classList.add('thinking');await sleep(1100);}
+  seat.classList.remove('thinking');
   if(my!==token)return;
   const m=document.createElement('div');m.className='m'+(opt.verdict?' verdict':'');m.style.setProperty('--c',P.color);
   m.innerHTML=`<div class="av">${robot(P.i,P.color,P.mod)}</div><div class="bd"><div class="who">${esc(P.name)}${P.role?`<small>${esc(P.role)}</small>`:''}</div><p></p></div>`;
@@ -151,8 +170,8 @@ async function play(s,instant){
   let last=0;
   for(const m of s.messages){
     if(my!==token)return;
-    if(m.round!==last){last=m.round;$('#tround').textContent=RND[m.round]||'';
-      const r=document.createElement('div');r.className='rd';r.textContent=RND[m.round]||'';feed.appendChild(r);}
+    const L=rl(m);if(L!==last){last=L;$('#tround').textContent=L;
+      const r=document.createElement('div');r.className='rd';r.textContent=L;feed.appendChild(r);}
     const who=m.kind==='conclusion'?P.moderator:(P[m.bot_id]||P.moderator);
     await say(my,who,m.en,{instant:skip,verdict:m.kind==='conclusion'});
   }
@@ -176,6 +195,47 @@ async function init(){tick();setInterval(tick,30000);
   setInterval(async()=>{try{const f=await fetchIndex();
     if(f.length&&f[0].id!==index[0].id){index=f;fillSelect();const n=$('#notice');n.textContent='A new discussion just finished. Click to watch it.';n.style.display='block';
       n.onclick=()=>{n.style.display='none';load(index[0].id,false);};}}catch(e){}},300000);}
+const CAT={world:['🌍','World'],sports:['⚽','Sports'],weather:['⛅','Weather'],tech:['💻','Tech'],science:['🔬','Science'],health:['🩺','Health'],business:['💼','Business'],trending:['🔥','Trending']};
+async function loadTopics(){try{const t=await (await fetch('data/topics.json?t='+Date.now())).json(),items=t.items||[],box=$('#news');
+  const mins=Math.max(0,Math.round((Date.now()-new Date(t.updated_at))/6e4));
+  $('#upd').textContent=items.length?`· updated ${mins<60?mins+' min':Math.round(mins/60)+' h'} ago`:'';
+  box.innerHTML=items.length?'':'<p class="empty">The moderator checks the news every hour. The first list will appear soon.</p>';
+  items.forEach(x=>{const [e,l]=CAT[x.category]||['📰','News'],b=document.createElement('button');b.className='nw';
+    b.innerHTML=`<span class="cat">${e} ${l}</span><span class="hd">${esc(x.headline)}</span><small>${esc(x.source||'')} · tap to discuss</small>`;
+    b.onclick=()=>{if(innerWidth<=860)$('#newsbox').open=false;ask(x.question,x.headline);};box.appendChild(b);});}catch(e){$('#news').innerHTML='<p class="empty">No news list yet.</p>';}}
+function hint(t){$('#ahint').textContent=t;}
+function ask(q,ctx){q=(q||'').trim();if(q.length<8){hint('Please write a slightly longer question.');return;}
+  if(!API){hint('Live questions switch on once the free server is connected.');return;}
+  $('#feed').scrollIntoView({behavior:'smooth',block:'start'});live(q,ctx||'');}
+async function live(question,context){
+  const my=++token;skip=false;cur=null;const feed=$('#feed'),btn=$('#ask');btn.disabled=true;
+  feed.innerHTML='';$('#seats').innerHTML='';$('#tq').textContent=question;$('#tround').textContent='';badge('Checking question',false);hint('The moderator is checking your question…');
+  let P=null,last='';
+  const note=t=>{const d=document.createElement('p');d.className='empty';d.textContent=t;feed.appendChild(d);};
+  try{
+    const r=await fetch(API+'/discuss',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({question,context})});
+    if(!r.ok||!r.body){const j=await r.json().catch(()=>({}));throw new Error(j.error||'The server is busy, please try again soon.');}
+    const rd=r.body.getReader(),dec=new TextDecoder(),q=[];let buf='',fin=false;
+    (async()=>{try{for(;;){const {value,done}=await rd.read();if(done)break;buf+=dec.decode(value,{stream:true});let i;
+      while((i=buf.indexOf('\n\n'))>=0){const ln=buf.slice(0,i);buf=buf.slice(i+2);if(ln.startsWith('data: '))q.push(JSON.parse(ln.slice(6)));}}}catch(e){}fin=true;})();
+    while(my===token){
+      if(!q.length){if(fin)break;await sleep(80);continue;}
+      const e=q.shift();
+      if(e.t==='start'){P=seats({participants:e.participants});$('#tq').textContent=e.question;badge('Live',true);hint('Live now. You can ask another question when this one ends.');
+        await say(my,P.moderator,'Question: '+e.question,{nothink:true});}
+      else if(e.t==='round'){last=e.label;$('#tround').textContent=e.label;const d=document.createElement('div');d.className='rd';d.textContent=e.label;feed.appendChild(d);}
+      else if(e.t==='thinking'&&P){const s=$('#seat-'+e.id);if(s)s.classList.add('thinking');}
+      else if(e.t==='msg'&&P){await say(my,P[e.id]||P.moderator,e.text,{nothink:true,verdict:e.kind==='conclusion'});}
+      else if(e.t==='error'){note(e.message);badge('Stopped',false);hint(e.message);}
+    }
+    if(my===token){badge('Finished',false);$('#tround').textContent='';}
+  }catch(err){if(my===token){note(err.message||'Something went wrong.');badge('Error',false);hint(err.message||'Something went wrong.');}}
+  finally{if(my===token){btn.disabled=false;}}
+}
+$('#ask').onclick=()=>ask($('#qbox').value,'');
+$('#qbox').onkeydown=e=>{if(e.key==='Enter'&&(e.ctrlKey||e.metaKey)){e.preventDefault();ask($('#qbox').value,'');}};
+if(!API)hint('Live questions switch on once the free server is connected.');
+loadTopics();setInterval(loadTopics,600000);
 $('#sel').onchange=e=>load(e.target.value,true);
 $('#skip').onclick=()=>{skip=true;};
 $('#replay').onclick=()=>{if(cur)play(cur,false);};
