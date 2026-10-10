@@ -1,0 +1,75 @@
+{
+ "updated_at": "2026-10-10T05:27:54+00:00",
+ "items": [
+  {
+   "id": "t0",
+   "category": "weather",
+   "headline": "Hurricane Isaias moves inland with heavy rain and flooding risk",
+   "question": "How should authorities balance evacuation orders with economic disruption during such storms?",
+   "source": "Google News"
+  },
+  {
+   "id": "t1",
+   "category": "sports",
+   "headline": "Fury‑Joshua fight tickets sell out at £13,000 each in one hour",
+   "question": "Do sky‑high ticket prices for major boxing events limit fan access and fairness?",
+   "source": "BBC Sport"
+  },
+  {
+   "id": "t2",
+   "category": "sports",
+   "headline": "Liberty sweeps Angel Reese’s 22 points, reaches first WNBA Finals since 2013",
+   "question": "Will Liberty’s success boost overall viewership and investment in women’s basketball?",
+   "source": "Google News"
+  },
+  {
+   "id": "t3",
+   "category": "world",
+   "headline": "Hurricane Isaias makes landfall in Florida as a life‑threatening storm",
+   "question": "What long‑term infrastructure changes are needed to mitigate future hurricane damage in Florida?",
+   "source": "BBC News"
+  },
+  {
+   "id": "t4",
+   "category": "tech",
+   "headline": "Former OpenAI researchers claim they were dismissed for prioritising safety",
+   "question": "Should AI companies place safety concerns above rapid product development?",
+   "source": "BBC News"
+  },
+  {
+   "id": "t5",
+   "category": "science",
+   "headline": "£15 million spent cleaning illegal waste site in ancient woodland",
+   "question": "Is heavy investment in environmental cleanup the most effective way to protect biodiversity?",
+   "source": "BBC News"
+  },
+  {
+   "id": "t6",
+   "category": "health",
+   "headline": "Review of autism, ADHD and mental health guidance released",
+   "question": "How can the new review improve diagnosis and support for neurodiverse individuals?",
+   "source": "BBC News"
+  },
+  {
+   "id": "t7",
+   "category": "business",
+   "headline": "Boots gets new owner – three potential impacts for shoppers",
+   "question": "Will the ownership change lead to better prices and services for Boots customers?",
+   "source": "BBC News"
+  },
+  {
+   "id": "t8",
+   "category": "trending",
+   "headline": "Liverpool trends worldwide – what’s driving the surge?",
+   "question": "What factors are fueling the current global interest in Liverpool’s news and culture?",
+   "source": "Google Trends"
+  },
+  {
+   "id": "t9",
+   "category": "tech",
+   "headline": "Why aren’t more roofs built with solar tiles?",
+   "question": "What are the main barriers preventing widespread adoption of solar‑tile roofing?",
+   "source": "BBC News"
+  }
+ ]
+}
