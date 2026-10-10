@@ -1,75 +1,75 @@
 {
- "updated_at": "2026-10-10T05:38:40+00:00",
+ "updated_at": "2026-10-10T12:21:39+00:00",
  "items": [
   {
    "id": "t0",
    "category": "weather",
-   "headline": "Rain showers and gusty winds moving into Mid‑South over weekend",
-   "question": "How should communities prepare for the upcoming rain and gusty winds in the Mid‑South?",
+   "headline": "Power outages spread across metro Atlanta as Hurricane Isaias approaches",
+   "question": "What steps should utilities take to improve grid resilience against hurricanes like Isaias?",
    "source": "Google News"
   },
   {
    "id": "t1",
    "category": "sports",
-   "headline": "Ranking Europe’s football clubs: identifying the continent’s sleeping giants",
-   "question": "What criteria should be used to rank Europe’s ‘sleeping giant’ football clubs?",
+   "headline": "Verstappen wins sprint after Russell crashes out",
+   "question": "Does Verstappen's sprint win indicate a growing advantage for dominant drivers in F1?",
    "source": "BBC Sport"
   },
   {
    "id": "t2",
    "category": "sports",
-   "headline": "Liberty clinches WNBA Finals spot after Angel Reese scores 22 points",
-   "question": "Will Angel Reese’s performance signal a new era for the WNBA?",
-   "source": "Google News"
+   "headline": "Raphinha's brilliant Barcelona start interrupted by injury concerns",
+   "question": "Will injury concerns over Raphinha affect Barcelona's season ambitions?",
+   "source": "BBC Sport"
   },
   {
    "id": "t3",
    "category": "tech",
-   "headline": "Nikon rules: prize‑winning image that sparked backlash was AI‑generated",
-   "question": "Should AI‑generated artwork be eligible for traditional art awards?",
+   "headline": "Anthropic bans users from being 'cruel' to its AI systems",
+   "question": "Should AI platforms enforce behavioral bans on users to protect AI wellbeing?",
    "source": "BBC News"
   },
   {
    "id": "t4",
-   "category": "tech",
-   "headline": "AI‑focused data centre firm cancels IPO amid valuation concerns",
-   "question": "Are current AI company valuations sustainable in the long term?",
+   "category": "science",
+   "headline": "Why are more roofs not made of solar tiles?",
+   "question": "Can widespread adoption of solar tiles make residential roofing economically viable?",
    "source": "BBC News"
   },
   {
    "id": "t5",
    "category": "science",
-   "headline": "Wallabies, porcupines and parrots forced to relocate after neighbour complaints",
-   "question": "How can wildlife habitats be protected while addressing human land‑use conflicts?",
+   "headline": "How drones are hunting fires hidden beneath the Cairngorms",
+   "question": "Are drones the most effective tool for detecting hidden wildfires in mountainous regions?",
    "source": "BBC News"
   },
   {
    "id": "t6",
-   "category": "science",
-   "headline": "£15 million spent cleaning illegal waste site in ancient woodland",
-   "question": "Is the investment in cleaning illegal waste sites justified by environmental benefits?",
+   "category": "health",
+   "headline": "Autism, ADHD and mental health review: What you need to know",
+   "question": "How should policymakers balance support for neurodiverse individuals with diagnostic rigor?",
    "source": "BBC News"
   },
   {
    "id": "t7",
    "category": "health",
-   "headline": "New guidelines advise against obesity drugs for children under ten",
-   "question": "Should obesity medication be considered for children under ten in severe cases?",
+   "headline": "ADHD and autism at risk of over-diagnosis, says government review",
+   "question": "Is there evidence that ADHD and autism are being over-diagnosed in schools?",
    "source": "BBC News"
   },
   {
    "id": "t8",
    "category": "business",
-   "headline": "Boots gets new owner – three potential impacts for shoppers",
-   "question": "How might the change in Boots’ ownership affect consumer prices and services?",
+   "headline": "Boots has a new owner: Three ways it could affect you",
+   "question": "Will Boots' new ownership lead to significant changes in product pricing for consumers?",
    "source": "BBC News"
   },
   {
    "id": "t9",
-   "category": "business",
-   "headline": "Burnham pledges to curb non‑compete clauses in employment contracts",
-   "question": "Will limiting non‑compete agreements benefit workers without harming business interests?",
-   "source": "BBC News"
+   "category": "trending",
+   "headline": "pokemon ruby sapphire emerald switch",
+   "question": "Will the release of Pokémon games for Switch boost the console's market share?",
+   "source": "Google Trends"
   }
  ]
 }
