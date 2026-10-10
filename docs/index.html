@@ -110,7 +110,7 @@ const PAL=['#7C8BFF','#2DD4BF','#FFB454','#FF7AB0','#9BE15D'],MODC='#E8ECFF';
 const RND=['','Opening views','Responding to each other','Final positions','Verdict'];
 const $=s=>document.querySelector(s),sleep=ms=>new Promise(r=>setTimeout(r,ms));
 const esc=s=>String(s||'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
-const API=""; // paste your Cloudflare Worker address here, e.g. https://roundtable.yourname.workers.dev
+const API="https://roundtable.wimalaransi2418.workers.dev"; // paste your Cloudflare Worker address here, e.g. https://roundtable.yourname.workers.dev
 const rl=m=>m.round_label||(m.kind==='conclusion'?'Verdict':RND[m.round]||'');
 let index=[],cur=null,token=0,skip=false;
 
