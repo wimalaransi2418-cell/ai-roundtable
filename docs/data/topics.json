@@ -1,75 +1,75 @@
 {
- "updated_at": "2026-10-10T17:46:34+00:00",
+ "updated_at": "2026-10-10T21:32:01+00:00",
  "items": [
   {
    "id": "t0",
-   "category": "weather",
-   "headline": "Significant weather pattern change expected in Southern California",
-   "question": "How should residents and policymakers prepare for the projected climate shift in SoCal?",
-   "source": "Google News"
+   "category": "world",
+   "headline": "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal",
+   "source": "BBC News",
+   "question": "What do you make of this story: 'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal?"
   },
   {
    "id": "t1",
-   "category": "sports",
-   "headline": "Verstappen secures Singapore pole, beating Ferrari drivers",
-   "question": "Will Verstappen's pole position give him a decisive edge in the Singapore Grand Prix?",
-   "source": "BBC Sport"
+   "category": "world",
+   "headline": "Several injured in attack on airport in Saudi capital Riyadh",
+   "source": "BBC News",
+   "question": "What do you make of this story: Several injured in attack on airport in Saudi capital Riyadh?"
   },
   {
    "id": "t2",
-   "category": "sports",
-   "headline": "Ronaldo provisionally suspended by Portuguese Football Federation",
-   "question": "What impact could Ronaldo's suspension have on his club and national team performance?",
-   "source": "BBC Sport"
+   "category": "world",
+   "headline": "Four dead and thousands without power after Hurricane Isaias lashes US",
+   "source": "BBC News",
+   "question": "What do you make of this story: Four dead and thousands without power after Hurricane Isaias lashes US?"
   },
   {
    "id": "t3",
-   "category": "tech",
-   "headline": "Anthropic bans users from being 'cruel' to its AI systems",
-   "question": "Is restricting user behavior towards AI a necessary safeguard or an overreach?",
-   "source": "BBC News"
+   "category": "world",
+   "headline": "Woman injures three people in third Poland school knife attack in a week",
+   "source": "BBC News",
+   "question": "What do you make of this story: Woman injures three people in third Poland school knife attack in a week?"
   },
   {
    "id": "t4",
-   "category": "science",
-   "headline": "Drones deployed to detect hidden forest fires in the Cairngorms",
-   "question": "Can drone technology effectively reduce the spread of undetected wildfires?",
-   "source": "BBC News"
+   "category": "sports",
+   "headline": "Watch: Match of the Day",
+   "source": "BBC Sport",
+   "question": "What do you make of this story: Watch: Match of the Day?"
   },
   {
    "id": "t5",
-   "category": "health",
-   "headline": "Review examines autism, ADHD and mental health diagnoses",
-   "question": "Should diagnostic criteria for autism and ADHD be revised to improve accuracy?",
-   "source": "BBC News"
+   "category": "sports",
+   "headline": "Henderson scores twice as five-star Chelsea thrash Bournemouth",
+   "source": "BBC Sport",
+   "question": "What do you make of this story: Henderson scores twice as five-star Chelsea thrash Bournemouth?"
   },
   {
    "id": "t6",
-   "category": "business",
-   "headline": "Boots acquired by new owner: potential effects on customers",
-   "question": "How might the change in ownership influence Boots' product range and pricing?",
-   "source": "BBC News"
+   "category": "sports",
+   "headline": "Struijk sees red but Brighton march on with win against Sunderland",
+   "source": "BBC Sport",
+   "question": "What do you make of this story: Struijk sees red but Brighton march on with win against Sunderland?"
   },
   {
    "id": "t7",
-   "category": "trending",
-   "headline": "Steve Spurrier trending: public interest spikes online",
-   "question": "What factors are driving the renewed online attention on Steve Spurrier?",
-   "source": "Google Trends"
+   "category": "sports",
+   "headline": "Brentford extend unbeaten start as Ajer secures draw at Aston Villa",
+   "source": "BBC Sport",
+   "question": "What do you make of this story: Brentford extend unbeaten start as Ajer secures draw at Aston Villa?"
   },
   {
    "id": "t8",
-   "category": "trending",
-   "headline": "Florida Gators game today draws high search traffic",
-   "question": "Will the Gators' performance today meet the heightened expectations of fans?",
-   "source": "Google Trends"
+   "category": "tech",
+   "headline": "King warns malicious online actors are evolving tactics",
+   "source": "BBC News",
+   "question": "What do you make of this story: King warns malicious online actors are evolving tactics?"
   },
   {
    "id": "t9",
-   "category": "trending",
-   "headline": "Dragons Dogma 2: Dark Arisen generates buzz among gamers",
-   "question": "Will Dark Arisen live up to the anticipation built around the Dragons Dogma sequel?",
-   "source": "Google Trends"
+   "category": "tech",
+   "headline": "How drones are hunting fires hidden beneath the Cairngorms",
+   "source": "BBC News",
+   "question": "What do you make of this story: How drones are hunting fires hidden beneath the Cairngorms?"
   }
  ]
 }
