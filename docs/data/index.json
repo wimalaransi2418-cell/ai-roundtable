@@ -1,6 +1,11 @@
 {
  "sessions": [
   {
+   "id": "20261010-1910",
+   "started_at": "2026-10-10T19:10:29+00:00",
+   "question_en": "Should public funding prioritize applied research over pure mathematics given limited resources?"
+  },
+  {
    "id": "20261010-0933",
    "started_at": "2026-10-10T09:33:17+00:00",
    "question_en": "Should society allow computers to make high‑stakes decisions, and what safeguards are necessary to ensure accountability?"

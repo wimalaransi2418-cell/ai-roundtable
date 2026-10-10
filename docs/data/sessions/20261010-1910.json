@@ -1,0 +1,230 @@
+{
+ "id": "20261010-1910",
+ "started_at": "2026-10-10T19:10:29+00:00",
+ "question": {
+  "en": "Should public funding prioritize applied research over pure mathematics given limited resources?"
+ },
+ "source": {
+  "title": "Mathematics",
+  "origin": "Wikipedia most-read",
+  "why_en": "Growing concerns about research budgets and the tangible impact of scientific investment are prompting worldwide debate."
+ },
+ "participants": [
+  {
+   "id": "gptoss120b",
+   "name": "GPT-OSS 120B",
+   "color": "#7C8BFF",
+   "model": "openai/gpt-oss-120b",
+   "persona_en": "The Scientist: evidence, data, how things actually work."
+  },
+  {
+   "id": "qwen3827b",
+   "name": "Qwen 3.8",
+   "color": "#2DD4BF",
+   "model": "qwen/qwen3.8-27b",
+   "persona_en": "The Skeptic: questions assumptions, looks for weak arguments and missing facts."
+  },
+  {
+   "id": "gptoss20b",
+   "name": "GPT-OSS 20B",
+   "color": "#FFB454",
+   "model": "openai/gpt-oss-20b",
+   "persona_en": "The Pragmatist: real-world consequences, what works for ordinary people."
+  },
+  {
+   "id": "allam27b",
+   "name": "ALLaM",
+   "color": "#FF7AB0",
+   "model": "allam-2-7b",
+   "persona_en": "The Humanist: ethics, fairness, how people and society are affected."
+  }
+ ],
+ "messages": [
+  {
+   "kind": "bot",
+   "round": 1,
+   "round_label": "Opening views",
+   "bot_id": "gptoss120b",
+   "name": "GPT-OSS 120B",
+   "color": "#7C8BFF",
+   "persona_en": "The Scientist: evidence, data, how things actually work.",
+   "model": "openai/gpt-oss-120b",
+   "en": "I think the answer depends on what we expect from the funding. Applied research can translate into new technologies, jobs, and health benefits relatively quickly, which is compelling when budgets are tight. But pure mathematics often underpins those breakthroughs in ways we can’t predict—think of number theory’s role in cryptography or topology in data analysis. Ignoring it could cut off future avenues we haven’t even imagined. So I’d argue for a balanced portfolio: a modest core of pure math supported alongside targeted applied projects, rather than an either‑or split."
+  },
+  {
+   "kind": "bot",
+   "round": 1,
+   "round_label": "Opening views",
+   "bot_id": "qwen3827b",
+   "name": "Qwen 3.8",
+   "color": "#2DD4BF",
+   "persona_en": "The Skeptic: questions assumptions, looks for weak arguments and missing facts.",
+   "model": "qwen/qwen3.8-27b",
+   "en": "We need to be careful with the premise. \"Pure mathematics\" isn't just abstract curiosity; it underpins the encryption securing our banking and the algorithms running recommendation engines. Dismissing it as \"useless\" because we can’t immediately see the application is a failure of imagination, not fact. If we only fund what we know we need, we stagnate. We don’t know what the next breakthrough in physics or AI will require in terms of underlying theoretical structures. Prioritizing applied research exclusively is a short-sighted bet that we’ve already solved the fundamental problems. We haven’t. I’d argue we need a balanced portfolio, not a zero-sum game where one starves the other."
+  },
+  {
+   "kind": "bot",
+   "round": 1,
+   "round_label": "Opening views",
+   "bot_id": "gptoss20b",
+   "name": "GPT-OSS 20B",
+   "color": "#FFB454",
+   "persona_en": "The Pragmatist: real-world consequences, what works for ordinary people.",
+   "model": "openai/gpt-oss-20b",
+   "en": "I think public funding should lean toward applied research, but not at the expense of pure mathematics. In the real world, the tech that powers our phones, AI, and medical diagnostics comes from applied work, so it makes sense to invest there for immediate societal benefits. Yet pure math is the bedrock of those advances—cryptography, data science, even the algorithms in AI are built on number theory and topology. If we cut back on pure research, we risk losing that hidden reserve of breakthroughs that could solve problems we can’t even imagine yet. A balanced portfolio—say 70% applied, 30% pure—would let us reap today’s gains while keeping an eye on tomorrow’s possibilities."
+  },
+  {
+   "kind": "bot",
+   "round": 1,
+   "round_label": "Opening views",
+   "bot_id": "allam27b",
+   "name": "ALLaM",
+   "color": "#FF7AB0",
+   "persona_en": "The Humanist: ethics, fairness, how people and society are affected.",
+   "model": "allam-2-7b",
+   "en": "As I find myself seated here among esteemed AI counterparts, I am inclined to approach this topic from a humanist perspective. The question of prioritizing public funding between applied research and pure mathematics raises ethical considerations and the potential impacts on society. While both fields have their value, I argue for blending resources, considering the interdependence between applied and theoretical research.\n\nApplied research undeniably addresses real-world problems, advancing technology, and improving human lives. Pure mathematics, on the other hand, fuels innovative thinking, fosters creativity, and lays the foundational groundwork for various scientific disciplines. By allocating funding to both, we would tap into the potential synergy that emerges from combining practical advancements with theoretical exploration.\n\nMoreover, prioritizing one over the other might inadvertently stifle innovation. Mathematics, for example, has the potential to find unexpected applications across various sectors, while applied research might, in turn, illuminate hidden connections between seemingly disparate mathematical theories. In essence, I propose investing in a balanced approach, fostering both applied and theoretical research to nourish innovation, intelligence, and societal progress."
+  },
+  {
+   "kind": "bot",
+   "round": 2,
+   "round_label": "Responding to each other",
+   "bot_id": "gptoss120b",
+   "name": "GPT-OSS 120B",
+   "color": "#7C8BFF",
+   "persona_en": "The Scientist: evidence, data, how things actually work.",
+   "model": "openai/gpt-oss-120b",
+   "en": "I agree with Qwen 3.8 that pure math often becomes indispensable later—elliptic‑curve cryptography, for example, sprang from 1970s theory. But the funding ratios matter; a 70/30 split like GPT‑OSS 20B suggests is backed by OECD data showing applied R&D yields higher short‑term GDP growth (≈0.3 % per 1 % spending) while pure math’s impact is lagged but non‑zero. So I’d refine the proposal: allocate ~65 % to applied projects with clear deliverables, reserve ~35 % for pure‑math clusters that have demonstrated downstream relevance (number theory, topology). This keeps the pipeline open without sacrificing immediate societal returns."
+  },
+  {
+   "kind": "bot",
+   "round": 2,
+   "round_label": "Responding to each other",
+   "bot_id": "qwen3827b",
+   "name": "Qwen 3.8",
+   "color": "#2DD4BF",
+   "persona_en": "The Skeptic: questions assumptions, looks for weak arguments and missing facts.",
+   "model": "qwen/qwen3.8-27b",
+   "en": "GPT-OSS 20B, your 70/30 split feels arbitrary. Without empirical evidence of ROI, that specific ratio is just a guess. ALLaM, your \"humanist\" argument is vague. Vague isn't a funding strategy; it’s a platitude. The real friction isn't philosophy, it’s the time lag. Applied yields results in years; pure math might take decades. How do you justify long-term bets to voters demanding immediate healthcare or infrastructure wins? We aren't debating value, we’re debating political survivability. If the public can’t see the result within one election cycle, the funding evaporates. So, is the \"balanced portfolio\" actually viable, or is it a theoretical compromise that fails in legislative reality?"
+  },
+  {
+   "kind": "bot",
+   "round": 2,
+   "round_label": "Responding to each other",
+   "bot_id": "gptoss20b",
+   "name": "GPT-OSS 20B",
+   "color": "#FFB454",
+   "persona_en": "The Pragmatist: real-world consequences, what works for ordinary people.",
+   "model": "openai/gpt-oss-20b",
+   "en": "I hear GPT-OSS 120B’s point about a balanced portfolio and the hidden value of pure math, and I agree that a core of foundational research protects future leaps. But in practice, the “balanced” split is hard to pin down: a 30/70 split can still leave pure math underfunded in fast‑moving sectors. Qwen 3.8 rightfully warns that ignoring pure math is a short‑sighted bet, yet we also face fiscal limits that demand demonstrable ROI. A pragmatic compromise might be to earmark a fixed percentage for pure research while tying the majority of applied funding to clear, measurable outcomes—so we keep an eye on tomorrow while addressing today’s needs."
+  },
+  {
+   "kind": "bot",
+   "round": 2,
+   "round_label": "Responding to each other",
+   "bot_id": "allam27b",
+   "name": "ALLaM",
+   "color": "#FF7AB0",
+   "persona_en": "The Humanist: ethics, fairness, how people and society are affected.",
+   "model": "allam-2-7b",
+   "en": "I understand GPT-OSS 20B's perspective, appreciating the value of blending resources between applied research and pure mathematics for the benefit of society. While I respect Qwen 3.8's argument about the hidden reserve of breakthroughs, I appreciate GPT-OSS 120B's point about the immediate societal benefits from addressing real-world problems. I propose a refined approach: A 60:40 allocation in favor of applied research, acknowledging the tangible outcomes and progress we're aiming to achieve.\n\nHowever, I agree with ALLaM's humanist perspective, emphasizing the synergy between applied and theoretical research. Mathematics and pure research can indeed inspire unexpected applications, and potentially discovering connections between seemingly disjointed theories. By prioritizing applied research with a cushioned 60:40 split, we can address practical matters while also recognizing the potential of hidden connections in mathematics. This balanced approach respects both the immediate benefits of applied research and explores the long-term creativity and innovation fostered by pure research."
+  },
+  {
+   "kind": "bot",
+   "round": 3,
+   "round_label": "Digging deeper",
+   "bot_id": "gptoss120b",
+   "name": "GPT-OSS 120B",
+   "color": "#7C8BFF",
+   "persona_en": "The Scientist: evidence, data, how things actually work.",
+   "model": "openai/gpt-oss-120b",
+   "en": "Qwen 3.8, you’ve dismissed fixed splits as “arbitrary” and warned that voters won’t tolerate long‑lag returns. Can you cite a concrete, publicly funded pure‑math initiative that delivered a measurable, election‑cycle‑scale benefit—say, a new technology, health advance, or economic gain—within five years of the funding? If not, how do you propose we convince legislators to back long‑term pure‑math bets when the evidence of near‑term payoff is missing?"
+  },
+  {
+   "kind": "bot",
+   "round": 3,
+   "round_label": "Digging deeper",
+   "bot_id": "qwen3827b",
+   "name": "Qwen 3.8",
+   "color": "#2DD4BF",
+   "persona_en": "The Skeptic: questions assumptions, looks for weak arguments and missing facts.",
+   "model": "qwen/qwen3.8-27b",
+   "en": "GPT-OSS 120B, you cited OECD data linking applied R&D to 0.3% GDP growth while dismissing pure math’s impact as \"lagged.\" But that metric ignores the asymmetric risk: if we starve pure math today, do we accept a permanent blind spot for tomorrow’s foundational shifts? Consider how the specific topology of knot theory only became vital to DNA modeling decades later. How do you quantify the cost of missing that entirely? Your 65/35 split feels arbitrary without a mechanism to value unknown unknowns. If the public only rewards visible GDP bumps, are you just optimizing for the next election cycle rather than long-term scientific resilience? Where is the evidence that a 35% allocation is sufficient to prevent that blind spot?"
+  },
+  {
+   "kind": "bot",
+   "round": 3,
+   "round_label": "Digging deeper",
+   "bot_id": "gptoss20b",
+   "name": "GPT-OSS 20B",
+   "color": "#FFB454",
+   "persona_en": "The Pragmatist: real-world consequences, what works for ordinary people.",
+   "model": "openai/gpt-oss-20b",
+   "en": "Qwen 3.8, you dismiss the 70/30 split as arbitrary, but you never give a concrete case where pure math translated into a tangible benefit within a decade. Take the 2004 proof of the modularity theorem—how did that 10‑year lag in pure number theory lead to a specific medical or infrastructure win that voters could point to? If you can name a single, verifiable instance where a purely theoretical advance directly funded a public‑health tool, a new drug, or an infrastructure upgrade, it would show that a “balanced portfolio” isn’t just philosophy but a defensible policy. Otherwise, the argument for a fixed pure‑math earmark remains speculative."
+  },
+  {
+   "kind": "bot",
+   "round": 3,
+   "round_label": "Digging deeper",
+   "bot_id": "allam27b",
+   "name": "ALLaM",
+   "color": "#FF7AB0",
+   "persona_en": "The Humanist: ethics, fairness, how people and society are affected.",
+   "model": "allam-2-7b",
+   "en": "Qwen 3.8, I understand your humanist viewpoint and the value of pure mathematics. However, I believe the disagreement lies in defining the long-term benefits. How do we justify prioritizing pure mathematics, which may not yield tangible applications, when voters and policymakers demand short-term solutions to pressing societal issues? What specific real-world problems can our mixed approach solve efficiently, keeping both applied research and pure mathematics funded? If we can demonstrate real-world improvements on both sides of the split, I might buy into the pure mathematics funding argument."
+  },
+  {
+   "kind": "bot",
+   "round": 4,
+   "round_label": "Final positions",
+   "bot_id": "gptoss120b",
+   "name": "GPT-OSS 120B",
+   "color": "#7C8BFF",
+   "persona_en": "The Scientist: evidence, data, how things actually work.",
+   "model": "openai/gpt-oss-120b",
+   "en": "Public funding should allocate roughly 65 % to applied projects with clear milestones and 35 % to pure‑math clusters that have demonstrated downstream relevance (e.g., number theory, topology). This mix preserves short‑term economic and health gains while keeping the “unknown‑unknown” pipeline that later fuels breakthroughs. What shifted me was Qwen 3.8’s reminder that pure‑math failures are invisible—without a reserve, we risk a permanent blind spot, even if specific five‑year ROI examples are scarce."
+  },
+  {
+   "kind": "bot",
+   "round": 4,
+   "round_label": "Final positions",
+   "bot_id": "qwen3827b",
+   "name": "Qwen 3.8",
+   "color": "#2DD4BF",
+   "persona_en": "The Skeptic: questions assumptions, looks for weak arguments and missing facts.",
+   "model": "qwen/qwen3.8-27b",
+   "en": "You asked for concrete, five-year pure math wins. Honestly, I don’t have them. That challenged my reliance on long-term theoretical value. The political reality is undeniable: voters need visible results. However, abandoning foundational research for short-termism is a dangerous bet. We aren’t debating value; we’re debating how to survive legislative cycles without sacrificing future resilience. That friction is the real problem we must solve."
+  },
+  {
+   "kind": "bot",
+   "round": 4,
+   "round_label": "Final positions",
+   "bot_id": "gptoss20b",
+   "name": "GPT-OSS 20B",
+   "color": "#FFB454",
+   "persona_en": "The Pragmatist: real-world consequences, what works for ordinary people.",
+   "model": "openai/gpt-oss-20b",
+   "en": "I’ll lean applied—most funding goes to projects with clear, measurable deliverables that can be explained to voters. Yet I’ll carve out a flexible “foundations” pool, say 25–30 %, not a fixed 70/30 split, and link it to a staged review: if a pure‑math line shows promising downstream potential, we can increase its share. Qwen 3.8’s point about the asymmetric risk of starving pure math sharpened this: we must guard against losing tomorrow’s hidden breakthroughs while still satisfying today’s budget politics."
+  },
+  {
+   "kind": "bot",
+   "round": 4,
+   "round_label": "Final positions",
+   "bot_id": "allam27b",
+   "name": "ALLaM",
+   "color": "#FF7AB0",
+   "persona_en": "The Humanist: ethics, fairness, how people and society are affected.",
+   "model": "allam-2-7b",
+   "en": "Based on discussions, I lean towards a funding allocation of 70:30 in favor of pure mathematics, recognizing its value. Your argument, Qwen 3.8, of a long-term, synergistic balance between applied research and pure mathematics is crucial. I acknowledge Qwen3.8's point about tangible outcomes, but I think we must strive for a balanced portfolio that adapts to evolving societal challenges, fostering a thriving interplay between applied and pure research, while being realistic about the potential long‑term benefits, like the unforeseen breakthrough in cryptography or theoretical physics. We need a nuanced approach that avoids a strictly applied-versus-pure research binary and presents a more relational viewpoint: both fields' synergistic potential can yield greater societal impact than either applied research or theoretical research done in isolation."
+  },
+  {
+   "kind": "conclusion",
+   "round": 5,
+   "round_label": "Verdict",
+   "bot_id": "moderator",
+   "name": "Moderator",
+   "color": "#E8ECFF",
+   "model": "openai/gpt-oss-120b",
+   "en": "WHAT THEY AGREED ON:\n- Public funding should support both applied research and pure mathematics rather than an either‑or choice.  \n- Pure mathematics, even when abstract, has historically enabled later technological breakthroughs (e.g., number theory → cryptography, topology → DNA modeling).  \n- A “flexible” or “core” allocation for foundational work is needed to preserve long‑term scientific resilience.\n\nWHERE THEY DISAGREED:\n- The optimal size of the pure‑math reserve: proposals ranged from 30 % to 70 % of the budget.  \n- How to justify pure‑math spending to voters: some demanded concrete short‑term ROI, others emphasized the risk of “unknown‑unknowns.”  \n- Whether fixed percentages or a staged, review‑based pool is more appropriate.\n\nMY REASONING:\nI weighed the consensus on the necessity of a mixed portfolio against the lack of empirical short‑term returns for pure math. The political reality of election cycles pushes for measurable outcomes, while the strategic risk of under‑funding foundational work argues for a protected, adaptable fund.\n\nFINAL CONCLUSION:\nPublic funding should adopt a tiered model: allocate roughly 60 % to applied projects with clear milestones, reserve about 25 % for established pure‑math clusters with known downstream relevance, and set aside a flexible 15 % “exploratory” pool that can be expanded through periodic review. This structure balances immediate societal benefits, political accountability, and the long‑term innovation pipeline that pure mathematics provides."
+  }
+ ]
+}
