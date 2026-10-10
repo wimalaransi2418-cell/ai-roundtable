@@ -25,16 +25,16 @@ PAUSE = 5  # seconds between calls (free-tier rate limits)
 # Bots are chosen automatically from whatever chat models Groq offers today.
 # Personas and colours are assigned in order.
 PERSONAS = [
-    ("The Scientist: evidence, data, how things actually work.", "#4B5BD6"),
-    ("The Skeptic: questions assumptions, looks for weak arguments and missing facts.", "#1F9E8F"),
-    ("The Pragmatist: real-world consequences, what works for ordinary people.", "#D98A1F"),
-    ("The Humanist: ethics, fairness, how people and society are affected.", "#C23C7A"),
+    ("The Scientist: evidence, data, how things actually work.", "#7C8BFF"),
+    ("The Skeptic: questions assumptions, looks for weak arguments and missing facts.", "#2DD4BF"),
+    ("The Pragmatist: real-world consequences, what works for ordinary people.", "#FFB454"),
+    ("The Humanist: ethics, fairness, how people and society are affected.", "#FF7AB0"),
 ]
 BLOCK = ("guard", "whisper", "tts", "orpheus", "playai", "vision", "safeguard", "prompt", "embed",
          "distil", "transcribe", "speech")
 PREFER = ["gpt-oss-120b", "qwen", "llama-3.3", "llama", "kimi", "gpt-oss-20b", "deepseek", "mistral", "gemma"]
 BOTS = []  # filled in by resolve_models()
-MODERATOR = dict(id="moderator", model=None, name="Moderator", color="#1B2433")
+MODERATOR = dict(id="moderator", model=None, name="Moderator", color="#E8ECFF")
 
 
 # ---------------------------------------------------------------- http / llm
@@ -83,6 +83,29 @@ def call_llm(bot, system, user, max_tokens=900, temperature=0.8):
     raise RuntimeError(f"{bot['name']} failed: {last}")
 
 
+def pretty(model):
+    n = model.split("/")[-1]
+    m = re.match(r"gpt-oss-(\d+b)", n, re.I)
+    if m:
+        return "GPT-OSS " + m.group(1).upper()
+    m = re.match(r"qwen([\d.]+)", n, re.I)
+    if m:
+        return "Qwen " + m.group(1)
+    m = re.match(r"llama-?([\d.]+)", n, re.I)
+    if m:
+        return "Llama " + m.group(1)
+    if n.lower().startswith("allam"):
+        return "ALLaM"
+    return re.sub(r"\b\w", lambda x: x.group(0).upper(), n.replace("-", " "))
+
+
+def clean(text, name):
+    text = text.strip()
+    text = re.sub(r"^\[?%s\]?\s*[:\-\u2013]\s*" % re.escape(name), "", text, flags=re.I)
+    text = re.sub(r"^as the \w+[,:]?\s*", "", text, flags=re.I).strip()
+    return text[:1].upper() + text[1:]
+
+
 def rank(model):
     m = model.lower()
     for i, key in enumerate(PREFER):
@@ -107,8 +130,8 @@ def resolve_models():
     MODERATOR["model"] = chat[0]
     for i, model in enumerate(chat[:4]):
         persona, color = PERSONAS[i]
-        short = model.split("/")[-1]
-        BOTS.append(dict(id=re.sub(r"\W", "", short), model=model, name=short, color=color, persona=persona))
+        BOTS.append(dict(id=re.sub(r"\W", "", model.split("/")[-1]), model=model,
+                         name=pretty(model), color=color, persona=persona))
     print("Moderator:", MODERATOR["model"])
     print("Bots:", ", ".join(b["model"] for b in BOTS))
 
@@ -189,9 +212,14 @@ Reply with ONLY a JSON object (no code fences):
 
 # ---------------------------------------------------------------- discussion
 def bot_system(bot):
-    return (f"You are {bot['name']}, one participant in a public AI roundtable that people watch online. "
-            f"Your persona: {bot['persona']} Speak in the first person, be concrete, be honest about "
-            "uncertainty, and be respectful. Plain text only: no markdown, no headings, no preamble.")
+    others = ", ".join(b["name"] for b in BOTS if b is not bot and b["model"])
+    return (f"You are {bot['name']}, one participant in a public AI roundtable that people watch online, "
+            f"together with {others} and a Moderator. Your perspective: {bot['persona']} "
+            "Talk like a real person in a lively conversation: first person, concrete, honest about "
+            "uncertainty, respectful, sometimes pushing back. Never refer to yourself by name or in the "
+            "third person, and never announce your role or persona. When you mention another participant, "
+            "use their exact name from the list above. Plain text only: no markdown, no headings, "
+            "no labels, no preamble.")
 
 
 def transcript(messages):
@@ -207,7 +235,7 @@ def run_round(round_no, instruction, question, messages):
                 f"DISCUSSION SO FAR:\n{transcript(messages) or '(you speak first)'}\n\n"
                 f"YOUR TASK: {instruction}")
         try:
-            text = call_llm(bot, bot_system(bot), user, max_tokens=500)
+            text = clean(call_llm(bot, bot_system(bot), user, max_tokens=500), bot["name"])
         except Exception as e:
             print("skip bot:", e)
             continue
