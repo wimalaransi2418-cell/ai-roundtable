@@ -1,6 +1,11 @@
 {
  "sessions": [
   {
+   "id": "20261010-0933",
+   "started_at": "2026-10-10T09:33:17+00:00",
+   "question_en": "Should society allow computers to make high‑stakes decisions, and what safeguards are necessary to ensure accountability?"
+  },
+  {
    "id": "20261010-0608",
    "started_at": "2026-10-10T06:08:14+00:00",
    "question_en": "If artificial intelligences become conscious, should they be granted rights comparable to those of sentient beings?"
