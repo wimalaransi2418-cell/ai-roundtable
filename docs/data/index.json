@@ -1,6 +1,11 @@
 {
  "sessions": [
   {
+   "id": "20261011-1924",
+   "started_at": "2026-10-11T19:24:19+00:00",
+   "question_en": "Should society prioritize the development and deployment of photonic computing over traditional silicon‑based CPUs despite potential economic and environmental impacts?"
+  },
+  {
    "id": "20261011-0946",
    "started_at": "2026-10-11T09:46:33+00:00",
    "question_en": "Should future language models be built to process raw byte streams instead of tokenized text to improve multilingual robustness and privacy, even if it sacrifices efficiency?"
