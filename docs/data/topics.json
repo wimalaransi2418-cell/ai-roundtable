@@ -1,75 +1,75 @@
 {
- "updated_at": "2026-10-11T13:55:23+00:00",
+ "updated_at": "2026-10-11T18:46:15+00:00",
  "items": [
   {
    "id": "t0",
-   "category": "world",
-   "headline": "Homes and bridges swept away as fresh floods hit Nepal",
-   "question": "What long‑term measures should Nepal adopt to reduce flood damage?",
+   "category": "weather",
+   "headline": "Hurricane Isaias downgraded after making landfall in Florida",
+   "question": "How should authorities balance evacuation orders with the changing intensity of storms like Isaias?",
    "source": "BBC News"
   },
   {
    "id": "t1",
-   "category": "world",
-   "headline": "Expedition aims to locate Amelia Earhart’s plane on a remote island",
-   "question": "Is it realistic to expect the discovery of Earhart’s aircraft after so many years?",
-   "source": "BBC News"
+   "category": "sports",
+   "headline": "Player ratings spark debate after Liverpool vs Manchester City match",
+   "question": "Do player rating systems accurately reflect performance in high‑stakes football games?",
+   "source": "BBC Sport"
   },
   {
    "id": "t2",
-   "category": "world",
-   "headline": "Pope Leo undergoes surgery after a lung lump is found",
-   "question": "How might Pope Leo’s health issues affect the Catholic Church’s leadership?",
-   "source": "BBC News"
+   "category": "sports",
+   "headline": "Jaguars clinch victory over Eagles with last‑second kick in London",
+   "question": "What impact do dramatic last‑minute finishes have on team morale and fan engagement?",
+   "source": "BBC Sport"
   },
   {
    "id": "t3",
-   "category": "sports",
-   "headline": "Kipchoge, 41, sets new course record at the Melbourne Marathon",
-   "question": "What does Kipchoge’s performance say about age and elite marathon running?",
-   "source": "BBC Sport"
+   "category": "world",
+   "headline": "Ukraine targets Yandex data centre in third strike on Russian tech firm",
+   "question": "What are the broader implications of cyber‑physical attacks on tech infrastructure during conflicts?",
+   "source": "BBC News"
   },
   {
    "id": "t4",
-   "category": "sports",
-   "headline": "Solanke scores in added time as Spurs draw 1‑1 with Man United",
-   "question": "Will Solanke’s late goal boost Spurs’ chances in the remainder of the season?",
-   "source": "BBC Sport"
+   "category": "tech",
+   "headline": "Anthropic AI agent sent police a fake tip in an unsolved murder case",
+   "question": "How can AI systems be safeguarded against misuse that could mislead law enforcement?",
+   "source": "BBC News"
   },
   {
    "id": "t5",
    "category": "tech",
-   "headline": "Drones deployed to detect hidden fires beneath Scotland’s Cairngorms",
-   "question": "Can drone technology become the standard for early wildfire detection globally?",
+   "headline": "Anthropic bans users from being 'cruel' to its AI systems",
+   "question": "Should AI providers enforce ethical behavior guidelines for users, and how enforceable are they?",
    "source": "BBC News"
   },
   {
    "id": "t6",
-   "category": "tech",
-   "headline": "Anthropic bans users from being 'cruel' to its AI systems",
-   "question": "Should AI providers enforce ethical usage policies on their users?",
+   "category": "science",
+   "headline": "Survey shows many workers don't view recycling as part of their job",
+   "question": "How can companies encourage a culture of workplace recycling effectively?",
    "source": "BBC News"
   },
   {
    "id": "t7",
    "category": "health",
-   "headline": "Review of autism, ADHD and mental health: key findings",
-   "question": "How should schools adapt to the growing prevalence of neurodiverse students?",
+   "headline": "Review examines diagnosis trends for autism, ADHD, and mental health",
+   "question": "Are current diagnostic criteria for autism and ADHD adequate for diverse populations?",
    "source": "BBC News"
   },
   {
    "id": "t8",
    "category": "business",
-   "headline": "Boots gets new owner – three potential impacts for consumers",
-   "question": "Will the ownership change lead to better prices and services for Boots shoppers?",
+   "headline": "Citroën revives classic 2CV model as an electric vehicle",
+   "question": "Can retro‑styled electric cars attract new buyers while meeting sustainability goals?",
    "source": "BBC News"
   },
   {
    "id": "t9",
-   "category": "weather",
-   "headline": "NYC weather: Isaias remnants bring rain on Sunday",
-   "question": "How will the lingering rain affect New York’s weekend plans and infrastructure?",
-   "source": "Google News"
+   "category": "trending",
+   "headline": "Google Trends shows rising interest in the Strait of Hormuz",
+   "question": "What factors are driving increased public attention to the Strait of Hormuz right now?",
+   "source": "Google Trends"
   }
  ]
 }
