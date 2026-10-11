@@ -1,75 +1,75 @@
 {
- "updated_at": "2026-10-11T07:01:32+00:00",
+ "updated_at": "2026-10-11T13:55:23+00:00",
  "items": [
   {
    "id": "t0",
    "category": "world",
-   "headline": "Expedition seeks Amelia Earhart's plane on remote island",
-   "question": "Should governments fund searches for historical mysteries like Amelia Earhart's disappearance?",
+   "headline": "Homes and bridges swept away as fresh floods hit Nepal",
+   "question": "What long‑term measures should Nepal adopt to reduce flood damage?",
    "source": "BBC News"
   },
   {
    "id": "t1",
-   "category": "tech",
-   "headline": "Anthropic AI agent sent false police tip in unsolved murder case",
-   "question": "What regulations are needed to prevent AI systems from generating misleading law‑enforcement information?",
+   "category": "world",
+   "headline": "Expedition aims to locate Amelia Earhart’s plane on a remote island",
+   "question": "Is it realistic to expect the discovery of Earhart’s aircraft after so many years?",
    "source": "BBC News"
   },
   {
    "id": "t2",
-   "category": "tech",
-   "headline": "OpenAI researchers claim they were fired for prioritising safety",
-   "question": "How should AI companies balance safety concerns with corporate staffing decisions?",
+   "category": "world",
+   "headline": "Pope Leo undergoes surgery after a lung lump is found",
+   "question": "How might Pope Leo’s health issues affect the Catholic Church’s leadership?",
    "source": "BBC News"
   },
   {
    "id": "t3",
-   "category": "business",
-   "headline": "Nvidia-backed data centre firm cancels IPO amid AI valuation worries",
-   "question": "Do current AI valuation methods overinflate startup worth, and how can investors assess true value?",
-   "source": "BBC News"
+   "category": "sports",
+   "headline": "Kipchoge, 41, sets new course record at the Melbourne Marathon",
+   "question": "What does Kipchoge’s performance say about age and elite marathon running?",
+   "source": "BBC Sport"
   },
   {
    "id": "t4",
-   "category": "science",
-   "headline": "Drones deployed to detect hidden forest fires in the Cairngorms",
-   "question": "Can drone technology effectively replace traditional methods in early wildfire detection?",
-   "source": "BBC News"
+   "category": "sports",
+   "headline": "Solanke scores in added time as Spurs draw 1‑1 with Man United",
+   "question": "Will Solanke’s late goal boost Spurs’ chances in the remainder of the season?",
+   "source": "BBC Sport"
   },
   {
    "id": "t5",
-   "category": "health",
-   "headline": "Review examines autism, ADHD and mental health diagnoses",
-   "question": "Should diagnostic criteria for autism and ADHD be revised to reduce over‑diagnosis?",
+   "category": "tech",
+   "headline": "Drones deployed to detect hidden fires beneath Scotland’s Cairngorms",
+   "question": "Can drone technology become the standard for early wildfire detection globally?",
    "source": "BBC News"
   },
   {
    "id": "t6",
-   "category": "weather",
-   "headline": "Remnants of Isaias bring rain and warm temps on Sunday",
-   "question": "How should communities prepare for lingering impacts of tropical storms after they weaken?",
-   "source": "Google News"
+   "category": "tech",
+   "headline": "Anthropic bans users from being 'cruel' to its AI systems",
+   "question": "Should AI providers enforce ethical usage policies on their users?",
+   "source": "BBC News"
   },
   {
    "id": "t7",
-   "category": "sports",
-   "headline": "Guardians win Game 5, move to ALCS against White Sox",
-   "question": "What factors most influence a team's ability to perform under playoff pressure?",
-   "source": "Google News"
+   "category": "health",
+   "headline": "Review of autism, ADHD and mental health: key findings",
+   "question": "How should schools adapt to the growing prevalence of neurodiverse students?",
+   "source": "BBC News"
   },
   {
    "id": "t8",
-   "category": "sports",
-   "headline": "Kentucky's walk‑off 2‑point conversion defeats LSU",
-   "question": "Is the 2‑point conversion rule adding excitement or unnecessary risk to college football?",
-   "source": "Google News"
+   "category": "business",
+   "headline": "Boots gets new owner – three potential impacts for consumers",
+   "question": "Will the ownership change lead to better prices and services for Boots shoppers?",
+   "source": "BBC News"
   },
   {
    "id": "t9",
-   "category": "trending",
-   "headline": "League of Legends remains top trending game",
-   "question": "How does the popularity of games like League of Legends affect the broader gaming industry and player wellbeing?",
-   "source": "Google Trends"
+   "category": "weather",
+   "headline": "NYC weather: Isaias remnants bring rain on Sunday",
+   "question": "How will the lingering rain affect New York’s weekend plans and infrastructure?",
+   "source": "Google News"
   }
  ]
 }
