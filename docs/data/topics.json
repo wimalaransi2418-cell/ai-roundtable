@@ -1,75 +1,75 @@
 {
- "updated_at": "2026-10-10T21:32:01+00:00",
+ "updated_at": "2026-10-11T00:49:35+00:00",
  "items": [
   {
    "id": "t0",
-   "category": "world",
-   "headline": "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal",
-   "source": "BBC News",
-   "question": "What do you make of this story: 'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal?"
+   "category": "weather",
+   "headline": "Charlotte weather update: Saturday on-track activities canceled",
+   "question": "How should event organizers adapt to sudden weather cancellations?",
+   "source": "Google News"
   },
   {
    "id": "t1",
-   "category": "world",
-   "headline": "Several injured in attack on airport in Saudi capital Riyadh",
-   "source": "BBC News",
-   "question": "What do you make of this story: Several injured in attack on airport in Saudi capital Riyadh?"
+   "category": "sports",
+   "headline": "Solanke scores in added time as Spurs draw with Man United",
+   "question": "Did the late goal reflect Spurs' resilience or Man United's defensive lapses?",
+   "source": "BBC Sport"
   },
   {
    "id": "t2",
-   "category": "world",
-   "headline": "Four dead and thousands without power after Hurricane Isaias lashes US",
-   "source": "BBC News",
-   "question": "What do you make of this story: Four dead and thousands without power after Hurricane Isaias lashes US?"
+   "category": "sports",
+   "headline": "Henderson scores twice as Chelsea thrash Bournemouth",
+   "question": "What does Chelsea's dominant win suggest about their title ambitions?",
+   "source": "BBC Sport"
   },
   {
    "id": "t3",
    "category": "world",
-   "headline": "Woman injures three people in third Poland school knife attack in a week",
-   "source": "BBC News",
-   "question": "What do you make of this story: Woman injures three people in third Poland school knife attack in a week?"
+   "headline": "Expedition aims to locate Amelia Earhart's plane on remote island",
+   "question": "Will new technology finally solve the mystery of Earhart's disappearance?",
+   "source": "BBC News"
   },
   {
    "id": "t4",
-   "category": "sports",
-   "headline": "Watch: Match of the Day",
-   "source": "BBC Sport",
-   "question": "What do you make of this story: Watch: Match of the Day?"
+   "category": "tech",
+   "headline": "Drones hunt hidden fires beneath the Cairngorms",
+   "question": "Can drone surveillance become the standard for early wildfire detection?",
+   "source": "BBC News"
   },
   {
    "id": "t5",
-   "category": "sports",
-   "headline": "Henderson scores twice as five-star Chelsea thrash Bournemouth",
-   "source": "BBC Sport",
-   "question": "What do you make of this story: Henderson scores twice as five-star Chelsea thrash Bournemouth?"
+   "category": "science",
+   "headline": "Many workers don't see recycling at work as part of their job",
+   "question": "How can companies encourage employee participation in workplace recycling?",
+   "source": "BBC News"
   },
   {
    "id": "t6",
-   "category": "sports",
-   "headline": "Struijk sees red but Brighton march on with win against Sunderland",
-   "source": "BBC Sport",
-   "question": "What do you make of this story: Struijk sees red but Brighton march on with win against Sunderland?"
+   "category": "health",
+   "headline": "Review of autism, ADHD and mental health: key takeaways",
+   "question": "What changes should schools implement based on the new mental health review?",
+   "source": "BBC News"
   },
   {
    "id": "t7",
-   "category": "sports",
-   "headline": "Brentford extend unbeaten start as Ajer secures draw at Aston Villa",
-   "source": "BBC Sport",
-   "question": "What do you make of this story: Brentford extend unbeaten start as Ajer secures draw at Aston Villa?"
+   "category": "business",
+   "headline": "Boots gets new owner: three potential impacts for consumers",
+   "question": "Will the ownership change improve product range and pricing for shoppers?",
+   "source": "BBC News"
   },
   {
    "id": "t8",
-   "category": "tech",
-   "headline": "King warns malicious online actors are evolving tactics",
-   "source": "BBC News",
-   "question": "What do you make of this story: King warns malicious online actors are evolving tactics?"
+   "category": "trending",
+   "headline": "Jayson Tatum trending search term",
+   "question": "What factors are driving the recent surge in interest around Jayson Tatum?",
+   "source": "Google Trends"
   },
   {
    "id": "t9",
    "category": "tech",
-   "headline": "How drones are hunting fires hidden beneath the Cairngorms",
-   "source": "BBC News",
-   "question": "What do you make of this story: How drones are hunting fires hidden beneath the Cairngorms?"
+   "headline": "OpenAI researchers claim they were fired for prioritising safety",
+   "question": "How should AI companies balance safety concerns with rapid development pressures?",
+   "source": "BBC News"
   }
  ]
 }
