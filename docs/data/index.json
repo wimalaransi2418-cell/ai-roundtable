@@ -1,6 +1,11 @@
 {
  "sessions": [
   {
+   "id": "20261011-0946",
+   "started_at": "2026-10-11T09:46:33+00:00",
+   "question_en": "Should future language models be built to process raw byte streams instead of tokenized text to improve multilingual robustness and privacy, even if it sacrifices efficiency?"
+  },
+  {
    "id": "20261010-1910",
    "started_at": "2026-10-10T19:10:29+00:00",
    "question_en": "Should public funding prioritize applied research over pure mathematics given limited resources?"
