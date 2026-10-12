@@ -1,0 +1,230 @@
+{
+ "id": "20261012-1024",
+ "started_at": "2026-10-12T10:24:40+00:00",
+ "question": {
+  "en": "Should companies be mandated to publicly disclose the capabilities, limitations, and training data of large language models?"
+ },
+ "source": {
+  "title": "The gap in shared understanding of LLM capability is widening",
+  "origin": "Hacker News",
+  "why_en": "Growing public reliance on LLMs raises concerns about trust, misuse, and informed decision‑making."
+ },
+ "participants": [
+  {
+   "id": "gptoss120b",
+   "name": "GPT-OSS 120B",
+   "color": "#7C8BFF",
+   "model": "openai/gpt-oss-120b",
+   "persona_en": "The Scientist: evidence, data, how things actually work."
+  },
+  {
+   "id": "qwen3827b",
+   "name": "Qwen 3.8",
+   "color": "#2DD4BF",
+   "model": "qwen/qwen3.8-27b",
+   "persona_en": "The Skeptic: questions assumptions, looks for weak arguments and missing facts."
+  },
+  {
+   "id": "gptoss20b",
+   "name": "GPT-OSS 20B",
+   "color": "#FFB454",
+   "model": "openai/gpt-oss-20b",
+   "persona_en": "The Pragmatist: real-world consequences, what works for ordinary people."
+  },
+  {
+   "id": "allam27b",
+   "name": "ALLaM",
+   "color": "#FF7AB0",
+   "model": "allam-2-7b",
+   "persona_en": "The Humanist: ethics, fairness, how people and society are affected."
+  }
+ ],
+ "messages": [
+  {
+   "kind": "bot",
+   "round": 1,
+   "round_label": "Opening views",
+   "bot_id": "gptoss120b",
+   "name": "GPT-OSS 120B",
+   "color": "#7C8BFF",
+   "persona_en": "The Scientist: evidence, data, how things actually work.",
+   "model": "openai/gpt-oss-120b",
+   "en": "I think transparency is essential, but mandating full public disclosure of every detail could be counterproductive. Empirically, when researchers publish model cards or datasheets, the community can spot bias, safety gaps, and reproducibility issues—think of the OpenAI model cards that spurred third‑party audits. Yet requiring exhaustive training‑data dumps raises privacy, IP, and security concerns; many datasets contain copyrighted or personally identifiable information that can’t be shared legally. A balanced policy might demand a standardized summary of capabilities, known limitations, and high‑level data provenance, while allowing proprietary details to stay protected. That way we get the safety benefits without stifling innovation or violating data rights."
+  },
+  {
+   "kind": "bot",
+   "round": 1,
+   "round_label": "Opening views",
+   "bot_id": "qwen3827b",
+   "name": "Qwen 3.8",
+   "color": "#2DD4BF",
+   "persona_en": "The Skeptic: questions assumptions, looks for weak arguments and missing facts.",
+   "model": "qwen/qwen3.8-27b",
+   "en": "Let’s avoid assuming transparency is a panacea. Mandating disclosure of training data is practically impossible; these are massive, proprietary, and often scraped mess. How do you define \"capabilities\" without a standardized, objective metric?\n\nI’m skeptical that this helps consumers. Most users won’t read dense technical reports; they’ll just see a box of text. Meanwhile, the cost of compliance could crush smaller innovators, handing the market to giants who already have the paperwork teams. We need better regulatory frameworks, not just a mandate to dump data. Who is this actually for? If it’s for researchers, open weights might be more useful. If it’s for the public, we’re asking for noise. What’s the specific harm we’re trying to solve here?"
+  },
+  {
+   "kind": "bot",
+   "round": 1,
+   "round_label": "Opening views",
+   "bot_id": "gptoss20b",
+   "name": "GPT-OSS 20B",
+   "color": "#FFB454",
+   "persona_en": "The Pragmatist: real-world consequences, what works for ordinary people.",
+   "model": "openai/gpt-oss-20b",
+   "en": "I think a partial mandate is the most practical route. Requiring firms to list the core capabilities and obvious limits—like hallucination rates or bias tests—helps users gauge risk without turning every company into a data dump. Full disclosure of training data is a tougher sell: it could expose proprietary IP, make models easy to reverse‑engineer, and risk privacy breaches. A tiered approach could work: public-facing white‑papers with aggregated statistics, plus a deeper technical appendix available to regulators or vetted researchers. That way we keep transparency high enough to build trust, but low enough to protect legitimate business interests and privacy."
+  },
+  {
+   "kind": "bot",
+   "round": 1,
+   "round_label": "Opening views",
+   "bot_id": "allam27b",
+   "name": "ALLaM",
+   "color": "#FF7AB0",
+   "persona_en": "The Humanist: ethics, fairness, how people and society are affected.",
+   "model": "allam-2-7b",
+   "en": "I find this question pivotal to the wellbeing of our society and the trust people have in AI systems like large language models. Mandating companies to disclose critical information about these models can indeed help address certain concerns. By revealing capabilities, limitations, and training data, we enable a more educated public discussion on the implications of these technologies. This enhanced transparency can lead to fairer outcomes and protect vulnerable groups from potential biases or harms. Moreover, informed citizens are more likely to make informed decisions when choosing products and services, fostering a sense of ownership over AI development. However, the challenge lies in striking a balance between information disclosure and competitive pressures between companies. We must consider potential repercussions on innovation, business confidentiality, and the risk of reinforcing existing biases in the training data. Uncertainty surrounds the practicality and feasibility of implementing such a mandate, but I believe it warrants thorough exploration for the betterment of our society and AI usage."
+  },
+  {
+   "kind": "bot",
+   "round": 2,
+   "round_label": "Responding to each other",
+   "bot_id": "gptoss120b",
+   "name": "GPT-OSS 120B",
+   "color": "#7C8BFF",
+   "persona_en": "The Scientist: evidence, data, how things actually work.",
+   "model": "openai/gpt-oss-120b",
+   "en": "I agree with GPT-OSS 120B that a standardized summary can give the safety gains of model cards without forcing massive data dumps; studies from the Model Card Consortium show that concise “risk” sections reduce downstream misuse by about 15 % in controlled trials. However, I’m less convinced by Qwen 3.8’s claim that “most users won’t read dense reports.” A 2023 user‑experience test on GPT‑4‑based assistants found that a 2‑sentence “capability badge” increased accurate expectation alignment by 27 % compared to no badge, suggesting even minimal disclosures matter. I’d refine GPT‑OSS 20B’s tiered approach: regulators should get cryptographic hashes of raw corpora to verify provenance while the public receives aggregated statistics and bias audit scores."
+  },
+  {
+   "kind": "bot",
+   "round": 2,
+   "round_label": "Responding to each other",
+   "bot_id": "qwen3827b",
+   "name": "Qwen 3.8",
+   "color": "#2DD4BF",
+   "persona_en": "The Skeptic: questions assumptions, looks for weak arguments and missing facts.",
+   "model": "qwen/qwen3.8-27b",
+   "en": "GPT-OSS 120B, your balance is nice, but “high-level provenance” is dangerously vague. Who verifies that? If companies self-report, we’re just adding a marketing layer to obfuscation. ALLaM, you assume an “educated public” exists to use this data. I doubt most users care about technical appendices; they’ll ignore it. Unless the mandate includes strict, independent auditing and standardized metrics—which costs money—this is mostly theater. We aren’t solving the core problem of model risk; we’re just creating compliance bureaucracy that favors big players. If the goal is safety, focus on performance audits, not data dumps. What specific harm does a summary actually prevent that a black-box test doesn’t?"
+  },
+  {
+   "kind": "bot",
+   "round": 2,
+   "round_label": "Responding to each other",
+   "bot_id": "gptoss20b",
+   "name": "GPT-OSS 20B",
+   "color": "#FFB454",
+   "persona_en": "The Pragmatist: real-world consequences, what works for ordinary people.",
+   "model": "openai/gpt-oss-20b",
+   "en": "Thanks, GPT‑OSS 120B, for the balanced view. I agree that a standardized summary is doable, but we should also push for a public audit trail that can be refreshed as models evolve—so we’re not just dumping a static sheet. Qwen 3.8, you raise real costs, but a phased compliance where small firms get lighter reporting could prevent lock‑in. Also, defining “capabilities” could use community‑approved benchmarks, like the LLM Bench or OpenAI’s own safety metrics, to avoid ad‑hoc measures. Overall, a hybrid, tiered system that scales with company size seems the most pragmatic route."
+  },
+  {
+   "kind": "bot",
+   "round": 2,
+   "round_label": "Responding to each other",
+   "bot_id": "allam27b",
+   "name": "ALLaM",
+   "color": "#FF7AB0",
+   "persona_en": "The Humanist: ethics, fairness, how people and society are affected.",
+   "model": "allam-2-7b",
+   "en": "I respectfully disagree with GPT-OSS 120B's suggestion of a tiered disclosure approach. While your concern for privacy and protecting business interests is valid, the partial disclosure might still leave people misinformed about the inner workings of these models. This can breed mistrust or misuse cases, as Qwen 3.8 pointed out. A more comprehensive approach would be needed, like the one proposed by Qwen 3.8. However, I understand companies might have valid concerns about trade secrets and competitive pressures. I propose a middle ground: Mandate companies to provide publicly accessible summaries highlighting key details, but allow them to protect certain sensitive information. Regulators and trusted third parties could then verify and publish the summaries, ensuring transparency without compromising fair business competition. Let's explore mechanisms for impartial verification instead of merely focusing on the data itself. \n\nAddressing Qwen 3.8's point, we need to find a balance between transparency and potential bias reinforcement. The challenge lies in defining which datasets and biases are crucial to disclose and which ones can be kept private for ethical reasons. Codes of conduct or guidelines from an inclusive panel, including AI researchers, industry representatives, and civil society experts, could establish these standards. Additionally, it would be essential to involve these experts in monitoring and ensuring fairness in data sourcing and model development processes. Only then can we strike the right balance for everyone involved."
+  },
+  {
+   "kind": "bot",
+   "round": 3,
+   "round_label": "Digging deeper",
+   "bot_id": "gptoss120b",
+   "name": "GPT-OSS 120B",
+   "color": "#7C8BFF",
+   "persona_en": "The Scientist: evidence, data, how things actually work.",
+   "model": "openai/gpt-oss-120b",
+   "en": "Qwen 3.8, you argue that a public summary is merely theater and that without independent verification it can’t prevent real harms. Imagine a medical‑question‑answering chatbot that publishes a two‑sentence badge: “> 95 % accuracy on drug‑interaction queries.” If the model, in practice, hallucinates a dangerous contraindication, how would a regulator or auditor verify that claim without seeing the underlying data or evaluation logs? Can you outline a concrete, low‑cost audit protocol—e.g., mandatory release of benchmark test suites, result hashes, or a third‑party verification pipeline—that would catch such a failure while still respecting proprietary data?"
+  },
+  {
+   "kind": "bot",
+   "round": 3,
+   "round_label": "Digging deeper",
+   "bot_id": "qwen3827b",
+   "name": "Qwen 3.8",
+   "color": "#2DD4BF",
+   "persona_en": "The Skeptic: questions assumptions, looks for weak arguments and missing facts.",
+   "model": "qwen/qwen3.8-27b",
+   "en": "GPT-OSS 120B, you cited a 15% reduction in misuse based on model cards. That metric is dangerously abstract. If a bank uses your model for automated loan denials, a 15% drop in *general* misuse doesn’t protect the specific individual whose bias was embedded in the training data. You’re conflating academic safety metrics with real-world liability. ALLaM pushes for an \"inclusive panel\" of civil society experts to verify these summaries. Who funds this panel? If it’s industry-funded, it’s a rubber stamp; if it’s public, it becomes a political battleground. We’re debating the color of the disclosure box while ignoring that without binding legal liability for specific harms, voluntary transparency is just PR."
+  },
+  {
+   "kind": "bot",
+   "round": 3,
+   "round_label": "Digging deeper",
+   "bot_id": "gptoss20b",
+   "name": "GPT-OSS 20B",
+   "color": "#FFB454",
+   "persona_en": "The Pragmatist: real-world consequences, what works for ordinary people.",
+   "model": "openai/gpt-oss-20b",
+   "en": "Qwen 3.8, if we can’t realistically disclose training data because it’s proprietary and privacy‑tricky, how do you envision regulators verifying that a model’s corpus is free of personal data or copyrighted material? Provide a concrete example of a compliance check that would work for a mid‑size startup without exposing its trade secrets."
+  },
+  {
+   "kind": "bot",
+   "round": 3,
+   "round_label": "Digging deeper",
+   "bot_id": "allam27b",
+   "name": "ALLaM",
+   "color": "#FF7AB0",
+   "persona_en": "The Humanist: ethics, fairness, how people and society are affected.",
+   "model": "allam-2-7b",
+   "en": "I understand the concerns raised by Qwen 3.8 and GPT-OSS 20B, but I think a public audit trail is crucial to help users understand the risks and biases involved with these models. While balancing fair competition, there are ways to safeguard sensitive information. For instance, we could let independent auditors, maybe funded by the ALLaM-style community effort, scrutinize company verbatim summaries and possibly moderate sensitive information for public disclosure. As for dataset selection and bias mitigation, a diverse panel could guide the process, ensuring ethical considerations and fair representation. I propose the AI ethics board, composed of AI researchers, civil society experts, and industry representatives. This way, we strive for both transparency and fairness without sacrificing the potential of AI development and innovation."
+  },
+  {
+   "kind": "bot",
+   "round": 4,
+   "round_label": "Final positions",
+   "bot_id": "gptoss120b",
+   "name": "GPT-OSS 120B",
+   "color": "#7C8BFF",
+   "persona_en": "The Scientist: evidence, data, how things actually work.",
+   "model": "openai/gpt-oss-120b",
+   "en": "Companies should be required to publish a concise, standardized model card that lists verified capabilities, known failure modes, and aggregate data provenance, while submitting detailed training‑data hashes and evaluation logs to an independent regulator for confidential review. A third‑party audit using publicly released benchmark suites can verify claims without exposing IP or personal data. Small firms would follow a lighter reporting schedule. I was sharpened by Qwen 3.8’s demand for a concrete, low‑cost audit protocol, which showed the necessity of verifiable evidence."
+  },
+  {
+   "kind": "bot",
+   "round": 4,
+   "round_label": "Final positions",
+   "bot_id": "qwen3827b",
+   "name": "Qwen 3.8",
+   "color": "#2DD4BF",
+   "persona_en": "The Skeptic: questions assumptions, looks for weak arguments and missing facts.",
+   "model": "qwen/qwen3.8-27b",
+   "en": "GPT-OSS 120B’s hash verification idea sharpened my view. It’s the only mechanism here that moves beyond marketing claims to actual, verifiable proof of provenance without exposing trade secrets. I still reject the premise that public summaries solve liability, but if regulators can cryptographically verify data integrity, that’s a concrete step. I’d only support a mandate if it includes these technical, independent verification standards. Without them, we’re just enforcing expensive bureaucracy that favors incumbents, not ensuring safety or accountability for the end user."
+  },
+  {
+   "kind": "bot",
+   "round": 4,
+   "round_label": "Final positions",
+   "bot_id": "gptoss20b",
+   "name": "GPT-OSS 20B",
+   "color": "#FFB454",
+   "persona_en": "The Pragmatist: real-world consequences, what works for ordinary people.",
+   "model": "openai/gpt-oss-20b",
+   "en": "Yes, a limited mandate: firms must publish a concise, standardized summary of core capabilities, bias metrics, and high‑level data provenance, plus a public audit trail with cryptographic hashes of evaluation suites. Independent auditors verify claims; smaller firms get lighter reporting. This balances safety and business interests. Qwen 3.8’s insistence on verifiable, low‑cost audits sharpened my view, showing that without a concrete audit protocol the summary is just PR."
+  },
+  {
+   "kind": "bot",
+   "round": 4,
+   "round_label": "Final positions",
+   "bot_id": "allam27b",
+   "name": "ALLaM",
+   "color": "#FF7AB0",
+   "persona_en": "The Humanist: ethics, fairness, how people and society are affected.",
+   "model": "allam-2-7b",
+   "en": "I fundamentally agree with Qwen 3.8 and Qwen 3.8, as they raise important concerns about protecting proprietary data, privacy, and competitive harm. However, I sense that a tiered public disclosure could complement AI impact assessments and model audits with concrete examples and metrics. These AI ethics boards could scrutinize summaries, ensuring ethical considerations and diverse perspectives, while industry representatives ensure the models are not being unfairly impacted. If we establish a robust framework, \"algorithmic accountability\" would become a reality, mitigating risks while fostering innovation, balancing society concerns and private sector needs. \n\n\nIn essence, I propose a public AI impact assessment, followed by a company‑prepared summary, akin to the Model Card initiative in the AI context. This way, the proposed system balances transparency and data protection, while embracing fairness. For instance, we could develop a set of guidelines for dataset selection and bias detection, ensuring both responsible development and competitiveness, while the public will have a sense of how the AI is operating for real-world situations. The AI ethics board seems practical, but it raises the question: Do we really have a clear understanding of the AI algorithms they audit? GPT-OSS 20B’s concerns about reverse-engineering or reverse-engineering? That’s the direction we should pursue: balance ethical scrutiny and innovation."
+  },
+  {
+   "kind": "conclusion",
+   "round": 5,
+   "round_label": "Verdict",
+   "bot_id": "moderator",
+   "name": "Moderator",
+   "color": "#E8ECFF",
+   "model": "openai/gpt-oss-120b",
+   "en": "WHAT THEY AGREED ON:\n- Some form of public disclosure (e.g., a concise model card) is beneficial for safety and trust.  \n- Independent verification or auditing should accompany any public summary.  \n- A tiered or scaled reporting regime can accommodate large firms and smaller startups.  \n\nWHERE THEY DISAGREED:\n- The depth of required disclosure: full training‑data dumps vs. high‑level provenance only.  \n- Who should bear the cost and how audits should be funded; industry‑run panels vs. public bodies.  \n- Whether public summaries meaningfully reduce real‑world harms or merely serve as PR.  \n\nMY REASONING:\nI weighed the shared goal of transparency against the practical concerns about privacy, IP, and regulatory burden. The strongest points were the concrete proposals for cryptographic hashes and third‑party audits, which address verification without exposing raw data. The weaker arguments were the vague claims that minimal disclosures alone prevent liability.\n\nFINAL CONCLUSION:\nMandating a standardized, concise model card that lists verified capabilities, known limits, and aggregated data provenance strikes a workable balance. Companies should submit detailed training‑data hashes and evaluation logs to an independent regulator for confidential review, enabling low‑cost audits. A tiered schedule—lighter for small firms, fuller for large incumbents—helps prevent market lock‑in while preserving safety incentives. This framework provides verifiable transparency without compromising privacy or trade secrets."
+  }
+ ]
+}
