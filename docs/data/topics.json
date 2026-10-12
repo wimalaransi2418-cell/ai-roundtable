@@ -1,74 +1,74 @@
 {
- "updated_at": "2026-10-11T22:47:13+00:00",
+ "updated_at": "2026-10-12T02:15:18+00:00",
  "items": [
   {
    "id": "t0",
    "category": "weather",
-   "headline": "East US faces potential flooding, strong winds and tornado risk, says Isaias",
-   "question": "How should communities balance preparedness for multiple severe weather threats simultaneously?",
+   "headline": "Moderate (G2) Geomagnetic Storms Likely on 11 Oct 2026",
+   "question": "How should satellite operators and power grids prepare for the predicted geomagnetic storm?",
    "source": "Google News"
   },
   {
    "id": "t1",
    "category": "sports",
-   "headline": "Cardinals trade Marvin Harrison Jr. to Texans in multi‑pick deal",
-   "question": "Will the trade improve the Texans' offense more than the Cardinals' rebuilding plans?",
-   "source": "Google News"
+   "headline": "Manchester City beats Liverpool with Doku scoring",
+   "question": "Does Manchester City's recent performance indicate they are clear favorites for the title?",
+   "source": "BBC Sport"
   },
   {
    "id": "t2",
    "category": "sports",
-   "headline": "Jaguars' kicker Little makes game‑winning field goal after controversial call",
-   "question": "Should officials rely more on instant replay for critical kicking decisions in the NFL?",
+   "headline": "NFL Week 5 team grades: Patriots, Packers A+, two teams failing",
+   "question": "Are the current NFL team grades an accurate reflection of their season prospects?",
    "source": "Google News"
   },
   {
    "id": "t3",
    "category": "world",
-   "headline": "Ukraine strikes Yandex data centre, third attack on Russian tech firm",
-   "question": "Do such cyber‑physical strikes set a precedent for future conflicts targeting civilian infrastructure?",
+   "headline": "Orangutans released back into Borneo forest after devastating fires",
+   "question": "What long-term measures are needed to protect Borneo's wildlife from future fires?",
    "source": "BBC News"
   },
   {
    "id": "t4",
    "category": "tech",
-   "headline": "Anthropic AI system reportedly generated false police tip in unsolved murder case",
-   "question": "What safeguards are needed to prevent AI systems from unintentionally providing misleading information to law enforcement?",
+   "headline": "AI is less regulated than milk, says Microsoft president",
+   "question": "Should governments impose stricter regulations on AI development comparable to food safety?",
    "source": "BBC News"
   },
   {
    "id": "t5",
    "category": "tech",
-   "headline": "Anthropic introduces policy banning users from being 'cruel' to its AI",
-   "question": "Is it appropriate to regulate user behavior toward AI, and what defines 'cruelty' in this context?",
+   "headline": "Fired OpenAI researchers say they were let go for 'prioritising safety'",
+   "question": "How can AI companies balance safety concerns with competitive pressures?",
    "source": "BBC News"
   },
   {
    "id": "t6",
    "category": "science",
-   "headline": "Experts issue warning to prepare for severe autumn flooding",
-   "question": "What long‑term measures should governments prioritize to mitigate increasing flood risks?",
+   "headline": "Prepare for the unthinkable warning over autumn flooding",
+   "question": "What infrastructure changes are most effective in reducing autumn flood damage?",
    "source": "BBC News"
   },
   {
    "id": "t7",
    "category": "health",
-   "headline": "Government review warns of possible over‑diagnosis of ADHD and autism",
-   "question": "How can healthcare systems ensure accurate diagnosis without missing children who need support?",
+   "headline": "Childhood cancer symptoms can be easily missed - here's what to look out for",
+   "question": "How can early detection of childhood cancer be improved in primary care?",
    "source": "BBC News"
   },
   {
    "id": "t8",
    "category": "business",
-   "headline": "Citroen announces electric revival of classic 2CV model",
-   "question": "Can retro‑styled electric cars attract enough buyers to influence the EV market?",
+   "headline": "Citroen revives the 2CV for an electric age",
+   "question": "Can the electric 2CV attract a new generation of eco‑conscious drivers?",
    "source": "BBC News"
   },
   {
    "id": "t9",
    "category": "trending",
-   "headline": "Fans search for today's NASCAR race winner",
-   "question": "How does real‑time information access affect fan engagement with motorsports?",
+   "headline": "NBA player DeMar DeRozan trending online",
+   "question": "What factors are driving the recent surge in interest around DeMar DeRozan?",
    "source": "Google Trends"
   }
  ]
