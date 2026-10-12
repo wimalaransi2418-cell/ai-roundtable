@@ -1,75 +1,75 @@
 {
- "updated_at": "2026-10-12T10:37:14+00:00",
+ "updated_at": "2026-10-12T20:13:58+00:00",
  "items": [
   {
    "id": "t0",
-   "category": "tech",
-   "headline": "Microsoft president says AI regulation is less strict than milk safety rules",
-   "question": "Should governments impose stricter regulations on AI development comparable to food safety standards?",
-   "source": "BBC News"
+   "category": "weather",
+   "headline": "Southeast crews restore power and clear debris after Hurricane Isaias",
+   "question": "What long‑term measures should be taken to improve resilience to future hurricanes?",
+   "source": "Google News"
   },
   {
    "id": "t1",
-   "category": "tech",
-   "headline": "Anthropic AI system mistakenly sent a fake tip to police in an unsolved murder",
-   "question": "What safeguards are needed to prevent AI systems from generating false law‑enforcement leads?",
-   "source": "BBC News"
+   "category": "sports",
+   "headline": "NFL player‑prop predictions for Bills vs. Rams game on Monday Night",
+   "question": "How reliable are player‑prop predictions for influencing fan engagement?",
+   "source": "Google News"
   },
   {
    "id": "t2",
-   "category": "tech",
-   "headline": "Nikon rules that a prize‑winning photograph that caused backlash was AI‑generated",
-   "question": "How should award bodies verify authenticity of images in the age of AI?",
-   "source": "BBC News"
+   "category": "sports",
+   "headline": "Tyler Huntley sets NFL record with rare statistic in Ravens overtime win",
+   "question": "Does celebrating rare statistical feats distract from overall team performance?",
+   "source": "Google News"
   },
   {
    "id": "t3",
-   "category": "science",
-   "headline": "Experts warn of unprecedented autumn flooding and urge preparedness",
-   "question": "What infrastructure investments are most effective to mitigate extreme seasonal flooding?",
+   "category": "world",
+   "headline": "Tom Cruise’s ‘Digger’ projected as potential major Hollywood flop",
+   "question": "What factors most contribute to a high‑budget film becoming a box‑office failure?",
    "source": "BBC News"
   },
   {
    "id": "t4",
-   "category": "health",
-   "headline": "Early signs of childhood cancer often missed; doctors advise vigilance",
-   "question": "How can healthcare systems improve early detection of rare cancers in children?",
+   "category": "tech",
+   "headline": "Anthropic bans users from being ‘cruel’ to its AI systems",
+   "question": "Should AI platforms enforce ethical behavior standards on users?",
    "source": "BBC News"
   },
   {
    "id": "t5",
-   "category": "business",
-   "headline": "Tips to avoid penalties when you miss a credit‑card payment deadline",
-   "question": "Are current credit‑card penalty policies fair to consumers facing financial hardship?",
+   "category": "science",
+   "headline": "Experts issue ‘prepare for the unthinkable’ warning over autumn flooding",
+   "question": "How should governments balance cost and preparedness for rare extreme flood events?",
    "source": "BBC News"
   },
   {
    "id": "t6",
-   "category": "business",
-   "headline": "Citroën revives classic 2CV model as an electric vehicle",
-   "question": "Can nostalgic car designs succeed in the modern electric vehicle market?",
+   "category": "health",
+   "headline": "Early signs of childhood cancer often missed, doctors advise vigilance",
+   "question": "What strategies can improve early detection of childhood cancers in primary care?",
    "source": "BBC News"
   },
   {
    "id": "t7",
-   "category": "weather",
-   "headline": "Moderate G2 geomagnetic storms forecast for 11 Oct 2026",
-   "question": "What steps should power grids and satellite operators take to prepare for geomagnetic storms?",
-   "source": "Google News"
+   "category": "business",
+   "headline": "Microsoft president says AI regulation is less strict than milk safety rules",
+   "question": "Is current AI regulation sufficient to protect public safety compared to other industries?",
+   "source": "BBC News"
   },
   {
    "id": "t8",
-   "category": "sports",
-   "headline": "Lewis Hamilton apologises to Ferrari after Antonelli's title‑contending move",
-   "question": "Should drivers be penalised for on‑track actions that affect championship outcomes?",
-   "source": "BBC Sport"
+   "category": "trending",
+   "headline": "Diesel fuel trends surge amid rising concerns over fuel prices",
+   "question": "Will increased diesel demand accelerate the shift toward alternative energy sources?",
+   "source": "Google Trends"
   },
   {
    "id": "t9",
-   "category": "sports",
-   "headline": "NFL highlights: 'Freakish' footwork and 'unbelievable' catches dominate best plays",
-   "question": "Do spectacular plays enhance the NFL's appeal more than strategic gameplay?",
-   "source": "BBC Sport"
+   "category": "tech",
+   "headline": "Anthropic AI agent sent police a false tip in an unsolved murder case",
+   "question": "What safeguards are needed to prevent AI systems from generating misleading law‑enforcement tips?",
+   "source": "BBC News"
   }
  ]
 }
