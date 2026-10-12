@@ -1,75 +1,75 @@
 {
- "updated_at": "2026-10-12T02:15:18+00:00",
+ "updated_at": "2026-10-12T10:37:14+00:00",
  "items": [
   {
    "id": "t0",
-   "category": "weather",
-   "headline": "Moderate (G2) Geomagnetic Storms Likely on 11 Oct 2026",
-   "question": "How should satellite operators and power grids prepare for the predicted geomagnetic storm?",
-   "source": "Google News"
+   "category": "tech",
+   "headline": "Microsoft president says AI regulation is less strict than milk safety rules",
+   "question": "Should governments impose stricter regulations on AI development comparable to food safety standards?",
+   "source": "BBC News"
   },
   {
    "id": "t1",
-   "category": "sports",
-   "headline": "Manchester City beats Liverpool with Doku scoring",
-   "question": "Does Manchester City's recent performance indicate they are clear favorites for the title?",
-   "source": "BBC Sport"
+   "category": "tech",
+   "headline": "Anthropic AI system mistakenly sent a fake tip to police in an unsolved murder",
+   "question": "What safeguards are needed to prevent AI systems from generating false law‑enforcement leads?",
+   "source": "BBC News"
   },
   {
    "id": "t2",
-   "category": "sports",
-   "headline": "NFL Week 5 team grades: Patriots, Packers A+, two teams failing",
-   "question": "Are the current NFL team grades an accurate reflection of their season prospects?",
-   "source": "Google News"
+   "category": "tech",
+   "headline": "Nikon rules that a prize‑winning photograph that caused backlash was AI‑generated",
+   "question": "How should award bodies verify authenticity of images in the age of AI?",
+   "source": "BBC News"
   },
   {
    "id": "t3",
-   "category": "world",
-   "headline": "Orangutans released back into Borneo forest after devastating fires",
-   "question": "What long-term measures are needed to protect Borneo's wildlife from future fires?",
+   "category": "science",
+   "headline": "Experts warn of unprecedented autumn flooding and urge preparedness",
+   "question": "What infrastructure investments are most effective to mitigate extreme seasonal flooding?",
    "source": "BBC News"
   },
   {
    "id": "t4",
-   "category": "tech",
-   "headline": "AI is less regulated than milk, says Microsoft president",
-   "question": "Should governments impose stricter regulations on AI development comparable to food safety?",
+   "category": "health",
+   "headline": "Early signs of childhood cancer often missed; doctors advise vigilance",
+   "question": "How can healthcare systems improve early detection of rare cancers in children?",
    "source": "BBC News"
   },
   {
    "id": "t5",
-   "category": "tech",
-   "headline": "Fired OpenAI researchers say they were let go for 'prioritising safety'",
-   "question": "How can AI companies balance safety concerns with competitive pressures?",
+   "category": "business",
+   "headline": "Tips to avoid penalties when you miss a credit‑card payment deadline",
+   "question": "Are current credit‑card penalty policies fair to consumers facing financial hardship?",
    "source": "BBC News"
   },
   {
    "id": "t6",
-   "category": "science",
-   "headline": "Prepare for the unthinkable warning over autumn flooding",
-   "question": "What infrastructure changes are most effective in reducing autumn flood damage?",
+   "category": "business",
+   "headline": "Citroën revives classic 2CV model as an electric vehicle",
+   "question": "Can nostalgic car designs succeed in the modern electric vehicle market?",
    "source": "BBC News"
   },
   {
    "id": "t7",
-   "category": "health",
-   "headline": "Childhood cancer symptoms can be easily missed - here's what to look out for",
-   "question": "How can early detection of childhood cancer be improved in primary care?",
-   "source": "BBC News"
+   "category": "weather",
+   "headline": "Moderate G2 geomagnetic storms forecast for 11 Oct 2026",
+   "question": "What steps should power grids and satellite operators take to prepare for geomagnetic storms?",
+   "source": "Google News"
   },
   {
    "id": "t8",
-   "category": "business",
-   "headline": "Citroen revives the 2CV for an electric age",
-   "question": "Can the electric 2CV attract a new generation of eco‑conscious drivers?",
-   "source": "BBC News"
+   "category": "sports",
+   "headline": "Lewis Hamilton apologises to Ferrari after Antonelli's title‑contending move",
+   "question": "Should drivers be penalised for on‑track actions that affect championship outcomes?",
+   "source": "BBC Sport"
   },
   {
    "id": "t9",
-   "category": "trending",
-   "headline": "NBA player DeMar DeRozan trending online",
-   "question": "What factors are driving the recent surge in interest around DeMar DeRozan?",
-   "source": "Google Trends"
+   "category": "sports",
+   "headline": "NFL highlights: 'Freakish' footwork and 'unbelievable' catches dominate best plays",
+   "question": "Do spectacular plays enhance the NFL's appeal more than strategic gameplay?",
+   "source": "BBC Sport"
   }
  ]
 }
