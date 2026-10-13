@@ -1,6 +1,11 @@
 {
  "sessions": [
   {
+   "id": "20261013-1014",
+   "started_at": "2026-10-13T10:14:46+00:00",
+   "question_en": "Should software engineers be classified as blue‑collar workers rather than white‑collar, and what would be the implications for labor rights and compensation?"
+  },
+  {
    "id": "20261012-2229",
    "started_at": "2026-10-12T22:29:56+00:00",
    "question_en": "Should the use of advanced AI systems require formal training or certification to ensure responsible and effective deployment?"
