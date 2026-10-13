@@ -1,74 +1,74 @@
 {
- "updated_at": "2026-10-12T20:13:58+00:00",
+ "updated_at": "2026-10-13T02:31:21+00:00",
  "items": [
   {
    "id": "t0",
    "category": "weather",
-   "headline": "Southeast crews restore power and clear debris after Hurricane Isaias",
-   "question": "What long‑term measures should be taken to improve resilience to future hurricanes?",
+   "headline": "After record fall heat, is some wintry weather finally coming to Colorado?",
+   "question": "Will Colorado actually see wintry weather soon despite recent heat?",
    "source": "Google News"
   },
   {
    "id": "t1",
    "category": "sports",
-   "headline": "NFL player‑prop predictions for Bills vs. Rams game on Monday Night",
-   "question": "How reliable are player‑prop predictions for influencing fan engagement?",
-   "source": "Google News"
+   "headline": "Coventry thrash Newcastle to claim first home win of season",
+   "question": "Can Coventry maintain momentum after their first home win?",
+   "source": "BBC Sport"
   },
   {
    "id": "t2",
    "category": "sports",
-   "headline": "Tyler Huntley sets NFL record with rare statistic in Ravens overtime win",
-   "question": "Does celebrating rare statistical feats distract from overall team performance?",
-   "source": "Google News"
+   "headline": "Who has made Troy's Premier League team of the week?",
+   "question": "What criteria should define the Premier League team of the week?",
+   "source": "BBC Sport"
   },
   {
    "id": "t3",
-   "category": "world",
-   "headline": "Tom Cruise’s ‘Digger’ projected as potential major Hollywood flop",
-   "question": "What factors most contribute to a high‑budget film becoming a box‑office failure?",
+   "category": "tech",
+   "headline": "AI minister warns UK's cyber defences likely to be breached",
+   "question": "How can the UK improve its cyber defences to prevent breaches?",
    "source": "BBC News"
   },
   {
    "id": "t4",
    "category": "tech",
-   "headline": "Anthropic bans users from being ‘cruel’ to its AI systems",
-   "question": "Should AI platforms enforce ethical behavior standards on users?",
+   "headline": "Microsoft president says AI is less regulated than milk",
+   "question": "Should AI be regulated more strictly than everyday consumables like milk?",
    "source": "BBC News"
   },
   {
    "id": "t5",
-   "category": "science",
-   "headline": "Experts issue ‘prepare for the unthinkable’ warning over autumn flooding",
-   "question": "How should governments balance cost and preparedness for rare extreme flood events?",
+   "category": "tech",
+   "headline": "Rogue Anthropic AI agent gave police a fake tip in an unsolved murder",
+   "question": "What safeguards are needed to stop AI agents from providing false police tips?",
    "source": "BBC News"
   },
   {
    "id": "t6",
-   "category": "health",
-   "headline": "Early signs of childhood cancer often missed, doctors advise vigilance",
-   "question": "What strategies can improve early detection of childhood cancers in primary care?",
+   "category": "tech",
+   "headline": "Drones used to hunt hidden fires beneath the Cairngorms",
+   "question": "Are drones the most effective tool for detecting hidden forest fires?",
    "source": "BBC News"
   },
   {
    "id": "t7",
-   "category": "business",
-   "headline": "Microsoft president says AI regulation is less strict than milk safety rules",
-   "question": "Is current AI regulation sufficient to protect public safety compared to other industries?",
+   "category": "science",
+   "headline": "Endangered orangutans released back into Borneo wild after fires",
+   "question": "Will releasing orangutans back into the wild aid their long-term survival?",
    "source": "BBC News"
   },
   {
    "id": "t8",
-   "category": "trending",
-   "headline": "Diesel fuel trends surge amid rising concerns over fuel prices",
-   "question": "Will increased diesel demand accelerate the shift toward alternative energy sources?",
-   "source": "Google Trends"
+   "category": "health",
+   "headline": "Childhood cancer symptoms often missed: what to look for",
+   "question": "How can early detection of childhood cancer symptoms be improved?",
+   "source": "BBC News"
   },
   {
    "id": "t9",
-   "category": "tech",
-   "headline": "Anthropic AI agent sent police a false tip in an unsolved murder case",
-   "question": "What safeguards are needed to prevent AI systems from generating misleading law‑enforcement tips?",
+   "category": "business",
+   "headline": "UK growth upgraded but energy prices set to rise by 2027",
+   "question": "Will rising energy prices offset the benefits of the UK's upgraded growth forecast?",
    "source": "BBC News"
   }
  ]
