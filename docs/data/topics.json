@@ -1,75 +1,75 @@
 {
- "updated_at": "2026-10-13T02:31:21+00:00",
+ "updated_at": "2026-10-13T10:24:59+00:00",
  "items": [
   {
    "id": "t0",
-   "category": "weather",
-   "headline": "After record fall heat, is some wintry weather finally coming to Colorado?",
-   "question": "Will Colorado actually see wintry weather soon despite recent heat?",
-   "source": "Google News"
+   "category": "world",
+   "headline": "Russia's offensive capability appears weakened, says former Kyiv general",
+   "question": "How might this assessment affect the future of the conflict in Ukraine?",
+   "source": "BBC News"
   },
   {
    "id": "t1",
-   "category": "sports",
-   "headline": "Coventry thrash Newcastle to claim first home win of season",
-   "question": "Can Coventry maintain momentum after their first home win?",
-   "source": "BBC Sport"
+   "category": "weather",
+   "headline": "Las Vegas records unprecedented rainfall as storm Rachel hits the valley",
+   "question": "What long‑term impacts could such extreme rainfall have on the region's water management?",
+   "source": "Google News"
   },
   {
    "id": "t2",
    "category": "sports",
-   "headline": "Who has made Troy's Premier League team of the week?",
-   "question": "What criteria should define the Premier League team of the week?",
+   "headline": "Australia close to victory, Markram stays on for South Africa match",
+   "question": "Will retaining Markram improve South Africa's chances in the upcoming series?",
    "source": "BBC Sport"
   },
   {
    "id": "t3",
-   "category": "tech",
-   "headline": "AI minister warns UK's cyber defences likely to be breached",
-   "question": "How can the UK improve its cyber defences to prevent breaches?",
-   "source": "BBC News"
+   "category": "sports",
+   "headline": "Rays bullpen falters, Cleveland overwhelms Tampa Bay in Game 1",
+   "question": "Can the Rays recover their pitching depth after this early postseason loss?",
+   "source": "Google News"
   },
   {
    "id": "t4",
    "category": "tech",
-   "headline": "Microsoft president says AI is less regulated than milk",
-   "question": "Should AI be regulated more strictly than everyday consumables like milk?",
+   "headline": "UK AI minister warns nation's cyber defences likely to be breached",
+   "question": "What steps should governments take to strengthen cyber security against AI‑driven threats?",
    "source": "BBC News"
   },
   {
    "id": "t5",
    "category": "tech",
-   "headline": "Rogue Anthropic AI agent gave police a fake tip in an unsolved murder",
-   "question": "What safeguards are needed to stop AI agents from providing false police tips?",
+   "headline": "Anthropic AI system mistakenly sent police a fake tip in an unsolved murder",
+   "question": "How should regulators address the accountability of autonomous AI agents in law enforcement?",
    "source": "BBC News"
   },
   {
    "id": "t6",
-   "category": "tech",
-   "headline": "Drones used to hunt hidden fires beneath the Cairngorms",
-   "question": "Are drones the most effective tool for detecting hidden forest fires?",
+   "category": "science",
+   "headline": "Endangered orangutans released back into Borneo forest after devastating fires",
+   "question": "Will re‑introducing orangutans to fire‑scarred habitats ensure their long‑term survival?",
    "source": "BBC News"
   },
   {
    "id": "t7",
-   "category": "science",
-   "headline": "Endangered orangutans released back into Borneo wild after fires",
-   "question": "Will releasing orangutans back into the wild aid their long-term survival?",
+   "category": "health",
+   "headline": "Review outlines key points on autism, ADHD and mental health diagnoses",
+   "question": "Are current diagnostic criteria for autism and ADHD sufficient for diverse populations?",
    "source": "BBC News"
   },
   {
    "id": "t8",
-   "category": "health",
-   "headline": "Childhood cancer symptoms often missed: what to look for",
-   "question": "How can early detection of childhood cancer symptoms be improved?",
+   "category": "business",
+   "headline": "UK growth forecast raised, but higher energy prices could curb the economy",
+   "question": "How will rising energy costs influence the UK's economic outlook this year?",
    "source": "BBC News"
   },
   {
    "id": "t9",
-   "category": "business",
-   "headline": "UK growth upgraded but energy prices set to rise by 2027",
-   "question": "Will rising energy prices offset the benefits of the UK's upgraded growth forecast?",
-   "source": "BBC News"
+   "category": "trending",
+   "headline": "NASA trends surge as public interest in space exploration grows",
+   "question": "What factors are driving the recent spike in public attention toward NASA?",
+   "source": "Google Trends"
   }
  ]
 }
