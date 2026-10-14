@@ -1,75 +1,75 @@
 {
- "updated_at": "2026-10-13T23:15:02+00:00",
+ "updated_at": "2026-10-14T04:41:21+00:00",
  "items": [
   {
    "id": "t0",
    "category": "world",
-   "headline": "Pope undergoes successful lung surgery after cancer diagnosis, Vatican says",
-   "question": "How should the Vatican balance transparency about the Pope's health with respect for his privacy?",
-   "source": "BBC News"
+   "headline": "Pope diagnosed with lung cancer but had successful surgery, Vatican says",
+   "source": "BBC News",
+   "question": "What do you make of this story: Pope diagnosed with lung cancer but had successful surgery, Vatican says?"
   },
   {
    "id": "t1",
    "category": "world",
-   "headline": "Saudi man charged with installing sophisticated recording device at OpenAI office",
-   "question": "What legal and ethical standards should govern surveillance activities in tech companies?",
-   "source": "BBC News"
+   "headline": "Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines",
+   "source": "BBC News",
+   "question": "What do you make of this story: Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines?"
   },
   {
    "id": "t2",
-   "category": "tech",
-   "headline": "UK AI minister warns nation's cyber defences likely to be breached soon",
-   "question": "Are current UK cyber‑security policies sufficient to protect critical infrastructure?",
-   "source": "BBC News"
+   "category": "world",
+   "headline": "Missiles intercepted near Riyadh after Saudi coalition hits Yemen fuel depot",
+   "source": "BBC News",
+   "question": "What do you make of this story: Missiles intercepted near Riyadh after Saudi coalition hits Yemen fuel depot?"
   },
   {
    "id": "t3",
-   "category": "tech",
-   "headline": "Microsoft president claims AI regulation is less stringent than milk safety rules",
-   "question": "Should AI be regulated with the same rigor as food safety standards?",
-   "source": "BBC News"
+   "category": "world",
+   "headline": "Trump ousts Kimberly Guilfoyle as US ambassador to Greece after corruption allegations",
+   "source": "BBC News",
+   "question": "What do you make of this story: Trump ousts Kimberly Guilfoyle as US ambassador to Greece after corruption allegations?"
   },
   {
    "id": "t4",
-   "category": "science",
-   "headline": "Super El Niño reaches unprecedented strength, setting new climate record",
-   "question": "What immediate actions should governments take to mitigate the impacts of an extreme El Niño?",
-   "source": "BBC News"
+   "category": "sports",
+   "headline": "Martinez issues scathing attack on Man Utd board - has he made things worse?",
+   "source": "BBC Sport",
+   "question": "What do you make of this story: Martinez issues scathing attack on Man Utd board - has he made things worse??"
   },
   {
    "id": "t5",
-   "category": "health",
-   "headline": "Early signs of childhood cancer often missed, experts warn",
-   "question": "How can pediatric screening be improved to catch cancers earlier without over‑testing?",
-   "source": "BBC News"
+   "category": "sports",
+   "headline": "Saka responds to Arteta's challenge with 'huge impact'",
+   "source": "BBC Sport",
+   "question": "What do you make of this story: Saka responds to Arteta's challenge with 'huge impact'?"
   },
   {
    "id": "t6",
-   "category": "business",
-   "headline": "Royal Mail reports loss of 400 postal workers each week, union says",
-   "question": "What strategies can Royal Mail adopt to retain staff and maintain service quality?",
-   "source": "BBC News"
+   "category": "sports",
+   "headline": "Pressure on Norway in play-off final - Wilkinson",
+   "source": "BBC Sport",
+   "question": "What do you make of this story: Pressure on Norway in play-off final - Wilkinson?"
   },
   {
    "id": "t7",
    "category": "sports",
-   "headline": "NFL Week 6 power rankings: Vikings, Patriots rise to top 10",
-   "question": "Do current power‑ranking systems accurately reflect team performance and future prospects?",
-   "source": "Google News"
+   "headline": "Swans' Eom the target of alleged racism at Millwall",
+   "source": "BBC Sport",
+   "question": "What do you make of this story: Swans' Eom the target of alleged racism at Millwall?"
   },
   {
    "id": "t8",
-   "category": "sports",
-   "headline": "Dodgers consider benching Shohei Ohtani amid postseason struggles",
-   "question": "Should star players be rested during playoffs to preserve long‑term performance?",
-   "source": "Google News"
+   "category": "tech",
+   "headline": "How long will humans be needed for translation?",
+   "source": "BBC News",
+   "question": "What do you make of this story: How long will humans be needed for translation??"
   },
   {
    "id": "t9",
-   "category": "weather",
-   "headline": "FOX4 forecasts severe storms and heavy rain tonight across the region",
-   "question": "How can communities better prepare for sudden severe weather events predicted by local forecasts?",
-   "source": "Google News"
+   "category": "tech",
+   "headline": "Bumble bought for $1.3bn in 'bet on the future of humanity'",
+   "source": "BBC News",
+   "question": "What do you make of this story: Bumble bought for $1.3bn in 'bet on the future of humanity'?"
   }
  ]
 }
