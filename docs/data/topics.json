@@ -1,75 +1,75 @@
 {
- "updated_at": "2026-10-14T19:18:07+00:00",
+ "updated_at": "2026-10-14T23:07:37+00:00",
  "items": [
   {
    "id": "t0",
    "category": "world",
-   "headline": "Starlink restrictions in Ukraine war linked to political situation, Zelensky aide says",
-   "source": "BBC News",
-   "question": "What do you make of this story: Starlink restrictions in Ukraine war linked to political situation, Zelensky aide says?"
+   "headline": "Musk says limits on Ukraine's Starlink are set by the US, not his company",
+   "question": "Should governments be responsible for regulating satellite internet access in conflict zones?",
+   "source": "BBC News"
   },
   {
    "id": "t1",
    "category": "world",
-   "headline": "US inflation rises more than expected - here's what is happening with prices",
-   "source": "BBC News",
-   "question": "What do you make of this story: US inflation rises more than expected - here's what is happening with prices?"
+   "headline": "Pope recovering and walking after surgery, doctors say",
+   "question": "How much should the public be informed about the health of religious leaders?",
+   "source": "BBC News"
   },
   {
    "id": "t2",
    "category": "world",
-   "headline": "Australia's first-ever Michelin stars go to 11 restaurants in one state",
-   "source": "BBC News",
-   "question": "What do you make of this story: Australia's first-ever Michelin stars go to 11 restaurants in one state?"
+   "headline": "Australia awards its first Michelin stars to 11 restaurants in one state",
+   "question": "Will expanding Michelin recognition boost Australia's culinary tourism?",
+   "source": "BBC News"
   },
   {
    "id": "t3",
-   "category": "world",
-   "headline": "Kenya confirms second Ebola case - a relative of the first victim",
-   "source": "BBC News",
-   "question": "What do you make of this story: Kenya confirms second Ebola case - a relative of the first victim?"
+   "category": "weather",
+   "headline": "National Weather Service issues first freeze watch and winter advisory of season",
+   "question": "How effective are early freeze watches in helping communities prepare for winter storms?",
+   "source": "Google News"
   },
   {
    "id": "t4",
    "category": "sports",
-   "headline": "Wilcox the target again in another damaging Man Utd fallout",
-   "source": "BBC Sport",
-   "question": "What do you make of this story: Wilcox the target again in another damaging Man Utd fallout?"
+   "headline": "Shohei Ohtani's status for NLCS Game 3 revealed amid benching talks",
+   "question": "Should star players be rested during crucial playoff games to preserve health?",
+   "source": "Google News"
   },
   {
    "id": "t5",
    "category": "sports",
-   "headline": "Millwall's Neil criticised over racial abuse stoppage comments",
-   "source": "BBC Sport",
-   "question": "What do you make of this story: Millwall's Neil criticised over racial abuse stoppage comments?"
+   "headline": "USWNT shows resilience in comeback draw against Spain",
+   "question": "What factors contribute most to a national team's ability to bounce back after conceding?",
+   "source": "Google News"
   },
   {
    "id": "t6",
-   "category": "sports",
-   "headline": "Star-studded Saudi exhibition postponed after deadly attacks",
-   "source": "BBC Sport",
-   "question": "What do you make of this story: Star-studded Saudi exhibition postponed after deadly attacks?"
+   "category": "tech",
+   "headline": "UK AI minister warns country's cyber defences likely to be breached",
+   "question": "Are current UK cyber defence strategies sufficient to protect critical AI infrastructure?",
+   "source": "BBC News"
   },
   {
    "id": "t7",
-   "category": "sports",
-   "headline": "GB men 'on back foot' after Richardson withdrawal, but women take silver",
-   "source": "BBC Sport",
-   "question": "What do you make of this story: GB men 'on back foot' after Richardson withdrawal, but women take silver?"
+   "category": "tech",
+   "headline": "Microsoft president says AI regulation is less strict than milk",
+   "question": "What level of regulation is appropriate for rapidly evolving AI technologies?",
+   "source": "BBC News"
   },
   {
    "id": "t8",
-   "category": "tech",
-   "headline": "Toilet paper and secret recorders: What we know about the arrest of the Saudi OpenAI engineer",
-   "source": "BBC News",
-   "question": "What do you make of this story: Toilet paper and secret recorders: What we know about the arrest of the Saudi OpenAI engineer?"
+   "category": "science",
+   "headline": "Super El Niño reaches unprecedented strength, setting new records",
+   "question": "How should governments adjust climate policies in response to extreme El Niño events?",
+   "source": "BBC News"
   },
   {
    "id": "t9",
-   "category": "tech",
-   "headline": "How long will humans be needed for translation?",
-   "source": "BBC News",
-   "question": "What do you make of this story: How long will humans be needed for translation??"
+   "category": "health",
+   "headline": "Review examines over‑diagnosis of autism and ADHD in children",
+   "question": "What balance should be struck between early detection and avoiding over‑diagnosis of neurodevelopmental disorders?",
+   "source": "BBC News"
   }
  ]
 }
