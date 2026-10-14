@@ -1,74 +1,74 @@
 {
- "updated_at": "2026-10-14T10:03:18+00:00",
+ "updated_at": "2026-10-14T15:02:41+00:00",
  "items": [
   {
    "id": "t0",
-   "category": "world",
-   "headline": "Russian strikes leave 600,000 without power in Ukraine, Starlink limits front line",
-   "question": "How should the international community respond to infrastructure attacks that disrupt civilian life?",
-   "source": "BBC News"
+   "category": "weather",
+   "headline": "First Winter Weather Advisory issued for Colorado rain and snow",
+   "question": "How should residents prepare for the upcoming winter weather in Colorado?",
+   "source": "Google News"
   },
   {
    "id": "t1",
-   "category": "world",
-   "headline": "MI5 chief warns of UK threats from Russia, Iran and AI",
-   "question": "What balance should be struck between security measures and civil liberties in addressing foreign AI threats?",
-   "source": "BBC News"
+   "category": "sports",
+   "headline": "Freddy Peralta relies on fastball to shut down Guardians in ALCS tie",
+   "question": "Will Peralta's pitching strategy be enough for the Rays to advance further?",
+   "source": "Google News"
   },
   {
    "id": "t2",
-   "category": "tech",
-   "headline": "AI minister warns UK's cyber defences likely to be breached",
-   "question": "What steps should governments prioritize to strengthen national cyber resilience?",
-   "source": "BBC News"
+   "category": "sports",
+   "headline": "Shohei Ohtani says he can play as Dodgers' season hinges on his health",
+   "question": "How critical is Ohtani's health to the Dodgers' championship hopes?",
+   "source": "Google News"
   },
   {
    "id": "t3",
-   "category": "science",
-   "headline": "Super El Niño sets record, strengthens to unprecedented levels",
-   "question": "How can societies adapt to increasingly extreme El Niño events?",
+   "category": "world",
+   "headline": "Hundreds of thousands of workers strike across the Republic of Ireland",
+   "question": "What impact will the massive Irish strike have on the country's economy?",
    "source": "BBC News"
   },
   {
    "id": "t4",
-   "category": "health",
-   "headline": "Autism, ADHD and mental health review: key points you need to know",
-   "question": "Should diagnostic criteria for neurodevelopmental disorders be revised to reduce over‑diagnosis?",
+   "category": "tech",
+   "headline": "UK AI minister warns cyber defences likely to be breached soon",
+   "question": "Are current UK cyber‑defence measures sufficient to protect against AI‑driven attacks?",
    "source": "BBC News"
   },
   {
    "id": "t5",
-   "category": "business",
-   "headline": "Heathrow boss says no third runway is a huge missed opportunity",
-   "question": "Is expanding airport capacity worth the environmental trade‑offs?",
+   "category": "tech",
+   "headline": "Microsoft president says AI regulation is less strict than milk safety",
+   "question": "Should AI be regulated more tightly than everyday consumer products?",
    "source": "BBC News"
   },
   {
    "id": "t6",
-   "category": "weather",
-   "headline": "Kansas City severe weather threat fades, heavy rain and flooding concerns",
-   "question": "What infrastructure improvements can mitigate flood risks in urban areas?",
-   "source": "Google News"
+   "category": "science",
+   "headline": "Super El Niño reaches unprecedented strength, setting new records",
+   "question": "What long‑term effects could this extreme El Niño have on global climate?",
+   "source": "BBC News"
   },
   {
    "id": "t7",
-   "category": "sports",
-   "headline": "Tampa Bay Rays win game two over Guardians, ALCS tied 1-1",
-   "question": "Does the current playoff format fairly reward regular‑season performance?",
-   "source": "Google News"
+   "category": "health",
+   "headline": "Review outlines key points on autism, ADHD and mental health",
+   "question": "How can the new review improve support for individuals with neurodivergent conditions?",
+   "source": "BBC News"
   },
   {
    "id": "t8",
-   "category": "sports",
-   "headline": "Rams LT Alaric Jackson suspended for two games",
-   "question": "Are current NFL disciplinary policies effective at deterring on‑field misconduct?",
-   "source": "Google News"
+   "category": "business",
+   "headline": "Driving test wait times drop to two‑year low, still average 20 weeks",
+   "question": "What steps could further reduce driving test backlogs?",
+   "source": "BBC News"
   },
   {
    "id": "t9",
    "category": "trending",
-   "headline": "Russell Brand trends on Google searches",
-   "question": "What factors drive sudden spikes in public interest for media personalities?",
+   "headline": "SOFI stock sees heightened interest amid market volatility",
+   "question": "Is investing in SOFI a prudent move given current financial trends?",
    "source": "Google Trends"
   }
  ]
