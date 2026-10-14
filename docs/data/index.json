@@ -1,6 +1,11 @@
 {
  "sessions": [
   {
+   "id": "20261014-1914",
+   "started_at": "2026-10-14T19:14:01+00:00",
+   "question_en": "Should AI research labs be mandated to adhere to standardized safety and security protocols before deploying advanced AI agents?"
+  },
+  {
    "id": "20261014-0830",
    "started_at": "2026-10-14T08:30:33+00:00",
    "question_en": "Should governments mandate the continued availability of cash alongside digital payment methods to protect financial inclusion?"
