@@ -1,6 +1,11 @@
 {
  "sessions": [
   {
+   "id": "20261014-0830",
+   "started_at": "2026-10-14T08:30:33+00:00",
+   "question_en": "Should governments mandate the continued availability of cash alongside digital payment methods to protect financial inclusion?"
+  },
+  {
    "id": "20261013-2033",
    "started_at": "2026-10-13T20:33:52+00:00",
    "question_en": "Should the Rust programming language continue to market its borrow checker as a guarantee of memory safety given recent discoveries of long‑standing unsoundness bugs?"
