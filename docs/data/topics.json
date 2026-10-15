@@ -1,74 +1,74 @@
 {
- "updated_at": "2026-10-14T23:07:37+00:00",
+ "updated_at": "2026-10-15T04:23:32+00:00",
  "items": [
   {
    "id": "t0",
-   "category": "world",
-   "headline": "Musk says limits on Ukraine's Starlink are set by the US, not his company",
-   "question": "Should governments be responsible for regulating satellite internet access in conflict zones?",
-   "source": "BBC News"
+   "category": "weather",
+   "headline": "Nor'easter threatens Jersey Shore towns with flooding and beach erosion",
+   "question": "How should coastal communities balance emergency preparedness with long-term infrastructure investment in the face of increasing nor'easter activity?",
+   "source": "Google News"
   },
   {
    "id": "t1",
-   "category": "world",
-   "headline": "Pope recovering and walking after surgery, doctors say",
-   "question": "How much should the public be informed about the health of religious leaders?",
-   "source": "BBC News"
+   "category": "sports",
+   "headline": "Pep Guardiola returns as Manchester City manager amid high expectations",
+   "question": "Will Guardiola's return significantly improve Manchester City's performance this season?",
+   "source": "BBC Sport"
   },
   {
    "id": "t2",
-   "category": "world",
-   "headline": "Australia awards its first Michelin stars to 11 restaurants in one state",
-   "question": "Will expanding Michelin recognition boost Australia's culinary tourism?",
-   "source": "BBC News"
+   "category": "sports",
+   "headline": "Liverpool defeats LASK 6-0 with standout performance by Barcola",
+   "question": "Can Liverpool maintain this scoring momentum in upcoming European matches?",
+   "source": "BBC Sport"
   },
   {
    "id": "t3",
-   "category": "weather",
-   "headline": "National Weather Service issues first freeze watch and winter advisory of season",
-   "question": "How effective are early freeze watches in helping communities prepare for winter storms?",
-   "source": "Google News"
+   "category": "world",
+   "headline": "Brooklyn novelty shop faces dispute with Kelly Clarkson over mechanical bird",
+   "question": "Should public figures be held accountable for influencing small business conflicts?",
+   "source": "BBC News"
   },
   {
    "id": "t4",
-   "category": "sports",
-   "headline": "Shohei Ohtani's status for NLCS Game 3 revealed amid benching talks",
-   "question": "Should star players be rested during crucial playoff games to preserve health?",
-   "source": "Google News"
+   "category": "tech",
+   "headline": "UK AI minister warns that national cyber defenses are likely to be breached",
+   "question": "What measures can the UK implement to strengthen cyber defenses against AI-driven threats?",
+   "source": "BBC News"
   },
   {
    "id": "t5",
-   "category": "sports",
-   "headline": "USWNT shows resilience in comeback draw against Spain",
-   "question": "What factors contribute most to a national team's ability to bounce back after conceding?",
-   "source": "Google News"
+   "category": "tech",
+   "headline": "Microsoft president says AI regulation lags behind that of milk",
+   "question": "Is current AI regulation sufficient to protect public safety and innovation?",
+   "source": "BBC News"
   },
   {
    "id": "t6",
-   "category": "tech",
-   "headline": "UK AI minister warns country's cyber defences likely to be breached",
-   "question": "Are current UK cyber defence strategies sufficient to protect critical AI infrastructure?",
+   "category": "science",
+   "headline": "Dog recognized as Animal of the Year for hunting invasive seaweed",
+   "question": "Can using trained animals be an effective strategy for managing invasive marine species?",
    "source": "BBC News"
   },
   {
    "id": "t7",
-   "category": "tech",
-   "headline": "Microsoft president says AI regulation is less strict than milk",
-   "question": "What level of regulation is appropriate for rapidly evolving AI technologies?",
+   "category": "science",
+   "headline": "Archaeologists discover world's oldest shipwreck off Turkey's coast",
+   "question": "What can the newly found shipwreck reveal about ancient maritime trade routes?",
    "source": "BBC News"
   },
   {
    "id": "t8",
-   "category": "science",
-   "headline": "Super El Niño reaches unprecedented strength, setting new records",
-   "question": "How should governments adjust climate policies in response to extreme El Niño events?",
+   "category": "health",
+   "headline": "Clinicians urge reduced screen time in classrooms to protect health",
+   "question": "How can schools balance digital learning benefits with potential health risks of screen time?",
    "source": "BBC News"
   },
   {
    "id": "t9",
-   "category": "health",
-   "headline": "Review examines over‑diagnosis of autism and ADHD in children",
-   "question": "What balance should be struck between early detection and avoiding over‑diagnosis of neurodevelopmental disorders?",
+   "category": "business",
+   "headline": "Netflix announces plan to cut 1,000 jobs, its biggest layoff since 2022",
+   "question": "Will Netflix's job cuts improve its financial stability without harming content quality?",
    "source": "BBC News"
   }
  ]
