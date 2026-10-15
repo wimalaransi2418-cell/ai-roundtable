@@ -1,75 +1,75 @@
 {
- "updated_at": "2026-10-15T09:46:02+00:00",
+ "updated_at": "2026-10-15T14:51:24+00:00",
  "items": [
   {
    "id": "t0",
    "category": "weather",
-   "headline": "National Weather Service issues first freeze watch and winter advisory of season",
-   "question": "How should residents and businesses prepare for the upcoming freeze conditions?",
+   "headline": "Hot weather and winds raise California wildfire threat as power shutoffs start",
+   "question": "Should California continue widespread power shutoffs to prevent wildfires despite the inconvenience to residents?",
    "source": "Google News"
   },
   {
    "id": "t1",
    "category": "sports",
-   "headline": "Guardiola returns as Man City displays defiant, chaotic performance",
-   "question": "Will Guardiola's return restore Manchester City's dominance in the league?",
+   "headline": "Australia edges New Zealand in an epic World Cup opener",
+   "question": "Does this close win indicate Australia’s rising dominance in international competition?",
    "source": "BBC Sport"
   },
   {
    "id": "t2",
    "category": "sports",
-   "headline": "Brewers' bats stun Blake Snell, leading to emphatic NLCS victory",
-   "question": "Can the Brewers maintain this offensive momentum through the World Series?",
-   "source": "Google News"
+   "headline": "Great Britain secures two gold medals at the Track World Championships",
+   "question": "Will these victories boost investment in British athletics programs?",
+   "source": "BBC Sport"
   },
   {
    "id": "t3",
    "category": "world",
-   "headline": "Indonesians share footage of orange haze blanketing towns",
-   "question": "What long-term measures are needed to address recurring haze events in Southeast Asia?",
+   "headline": "Brazil's Congress passes legislation for a shorter working week",
+   "question": "Will a shorter workweek improve productivity and workers' wellbeing in Brazil?",
    "source": "BBC News"
   },
   {
    "id": "t4",
    "category": "tech",
-   "headline": "UK AI minister warns cyber defences likely to be breached",
-   "question": "Are current UK cyber security policies sufficient to protect critical AI infrastructure?",
+   "headline": "AI startup Anthropic seeks investors ahead of its stock market debut",
+   "question": "Can Anthropic’s approach to AI safety attract enough capital to compete with larger rivals?",
    "source": "BBC News"
   },
   {
    "id": "t5",
-   "category": "tech",
-   "headline": "Microsoft president says AI regulation lags behind that of milk",
-   "question": "What regulatory framework would best balance AI innovation and public safety?",
+   "category": "science",
+   "headline": "Sheep numbers are dwindling on UK hills and disappearing from dinner plates",
+   "question": "What are the main factors driving the decline of sheep farming in the UK?",
    "source": "BBC News"
   },
   {
    "id": "t6",
-   "category": "science",
-   "headline": "Dog honored as animal of the year for hunting invasive 'sea vomit'",
-   "question": "How effective are biological control methods like trained dogs in managing marine invasive species?",
+   "category": "health",
+   "headline": "Experts urge reduced screen time in classrooms to protect long‑term health",
+   "question": "How can schools balance digital learning benefits with the risks of excessive screen time?",
    "source": "BBC News"
   },
   {
    "id": "t7",
-   "category": "health",
-   "headline": "Review covers autism, ADHD, and mental health: key takeaways",
-   "question": "Should diagnostic criteria for autism and ADHD be revised to reduce over‑diagnosis?",
+   "category": "business",
+   "headline": "Christmas rush raises questions on how China‑made toys reach US stores",
+   "question": "Should retailers diversify supply chains to reduce reliance on Chinese toy manufacturers?",
    "source": "BBC News"
   },
   {
    "id": "t8",
-   "category": "business",
-   "headline": "Anthropic reports revenue surge ahead of stock market debut",
-   "question": "Will Anthropic's rapid growth signal a broader shift in AI market dynamics?",
-   "source": "BBC News"
+   "category": "trending",
+   "headline": "AAPL stock sees heightened investor interest amid mixed earnings reports",
+   "question": "Is Apple’s current valuation justified given its recent product performance?",
+   "source": "Google Trends"
   },
   {
    "id": "t9",
-   "category": "trending",
-   "headline": "Fortnite server status updates spark player discussions",
-   "question": "How do recurring server issues impact player retention and the game's future popularity?",
-   "source": "Google Trends"
+   "category": "business",
+   "headline": "Debate intensifies over the appropriate level for the UK minimum wage",
+   "question": "What impact would a higher minimum wage have on small businesses and living standards?",
+   "source": "BBC News"
   }
  ]
 }
