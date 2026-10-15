@@ -1,75 +1,75 @@
 {
- "updated_at": "2026-10-15T19:02:11+00:00",
+ "updated_at": "2026-10-15T22:09:13+00:00",
  "items": [
   {
    "id": "t0",
    "category": "weather",
-   "headline": "El Niño expected to influence U.S. winter weather patterns",
-   "question": "How should policymakers and citizens prepare for the potential impacts of a strong El Niño on winter conditions?",
+   "headline": "El Niño looms large over U.S. winter outlook",
+   "question": "How should communities prepare for the potential impacts of a strong El Niño this winter?",
    "source": "Google News"
   },
   {
    "id": "t1",
    "category": "sports",
-   "headline": "Australia defeats New Zealand in thrilling World Cup opener",
-   "question": "Will Australia's victory signal a shift in dominance for the upcoming tournament?",
+   "headline": "Australia clinches thrilling World Cup opener against New Zealand",
+   "question": "What factors contributed most to Australia’s victory in the opening match?",
    "source": "BBC Sport"
   },
   {
    "id": "t2",
    "category": "sports",
-   "headline": "F1 pit stop innovations credited with saving driver lives",
-   "question": "Should other motorsports adopt similar pit‑stop safety measures?",
-   "source": "BBC Sport"
+   "headline": "College Football Playoff expansion to 24 teams proposed for 2027",
+   "question": "Will expanding the playoff to 24 teams improve fairness and excitement in college football?",
+   "source": "Google News"
   },
   {
    "id": "t3",
-   "category": "tech",
-   "headline": "Everything you need to know about Rockstar's upcoming GTA 6",
-   "question": "Will GTA 6 set new standards for open‑world game design?",
+   "category": "world",
+   "headline": "Nepal seeks to unite India and China on climate cooperation",
+   "question": "Can Nepal successfully mediate climate collaboration between India and China despite political tensions?",
    "source": "BBC News"
   },
   {
    "id": "t4",
    "category": "tech",
-   "headline": "AI‑driven mass job applications: benefits and pitfalls",
-   "question": "Are AI‑powered job application tools helping or harming job seekers?",
+   "headline": "Anthropic seeks investors ahead of stock market debut",
+   "question": "What are the potential risks and rewards for investors in backing Anthropic now?",
    "source": "BBC News"
   },
   {
    "id": "t5",
    "category": "science",
-   "headline": "Severe drought prompts hosepipe bans across affected regions",
-   "question": "What long‑term strategies are needed to mitigate recurring droughts?",
+   "headline": "Severe drought prompts hosepipe bans in affected regions",
+   "question": "What long‑term strategies should be adopted to mitigate recurring severe droughts?",
    "source": "BBC News"
   },
   {
    "id": "t6",
-   "category": "science",
-   "headline": "Decline of sheep populations threatens UK food supply",
-   "question": "Should the government intervene to protect sheep farming?",
+   "category": "health",
+   "headline": "12‑year‑old asks if protein powder is safe for kids",
+   "question": "Is protein powder appropriate for children, and under what circumstances?",
    "source": "BBC News"
   },
   {
    "id": "t7",
-   "category": "health",
-   "headline": "Teen considers protein powder: safety and effectiveness concerns",
-   "question": "Is protein supplementation appropriate for adolescents without medical supervision?",
+   "category": "business",
+   "headline": "Current minimum wage rates and their economic impact",
+   "question": "Should the minimum wage be increased to reflect rising living costs?",
    "source": "BBC News"
   },
   {
    "id": "t8",
-   "category": "business",
-   "headline": "Christmas rush raises questions about US toy supply chain from China",
-   "question": "Can the US reduce reliance on Chinese‑made toys for holiday demand?",
-   "source": "BBC News"
+   "category": "trending",
+   "headline": "Stranger Things continues to dominate online discussions",
+   "question": "What aspects of Stranger Things keep it resonating with new audiences?",
+   "source": "Google Trends"
   },
   {
    "id": "t9",
-   "category": "trending",
-   "headline": "Juventus tops recent Google search trends",
-   "question": "What factors are driving the recent surge in interest for Juventus?",
-   "source": "Google Trends"
+   "category": "tech",
+   "headline": "Future role of humans in translation as AI advances",
+   "question": "Will AI eventually replace human translators, or will they continue to work together?",
+   "source": "BBC News"
   }
  ]
 }
