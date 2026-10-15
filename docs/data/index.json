@@ -1,6 +1,11 @@
 {
  "sessions": [
   {
+   "id": "20261015-1856",
+   "started_at": "2026-10-15T18:56:28+00:00",
+   "question_en": "Should the integration of AI tools into mathematical research be actively promoted, even if it may fundamentally alter how proofs are discovered and validated?"
+  },
+  {
    "id": "20261015-0804",
    "started_at": "2026-10-15T08:04:48+00:00",
    "question_en": "Should the software industry continue to invest in optimizing HTTP/1 rather than fully transitioning to newer protocols like HTTP/2 and HTTP/3?"
