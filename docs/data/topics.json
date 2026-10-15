@@ -1,75 +1,75 @@
 {
- "updated_at": "2026-10-15T14:51:24+00:00",
+ "updated_at": "2026-10-15T19:02:11+00:00",
  "items": [
   {
    "id": "t0",
    "category": "weather",
-   "headline": "Hot weather and winds raise California wildfire threat as power shutoffs start",
-   "question": "Should California continue widespread power shutoffs to prevent wildfires despite the inconvenience to residents?",
+   "headline": "El Niño expected to influence U.S. winter weather patterns",
+   "question": "How should policymakers and citizens prepare for the potential impacts of a strong El Niño on winter conditions?",
    "source": "Google News"
   },
   {
    "id": "t1",
    "category": "sports",
-   "headline": "Australia edges New Zealand in an epic World Cup opener",
-   "question": "Does this close win indicate Australia’s rising dominance in international competition?",
+   "headline": "Australia defeats New Zealand in thrilling World Cup opener",
+   "question": "Will Australia's victory signal a shift in dominance for the upcoming tournament?",
    "source": "BBC Sport"
   },
   {
    "id": "t2",
    "category": "sports",
-   "headline": "Great Britain secures two gold medals at the Track World Championships",
-   "question": "Will these victories boost investment in British athletics programs?",
+   "headline": "F1 pit stop innovations credited with saving driver lives",
+   "question": "Should other motorsports adopt similar pit‑stop safety measures?",
    "source": "BBC Sport"
   },
   {
    "id": "t3",
-   "category": "world",
-   "headline": "Brazil's Congress passes legislation for a shorter working week",
-   "question": "Will a shorter workweek improve productivity and workers' wellbeing in Brazil?",
+   "category": "tech",
+   "headline": "Everything you need to know about Rockstar's upcoming GTA 6",
+   "question": "Will GTA 6 set new standards for open‑world game design?",
    "source": "BBC News"
   },
   {
    "id": "t4",
    "category": "tech",
-   "headline": "AI startup Anthropic seeks investors ahead of its stock market debut",
-   "question": "Can Anthropic’s approach to AI safety attract enough capital to compete with larger rivals?",
+   "headline": "AI‑driven mass job applications: benefits and pitfalls",
+   "question": "Are AI‑powered job application tools helping or harming job seekers?",
    "source": "BBC News"
   },
   {
    "id": "t5",
    "category": "science",
-   "headline": "Sheep numbers are dwindling on UK hills and disappearing from dinner plates",
-   "question": "What are the main factors driving the decline of sheep farming in the UK?",
+   "headline": "Severe drought prompts hosepipe bans across affected regions",
+   "question": "What long‑term strategies are needed to mitigate recurring droughts?",
    "source": "BBC News"
   },
   {
    "id": "t6",
-   "category": "health",
-   "headline": "Experts urge reduced screen time in classrooms to protect long‑term health",
-   "question": "How can schools balance digital learning benefits with the risks of excessive screen time?",
+   "category": "science",
+   "headline": "Decline of sheep populations threatens UK food supply",
+   "question": "Should the government intervene to protect sheep farming?",
    "source": "BBC News"
   },
   {
    "id": "t7",
-   "category": "business",
-   "headline": "Christmas rush raises questions on how China‑made toys reach US stores",
-   "question": "Should retailers diversify supply chains to reduce reliance on Chinese toy manufacturers?",
+   "category": "health",
+   "headline": "Teen considers protein powder: safety and effectiveness concerns",
+   "question": "Is protein supplementation appropriate for adolescents without medical supervision?",
    "source": "BBC News"
   },
   {
    "id": "t8",
-   "category": "trending",
-   "headline": "AAPL stock sees heightened investor interest amid mixed earnings reports",
-   "question": "Is Apple’s current valuation justified given its recent product performance?",
-   "source": "Google Trends"
+   "category": "business",
+   "headline": "Christmas rush raises questions about US toy supply chain from China",
+   "question": "Can the US reduce reliance on Chinese‑made toys for holiday demand?",
+   "source": "BBC News"
   },
   {
    "id": "t9",
-   "category": "business",
-   "headline": "Debate intensifies over the appropriate level for the UK minimum wage",
-   "question": "What impact would a higher minimum wage have on small businesses and living standards?",
-   "source": "BBC News"
+   "category": "trending",
+   "headline": "Juventus tops recent Google search trends",
+   "question": "What factors are driving the recent surge in interest for Juventus?",
+   "source": "Google Trends"
   }
  ]
 }
