@@ -1,75 +1,75 @@
 {
- "updated_at": "2026-10-15T04:23:32+00:00",
+ "updated_at": "2026-10-15T09:46:02+00:00",
  "items": [
   {
    "id": "t0",
    "category": "weather",
-   "headline": "Nor'easter threatens Jersey Shore towns with flooding and beach erosion",
-   "question": "How should coastal communities balance emergency preparedness with long-term infrastructure investment in the face of increasing nor'easter activity?",
+   "headline": "National Weather Service issues first freeze watch and winter advisory of season",
+   "question": "How should residents and businesses prepare for the upcoming freeze conditions?",
    "source": "Google News"
   },
   {
    "id": "t1",
    "category": "sports",
-   "headline": "Pep Guardiola returns as Manchester City manager amid high expectations",
-   "question": "Will Guardiola's return significantly improve Manchester City's performance this season?",
+   "headline": "Guardiola returns as Man City displays defiant, chaotic performance",
+   "question": "Will Guardiola's return restore Manchester City's dominance in the league?",
    "source": "BBC Sport"
   },
   {
    "id": "t2",
    "category": "sports",
-   "headline": "Liverpool defeats LASK 6-0 with standout performance by Barcola",
-   "question": "Can Liverpool maintain this scoring momentum in upcoming European matches?",
-   "source": "BBC Sport"
+   "headline": "Brewers' bats stun Blake Snell, leading to emphatic NLCS victory",
+   "question": "Can the Brewers maintain this offensive momentum through the World Series?",
+   "source": "Google News"
   },
   {
    "id": "t3",
    "category": "world",
-   "headline": "Brooklyn novelty shop faces dispute with Kelly Clarkson over mechanical bird",
-   "question": "Should public figures be held accountable for influencing small business conflicts?",
+   "headline": "Indonesians share footage of orange haze blanketing towns",
+   "question": "What long-term measures are needed to address recurring haze events in Southeast Asia?",
    "source": "BBC News"
   },
   {
    "id": "t4",
    "category": "tech",
-   "headline": "UK AI minister warns that national cyber defenses are likely to be breached",
-   "question": "What measures can the UK implement to strengthen cyber defenses against AI-driven threats?",
+   "headline": "UK AI minister warns cyber defences likely to be breached",
+   "question": "Are current UK cyber security policies sufficient to protect critical AI infrastructure?",
    "source": "BBC News"
   },
   {
    "id": "t5",
    "category": "tech",
    "headline": "Microsoft president says AI regulation lags behind that of milk",
-   "question": "Is current AI regulation sufficient to protect public safety and innovation?",
+   "question": "What regulatory framework would best balance AI innovation and public safety?",
    "source": "BBC News"
   },
   {
    "id": "t6",
    "category": "science",
-   "headline": "Dog recognized as Animal of the Year for hunting invasive seaweed",
-   "question": "Can using trained animals be an effective strategy for managing invasive marine species?",
+   "headline": "Dog honored as animal of the year for hunting invasive 'sea vomit'",
+   "question": "How effective are biological control methods like trained dogs in managing marine invasive species?",
    "source": "BBC News"
   },
   {
    "id": "t7",
-   "category": "science",
-   "headline": "Archaeologists discover world's oldest shipwreck off Turkey's coast",
-   "question": "What can the newly found shipwreck reveal about ancient maritime trade routes?",
+   "category": "health",
+   "headline": "Review covers autism, ADHD, and mental health: key takeaways",
+   "question": "Should diagnostic criteria for autism and ADHD be revised to reduce over‑diagnosis?",
    "source": "BBC News"
   },
   {
    "id": "t8",
-   "category": "health",
-   "headline": "Clinicians urge reduced screen time in classrooms to protect health",
-   "question": "How can schools balance digital learning benefits with potential health risks of screen time?",
+   "category": "business",
+   "headline": "Anthropic reports revenue surge ahead of stock market debut",
+   "question": "Will Anthropic's rapid growth signal a broader shift in AI market dynamics?",
    "source": "BBC News"
   },
   {
    "id": "t9",
-   "category": "business",
-   "headline": "Netflix announces plan to cut 1,000 jobs, its biggest layoff since 2022",
-   "question": "Will Netflix's job cuts improve its financial stability without harming content quality?",
-   "source": "BBC News"
+   "category": "trending",
+   "headline": "Fortnite server status updates spark player discussions",
+   "question": "How do recurring server issues impact player retention and the game's future popularity?",
+   "source": "Google Trends"
   }
  ]
 }
