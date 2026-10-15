@@ -1,6 +1,11 @@
 {
  "sessions": [
   {
+   "id": "20261015-0804",
+   "started_at": "2026-10-15T08:04:48+00:00",
+   "question_en": "Should the software industry continue to invest in optimizing HTTP/1 rather than fully transitioning to newer protocols like HTTP/2 and HTTP/3?"
+  },
+  {
    "id": "20261014-1914",
    "started_at": "2026-10-14T19:14:01+00:00",
    "question_en": "Should AI research labs be mandated to adhere to standardized safety and security protocols before deploying advanced AI agents?"
