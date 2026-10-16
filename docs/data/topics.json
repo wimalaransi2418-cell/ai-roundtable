@@ -1,75 +1,75 @@
 {
- "updated_at": "2026-10-16T01:10:52+00:00",
+ "updated_at": "2026-10-16T07:01:53+00:00",
  "items": [
   {
    "id": "t0",
-   "category": "world",
-   "headline": "Trump calls off livestream of Fort Hood attacker's execution by firing squad",
-   "source": "BBC News",
-   "question": "What do you make of this story: Trump calls off livestream of Fort Hood attacker's execution by firing squad?"
+   "category": "weather",
+   "headline": "Storms forecast across New York for today",
+   "question": "How should residents prepare for the upcoming storms to minimize disruption?",
+   "source": "Google News"
   },
   {
    "id": "t1",
-   "category": "world",
-   "headline": "Bus hits train stopped on French side of Channel Tunnel, with 19 injured",
-   "source": "BBC News",
-   "question": "What do you make of this story: Bus hits train stopped on French side of Channel Tunnel, with 19 injured?"
+   "category": "sports",
+   "headline": "Brewers sweep Dodgers to end their three‑peat hopes in NLCS",
+   "question": "What factors contributed most to the Brewers' dominant performance in the series?",
+   "source": "Google News"
   },
   {
    "id": "t2",
-   "category": "world",
-   "headline": "At least 33 pupils and teacher killed after school roof collapses in Pakistan",
-   "source": "BBC News",
-   "question": "What do you make of this story: At least 33 pupils and teacher killed after school roof collapses in Pakistan?"
+   "category": "sports",
+   "headline": "College Football Playoff may expand to 24 teams by 2027",
+   "question": "Will expanding the playoff improve competitive balance or dilute the tournament's prestige?",
+   "source": "Google News"
   },
   {
    "id": "t3",
    "category": "world",
-   "headline": "Tip-off foiled US teen suspect's plot to attack Hindu temple, police say",
-   "source": "BBC News",
-   "question": "What do you make of this story: Tip-off foiled US teen suspect's plot to attack Hindu temple, police say?"
+   "headline": "Collision between bus and stationary train near Channel Tunnel injures dozens",
+   "question": "What safety measures could prevent similar accidents in the Channel Tunnel area?",
+   "source": "BBC News"
   },
   {
    "id": "t4",
-   "category": "sports",
-   "headline": "Martinez apologises for outburst and fined by Man Utd",
-   "source": "BBC Sport",
-   "question": "What do you make of this story: Martinez apologises for outburst and fined by Man Utd?"
+   "category": "tech",
+   "headline": "Anthropic seeks investors ahead of its upcoming stock market debut",
+   "question": "What are the biggest risks and opportunities for investors in Anthropic's IPO?",
+   "source": "BBC News"
   },
   {
    "id": "t5",
-   "category": "sports",
-   "headline": "Minus 17 to European dreams as Bournemouth fairytale continues",
-   "source": "BBC Sport",
-   "question": "What do you make of this story: Minus 17 to European dreams as Bournemouth fairytale continues?"
+   "category": "tech",
+   "headline": "Debate continues on the future role of humans in language translation",
+   "question": "Will AI eventually replace human translators entirely, or will a hybrid approach remain essential?",
+   "source": "BBC News"
   },
   {
    "id": "t6",
-   "category": "sports",
-   "headline": "Infantino apologises to Fifa Council - but told he is still not fit to lead",
-   "source": "BBC Sport",
-   "question": "What do you make of this story: Infantino apologises to Fifa Council - but told he is still not fit to lead?"
+   "category": "science",
+   "headline": "New evidence suggests violent encounters may have been common among Neanderthals",
+   "question": "How does this finding reshape our understanding of Neanderthal social behavior?",
+   "source": "BBC News"
   },
   {
    "id": "t7",
-   "category": "sports",
-   "headline": "Serb player banned until 2050 for tennis match-fixing",
-   "source": "BBC Sport",
-   "question": "What do you make of this story: Serb player banned until 2050 for tennis match-fixing?"
+   "category": "health",
+   "headline": "Same‑day test enables rapid detection of hidden infections in critically ill children",
+   "question": "Could widespread adoption of this test significantly improve outcomes for pediatric patients?",
+   "source": "BBC News"
   },
   {
    "id": "t8",
-   "category": "tech",
-   "headline": "Porn showing choking or incest to be banned from early November, government says",
-   "source": "BBC News",
-   "question": "What do you make of this story: Porn showing choking or incest to be banned from early November, government says?"
+   "category": "business",
+   "headline": "Increasing numbers of shoppers prefer online purchases over in‑store visits",
+   "question": "What long‑term impacts will the shift to online shopping have on brick‑and‑mortar retailers?",
+   "source": "BBC News"
   },
   {
    "id": "t9",
-   "category": "tech",
-   "headline": "GTA 6 - all you need to know about Rockstar's blockbuster game",
-   "source": "BBC News",
-   "question": "What do you make of this story: GTA 6 - all you need to know about Rockstar's blockbuster game?"
+   "category": "trending",
+   "headline": "Tennis player Casper Ruud climbs world rankings",
+   "question": "What factors are driving Casper Ruud's recent rise in the ATP rankings?",
+   "source": "Google Trends"
   }
  ]
 }
