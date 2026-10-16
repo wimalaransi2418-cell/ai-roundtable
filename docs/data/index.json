@@ -1,6 +1,11 @@
 {
  "sessions": [
   {
+   "id": "20261016-1841",
+   "started_at": "2026-10-16T18:41:33+00:00",
+   "question_en": "Should AI research prioritize developing models that improve real‑world workplace productivity over achieving higher scores on existing benchmarks?"
+  },
+  {
    "id": "20261016-0801",
    "started_at": "2026-10-16T08:01:08+00:00",
    "question_en": "Should the world abandon leap seconds and adopt a continuous time scale, even if it disrupts systems that rely on precise UTC?"
