@@ -1,74 +1,74 @@
 {
- "updated_at": "2026-10-16T07:01:53+00:00",
+ "updated_at": "2026-10-16T12:17:23+00:00",
  "items": [
   {
    "id": "t0",
-   "category": "weather",
-   "headline": "Storms forecast across New York for today",
-   "question": "How should residents prepare for the upcoming storms to minimize disruption?",
-   "source": "Google News"
+   "category": "world",
+   "headline": "Ship attacks near Hormuz surge, slowing oil exports",
+   "question": "Should international navies increase patrols in the Strait of Hormuz to protect shipping?",
+   "source": "BBC News"
   },
   {
    "id": "t1",
    "category": "sports",
-   "headline": "Brewers sweep Dodgers to end their three‑peat hopes in NLCS",
-   "question": "What factors contributed most to the Brewers' dominant performance in the series?",
-   "source": "Google News"
+   "headline": "Is the Premier League's traditional 'Big Six' still relevant today?",
+   "question": "Has the financial gap between the Premier League's top clubs and the rest narrowed enough to dissolve the 'Big Six'?",
+   "source": "BBC Sport"
   },
   {
    "id": "t2",
    "category": "sports",
-   "headline": "College Football Playoff may expand to 24 teams by 2027",
-   "question": "Will expanding the playoff improve competitive balance or dilute the tournament's prestige?",
+   "headline": "Brewers sweep Dodgers to end three‑peat hopes in NLCS",
+   "question": "Does the Brewers' NLCS victory signal a shift in National League power dynamics?",
    "source": "Google News"
   },
   {
    "id": "t3",
-   "category": "world",
-   "headline": "Collision between bus and stationary train near Channel Tunnel injures dozens",
-   "question": "What safety measures could prevent similar accidents in the Channel Tunnel area?",
+   "category": "science",
+   "headline": "Severe drought prompts hosepipe bans across affected regions",
+   "question": "Are current water conservation measures sufficient to address the worsening drought?",
    "source": "BBC News"
   },
   {
    "id": "t4",
    "category": "tech",
-   "headline": "Anthropic seeks investors ahead of its upcoming stock market debut",
-   "question": "What are the biggest risks and opportunities for investors in Anthropic's IPO?",
+   "headline": "Future of translation: will AI replace human translators?",
+   "question": "Will AI-driven translation tools eventually surpass human translators in accuracy and nuance?",
    "source": "BBC News"
   },
   {
    "id": "t5",
-   "category": "tech",
-   "headline": "Debate continues on the future role of humans in language translation",
-   "question": "Will AI eventually replace human translators entirely, or will a hybrid approach remain essential?",
+   "category": "business",
+   "headline": "Banks anticipate higher taxes following the upcoming Budget",
+   "question": "Will increased taxation on banks affect lending rates for consumers and businesses?",
    "source": "BBC News"
   },
   {
    "id": "t6",
-   "category": "science",
-   "headline": "New evidence suggests violent encounters may have been common among Neanderthals",
-   "question": "How does this finding reshape our understanding of Neanderthal social behavior?",
+   "category": "health",
+   "headline": "Clinicians urge reduced screen time in classrooms to protect health",
+   "question": "Should schools implement mandatory limits on student screen use during lessons?",
    "source": "BBC News"
   },
   {
    "id": "t7",
-   "category": "health",
-   "headline": "Same‑day test enables rapid detection of hidden infections in critically ill children",
-   "question": "Could widespread adoption of this test significantly improve outcomes for pediatric patients?",
-   "source": "BBC News"
+   "category": "weather",
+   "headline": "Official forecast predicts a colder than average winter",
+   "question": "How should households prepare for a potentially harsher winter season?",
+   "source": "Google News"
   },
   {
    "id": "t8",
-   "category": "business",
-   "headline": "Increasing numbers of shoppers prefer online purchases over in‑store visits",
-   "question": "What long‑term impacts will the shift to online shopping have on brick‑and‑mortar retailers?",
-   "source": "BBC News"
+   "category": "trending",
+   "headline": "Verizon's stock performance draws investor attention",
+   "question": "Is Verizon a solid long‑term investment given the current telecom market trends?",
+   "source": "Google Trends"
   },
   {
    "id": "t9",
    "category": "trending",
-   "headline": "Tennis player Casper Ruud climbs world rankings",
-   "question": "What factors are driving Casper Ruud's recent rise in the ATP rankings?",
+   "headline": "Iga Świątek continues her strong form on the tennis circuit",
+   "question": "Can Iga Świątek maintain her dominance throughout the upcoming Grand Slam season?",
    "source": "Google Trends"
   }
  ]
