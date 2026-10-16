@@ -1,75 +1,75 @@
 {
- "updated_at": "2026-10-15T22:09:13+00:00",
+ "updated_at": "2026-10-16T01:10:52+00:00",
  "items": [
   {
    "id": "t0",
-   "category": "weather",
-   "headline": "El Niño looms large over U.S. winter outlook",
-   "question": "How should communities prepare for the potential impacts of a strong El Niño this winter?",
-   "source": "Google News"
+   "category": "world",
+   "headline": "Trump calls off livestream of Fort Hood attacker's execution by firing squad",
+   "source": "BBC News",
+   "question": "What do you make of this story: Trump calls off livestream of Fort Hood attacker's execution by firing squad?"
   },
   {
    "id": "t1",
-   "category": "sports",
-   "headline": "Australia clinches thrilling World Cup opener against New Zealand",
-   "question": "What factors contributed most to Australia’s victory in the opening match?",
-   "source": "BBC Sport"
+   "category": "world",
+   "headline": "Bus hits train stopped on French side of Channel Tunnel, with 19 injured",
+   "source": "BBC News",
+   "question": "What do you make of this story: Bus hits train stopped on French side of Channel Tunnel, with 19 injured?"
   },
   {
    "id": "t2",
-   "category": "sports",
-   "headline": "College Football Playoff expansion to 24 teams proposed for 2027",
-   "question": "Will expanding the playoff to 24 teams improve fairness and excitement in college football?",
-   "source": "Google News"
+   "category": "world",
+   "headline": "At least 33 pupils and teacher killed after school roof collapses in Pakistan",
+   "source": "BBC News",
+   "question": "What do you make of this story: At least 33 pupils and teacher killed after school roof collapses in Pakistan?"
   },
   {
    "id": "t3",
    "category": "world",
-   "headline": "Nepal seeks to unite India and China on climate cooperation",
-   "question": "Can Nepal successfully mediate climate collaboration between India and China despite political tensions?",
-   "source": "BBC News"
+   "headline": "Tip-off foiled US teen suspect's plot to attack Hindu temple, police say",
+   "source": "BBC News",
+   "question": "What do you make of this story: Tip-off foiled US teen suspect's plot to attack Hindu temple, police say?"
   },
   {
    "id": "t4",
-   "category": "tech",
-   "headline": "Anthropic seeks investors ahead of stock market debut",
-   "question": "What are the potential risks and rewards for investors in backing Anthropic now?",
-   "source": "BBC News"
+   "category": "sports",
+   "headline": "Martinez apologises for outburst and fined by Man Utd",
+   "source": "BBC Sport",
+   "question": "What do you make of this story: Martinez apologises for outburst and fined by Man Utd?"
   },
   {
    "id": "t5",
-   "category": "science",
-   "headline": "Severe drought prompts hosepipe bans in affected regions",
-   "question": "What long‑term strategies should be adopted to mitigate recurring severe droughts?",
-   "source": "BBC News"
+   "category": "sports",
+   "headline": "Minus 17 to European dreams as Bournemouth fairytale continues",
+   "source": "BBC Sport",
+   "question": "What do you make of this story: Minus 17 to European dreams as Bournemouth fairytale continues?"
   },
   {
    "id": "t6",
-   "category": "health",
-   "headline": "12‑year‑old asks if protein powder is safe for kids",
-   "question": "Is protein powder appropriate for children, and under what circumstances?",
-   "source": "BBC News"
+   "category": "sports",
+   "headline": "Infantino apologises to Fifa Council - but told he is still not fit to lead",
+   "source": "BBC Sport",
+   "question": "What do you make of this story: Infantino apologises to Fifa Council - but told he is still not fit to lead?"
   },
   {
    "id": "t7",
-   "category": "business",
-   "headline": "Current minimum wage rates and their economic impact",
-   "question": "Should the minimum wage be increased to reflect rising living costs?",
-   "source": "BBC News"
+   "category": "sports",
+   "headline": "Serb player banned until 2050 for tennis match-fixing",
+   "source": "BBC Sport",
+   "question": "What do you make of this story: Serb player banned until 2050 for tennis match-fixing?"
   },
   {
    "id": "t8",
-   "category": "trending",
-   "headline": "Stranger Things continues to dominate online discussions",
-   "question": "What aspects of Stranger Things keep it resonating with new audiences?",
-   "source": "Google Trends"
+   "category": "tech",
+   "headline": "Porn showing choking or incest to be banned from early November, government says",
+   "source": "BBC News",
+   "question": "What do you make of this story: Porn showing choking or incest to be banned from early November, government says?"
   },
   {
    "id": "t9",
    "category": "tech",
-   "headline": "Future role of humans in translation as AI advances",
-   "question": "Will AI eventually replace human translators, or will they continue to work together?",
-   "source": "BBC News"
+   "headline": "GTA 6 - all you need to know about Rockstar's blockbuster game",
+   "source": "BBC News",
+   "question": "What do you make of this story: GTA 6 - all you need to know about Rockstar's blockbuster game?"
   }
  ]
 }
