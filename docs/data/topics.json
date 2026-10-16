@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-16T17:19:29+00:00",
+ "updated_at": "2026-10-16T20:55:24+00:00",
  "items": [
   {
    "id": "t0",
@@ -11,9 +11,9 @@
   {
    "id": "t1",
    "category": "world",
-   "headline": "Zelensky says Ukraine has right to defend itself after Trump calls latest strikes a 'disgrace'",
+   "headline": "Trump denies limiting Ukraine access to Starlink network",
    "source": "BBC News",
-   "question": "What do you make of this story: Zelensky says Ukraine has right to defend itself after Trump calls latest strikes a 'disgrace'?"
+   "question": "What do you make of this story: Trump denies limiting Ukraine access to Starlink network?"
   },
   {
    "id": "t2",
@@ -25,9 +25,9 @@
   {
    "id": "t3",
    "category": "world",
-   "headline": "Dad fined after son, 2, died in Cyprus hotel fall",
+   "headline": "Ship attack reports near Hormuz reach record high as oil exports slow",
    "source": "BBC News",
-   "question": "What do you make of this story: Dad fined after son, 2, died in Cyprus hotel fall?"
+   "question": "What do you make of this story: Ship attack reports near Hormuz reach record high as oil exports slow?"
   },
   {
    "id": "t4",
@@ -39,37 +39,37 @@
   {
    "id": "t5",
    "category": "sports",
-   "headline": "'I am telling you the truth' - Carrick on Martinez fallout",
+   "headline": "Does Scott's Disney+ exit unmask wider issue in coverage of women's game?",
    "source": "BBC Sport",
-   "question": "What do you make of this story: 'I am telling you the truth' - Carrick on Martinez fallout?"
+   "question": "What do you make of this story: Does Scott's Disney+ exit unmask wider issue in coverage of women's game??"
   },
   {
    "id": "t6",
+   "category": "sports",
+   "headline": "Dubois and Wardley at career-heaviest for rematch",
+   "source": "BBC Sport",
+   "question": "What do you make of this story: Dubois and Wardley at career-heaviest for rematch?"
+  },
+  {
+   "id": "t7",
    "category": "sports",
    "headline": "Real demand Tebas resign over Goebbels comparison",
    "source": "BBC Sport",
    "question": "What do you make of this story: Real demand Tebas resign over Goebbels comparison?"
   },
   {
-   "id": "t7",
-   "category": "sports",
-   "headline": "Arteta told Arsenal job cuts will help create success",
-   "source": "BBC Sport",
-   "question": "What do you make of this story: Arteta told Arsenal job cuts will help create success?"
-  },
-  {
    "id": "t8",
    "category": "tech",
-   "headline": "Russian man linked to deadly London hospitals hack arrested",
+   "headline": "Toxic algorithms wouldn't let them go - now Australia wants an off switch",
    "source": "BBC News",
-   "question": "What do you make of this story: Russian man linked to deadly London hospitals hack arrested?"
+   "question": "What do you make of this story: Toxic algorithms wouldn't let them go - now Australia wants an off switch?"
   },
   {
    "id": "t9",
    "category": "tech",
-   "headline": "Porn showing choking or incest to be banned from early November, government says",
+   "headline": "Snapchat and Instagram grooming becoming 'easier'",
    "source": "BBC News",
-   "question": "What do you make of this story: Porn showing choking or incest to be banned from early November, government says?"
+   "question": "What do you make of this story: Snapchat and Instagram grooming becoming 'easier'?"
   }
  ]
 }
