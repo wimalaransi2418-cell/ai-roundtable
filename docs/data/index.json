@@ -1,6 +1,11 @@
 {
  "sessions": [
   {
+   "id": "20261016-0801",
+   "started_at": "2026-10-16T08:01:08+00:00",
+   "question_en": "Should the world abandon leap seconds and adopt a continuous time scale, even if it disrupts systems that rely on precise UTC?"
+  },
+  {
    "id": "20261015-1856",
    "started_at": "2026-10-15T18:56:28+00:00",
    "question_en": "Should the integration of AI tools into mathematical research be actively promoted, even if it may fundamentally alter how proofs are discovered and validated?"
