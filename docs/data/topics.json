@@ -1,75 +1,75 @@
 {
- "updated_at": "2026-10-16T12:17:23+00:00",
+ "updated_at": "2026-10-16T17:19:29+00:00",
  "items": [
   {
    "id": "t0",
    "category": "world",
-   "headline": "Ship attacks near Hormuz surge, slowing oil exports",
-   "question": "Should international navies increase patrols in the Strait of Hormuz to protect shipping?",
-   "source": "BBC News"
+   "headline": "Inside Ukrainian offensive pushing Russia back - with Starlink playing a key role",
+   "source": "BBC News",
+   "question": "What do you make of this story: Inside Ukrainian offensive pushing Russia back - with Starlink playing a key role?"
   },
   {
    "id": "t1",
-   "category": "sports",
-   "headline": "Is the Premier League's traditional 'Big Six' still relevant today?",
-   "question": "Has the financial gap between the Premier League's top clubs and the rest narrowed enough to dissolve the 'Big Six'?",
-   "source": "BBC Sport"
+   "category": "world",
+   "headline": "Zelensky says Ukraine has right to defend itself after Trump calls latest strikes a 'disgrace'",
+   "source": "BBC News",
+   "question": "What do you make of this story: Zelensky says Ukraine has right to defend itself after Trump calls latest strikes a 'disgrace'?"
   },
   {
    "id": "t2",
-   "category": "sports",
-   "headline": "Brewers sweep Dodgers to end three‑peat hopes in NLCS",
-   "question": "Does the Brewers' NLCS victory signal a shift in National League power dynamics?",
-   "source": "Google News"
+   "category": "world",
+   "headline": "India's 'cockroach' party founder detained ahead of protest",
+   "source": "BBC News",
+   "question": "What do you make of this story: India's 'cockroach' party founder detained ahead of protest?"
   },
   {
    "id": "t3",
-   "category": "science",
-   "headline": "Severe drought prompts hosepipe bans across affected regions",
-   "question": "Are current water conservation measures sufficient to address the worsening drought?",
-   "source": "BBC News"
+   "category": "world",
+   "headline": "Dad fined after son, 2, died in Cyprus hotel fall",
+   "source": "BBC News",
+   "question": "What do you make of this story: Dad fined after son, 2, died in Cyprus hotel fall?"
   },
   {
    "id": "t4",
-   "category": "tech",
-   "headline": "Future of translation: will AI replace human translators?",
-   "question": "Will AI-driven translation tools eventually surpass human translators in accuracy and nuance?",
-   "source": "BBC News"
+   "category": "sports",
+   "headline": "Former Sale Sharks lock Andrews dies at team hotel in La Rochelle",
+   "source": "BBC Sport",
+   "question": "What do you make of this story: Former Sale Sharks lock Andrews dies at team hotel in La Rochelle?"
   },
   {
    "id": "t5",
-   "category": "business",
-   "headline": "Banks anticipate higher taxes following the upcoming Budget",
-   "question": "Will increased taxation on banks affect lending rates for consumers and businesses?",
-   "source": "BBC News"
+   "category": "sports",
+   "headline": "'I am telling you the truth' - Carrick on Martinez fallout",
+   "source": "BBC Sport",
+   "question": "What do you make of this story: 'I am telling you the truth' - Carrick on Martinez fallout?"
   },
   {
    "id": "t6",
-   "category": "health",
-   "headline": "Clinicians urge reduced screen time in classrooms to protect health",
-   "question": "Should schools implement mandatory limits on student screen use during lessons?",
-   "source": "BBC News"
+   "category": "sports",
+   "headline": "Real demand Tebas resign over Goebbels comparison",
+   "source": "BBC Sport",
+   "question": "What do you make of this story: Real demand Tebas resign over Goebbels comparison?"
   },
   {
    "id": "t7",
-   "category": "weather",
-   "headline": "Official forecast predicts a colder than average winter",
-   "question": "How should households prepare for a potentially harsher winter season?",
-   "source": "Google News"
+   "category": "sports",
+   "headline": "Arteta told Arsenal job cuts will help create success",
+   "source": "BBC Sport",
+   "question": "What do you make of this story: Arteta told Arsenal job cuts will help create success?"
   },
   {
    "id": "t8",
-   "category": "trending",
-   "headline": "Verizon's stock performance draws investor attention",
-   "question": "Is Verizon a solid long‑term investment given the current telecom market trends?",
-   "source": "Google Trends"
+   "category": "tech",
+   "headline": "Russian man linked to deadly London hospitals hack arrested",
+   "source": "BBC News",
+   "question": "What do you make of this story: Russian man linked to deadly London hospitals hack arrested?"
   },
   {
    "id": "t9",
-   "category": "trending",
-   "headline": "Iga Świątek continues her strong form on the tennis circuit",
-   "question": "Can Iga Świątek maintain her dominance throughout the upcoming Grand Slam season?",
-   "source": "Google Trends"
+   "category": "tech",
+   "headline": "Porn showing choking or incest to be banned from early November, government says",
+   "source": "BBC News",
+   "question": "What do you make of this story: Porn showing choking or incest to be banned from early November, government says?"
   }
  ]
 }
