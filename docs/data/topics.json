@@ -1,75 +1,75 @@
 {
- "updated_at": "2026-10-17T04:09:58+00:00",
+ "updated_at": "2026-10-17T09:11:01+00:00",
  "items": [
   {
    "id": "t0",
-   "category": "world",
-   "headline": "Brazil sees record fall in Amazon deforestation as key election looms",
-   "source": "BBC News",
-   "question": "What do you make of this story: Brazil sees record fall in Amazon deforestation as key election looms?"
+   "category": "weather",
+   "headline": "Chicago winter outlook 2026-27: El Niño may bring milder temps, less snow",
+   "question": "How should residents and city planners adjust for potentially milder winters due to El Niño?",
+   "source": "Google News"
   },
   {
    "id": "t1",
-   "category": "world",
-   "headline": "Trump waives several Russia sanctions as new US law takes effect",
-   "source": "BBC News",
-   "question": "What do you make of this story: Trump waives several Russia sanctions as new US law takes effect?"
+   "category": "sports",
+   "headline": "England's 41‑match unbeaten streak ends with loss to Canada",
+   "question": "What factors contributed to England's defeat, and what does it mean for their future performance?",
+   "source": "BBC Sport"
   },
   {
    "id": "t2",
-   "category": "world",
-   "headline": "Inside Ukrainian offensive pushing Russia back - with Starlink playing a key role",
-   "source": "BBC News",
-   "question": "What do you make of this story: Inside Ukrainian offensive pushing Russia back - with Starlink playing a key role?"
+   "category": "sports",
+   "headline": "England defeats Wales in Women's World Cup debut match",
+   "question": "How will England's dominant win influence the development of women's soccer in the UK?",
+   "source": "BBC Sport"
   },
   {
    "id": "t3",
    "category": "world",
-   "headline": "Katie Zacharia leaving her White House role less than five days on the job",
-   "source": "BBC News",
-   "question": "What do you make of this story: Katie Zacharia leaving her White House role less than five days on the job?"
+   "headline": "Brazil records sharp decline in Amazon deforestation ahead of election",
+   "question": "Will the recent drop in deforestation be sustained after the upcoming election?",
+   "source": "BBC News"
   },
   {
    "id": "t4",
-   "category": "sports",
-   "headline": "Ranking the Premier League's all-time greatest super subs",
-   "source": "BBC Sport",
-   "question": "What do you make of this story: Ranking the Premier League's all-time greatest super subs?"
+   "category": "tech",
+   "headline": "AI startup Anthropic seeks investors before upcoming stock market debut",
+   "question": "What are the risks and opportunities for investors in backing Anthropic at this stage?",
+   "source": "BBC News"
   },
   {
    "id": "t5",
-   "category": "sports",
-   "headline": "Former Sale Sharks lock Andrews dies at team hotel in La Rochelle",
-   "source": "BBC Sport",
-   "question": "What do you make of this story: Former Sale Sharks lock Andrews dies at team hotel in La Rochelle?"
+   "category": "tech",
+   "headline": "Australia proposes an “off switch” to control harmful AI algorithms",
+   "question": "Should governments have the authority to enforce shutdown mechanisms for AI systems?",
+   "source": "BBC News"
   },
   {
    "id": "t6",
-   "category": "sports",
-   "headline": "Underdogs? We like that tag, says England captain Williams",
-   "source": "BBC Sport",
-   "question": "What do you make of this story: Underdogs? We like that tag, says England captain Williams?"
+   "category": "science",
+   "headline": "£15 million allocated for zero‑emission testing at Belfast Harbour",
+   "question": "Can this investment significantly reduce emissions, and how should its success be measured?",
+   "source": "BBC News"
   },
   {
    "id": "t7",
-   "category": "sports",
-   "headline": "Dubois and Wardley at career-heaviest for rematch",
-   "source": "BBC Sport",
-   "question": "What do you make of this story: Dubois and Wardley at career-heaviest for rematch?"
+   "category": "health",
+   "headline": "Covid vaccine compensation scheme to be overhauled after inquiry criticism",
+   "question": "What changes are needed to make the compensation scheme fair and effective?",
+   "source": "BBC News"
   },
   {
    "id": "t8",
-   "category": "tech",
-   "headline": "Toxic algorithms wouldn't let them go - now Australia wants an off switch",
-   "source": "BBC News",
-   "question": "What do you make of this story: Toxic algorithms wouldn't let them go - now Australia wants an off switch?"
+   "category": "business",
+   "headline": "Banks anticipate higher taxes following upcoming budget announcement",
+   "question": "How might increased taxes on banks affect the broader economy and lending practices?",
+   "source": "BBC News"
   },
   {
    "id": "t9",
-   "category": "tech",
-   "headline": "Snapchat and Instagram grooming becoming 'easier'",
-   "source": "BBC News",
-   "question": "What do you make of this story: Snapchat and Instagram grooming becoming 'easier'?"
+   "category": "trending",
+   "headline": "Everton vs Chelsea match draws high fan interest",
+   "question": "What tactical approaches could determine the outcome of the Everton‑Chelsea clash?",
+   "source": "Google Trends"
   }
  ]
 }
