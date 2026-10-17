@@ -1,75 +1,75 @@
 {
- "updated_at": "2026-10-17T13:36:39+00:00",
+ "updated_at": "2026-10-17T16:59:36+00:00",
  "items": [
   {
    "id": "t0",
-   "category": "world",
-   "headline": "Brazil records sharp drop in Amazon deforestation ahead of election",
-   "question": "What factors are driving the recent decline in Amazon deforestation in Brazil?",
-   "source": "BBC News"
+   "category": "weather",
+   "headline": "Freezing start to a pleasant weekend | Latest Weather Forecast",
+   "question": "How should communities adapt to sudden temperature swings in early winter?",
+   "source": "Google News"
   },
   {
    "id": "t1",
-   "category": "world",
-   "headline": "Rare pink diamond displayed in France a century after famous heist",
-   "question": "How should museums balance public access with security for priceless gems?",
-   "source": "BBC News"
+   "category": "sports",
+   "headline": "England's 41-match unbeaten run ended by Canada",
+   "question": "Will Canada's win signal a shift in international soccer power dynamics?",
+   "source": "BBC Sport"
   },
   {
    "id": "t2",
-   "category": "tech",
-   "headline": "Australia proposes an off‑switch for harmful AI algorithms",
-   "question": "Is it feasible and ethical for governments to enforce an AI off‑switch?",
-   "source": "BBC News"
+   "category": "sports",
+   "headline": "Liverpool players in 'delicate' situation with 'demanding' schedule - Iraola",
+   "question": "Can Liverpool's schedule be restructured without compromising competitive performance?",
+   "source": "BBC Sport"
   },
   {
    "id": "t3",
-   "category": "tech",
-   "headline": "Everything you need to know about Rockstar’s upcoming GTA 6",
-   "question": "Will GTA 6 raise new concerns about video‑game violence or innovation?",
+   "category": "world",
+   "headline": "Brazil sees record fall in Amazon deforestation as key election looms",
+   "question": "What policies are most effective for sustaining Brazil's recent deforestation decline?",
    "source": "BBC News"
   },
   {
    "id": "t4",
    "category": "tech",
-   "headline": "Anthropic seeks investors ahead of its stock market debut",
-   "question": "What risks and rewards should investors consider with emerging AI firms like Anthropic?",
+   "headline": "Toxic algorithms wouldn't let them go - now Australia wants an off switch",
+   "question": "Should governments have the authority to mandate off switches for harmful AI algorithms?",
    "source": "BBC News"
   },
   {
    "id": "t5",
-   "category": "science",
-   "headline": "Avian flu and costs linked to captive bird losses at Castle Espie",
-   "question": "How should wildlife facilities manage disease risks while preserving species?",
+   "category": "tech",
+   "headline": "AI giant Anthropic woos potential investors ahead of stock market debut",
+   "question": "Will Anthropic's upcoming IPO reshape the competitive landscape of AI startups?",
    "source": "BBC News"
   },
   {
    "id": "t6",
    "category": "science",
-   "headline": "Neanderthal wound suggests lethal fighting may have been common",
-   "question": "What does new evidence about Neanderthal injuries tell us about their social behavior?",
+   "headline": "Was Neanderthal life violent? This wound suggests lethal fighting was more common",
+   "question": "Does emerging evidence of violent Neanderthal behavior change our view of human evolution?",
    "source": "BBC News"
   },
   {
    "id": "t7",
-   "category": "weather",
-   "headline": "New AI framework improves mid‑range weather forecast accuracy",
-   "question": "Can AI reliably enhance weather predictions without unintended biases?",
-   "source": "Google News"
+   "category": "health",
+   "headline": "Covid vaccine compensation scheme set for overhaul after Inquiry criticism",
+   "question": "Is a revised vaccine compensation scheme enough to restore public trust?",
+   "source": "BBC News"
   },
   {
    "id": "t8",
-   "category": "sports",
-   "headline": "England’s 41‑match unbeaten streak ends with loss to Canada",
-   "question": "What does England’s defeat indicate about the evolving competitiveness in international football?",
-   "source": "BBC Sport"
+   "category": "business",
+   "headline": "Watch: Did Tesla really just unveil a flying car?",
+   "question": "Is the concept of a flying car viable for mass-market adoption in the near future?",
+   "source": "BBC News"
   },
   {
    "id": "t9",
-   "category": "sports",
-   "headline": "Dubois vs Wardley heavyweight title fight: predictions and analysis",
-   "question": "Which factors will most influence the outcome of the Dubois‑Wardley heavyweight bout?",
-   "source": "BBC Sport"
+   "category": "trending",
+   "headline": "mlb minor league free agency",
+   "question": "How will the upcoming MLB minor league free agency impact player development pipelines?",
+   "source": "Google Trends"
   }
  ]
 }
