@@ -1,75 +1,75 @@
 {
- "updated_at": "2026-10-17T16:59:36+00:00",
+ "updated_at": "2026-10-17T19:12:00+00:00",
  "items": [
   {
    "id": "t0",
    "category": "weather",
-   "headline": "Freezing start to a pleasant weekend | Latest Weather Forecast",
-   "question": "How should communities adapt to sudden temperature swings in early winter?",
+   "headline": "Freezing start to a pleasant weekend, latest forecast",
+   "question": "How will the upcoming cold snap affect daily activities and energy use?",
    "source": "Google News"
   },
   {
    "id": "t1",
    "category": "sports",
-   "headline": "England's 41-match unbeaten run ended by Canada",
-   "question": "Will Canada's win signal a shift in international soccer power dynamics?",
+   "headline": "Haaland scores twice as Man City extend lead in league",
+   "question": "Will Manchester City's recent form continue to dominate the Premier League?",
    "source": "BBC Sport"
   },
   {
    "id": "t2",
    "category": "sports",
-   "headline": "Liverpool players in 'delicate' situation with 'demanding' schedule - Iraola",
-   "question": "Can Liverpool's schedule be restructured without compromising competitive performance?",
+   "headline": "Neto's brace leads Chelsea to victory over Everton",
+   "question": "Can Chelsea maintain momentum after this win against Everton?",
    "source": "BBC Sport"
   },
   {
    "id": "t3",
    "category": "world",
-   "headline": "Brazil sees record fall in Amazon deforestation as key election looms",
-   "question": "What policies are most effective for sustaining Brazil's recent deforestation decline?",
+   "headline": "Amazon deforestation drops to record low amid Brazil election",
+   "question": "What policies contributed to the decline in Amazon deforestation?",
    "source": "BBC News"
   },
   {
    "id": "t4",
-   "category": "tech",
-   "headline": "Toxic algorithms wouldn't let them go - now Australia wants an off switch",
-   "question": "Should governments have the authority to mandate off switches for harmful AI algorithms?",
+   "category": "world",
+   "headline": "Rare pink diamond exhibited in France a century after its theft",
+   "question": "How does the exhibition of historic gems influence public interest in heritage preservation?",
    "source": "BBC News"
   },
   {
    "id": "t5",
    "category": "tech",
-   "headline": "AI giant Anthropic woos potential investors ahead of stock market debut",
-   "question": "Will Anthropic's upcoming IPO reshape the competitive landscape of AI startups?",
+   "headline": "Australia proposes an 'off switch' for harmful AI algorithms",
+   "question": "Should governments mandate kill switches for risky AI systems?",
    "source": "BBC News"
   },
   {
    "id": "t6",
-   "category": "science",
-   "headline": "Was Neanderthal life violent? This wound suggests lethal fighting was more common",
-   "question": "Does emerging evidence of violent Neanderthal behavior change our view of human evolution?",
+   "category": "tech",
+   "headline": "Anthropic seeks investors ahead of upcoming stock market launch",
+   "question": "What impact could Anthropic's IPO have on the AI industry landscape?",
    "source": "BBC News"
   },
   {
    "id": "t7",
-   "category": "health",
-   "headline": "Covid vaccine compensation scheme set for overhaul after Inquiry criticism",
-   "question": "Is a revised vaccine compensation scheme enough to restore public trust?",
+   "category": "science",
+   "headline": "New evidence suggests Neanderthals may have engaged in frequent violent encounters",
+   "question": "How does this finding reshape our understanding of Neanderthal social behavior?",
    "source": "BBC News"
   },
   {
    "id": "t8",
-   "category": "business",
-   "headline": "Watch: Did Tesla really just unveil a flying car?",
-   "question": "Is the concept of a flying car viable for mass-market adoption in the near future?",
+   "category": "health",
+   "headline": "UK plans overhaul of Covid vaccine compensation scheme after inquiry",
+   "question": "Will the proposed changes improve fairness for vaccine injury claimants?",
    "source": "BBC News"
   },
   {
    "id": "t9",
-   "category": "trending",
-   "headline": "mlb minor league free agency",
-   "question": "How will the upcoming MLB minor league free agency impact player development pipelines?",
-   "source": "Google Trends"
+   "category": "business",
+   "headline": "Nandy considers intervention in Sky's £1.6bn ITV entertainment acquisition",
+   "question": "Could regulatory intervention affect the future of UK media consolidation?",
+   "source": "BBC News"
   }
  ]
 }
