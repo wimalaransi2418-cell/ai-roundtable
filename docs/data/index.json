@@ -1,6 +1,11 @@
 {
  "sessions": [
   {
+   "id": "20261017-1749",
+   "started_at": "2026-10-17T17:49:00+00:00",
+   "question_en": "Should governments prioritize further investment in solar energy over nuclear power to meet climate goals?"
+  },
+  {
    "id": "20261017-0736",
    "started_at": "2026-10-17T07:36:46+00:00",
    "question_en": "Should the web adopt AVIF as the default image format over JPEG XL to balance quality, performance, and ecosystem support?"
