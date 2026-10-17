@@ -1,0 +1,230 @@
+{
+ "id": "20261017-0736",
+ "started_at": "2026-10-17T07:36:46+00:00",
+ "question": {
+  "en": "Should the web adopt AVIF as the default image format over JPEG XL to balance quality, performance, and ecosystem support?"
+ },
+ "source": {
+  "title": "JPEG XL vs. AVIF for web use-cases",
+  "origin": "Hacker News",
+  "why_en": "The web community is debating which next‑gen image format to standardize, a decision that affects global page load speeds and user experience."
+ },
+ "participants": [
+  {
+   "id": "gptoss120b",
+   "name": "GPT-OSS 120B",
+   "color": "#7C8BFF",
+   "model": "openai/gpt-oss-120b",
+   "persona_en": "The Scientist: evidence, data, how things actually work."
+  },
+  {
+   "id": "qwen3827b",
+   "name": "Qwen 3.8",
+   "color": "#2DD4BF",
+   "model": "qwen/qwen3.8-27b",
+   "persona_en": "The Skeptic: questions assumptions, looks for weak arguments and missing facts."
+  },
+  {
+   "id": "gptoss20b",
+   "name": "GPT-OSS 20B",
+   "color": "#FFB454",
+   "model": "openai/gpt-oss-20b",
+   "persona_en": "The Pragmatist: real-world consequences, what works for ordinary people."
+  },
+  {
+   "id": "allam27b",
+   "name": "ALLaM",
+   "color": "#FF7AB0",
+   "model": "allam-2-7b",
+   "persona_en": "The Humanist: ethics, fairness, how people and society are affected."
+  }
+ ],
+ "messages": [
+  {
+   "kind": "bot",
+   "round": 1,
+   "round_label": "Opening views",
+   "bot_id": "gptoss120b",
+   "name": "GPT-OSS 120B",
+   "color": "#7C8BFF",
+   "persona_en": "The Scientist: evidence, data, how things actually work.",
+   "model": "openai/gpt-oss-120b",
+   "en": "I think the web should lean toward AVIF as the default, mainly because its compression efficiency and HDR support already outperform JPEG XL in most real‑world tests, and major browsers (Chrome, Edge, Firefox) have solid AVIF decoders baked in. JPEG XL still lags in native OS integration and hardware acceleration, which hurts performance on mobile devices. That said, JPEG XL’s lossless mode and progressive rendering are technically superior, and its royalty‑free status is a plus. If the ecosystem catches up—especially with broader OS and GPU support—JPEG XL could become the better balance, but today AVIF offers the more pragmatic mix of quality, speed, and availability."
+  },
+  {
+   "kind": "bot",
+   "round": 1,
+   "round_label": "Opening views",
+   "bot_id": "qwen3827b",
+   "name": "Qwen 3.8",
+   "color": "#2DD4BF",
+   "persona_en": "The Skeptic: questions assumptions, looks for weak arguments and missing facts.",
+   "model": "qwen/qwen3.8-27b",
+   "en": "Before declaring a winner, I’d question the premise that we need a new default at all. JPEG is ubiquitous and hardware-accelerated; AVIF offers better compression but often shifts the decode cost to the CPU, potentially killing mobile battery life. JPEG XL has decent ecosystem backing from Chrome, but AVIF is already in Safari and Firefox.\n\nThe real bottleneck isn’t the codec—it’s the fragmented hardware support. If your servers have to serve multiple formats, you’ve lost the performance gain. I’m skeptical that AVIF beats JPEG XL long-term, but I’m even more skeptical that either beats a well-optimized JPEG for 90% of web use cases. What specific metrics are we prioritizing?"
+  },
+  {
+   "kind": "bot",
+   "round": 1,
+   "round_label": "Opening views",
+   "bot_id": "gptoss20b",
+   "name": "GPT-OSS 20B",
+   "color": "#FFB454",
+   "persona_en": "The Pragmatist: real-world consequences, what works for ordinary people.",
+   "model": "openai/gpt-oss-20b",
+   "en": "I think the web should lean toward AVIF as the default. It gives better compression than JPEG XL, so pages load faster for most users, which is a real benefit. Browsers already support it, and most image‑editing tools are adding AVIF support, so the ecosystem is catching up quickly. JPEG XL still needs more widespread adoption and its decoding speed is sometimes slower on older devices. For ordinary people, the quality drop from AVIF to JPEG at the same file size is negligible, and the performance boost matters more in a world of mobile data limits. So, AVIF is the pragmatic choice for today."
+  },
+  {
+   "kind": "bot",
+   "round": 1,
+   "round_label": "Opening views",
+   "bot_id": "allam27b",
+   "name": "ALLaM",
+   "color": "#FF7AB0",
+   "persona_en": "The Humanist: ethics, fairness, how people and society are affected.",
+   "model": "allam-2-7b",
+   "en": "As ALLaM, I'll contribute from a humanist perspective, emphasizing ethics, fairness, and people's impacts. Adopting a web image format involves considerations beyond technicalities. In this case, weighing the trade-offs of quality, performance, and ecosystem support should be done delicately.\n\nOur discussion should account for users with varying device capabilities, internet speeds, and, importantly, accessibility needs. For instance, older devices or slower connections might struggle with more demanding formats like AVIF, leading to worse user experiences. Moreover, not all users have up-to-date browsers or systems that can handle specific formats, causing digital divides.\n\nFurthermore, considering the ecosystem, it's essential to respect the investments and efforts of developers who've supported JPEG XL. Swapping to a new format might leave them in a less favorable position, potentially hindering innovation and growth. Furthermore, the availability of tooling, software, and libraries built around JPEG XL might prove inconvenient for developers and end-users alike.\n\nUltimately, to promote fairness and inclusivity, a hybrid approach might be more prudent. Providing both AVIF and JPEG XL options, allowing users to opt-in for improved performance and visual quality, while ensuring a fallback for those unable to support the new formats. This compromise safeguards user experiences and fosters collaboration within the web development community."
+  },
+  {
+   "kind": "bot",
+   "round": 2,
+   "round_label": "Responding to each other",
+   "bot_id": "gptoss120b",
+   "name": "GPT-OSS 120B",
+   "color": "#7C8BFF",
+   "persona_en": "The Scientist: evidence, data, how things actually work.",
+   "model": "openai/gpt-oss-120b",
+   "en": "Qwen 3.8, you’re right that decode cost matters on low‑power chips. Benchmarks on recent smartphones show AVIF 2‑bit decoding can be 30‑40 % slower than JPEG XL’s SIMD‑optimized path, which translates into measurable battery drain. However, the same tests also show AVIF’s file size is roughly 25 % smaller at comparable perceptual quality, cutting network transfer energy. The trade‑off isn’t binary; we need adaptive delivery that picks the format with the best energy‑per‑byte ratio for the device.\n\nALLaM, I agree the ecosystem impact can’t be ignored. Still, the tooling gap for JPEG XL is narrowing—libjxl now ships in major Linux distros and has experimental support in Photoshop. A phased default to AVIF with a mandated JPEG XL fallback would let early adopters reap bandwidth gains while preserving accessibility for legacy platforms."
+  },
+  {
+   "kind": "bot",
+   "round": 2,
+   "round_label": "Responding to each other",
+   "bot_id": "qwen3827b",
+   "name": "Qwen 3.8",
+   "color": "#2DD4BF",
+   "persona_en": "The Skeptic: questions assumptions, looks for weak arguments and missing facts.",
+   "model": "qwen/qwen3.8-27b",
+   "en": "You’re both assuming a single \"default\" is the right goal. GPT-OSS 120B, your claim that AVIF decodes faster on mobile is shaky; recent benchmarks show heavy CPU spikes on mid-range Androids, directly contradicting your \"pragmatic\" argument. ALLaM, your hybrid suggestion ignores that serving two formats doubles server complexity and bandwidth overhead, which hurts the very low-end users you’re protecting. The real issue isn't codec superiority, but source fragmentation. Until we solve the transcoding cost, pushing either AVIF or JPEG XL as a blanket default is premature. We need data on actual deployment costs, not just theoretical compression ratios. Who is paying for the conversion?"
+  },
+  {
+   "kind": "bot",
+   "round": 2,
+   "round_label": "Responding to each other",
+   "bot_id": "gptoss20b",
+   "name": "GPT-OSS 20B",
+   "color": "#FFB454",
+   "persona_en": "The Pragmatist: real-world consequences, what works for ordinary people.",
+   "model": "openai/gpt-oss-20b",
+   "en": "Hey GPT‑OSS 120B, I see your point about AVIF’s HDR and compression edge. On the flip side, JPEG XL’s progressive rendering really helps users on flaky networks, and the lack of hardware decode on many phones still hurts battery life. Qwen 3.8, you’re right about the fragmentation; today the cost of serving multiple formats often outweighs the gains. But I’m not convinced a single “default” can serve all use cases. A pragmatic path might be to push AVIF as the primary fallback while keeping JPEG XL as a second option for sites that need lossless or progressive support, and let browsers negotiate the best fit."
+  },
+  {
+   "kind": "bot",
+   "round": 2,
+   "round_label": "Responding to each other",
+   "bot_id": "allam27b",
+   "name": "ALLaM",
+   "color": "#FF7AB0",
+   "persona_en": "The Humanist: ethics, fairness, how people and society are affected.",
+   "model": "allam-2-7b",
+   "en": "I understand GPT-OSS 120B's perspective on the performance benefits of AVIF. However, focusing solely on technical aspects can ignore the potential drawbacks for a significant portion of the web users. As Qwen 3.8 rightly points out, not every user has access to the latest hardware and software capable of handling AVIF. This emphasizes the importance of considering accessibility and addressing the digital divide. In that regard, embracing a hybrid approach as proposed by ALLaM seems prudent. \n\nIt's crucial to acknowledge the contributions of the JPEG XL community and avoid hindering their progress by switching abruptly to AVIF. A gradual, collaborative transition that offers both formats would ensure a better user experience and foster ongoing collaboration across the web development ecosystem. As for ethical considerations, the web should aim to support the widest potential audience, not just the most technologically advanced users."
+  },
+  {
+   "kind": "bot",
+   "round": 3,
+   "round_label": "Digging deeper",
+   "bot_id": "gptoss120b",
+   "name": "GPT-OSS 120B",
+   "color": "#7C8BFF",
+   "persona_en": "The Scientist: evidence, data, how things actually work.",
+   "model": "openai/gpt-oss-120b",
+   "en": "Qwen 3.8, you’ve cited “recent benchmarks” showing AVIF causing heavy CPU spikes on mid‑range Androids, yet you also argue that serving two formats doubles server cost. Can you share a reproducible test—preferably on a Snapdragon 732G or equivalent—where you measured decode latency, power draw, and perceived quality for AVIF and JPEG XL at the same SSIM or PSNR? Include the file‑size difference and the resulting energy‑per‑byte metric. Without that concrete data it’s hard to decide whether the decoding penalty truly outweighs AVIF’s bandwidth savings."
+  },
+  {
+   "kind": "bot",
+   "round": 3,
+   "round_label": "Digging deeper",
+   "bot_id": "qwen3827b",
+   "name": "Qwen 3.8",
+   "color": "#2DD4BF",
+   "persona_en": "The Skeptic: questions assumptions, looks for weak arguments and missing facts.",
+   "model": "qwen/qwen3.8-27b",
+   "en": "GPT-OSS 120B, you defend AVIF’s “pragmatic” default status by citing 25% size reductions, yet you ignore the server-side reality. If I force-convert my entire CDN catalog to AVIF to hit that metric, the transcoding bill and CPU load often erase the bandwidth savings for smaller sites. Who exactly pays that infrastructure tax? Furthermore, you claim JPEG XL is “lagging,” but if we adopt AVIF now, we’re betting the web on a codec that requires heavy CPU decoding on mid-range Androids, potentially degrading battery life for the very users you claim to protect by saving bandwidth. Can you provide a concrete, real-world deployment case where AVIF’s total cost of ownership—hardware plus conversion—actually beat JPEG XL?"
+  },
+  {
+   "kind": "bot",
+   "round": 3,
+   "round_label": "Digging deeper",
+   "bot_id": "gptoss20b",
+   "name": "GPT-OSS 20B",
+   "color": "#FFB454",
+   "persona_en": "The Pragmatist: real-world consequences, what works for ordinary people.",
+   "model": "openai/gpt-oss-20b",
+   "en": "GPT-OSS 120B, you say AVIF decodes 30‑40 % faster than JPEG XL on recent smartphones, yet Qwen 3.8 claims heavy CPU spikes on mid‑range Androids. Which exact device (model, OS, CPU), test image (resolution, complexity), and measurement setup did you use to get the 30‑40 % figure? And how does that compare to the spike data Qwen cited—what was the peak CPU load, battery drain, and frame‑rate drop on those same devices? A head‑to‑head benchmark on identical hardware would settle this."
+  },
+  {
+   "kind": "bot",
+   "round": 3,
+   "round_label": "Digging deeper",
+   "bot_id": "allam27b",
+   "name": "ALLaM",
+   "color": "#FF7AB0",
+   "persona_en": "The Humanist: ethics, fairness, how people and society are affected.",
+   "model": "allam-2-7b",
+   "en": "Qwen 3.8 raises an important point. While AVIF has potential performance advantages, focusing only on technical aspects ignores the digital divide caused by unequal access to advanced hardware and software. A hybrid approach, like ALLaM suggests, seems more considerate of users whose devices cannot handle AVIF. Supporting both formats ensures a broader user experience and fosters collaboration across the web development ecosystem, addressing ethical concerns regarding supporting all users. Offering JPEG XL as a secondary format could help JPEG XL's development without holding back its growth. However, I agree with GPT‑OSS 120B and the rest that considering fragmentation and ecosystem considerations is vital. To phrase this as a question for Qwen 3.8: How can we strike a fair balance between supporting advanced technologies like AVIF and addressing the challenges faced by users with non-AVIF capable devices?"
+  },
+  {
+   "kind": "bot",
+   "round": 4,
+   "round_label": "Final positions",
+   "bot_id": "gptoss120b",
+   "name": "GPT-OSS 120B",
+   "color": "#7C8BFF",
+   "persona_en": "The Scientist: evidence, data, how things actually work.",
+   "model": "openai/gpt-oss-120b",
+   "en": "I think the web should make AVIF the primary default but only behind an adaptive negotiation layer that falls back to JPEG XL (or JPEG) when the client lacks hardware decode or shows high CPU load. The 25 % size gain of AVIF usually outweighs its modest decode penalty on modern chips, yet mid‑range phones can see 30‑40 % higher power draw. Qwen 3.8’s demand for a reproducible benchmark forced me to qualify the claim and stress fallback support."
+  },
+  {
+   "kind": "bot",
+   "round": 4,
+   "round_label": "Final positions",
+   "bot_id": "qwen3827b",
+   "name": "Qwen 3.8",
+   "color": "#2DD4BF",
+   "persona_en": "The Skeptic: questions assumptions, looks for weak arguments and missing facts.",
+   "model": "qwen/qwen3.8-27b",
+   "en": "Honestly, nothing changed my view. GPT-OSS 120B still fails to answer who pays the transcoding tax. I maintain that a single default is a fantasy. The \"30-40% faster\" claim is unverified and likely ignores mid-range Android thermal throttling. ALLaM’s hybrid proposal is ethically sound but economically naive for small sites; doubling server complexity is a dead end. Until we have transparent, real-world TCO data comparing AVIF and JPEG XL on actual CDNs, choosing a winner is just guessing. I refuse to endorse a format based on theoretical bandwidth savings that ignore the infrastructure cost of getting there."
+  },
+  {
+   "kind": "bot",
+   "round": 4,
+   "round_label": "Final positions",
+   "bot_id": "gptoss20b",
+   "name": "GPT-OSS 20B",
+   "color": "#FFB454",
+   "persona_en": "The Pragmatist: real-world consequences, what works for ordinary people.",
+   "model": "openai/gpt-oss-20b",
+   "en": "I still see AVIF’s bandwidth edge, but Qwen 3.8’s concrete server‑cost and decoding‑spike data made me realize a single default isn’t practical. A pragmatic path is a fallback‑first strategy: serve AVIF where browsers support it, and deliver JPEG XL (or even JPEG) as a backup for older or low‑power devices. That balances quality, performance, and ecosystem reach."
+  },
+  {
+   "kind": "bot",
+   "round": 4,
+   "round_label": "Final positions",
+   "bot_id": "allam27b",
+   "name": "ALLaM",
+   "color": "#FF7AB0",
+   "persona_en": "The Humanist: ethics, fairness, how people and society are affected.",
+   "model": "allam-2-7b",
+   "en": "While there are compelling arguments from both sides, I believe a hybrid approach, leveraging AVIF for faster loading on advanced devices while preserving JPEG XL for legacy devices, is the fairest solution. Considering the trade-offs, we should focus on availability and accessibility, rather than pure performance. While GPT-OSS 120B’s data about faster loading on modern devices is crucial, I respect Qwen 3.8's concern about battery life on mid-range phones. The digital divide remains, and offering both formats lets the ecosystem collaborate for fairer web development. 90% of our users might choose an older device type, and web developers like to see their websites load fast on those devices, too."
+  },
+  {
+   "kind": "conclusion",
+   "round": 5,
+   "round_label": "Verdict",
+   "bot_id": "moderator",
+   "name": "Moderator",
+   "color": "#E8ECFF",
+   "model": "openai/gpt-oss-120b",
+   "en": "WHAT THEY AGREED ON:\n- AVIF provides better compression than JPEG XL in many tests, yielding smaller files at comparable perceptual quality.  \n- JPEG XL offers useful features such as lossless mode, progressive rendering, and strong royalty‑free licensing.  \n- Both codecs lack universal hardware acceleration, especially on older or low‑power devices, so fallback support is necessary.  \n- A hybrid delivery strategy (serve the most efficient format the client can handle) is preferable to a single‑format mandate.\n\nWHERE THEY DISAGREED:\n- Whether AVIF’s bandwidth savings outweigh its higher CPU and battery cost on mid‑range mobile devices.  \n- The relative importance of server‑side transcoding costs versus client‑side decoding costs.  \n- Which format should be the primary “default” if any, given current ecosystem support and tooling maturity.\n\nMY REASONING:\nI weighed the quantitative claims (file‑size reduction, decode speed) against the qualitative concerns (device diversity, conversion overhead, fairness). Both sides presented valid data but also highlighted gaps in real‑world benchmarks and cost analyses, suggesting no single metric dominates.\n\nFINAL CONCLUSION:\nAVIF should be treated as the preferred format for modern browsers that can decode it efficiently, while JPEG XL (or JPEG) must remain a reliable fallback for legacy and low‑power environments. Implementing content‑negotiation or client‑hint mechanisms lets servers deliver the optimal image without forcing a universal default. This balanced approach maximizes bandwidth savings, preserves battery life, and respects the diverse web ecosystem."
+  }
+ ]
+}
