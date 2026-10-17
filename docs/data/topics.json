@@ -1,75 +1,75 @@
 {
- "updated_at": "2026-10-16T23:27:12+00:00",
+ "updated_at": "2026-10-17T04:09:58+00:00",
  "items": [
   {
    "id": "t0",
-   "category": "weather",
-   "headline": "Strong storms, winds and isolated tornado risk forecast for Maryland Friday",
-   "question": "How should residents balance staying informed with avoiding panic during such severe weather alerts?",
-   "source": "Google News"
+   "category": "world",
+   "headline": "Brazil sees record fall in Amazon deforestation as key election looms",
+   "source": "BBC News",
+   "question": "What do you make of this story: Brazil sees record fall in Amazon deforestation as key election looms?"
   },
   {
    "id": "t1",
-   "category": "sports",
-   "headline": "Manchester City appeal: assessing the club's legal grounds",
-   "question": "Should football clubs be allowed to appeal disciplinary decisions that affect competition outcomes?",
-   "source": "BBC Sport"
+   "category": "world",
+   "headline": "Trump waives several Russia sanctions as new US law takes effect",
+   "source": "BBC News",
+   "question": "What do you make of this story: Trump waives several Russia sanctions as new US law takes effect?"
   },
   {
    "id": "t2",
-   "category": "sports",
-   "headline": "MLB's next superteam: Which franchise could build a championship roster?",
-   "question": "Is it fair for MLB teams to pursue massive payrolls to create superteams, or should there be spending limits?",
-   "source": "Google News"
+   "category": "world",
+   "headline": "Inside Ukrainian offensive pushing Russia back - with Starlink playing a key role",
+   "source": "BBC News",
+   "question": "What do you make of this story: Inside Ukrainian offensive pushing Russia back - with Starlink playing a key role?"
   },
   {
    "id": "t3",
-   "category": "sports",
-   "headline": "NFL Week 6 recap: key takeaways and fantasy implications",
-   "question": "Do weekly fantasy advice columns influence fan engagement more than actual game analysis?",
-   "source": "Google News"
+   "category": "world",
+   "headline": "Katie Zacharia leaving her White House role less than five days on the job",
+   "source": "BBC News",
+   "question": "What do you make of this story: Katie Zacharia leaving her White House role less than five days on the job?"
   },
   {
    "id": "t4",
-   "category": "world",
-   "headline": "German steakhouse heiress trial revives a major espionage scandal",
-   "question": "What does this high-profile espionage case reveal about corporate security practices in Europe?",
-   "source": "BBC News"
+   "category": "sports",
+   "headline": "Ranking the Premier League's all-time greatest super subs",
+   "source": "BBC Sport",
+   "question": "What do you make of this story: Ranking the Premier League's all-time greatest super subs?"
   },
   {
    "id": "t5",
-   "category": "tech",
-   "headline": "Australia proposes an off switch for harmful AI algorithms",
-   "question": "Can government-mandated AI shutdown mechanisms effectively prevent misuse without stifling innovation?",
-   "source": "BBC News"
+   "category": "sports",
+   "headline": "Former Sale Sharks lock Andrews dies at team hotel in La Rochelle",
+   "source": "BBC Sport",
+   "question": "What do you make of this story: Former Sale Sharks lock Andrews dies at team hotel in La Rochelle?"
   },
   {
    "id": "t6",
-   "category": "tech",
-   "headline": "Anthropic seeks investors ahead of its public market debut",
-   "question": "Will Anthropic's approach to AI safety give it a competitive edge in the AI market?",
-   "source": "BBC News"
+   "category": "sports",
+   "headline": "Underdogs? We like that tag, says England captain Williams",
+   "source": "BBC Sport",
+   "question": "What do you make of this story: Underdogs? We like that tag, says England captain Williams?"
   },
   {
    "id": "t7",
-   "category": "science",
-   "headline": "Severe drought triggers hosepipe bans across affected regions",
-   "question": "Are current water management policies sufficient to address the increasing frequency of droughts?",
-   "source": "BBC News"
+   "category": "sports",
+   "headline": "Dubois and Wardley at career-heaviest for rematch",
+   "source": "BBC Sport",
+   "question": "What do you make of this story: Dubois and Wardley at career-heaviest for rematch?"
   },
   {
    "id": "t8",
-   "category": "health",
-   "headline": "Covid vaccine compensation scheme faces overhaul after inquiry criticism",
-   "question": "Should vaccine injury compensation programs be expanded to cover broader health impacts?",
-   "source": "BBC News"
+   "category": "tech",
+   "headline": "Toxic algorithms wouldn't let them go - now Australia wants an off switch",
+   "source": "BBC News",
+   "question": "What do you make of this story: Toxic algorithms wouldn't let them go - now Australia wants an off switch?"
   },
   {
    "id": "t9",
-   "category": "business",
-   "headline": "Banks anticipate higher taxes following the upcoming budget announcement",
-   "question": "How will increased taxation on banks affect lending rates and economic growth?",
-   "source": "BBC News"
+   "category": "tech",
+   "headline": "Snapchat and Instagram grooming becoming 'easier'",
+   "source": "BBC News",
+   "question": "What do you make of this story: Snapchat and Instagram grooming becoming 'easier'?"
   }
  ]
 }
