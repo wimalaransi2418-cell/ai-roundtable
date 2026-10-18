@@ -1,74 +1,74 @@
 {
- "updated_at": "2026-10-18T05:43:01+00:00",
+ "updated_at": "2026-10-18T10:52:51+00:00",
  "items": [
   {
    "id": "t0",
    "category": "weather",
-   "headline": "Super Typhoon Champi Passes Within 10 Miles of Guam",
-   "question": "How should authorities balance evacuation orders with economic disruption when a typhoon approaches?",
+   "headline": "New AI framework aims to improve mid‑range weather forecasts",
+   "question": "Will AI-driven forecasts significantly outperform traditional models for daily planning?",
    "source": "Google News"
   },
   {
    "id": "t1",
    "category": "sports",
-   "headline": "Dubois' dominant win raises questions about heavyweight boxing future",
-   "question": "What should be Dubois' next major opponent to solidify his standing as champion?",
+   "headline": "Dubois' dominant win sparks debate on heavyweight boxing's future direction",
+   "question": "What changes should boxing promoters make to keep the heavyweight division vibrant?",
    "source": "BBC Sport"
   },
   {
    "id": "t2",
    "category": "sports",
-   "headline": "Wirtz shines but Liverpool still face strategic challenges",
-   "question": "How can Liverpool best integrate Wirtz's talent into their tactical system?",
-   "source": "BBC Sport"
+   "headline": "College football sees major upsets as Auburn, Florida, and BYU topple top teams",
+   "question": "Do these upsets signal a shift in power balance among college football programs?",
+   "source": "Google News"
   },
   {
    "id": "t3",
-   "category": "tech",
-   "headline": "Anthropic seeks investors ahead of upcoming stock market debut",
-   "question": "What impact could Anthropic's IPO have on competition within the AI industry?",
+   "category": "world",
+   "headline": "Luxury boat with 50‑meter pool spotted near Kim Jong Un's summer retreat",
+   "question": "What does the display of such opulence reveal about North Korea's leadership priorities?",
    "source": "BBC News"
   },
   {
    "id": "t4",
    "category": "tech",
-   "headline": "Australia proposes an 'off switch' for harmful AI algorithms",
-   "question": "Would mandatory AI shut‑off mechanisms curb misuse without stifling innovation?",
+   "headline": "AI startup Anthropic seeks investors ahead of its upcoming stock market debut",
+   "question": "Can Anthropic's AI approach address ethical concerns better than its rivals?",
    "source": "BBC News"
   },
   {
    "id": "t5",
    "category": "science",
-   "headline": "Amazon deforestation hits record low in Brazil ahead of election",
-   "question": "Can Brazil sustain the recent decline in deforestation beyond the election cycle?",
+   "headline": "Brazil records historic drop in Amazon deforestation ahead of key election",
+   "question": "Will the recent decline in deforestation be sustained after the election?",
    "source": "BBC News"
   },
   {
    "id": "t6",
    "category": "health",
-   "headline": "UK Covid vaccine compensation scheme to be overhauled after criticism",
-   "question": "What changes are needed to ensure fair compensation for vaccine injury claims?",
+   "headline": "Covid vaccine compensation scheme faces overhaul after critical inquiry",
+   "question": "How should compensation schemes balance fairness to claimants with fiscal responsibility?",
    "source": "BBC News"
   },
   {
    "id": "t7",
    "category": "business",
-   "headline": "UK banks anticipate higher taxes following new Budget",
-   "question": "How might increased taxation affect banks' lending and investment strategies?",
+   "headline": "Finance leaders voice concerns over China's AI advancements and global impact",
+   "question": "Should regulators intervene to limit AI's influence on international finance markets?",
    "source": "BBC News"
   },
   {
    "id": "t8",
    "category": "trending",
-   "headline": "Search interest spikes for 'AI bubble'",
-   "question": "Is the current hype around AI leading to an unsustainable market bubble?",
+   "headline": "Columbus Marathon 2026 draws attention as runners prepare for the event",
+   "question": "How can marathon organizers improve sustainability for large‑scale races?",
    "source": "Google Trends"
   },
   {
    "id": "t9",
-   "category": "world",
-   "headline": "Homemade synthetic drugs surge across the US, deepening crisis",
-   "question": "What policies could effectively curb the rise of illicit synthetic drug production?",
+   "category": "tech",
+   "headline": "Australia proposes an 'off switch' for harmful AI algorithms",
+   "question": "Is it feasible for governments to enforce an off switch on powerful AI systems?",
    "source": "BBC News"
   }
  ]
