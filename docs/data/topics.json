@@ -1,75 +1,75 @@
 {
- "updated_at": "2026-10-18T00:50:39+00:00",
+ "updated_at": "2026-10-18T05:43:01+00:00",
  "items": [
   {
    "id": "t0",
-   "category": "world",
-   "headline": "Luxury boat with 50m pool spotted near Kim Jong Un's summer retreat",
-   "question": "What are the implications of such extravagant displays for North Korean elite's public image?",
-   "source": "BBC News"
+   "category": "weather",
+   "headline": "Super Typhoon Champi Passes Within 10 Miles of Guam",
+   "question": "How should authorities balance evacuation orders with economic disruption when a typhoon approaches?",
+   "source": "Google News"
   },
   {
    "id": "t1",
-   "category": "tech",
-   "headline": "Anthropic seeks investors ahead of its stock market debut",
-   "question": "Should AI startups prioritize rapid fundraising over ensuring robust safety measures?",
-   "source": "BBC News"
+   "category": "sports",
+   "headline": "Dubois' dominant win raises questions about heavyweight boxing future",
+   "question": "What should be Dubois' next major opponent to solidify his standing as champion?",
+   "source": "BBC Sport"
   },
   {
    "id": "t2",
-   "category": "science",
-   "headline": "Brazil records sharp drop in Amazon deforestation ahead of key election",
-   "question": "Will the recent drop in Amazon deforestation be sustained after the election?",
-   "source": "BBC News"
+   "category": "sports",
+   "headline": "Wirtz shines but Liverpool still face strategic challenges",
+   "question": "How can Liverpool best integrate Wirtz's talent into their tactical system?",
+   "source": "BBC Sport"
   },
   {
    "id": "t3",
-   "category": "health",
-   "headline": "Covid vaccine compensation scheme to be overhauled after inquiry criticism",
-   "question": "Is a revamped vaccine compensation scheme enough to restore public trust in immunizations?",
+   "category": "tech",
+   "headline": "Anthropic seeks investors ahead of upcoming stock market debut",
+   "question": "What impact could Anthropic's IPO have on competition within the AI industry?",
    "source": "BBC News"
   },
   {
    "id": "t4",
-   "category": "business",
-   "headline": "Banks anticipate higher taxes in upcoming budget",
-   "question": "How will higher taxes on banks affect the broader economy and borrowers?",
+   "category": "tech",
+   "headline": "Australia proposes an 'off switch' for harmful AI algorithms",
+   "question": "Would mandatory AI shut‑off mechanisms curb misuse without stifling innovation?",
    "source": "BBC News"
   },
   {
    "id": "t5",
-   "category": "trending",
-   "headline": "Trending: SJSU vs UTEP matchup draws online interest",
-   "question": "Does the growing online buzz around college sports matchups reflect shifting fan engagement?",
-   "source": "Google Trends"
+   "category": "science",
+   "headline": "Amazon deforestation hits record low in Brazil ahead of election",
+   "question": "Can Brazil sustain the recent decline in deforestation beyond the election cycle?",
+   "source": "BBC News"
   },
   {
    "id": "t6",
-   "category": "weather",
-   "headline": "New AI framework aims to improve mid‑range weather forecasts",
-   "question": "Can AI truly bridge the forecasting gap without compromising model transparency?",
-   "source": "Google News"
+   "category": "health",
+   "headline": "UK Covid vaccine compensation scheme to be overhauled after criticism",
+   "question": "What changes are needed to ensure fair compensation for vaccine injury claims?",
+   "source": "BBC News"
   },
   {
    "id": "t7",
-   "category": "sports",
-   "headline": "Dubois defeats Wardley in two rounds to retain title",
-   "question": "Does Dubois's quick victory indicate a widening skill gap in the division?",
-   "source": "BBC Sport"
+   "category": "business",
+   "headline": "UK banks anticipate higher taxes following new Budget",
+   "question": "How might increased taxation affect banks' lending and investment strategies?",
+   "source": "BBC News"
   },
   {
    "id": "t8",
-   "category": "sports",
-   "headline": "Golden State Valkyries fans celebrate historic first WNBA Finals game",
-   "question": "Will the Valkyries' historic finals appearance boost long‑term support for women's basketball?",
-   "source": "Google News"
+   "category": "trending",
+   "headline": "Search interest spikes for 'AI bubble'",
+   "question": "Is the current hype around AI leading to an unsustainable market bubble?",
+   "source": "Google Trends"
   },
   {
    "id": "t9",
-   "category": "sports",
-   "headline": "Wirtz scores but remains Liverpool's tactical puzzle",
-   "question": "Can Liverpool find a system that maximizes Wirtz's talents while maintaining team balance?",
-   "source": "BBC Sport"
+   "category": "world",
+   "headline": "Homemade synthetic drugs surge across the US, deepening crisis",
+   "question": "What policies could effectively curb the rise of illicit synthetic drug production?",
+   "source": "BBC News"
   }
  ]
 }
