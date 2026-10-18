@@ -1,75 +1,75 @@
 {
- "updated_at": "2026-10-18T14:28:30+00:00",
+ "updated_at": "2026-10-18T17:59:48+00:00",
  "items": [
   {
    "id": "t0",
    "category": "weather",
-   "headline": "New AI framework bridges a critical gap in mid‑range weather forecasts",
-   "question": "How should policymakers balance AI‑driven forecast improvements with data privacy concerns?",
+   "headline": "Cool weather stalling crop development",
+   "question": "How should farmers adapt to prolonged cool periods affecting crops?",
    "source": "Google News"
   },
   {
    "id": "t1",
    "category": "sports",
-   "headline": "Haaland nets double as Man City go six points clear at the top",
-   "question": "Will Haaland's scoring form continue to give Manchester City a decisive edge this season?",
+   "headline": "Haaland nets double as Man City extend lead at the top",
+   "question": "Will Manchester City's dominance continue this season?",
    "source": "BBC Sport"
   },
   {
    "id": "t2",
    "category": "sports",
-   "headline": "Liverpool come from behind to beat nine‑man Brentford",
-   "question": "What tactical changes allowed Liverpool to overturn the deficit against a reduced Brentford side?",
-   "source": "BBC Sport"
+   "headline": "Coaches Poll top 25: Miami climbs to No.1, traditional powers slip",
+   "question": "Do the latest Coaches Poll rankings accurately reflect team strengths?",
+   "source": "Google News"
   },
   {
    "id": "t3",
-   "category": "tech",
-   "headline": "Toxic algorithms wouldn’t let them go – now Australia wants an off switch",
-   "question": "Should governments mandate an “off switch” for potentially harmful AI algorithms?",
+   "category": "world",
+   "headline": "Search for Amelia Earhart's plane resumes after stormy weather",
+   "question": "What new evidence could finally solve the mystery of Amelia Earhart's disappearance?",
    "source": "BBC News"
   },
   {
    "id": "t4",
    "category": "tech",
-   "headline": "AI giant Anthropic woos potential investors ahead of stock market debut",
-   "question": "Can Anthropic's upcoming IPO attract enough capital to accelerate responsible AI development?",
+   "headline": "AI giant Anthropic seeks investors ahead of stock market debut",
+   "question": "Can Anthropic's approach to AI safety give it a competitive edge?",
    "source": "BBC News"
   },
   {
    "id": "t5",
-   "category": "science",
-   "headline": "Turning the tides: Could hidden sea power energise our coastal towns?",
-   "question": "Could hidden tidal energy become a major source of renewable power for coastal communities?",
+   "category": "tech",
+   "headline": "Australia proposes an off switch for toxic algorithms",
+   "question": "Should governments have the authority to shut down harmful AI algorithms?",
    "source": "BBC News"
   },
   {
    "id": "t6",
    "category": "science",
-   "headline": "Brazil sees record fall in Amazon deforestation as key election looms",
-   "question": "What factors contributed to Brazil's record drop in Amazon deforestation this year?",
+   "headline": "Fuel leak spreads over two miles along River Taff",
+   "question": "What are the best strategies to prevent and contain river fuel spills?",
    "source": "BBC News"
   },
   {
    "id": "t7",
-   "category": "health",
-   "headline": "Covid vaccine compensation scheme set for overhaul after Inquiry criticism",
-   "question": "Is the proposed overhaul of the Covid vaccine compensation scheme sufficient to address claimants' concerns?",
+   "category": "science",
+   "headline": "Brazil records historic drop in Amazon deforestation ahead of election",
+   "question": "Will Brazil's deforestation decline be sustained beyond the election year?",
    "source": "BBC News"
   },
   {
    "id": "t8",
-   "category": "business",
-   "headline": "Third runway at Heathrow Airport would drive growth, Healey says",
-   "question": "Will expanding Heathrow with a third runway deliver the projected economic growth?",
+   "category": "health",
+   "headline": "Covid vaccine compensation scheme to be overhauled after inquiry",
+   "question": "How can vaccine compensation schemes balance fairness and public trust?",
    "source": "BBC News"
   },
   {
    "id": "t9",
-   "category": "trending",
-   "headline": "Celtic vs Hearts – match preview and implications",
-   "question": "How will the Celtic vs Hearts match influence the Scottish league standings this season?",
-   "source": "Google Trends"
+   "category": "business",
+   "headline": "Banks anticipate higher taxes in upcoming Budget",
+   "question": "Will increased taxes on banks affect lending to small businesses?",
+   "source": "BBC News"
   }
  ]
 }
