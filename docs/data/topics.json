@@ -1,75 +1,75 @@
 {
- "updated_at": "2026-10-17T22:11:16+00:00",
+ "updated_at": "2026-10-18T00:50:39+00:00",
  "items": [
   {
    "id": "t0",
-   "category": "weather",
-   "headline": "San Diego weather forecast for Saturday, Oct 17, 2026",
-   "question": "How might the predicted conditions affect weekend plans for locals?",
-   "source": "Google News"
+   "category": "world",
+   "headline": "Luxury boat with 50m pool spotted near Kim Jong Un's summer retreat",
+   "question": "What are the implications of such extravagant displays for North Korean elite's public image?",
+   "source": "BBC News"
   },
   {
    "id": "t1",
-   "category": "sports",
-   "headline": "Haaland scores twice as Man City extend lead at the top",
-   "question": "Will Haaland's form continue to dominate the Premier League this season?",
-   "source": "BBC Sport"
+   "category": "tech",
+   "headline": "Anthropic seeks investors ahead of its stock market debut",
+   "question": "Should AI startups prioritize rapid fundraising over ensuring robust safety measures?",
+   "source": "BBC News"
   },
   {
    "id": "t2",
-   "category": "sports",
-   "headline": "Liverpool rally to beat nine‑man Brentford",
-   "question": "Can Liverpool maintain momentum after this comeback win?",
-   "source": "BBC Sport"
+   "category": "science",
+   "headline": "Brazil records sharp drop in Amazon deforestation ahead of key election",
+   "question": "Will the recent drop in Amazon deforestation be sustained after the election?",
+   "source": "BBC News"
   },
   {
    "id": "t3",
-   "category": "tech",
-   "headline": "Australia proposes an off‑switch for harmful AI algorithms",
-   "question": "Should governments have the authority to mandate AI shutdown mechanisms?",
+   "category": "health",
+   "headline": "Covid vaccine compensation scheme to be overhauled after inquiry criticism",
+   "question": "Is a revamped vaccine compensation scheme enough to restore public trust in immunizations?",
    "source": "BBC News"
   },
   {
    "id": "t4",
-   "category": "tech",
-   "headline": "Everything you need to know about the upcoming GTA 6 release",
-   "question": "Will GTA 6 set new standards for open‑world game design?",
+   "category": "business",
+   "headline": "Banks anticipate higher taxes in upcoming budget",
+   "question": "How will higher taxes on banks affect the broader economy and borrowers?",
    "source": "BBC News"
   },
   {
    "id": "t5",
-   "category": "science",
-   "headline": "Amazon deforestation hits record low ahead of Brazil election",
-   "question": "What impact will Brazil's policies have on long‑term rainforest protection?",
-   "source": "BBC News"
+   "category": "trending",
+   "headline": "Trending: SJSU vs UTEP matchup draws online interest",
+   "question": "Does the growing online buzz around college sports matchups reflect shifting fan engagement?",
+   "source": "Google Trends"
   },
   {
    "id": "t6",
-   "category": "science",
-   "headline": "New evidence suggests Neanderthals may have engaged in lethal fights",
-   "question": "How should this finding reshape our view of Neanderthal societies?",
-   "source": "BBC News"
+   "category": "weather",
+   "headline": "New AI framework aims to improve mid‑range weather forecasts",
+   "question": "Can AI truly bridge the forecasting gap without compromising model transparency?",
+   "source": "Google News"
   },
   {
    "id": "t7",
-   "category": "health",
-   "headline": "Covid vaccine compensation scheme to be overhauled after criticism",
-   "question": "What changes are needed to make the compensation scheme fair and effective?",
-   "source": "BBC News"
+   "category": "sports",
+   "headline": "Dubois defeats Wardley in two rounds to retain title",
+   "question": "Does Dubois's quick victory indicate a widening skill gap in the division?",
+   "source": "BBC Sport"
   },
   {
    "id": "t8",
-   "category": "business",
-   "headline": "Did Tesla really unveil a functional flying car prototype?",
-   "question": "Is a flying car a realistic near‑term goal for Tesla or just hype?",
-   "source": "BBC News"
+   "category": "sports",
+   "headline": "Golden State Valkyries fans celebrate historic first WNBA Finals game",
+   "question": "Will the Valkyries' historic finals appearance boost long‑term support for women's basketball?",
+   "source": "Google News"
   },
   {
    "id": "t9",
-   "category": "trending",
-   "headline": "Nicki Minaj trends worldwide amid new music release",
-   "question": "Will Nicki Minaj's latest release influence current pop‑music trends?",
-   "source": "Google Trends"
+   "category": "sports",
+   "headline": "Wirtz scores but remains Liverpool's tactical puzzle",
+   "question": "Can Liverpool find a system that maximizes Wirtz's talents while maintaining team balance?",
+   "source": "BBC Sport"
   }
  ]
 }
