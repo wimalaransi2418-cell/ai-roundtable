@@ -1,6 +1,11 @@
 {
  "sessions": [
   {
+   "id": "20261018-1755",
+   "started_at": "2026-10-18T17:55:14+00:00",
+   "question_en": "Should AI-powered search services be priced low per request to promote accessibility, even if it may undermine sustainable business models?"
+  },
+  {
    "id": "20261018-0753",
    "started_at": "2026-10-18T07:53:45+00:00",
    "question_en": "Should large‑scale dam removal be prioritized globally as the main strategy for restoring river ecosystems?"
