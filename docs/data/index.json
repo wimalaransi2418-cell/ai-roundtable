@@ -1,6 +1,11 @@
 {
  "sessions": [
   {
+   "id": "20261018-0753",
+   "started_at": "2026-10-18T07:53:45+00:00",
+   "question_en": "Should large‑scale dam removal be prioritized globally as the main strategy for restoring river ecosystems?"
+  },
+  {
    "id": "20261017-1749",
    "started_at": "2026-10-17T17:49:00+00:00",
    "question_en": "Should governments prioritize further investment in solar energy over nuclear power to meet climate goals?"
