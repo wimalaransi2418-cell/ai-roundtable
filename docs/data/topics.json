@@ -1,75 +1,75 @@
 {
- "updated_at": "2026-10-18T10:52:51+00:00",
+ "updated_at": "2026-10-18T14:28:30+00:00",
  "items": [
   {
    "id": "t0",
    "category": "weather",
-   "headline": "New AI framework aims to improve mid‑range weather forecasts",
-   "question": "Will AI-driven forecasts significantly outperform traditional models for daily planning?",
+   "headline": "New AI framework bridges a critical gap in mid‑range weather forecasts",
+   "question": "How should policymakers balance AI‑driven forecast improvements with data privacy concerns?",
    "source": "Google News"
   },
   {
    "id": "t1",
    "category": "sports",
-   "headline": "Dubois' dominant win sparks debate on heavyweight boxing's future direction",
-   "question": "What changes should boxing promoters make to keep the heavyweight division vibrant?",
+   "headline": "Haaland nets double as Man City go six points clear at the top",
+   "question": "Will Haaland's scoring form continue to give Manchester City a decisive edge this season?",
    "source": "BBC Sport"
   },
   {
    "id": "t2",
    "category": "sports",
-   "headline": "College football sees major upsets as Auburn, Florida, and BYU topple top teams",
-   "question": "Do these upsets signal a shift in power balance among college football programs?",
-   "source": "Google News"
+   "headline": "Liverpool come from behind to beat nine‑man Brentford",
+   "question": "What tactical changes allowed Liverpool to overturn the deficit against a reduced Brentford side?",
+   "source": "BBC Sport"
   },
   {
    "id": "t3",
-   "category": "world",
-   "headline": "Luxury boat with 50‑meter pool spotted near Kim Jong Un's summer retreat",
-   "question": "What does the display of such opulence reveal about North Korea's leadership priorities?",
+   "category": "tech",
+   "headline": "Toxic algorithms wouldn’t let them go – now Australia wants an off switch",
+   "question": "Should governments mandate an “off switch” for potentially harmful AI algorithms?",
    "source": "BBC News"
   },
   {
    "id": "t4",
    "category": "tech",
-   "headline": "AI startup Anthropic seeks investors ahead of its upcoming stock market debut",
-   "question": "Can Anthropic's AI approach address ethical concerns better than its rivals?",
+   "headline": "AI giant Anthropic woos potential investors ahead of stock market debut",
+   "question": "Can Anthropic's upcoming IPO attract enough capital to accelerate responsible AI development?",
    "source": "BBC News"
   },
   {
    "id": "t5",
    "category": "science",
-   "headline": "Brazil records historic drop in Amazon deforestation ahead of key election",
-   "question": "Will the recent decline in deforestation be sustained after the election?",
+   "headline": "Turning the tides: Could hidden sea power energise our coastal towns?",
+   "question": "Could hidden tidal energy become a major source of renewable power for coastal communities?",
    "source": "BBC News"
   },
   {
    "id": "t6",
-   "category": "health",
-   "headline": "Covid vaccine compensation scheme faces overhaul after critical inquiry",
-   "question": "How should compensation schemes balance fairness to claimants with fiscal responsibility?",
+   "category": "science",
+   "headline": "Brazil sees record fall in Amazon deforestation as key election looms",
+   "question": "What factors contributed to Brazil's record drop in Amazon deforestation this year?",
    "source": "BBC News"
   },
   {
    "id": "t7",
-   "category": "business",
-   "headline": "Finance leaders voice concerns over China's AI advancements and global impact",
-   "question": "Should regulators intervene to limit AI's influence on international finance markets?",
+   "category": "health",
+   "headline": "Covid vaccine compensation scheme set for overhaul after Inquiry criticism",
+   "question": "Is the proposed overhaul of the Covid vaccine compensation scheme sufficient to address claimants' concerns?",
    "source": "BBC News"
   },
   {
    "id": "t8",
-   "category": "trending",
-   "headline": "Columbus Marathon 2026 draws attention as runners prepare for the event",
-   "question": "How can marathon organizers improve sustainability for large‑scale races?",
-   "source": "Google Trends"
+   "category": "business",
+   "headline": "Third runway at Heathrow Airport would drive growth, Healey says",
+   "question": "Will expanding Heathrow with a third runway deliver the projected economic growth?",
+   "source": "BBC News"
   },
   {
    "id": "t9",
-   "category": "tech",
-   "headline": "Australia proposes an 'off switch' for harmful AI algorithms",
-   "question": "Is it feasible for governments to enforce an off switch on powerful AI systems?",
-   "source": "BBC News"
+   "category": "trending",
+   "headline": "Celtic vs Hearts – match preview and implications",
+   "question": "How will the Celtic vs Hearts match influence the Scottish league standings this season?",
+   "source": "Google Trends"
   }
  ]
 }
