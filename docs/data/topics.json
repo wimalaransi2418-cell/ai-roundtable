@@ -1,74 +1,74 @@
 {
- "updated_at": "2026-10-18T17:59:48+00:00",
+ "updated_at": "2026-10-18T20:29:48+00:00",
  "items": [
   {
    "id": "t0",
-   "category": "weather",
-   "headline": "Cool weather stalling crop development",
-   "question": "How should farmers adapt to prolonged cool periods affecting crops?",
-   "source": "Google News"
+   "category": "sports",
+   "headline": "Brighton thrash Palace 5-0 as Gomez nets spectacular goal",
+   "question": "Should Brighton's attacking style be considered a model for other Premier League clubs?",
+   "source": "BBC Sport"
   },
   {
    "id": "t1",
    "category": "sports",
-   "headline": "Haaland nets double as Man City extend lead at the top",
-   "question": "Will Manchester City's dominance continue this season?",
+   "headline": "Arsenal secure narrow win over Forest thanks to Madueke's strike",
+   "question": "Can Arsenal's recent performances indicate a genuine title challenge this season?",
    "source": "BBC Sport"
   },
   {
    "id": "t2",
-   "category": "sports",
-   "headline": "Coaches Poll top 25: Miami climbs to No.1, traditional powers slip",
-   "question": "Do the latest Coaches Poll rankings accurately reflect team strengths?",
+   "category": "weather",
+   "headline": "Researchers improve mid-range weather forecasts up to six weeks ahead",
+   "question": "Will longer-range forecasts significantly change how societies plan for weather events?",
    "source": "Google News"
   },
   {
    "id": "t3",
-   "category": "world",
-   "headline": "Search for Amelia Earhart's plane resumes after stormy weather",
-   "question": "What new evidence could finally solve the mystery of Amelia Earhart's disappearance?",
+   "category": "tech",
+   "headline": "AI startup Anthropic seeks investors ahead of upcoming stock market debut",
+   "question": "Is investing in AI companies like Anthropic a prudent long-term strategy given market volatility?",
    "source": "BBC News"
   },
   {
    "id": "t4",
-   "category": "tech",
-   "headline": "AI giant Anthropic seeks investors ahead of stock market debut",
-   "question": "Can Anthropic's approach to AI safety give it a competitive edge?",
+   "category": "science",
+   "headline": "Guide to viewing the Orionid meteor shower this month",
+   "question": "What measures can be taken to reduce light pollution for better meteor shower visibility?",
    "source": "BBC News"
   },
   {
    "id": "t5",
-   "category": "tech",
-   "headline": "Australia proposes an off switch for toxic algorithms",
-   "question": "Should governments have the authority to shut down harmful AI algorithms?",
+   "category": "science",
+   "headline": "Amazon deforestation in Brazil drops to record low amid upcoming election",
+   "question": "Will Brazil's reduced deforestation rates be sustained after the election?",
    "source": "BBC News"
   },
   {
    "id": "t6",
-   "category": "science",
-   "headline": "Fuel leak spreads over two miles along River Taff",
-   "question": "What are the best strategies to prevent and contain river fuel spills?",
+   "category": "health",
+   "headline": "Pope released from hospital after lung cancer surgery, recovering well",
+   "question": "How might the Pope's health influence the Catholic Church's direction in coming years?",
    "source": "BBC News"
   },
   {
    "id": "t7",
-   "category": "science",
-   "headline": "Brazil records historic drop in Amazon deforestation ahead of election",
-   "question": "Will Brazil's deforestation decline be sustained beyond the election year?",
+   "category": "business",
+   "headline": "Heathrow's third runway proposal touted as driver of economic growth",
+   "question": "Should the benefits of a new Heathrow runway outweigh environmental concerns?",
    "source": "BBC News"
   },
   {
    "id": "t8",
-   "category": "health",
-   "headline": "Covid vaccine compensation scheme to be overhauled after inquiry",
-   "question": "How can vaccine compensation schemes balance fairness and public trust?",
-   "source": "BBC News"
+   "category": "trending",
+   "headline": "Tampa Bay trending online: what topics are fueling the buzz?",
+   "question": "What factors are contributing to Tampa Bay's current surge in online attention?",
+   "source": "Google Trends"
   },
   {
    "id": "t9",
-   "category": "business",
-   "headline": "Banks anticipate higher taxes in upcoming Budget",
-   "question": "Will increased taxes on banks affect lending to small businesses?",
+   "category": "world",
+   "headline": "Synthetic drug surge in US deepens public health crisis",
+   "question": "What policies are most effective in combating the rise of homemade synthetic drugs?",
    "source": "BBC News"
   }
  ]
