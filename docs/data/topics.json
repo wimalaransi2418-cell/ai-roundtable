@@ -1,75 +1,75 @@
 {
- "updated_at": "2026-10-19T19:14:11+00:00",
+ "updated_at": "2026-10-19T23:32:15+00:00",
  "items": [
   {
    "id": "t0",
-   "category": "weather",
-   "headline": "Thanksgiving Weather Forecast 2026: What to Expect Across the U.S.",
-   "question": "How should families plan Thanksgiving travel given the forecast uncertainties?",
-   "source": "Google News"
+   "category": "world",
+   "headline": "Curfew imposed in parts of central Paris and other cities after rioting",
+   "question": "Should curfews be used as a tool to restore order during civil unrest?",
+   "source": "BBC News"
   },
   {
    "id": "t1",
-   "category": "sports",
-   "headline": "Ronaldo handed 30-day suspension by Portuguese FA",
-   "question": "Should the Portuguese FA impose longer bans for on-field misconduct?",
-   "source": "BBC Sport"
+   "category": "tech",
+   "headline": "Ex-OpenAI worker accused of planting device had Saudi support, says court filing",
+   "question": "What impact could alleged foreign involvement in tech companies have on national security?",
+   "source": "BBC News"
   },
   {
    "id": "t2",
    "category": "sports",
-   "headline": "Haaland a doubt, Semenyo out – what are Man City's options?",
-   "question": "Is Manchester City’s depth sufficient to cope with key player injuries?",
+   "headline": "Spurs beat Coventry to earn first league win of the season",
+   "question": "How important is an early season victory for a team's confidence and performance?",
    "source": "BBC Sport"
   },
   {
    "id": "t3",
-   "category": "world",
-   "headline": "Alberta heads to polls to decide on a vote for separation from Canada",
-   "question": "Would a separate Alberta benefit the province and Canada as a whole?",
-   "source": "BBC News"
+   "category": "sports",
+   "headline": "Dan Patrick: Colts will explore hiring Peyton Manning as GM",
+   "question": "Can former star players be effective general managers in the NFL?",
+   "source": "Google News"
   },
   {
    "id": "t4",
-   "category": "tech",
-   "headline": "US bans DeepSeek AI from government use amid tech tension with China",
-   "question": "Is banning foreign AI models from government use an effective security measure?",
-   "source": "BBC News"
+   "category": "weather",
+   "headline": "Offshore nor'easter to bring winds and rough seas this week",
+   "question": "How should coastal communities prepare for the upcoming nor'easter?",
+   "source": "Google News"
   },
   {
    "id": "t5",
-   "category": "science",
-   "headline": "Mission set to launch to Mars to retrieve a piece of its moon",
-   "question": "Will the Mars moon sample return mission justify its cost and risks?",
+   "category": "tech",
+   "headline": "US bans DeepSeek AI from government use as tech tension with China continues",
+   "question": "Are bans on foreign AI tools justified for national security?",
    "source": "BBC News"
   },
   {
    "id": "t6",
-   "category": "health",
-   "headline": "NHS bosses say smaller maternity units may have to close",
-   "question": "What impact will closing smaller maternity units have on patient care?",
+   "category": "tech",
+   "headline": "Don't fall for this - how to protect yourself from AI scams",
+   "question": "What are the most effective ways for individuals to avoid AI-driven scams?",
    "source": "BBC News"
   },
   {
    "id": "t7",
-   "category": "business",
-   "headline": "Home sellers cut asking prices on 3,000 properties a day",
-   "question": "Are the recent price cuts a sign of a cooling housing market?",
+   "category": "science",
+   "headline": "Mission blasts off for Mars to grab a piece of its moon",
+   "question": "What scientific benefits could be gained from retrieving a sample of Phobos?",
    "source": "BBC News"
   },
   {
    "id": "t8",
-   "category": "trending",
-   "headline": "Gluten free Ritz crackers trend gains momentum online",
-   "question": "Do gluten‑free snack trends reflect genuine health needs or marketing hype?",
-   "source": "Google Trends"
+   "category": "health",
+   "headline": "NHS bosses say smaller maternity units may have to close",
+   "question": "What are the potential effects of closing smaller maternity units on patient care?",
+   "source": "BBC News"
   },
   {
    "id": "t9",
-   "category": "business",
-   "headline": "China's growth accelerates as AI boom boosts export performance",
-   "question": "Is China's AI‑driven export growth sustainable amid global competition?",
-   "source": "BBC News"
+   "category": "trending",
+   "headline": "Terry McLaurin trending search spikes across platforms",
+   "question": "What factors contribute to sudden spikes in public interest for athletes like Terry McLaurin?",
+   "source": "Google Trends"
   }
  ]
 }
