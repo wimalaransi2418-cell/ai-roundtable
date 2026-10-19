@@ -1,74 +1,74 @@
 {
- "updated_at": "2026-10-18T22:58:51+00:00",
+ "updated_at": "2026-10-19T01:03:32+00:00",
  "items": [
   {
    "id": "t0",
    "category": "weather",
-   "headline": "Mild weather expected for the region through midweek",
-   "question": "How might the mild midweek weather affect local agriculture and outdoor events?",
+   "headline": "Frost advisories issued for Monday across parts of the UK",
+   "question": "How should authorities balance public safety and economic impact when issuing frost warnings?",
    "source": "Google News"
   },
   {
    "id": "t1",
    "category": "sports",
-   "headline": "Caleb Williams leads Bears past Falcons with career‑best streak",
-   "question": "Will Caleb Williams' performance signal a lasting turnaround for the Bears this season?",
-   "source": "Google News"
+   "headline": "Mbeumo consoles Carrick as Manchester United's winless streak continues",
+   "question": "What changes are needed for Manchester United to break their winless run?",
+   "source": "BBC Sport"
   },
   {
    "id": "t2",
    "category": "sports",
-   "headline": "NFL Week 6: Key takeaways and fantasy implications",
-   "question": "Which NFL Week 6 outcomes will have the biggest impact on playoff races?",
-   "source": "Google News"
+   "headline": "Gomez's spectacular goal leads Brighton to a 5-0 victory over Palace",
+   "question": "Does Brighton's attacking style set a new standard for Premier League teams?",
+   "source": "BBC Sport"
   },
   {
    "id": "t3",
    "category": "world",
-   "headline": "Search for Amelia Earhart's plane resumes amid stormy weather",
-   "question": "What new technologies could improve the search for Amelia Earhart's aircraft?",
+   "headline": "EU tariffs on China affect Ukrainian steel industry, says steel boss",
+   "question": "Are EU tariffs on China inadvertently harming Ukraine's steel sector?",
    "source": "BBC News"
   },
   {
    "id": "t4",
    "category": "tech",
-   "headline": "AI firm Anthropic seeks investors before stock market debut",
-   "question": "Can Anthropic's upcoming IPO attract enough capital to compete with larger AI firms?",
+   "headline": "Guide to protecting yourself from AI-powered scams",
+   "question": "What measures can individuals take to stay safe from evolving AI scams?",
    "source": "BBC News"
   },
   {
    "id": "t5",
    "category": "tech",
-   "headline": "Australia proposes an off‑switch for harmful AI algorithms",
-   "question": "Should governments enforce mandatory off‑switches for AI systems deemed harmful?",
+   "headline": "Australia proposes an off switch for harmful algorithms",
+   "question": "Should governments have the authority to enforce an off switch for dangerous AI?",
    "source": "BBC News"
   },
   {
    "id": "t6",
    "category": "science",
-   "headline": "Fuel leak extends over two miles along River Taff",
-   "question": "What are the long‑term environmental risks of the River Taff fuel spill?",
+   "headline": "Mission planned to launch to Mars to retrieve a sample from its moon",
+   "question": "What scientific benefits could come from bringing back material from Phobos?",
    "source": "BBC News"
   },
   {
    "id": "t7",
-   "category": "science",
-   "headline": "Brazil records sharp drop in Amazon deforestation ahead of election",
-   "question": "Will Brazil's deforestation decline continue after the election?",
+   "category": "health",
+   "headline": "New same-day test helps detect infections in children like ten-year-old Willow",
+   "question": "Will rapid same-day testing transform pediatric infection management?",
    "source": "BBC News"
   },
   {
    "id": "t8",
    "category": "business",
-   "headline": "Banks anticipate higher taxes in upcoming Budget",
-   "question": "How will higher taxes on banks influence the broader economy and lending?",
+   "headline": "Home sellers lower asking prices on 3,000 UK properties daily",
+   "question": "Is the current price drop a sign of a broader housing market correction?",
    "source": "BBC News"
   },
   {
    "id": "t9",
    "category": "trending",
-   "headline": "Current NASCAR points standings and driver rankings",
-   "question": "Which drivers are most likely to climb the NASCAR leaderboard in the next race?",
+   "headline": "Waymo continues expansion of autonomous ride‑hailing services",
+   "question": "How will Waymo's growth impact public perception and regulation of driverless cars?",
    "source": "Google Trends"
   }
  ]
