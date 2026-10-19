@@ -1,6 +1,11 @@
 {
  "sessions": [
   {
+   "id": "20261019-0835",
+   "started_at": "2026-10-19T08:35:40+00:00",
+   "question_en": "Should hybrid reasoning agents that combine latent‑space reasoning with text‑based actions be widely deployed despite their potential safety and alignment risks?"
+  },
+  {
    "id": "20261018-1755",
    "started_at": "2026-10-18T17:55:14+00:00",
    "question_en": "Should AI-powered search services be priced low per request to promote accessibility, even if it may undermine sustainable business models?"
