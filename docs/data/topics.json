@@ -1,74 +1,74 @@
 {
- "updated_at": "2026-10-19T12:59:16+00:00",
+ "updated_at": "2026-10-19T19:14:11+00:00",
  "items": [
   {
    "id": "t0",
-   "category": "world",
-   "headline": "Researchers suggest Amelia Earhart wreckage may be hidden in trees",
-   "question": "Should further resources be allocated to locate and excavate the possible wreckage?",
-   "source": "BBC News"
+   "category": "weather",
+   "headline": "Thanksgiving Weather Forecast 2026: What to Expect Across the U.S.",
+   "question": "How should families plan Thanksgiving travel given the forecast uncertainties?",
+   "source": "Google News"
   },
   {
    "id": "t1",
    "category": "sports",
-   "headline": "England women's coach Sarina Wiegman signs new contract extension",
-   "question": "Will the contract extension improve England's chances in upcoming tournaments?",
+   "headline": "Ronaldo handed 30-day suspension by Portuguese FA",
+   "question": "Should the Portuguese FA impose longer bans for on-field misconduct?",
    "source": "BBC Sport"
   },
   {
    "id": "t2",
    "category": "sports",
-   "headline": "Cardinals upset Rams as Eagles fall – key takeaways from NFL week six",
-   "question": "What strategic changes should the Eagles make after their loss to the Cardinals?",
+   "headline": "Haaland a doubt, Semenyo out – what are Man City's options?",
+   "question": "Is Manchester City’s depth sufficient to cope with key player injuries?",
    "source": "BBC Sport"
   },
   {
    "id": "t3",
-   "category": "science",
-   "headline": "Mission planned to launch to Mars to retrieve a sample of Phobos",
-   "question": "Is a Phobos sample return mission the best use of limited space exploration budgets?",
+   "category": "world",
+   "headline": "Alberta heads to polls to decide on a vote for separation from Canada",
+   "question": "Would a separate Alberta benefit the province and Canada as a whole?",
    "source": "BBC News"
   },
   {
    "id": "t4",
-   "category": "science",
-   "headline": "Fuel leak spreads over two miles along River Taff, prompting environmental concerns",
-   "question": "How should authorities balance rapid cleanup with long-term ecological monitoring?",
+   "category": "tech",
+   "headline": "US bans DeepSeek AI from government use amid tech tension with China",
+   "question": "Is banning foreign AI models from government use an effective security measure?",
    "source": "BBC News"
   },
   {
    "id": "t5",
-   "category": "health",
-   "headline": "NHS leaders warn smaller maternity units may need to close",
-   "question": "What impact will closing smaller maternity units have on rural healthcare access?",
+   "category": "science",
+   "headline": "Mission set to launch to Mars to retrieve a piece of its moon",
+   "question": "Will the Mars moon sample return mission justify its cost and risks?",
    "source": "BBC News"
   },
   {
    "id": "t6",
-   "category": "business",
-   "headline": "Home sellers lower asking prices on 3,000 UK properties daily",
-   "question": "Will the price cuts lead to a sustainable recovery in the UK housing market?",
+   "category": "health",
+   "headline": "NHS bosses say smaller maternity units may have to close",
+   "question": "What impact will closing smaller maternity units have on patient care?",
    "source": "BBC News"
   },
   {
    "id": "t7",
-   "category": "weather",
-   "headline": "New AI framework aims to improve mid-range weather forecast accuracy",
-   "question": "Can AI-driven forecasts reliably replace traditional meteorological models?",
-   "source": "Google News"
+   "category": "business",
+   "headline": "Home sellers cut asking prices on 3,000 properties a day",
+   "question": "Are the recent price cuts a sign of a cooling housing market?",
+   "source": "BBC News"
   },
   {
    "id": "t8",
    "category": "trending",
-   "headline": "Trending: 'cosmos 2612 and iceye x36' sparks interest in satellite tech",
-   "question": "Will the launch of Cosmos 2612 and Iceye X36 significantly advance commercial Earth observation?",
+   "headline": "Gluten free Ritz crackers trend gains momentum online",
+   "question": "Do gluten‑free snack trends reflect genuine health needs or marketing hype?",
    "source": "Google Trends"
   },
   {
    "id": "t9",
-   "category": "tech",
-   "headline": "Australia proposes an off‑switch for toxic AI algorithms",
-   "question": "Is implementing an AI off‑switch an effective safeguard against harmful algorithms?",
+   "category": "business",
+   "headline": "China's growth accelerates as AI boom boosts export performance",
+   "question": "Is China's AI‑driven export growth sustainable amid global competition?",
    "source": "BBC News"
   }
  ]
