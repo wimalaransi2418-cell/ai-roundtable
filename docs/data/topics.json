@@ -1,75 +1,75 @@
 {
- "updated_at": "2026-10-19T01:03:32+00:00",
+ "updated_at": "2026-10-19T06:04:07+00:00",
  "items": [
   {
    "id": "t0",
-   "category": "weather",
-   "headline": "Frost advisories issued for Monday across parts of the UK",
-   "question": "How should authorities balance public safety and economic impact when issuing frost warnings?",
-   "source": "Google News"
+   "category": "world",
+   "headline": "Macron urges calm and order after riots across France",
+   "question": "What measures should the French government take to restore public order while respecting civil liberties?",
+   "source": "BBC News"
   },
   {
    "id": "t1",
-   "category": "sports",
-   "headline": "Mbeumo consoles Carrick as Manchester United's winless streak continues",
-   "question": "What changes are needed for Manchester United to break their winless run?",
-   "source": "BBC Sport"
+   "category": "tech",
+   "headline": "China's AI export boom fuels growth despite domestic economic weakness",
+   "question": "Will China's AI export strategy create long‑term economic benefits or exacerbate global tech tensions?",
+   "source": "BBC News"
   },
   {
    "id": "t2",
-   "category": "sports",
-   "headline": "Gomez's spectacular goal leads Brighton to a 5-0 victory over Palace",
-   "question": "Does Brighton's attacking style set a new standard for Premier League teams?",
-   "source": "BBC Sport"
+   "category": "tech",
+   "headline": "Australia proposes an off‑switch for harmful AI algorithms",
+   "question": "Is implementing an AI off‑switch an effective way to mitigate risks without stifling innovation?",
+   "source": "BBC News"
   },
   {
    "id": "t3",
-   "category": "world",
-   "headline": "EU tariffs on China affect Ukrainian steel industry, says steel boss",
-   "question": "Are EU tariffs on China inadvertently harming Ukraine's steel sector?",
+   "category": "science",
+   "headline": "Mission set to launch to Mars to retrieve a sample of its moon",
+   "question": "Should the scientific value of a Martian moon sample justify the mission's cost and risks?",
    "source": "BBC News"
   },
   {
    "id": "t4",
-   "category": "tech",
-   "headline": "Guide to protecting yourself from AI-powered scams",
-   "question": "What measures can individuals take to stay safe from evolving AI scams?",
+   "category": "health",
+   "headline": "NHS leaders say maternity care system is not fit for purpose",
+   "question": "What reforms are needed to make NHS maternity services meet modern standards?",
    "source": "BBC News"
   },
   {
    "id": "t5",
-   "category": "tech",
-   "headline": "Australia proposes an off switch for harmful algorithms",
-   "question": "Should governments have the authority to enforce an off switch for dangerous AI?",
+   "category": "business",
+   "headline": "Home sellers reduce asking prices on 3,000 UK properties daily",
+   "question": "Are falling house prices a sign of a broader economic slowdown or a market correction?",
    "source": "BBC News"
   },
   {
    "id": "t6",
-   "category": "science",
-   "headline": "Mission planned to launch to Mars to retrieve a sample from its moon",
-   "question": "What scientific benefits could come from bringing back material from Phobos?",
-   "source": "BBC News"
+   "category": "weather",
+   "headline": "Category 3 Hurricane Isaias makes landfall in Florida's Panhandle",
+   "question": "How can communities improve preparedness for increasingly intense hurricanes?",
+   "source": "Google News"
   },
   {
    "id": "t7",
-   "category": "health",
-   "headline": "New same-day test helps detect infections in children like ten-year-old Willow",
-   "question": "Will rapid same-day testing transform pediatric infection management?",
-   "source": "BBC News"
+   "category": "trending",
+   "headline": "Spacex launch sparks online buzz about jellyfish in space",
+   "question": "Does the public fascination with quirky space experiments reflect genuine interest in science or just viral novelty?",
+   "source": "Google Trends"
   },
   {
    "id": "t8",
-   "category": "business",
-   "headline": "Home sellers lower asking prices on 3,000 UK properties daily",
-   "question": "Is the current price drop a sign of a broader housing market correction?",
-   "source": "BBC News"
+   "category": "sports",
+   "headline": "One‑day cricket rule change reshapes the game's strategy",
+   "question": "Will the new one‑day cricket rule improve the sport's excitement for fans and players?",
+   "source": "BBC Sport"
   },
   {
    "id": "t9",
-   "category": "trending",
-   "headline": "Waymo continues expansion of autonomous ride‑hailing services",
-   "question": "How will Waymo's growth impact public perception and regulation of driverless cars?",
-   "source": "Google Trends"
+   "category": "sports",
+   "headline": "Gomez scores spectacular goal as Brighton thrash Palace 5‑0",
+   "question": "Does a dominant victory like Brighton's indicate a widening gap between top and lower Premier League clubs?",
+   "source": "BBC Sport"
   }
  ]
 }
