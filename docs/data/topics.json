@@ -1,74 +1,74 @@
 {
- "updated_at": "2026-10-20T14:55:35+00:00",
+ "updated_at": "2026-10-20T19:08:17+00:00",
  "items": [
   {
    "id": "t0",
    "category": "weather",
-   "headline": "AI framework aims to improve mid‑range weather forecasts",
-   "question": "Will AI significantly enhance the accuracy of medium‑range weather predictions?",
+   "headline": "Cold Thanksgiving ahead? Why Farmers' Almanac says to bundle up this year",
+   "question": "How reliable are traditional almanac forecasts compared to modern meteorology for holiday planning?",
    "source": "Google News"
   },
   {
    "id": "t1",
    "category": "sports",
-   "headline": "Rays secure World Series spot, set to meet Brewers",
-   "question": "Can the Rays maintain momentum against the Brewers in the World Series?",
+   "headline": "Day 1 NBA Power Rankings, with Reasons for Hope and Despair for Every Team",
+   "question": "What factors should weigh most in early-season NBA power rankings: recent performance or roster changes?",
    "source": "Google News"
   },
   {
    "id": "t2",
    "category": "sports",
-   "headline": "Experts forecast NBA 2026‑27 season outcomes and awards",
-   "question": "How reliable are preseason NBA predictions for titles and player awards?",
+   "headline": "Brewers, Rays carry sportsbook liability into World Series",
+   "question": "Should sportsbooks be allowed to assume liability for major sporting events, and how does that affect betting markets?",
    "source": "Google News"
   },
   {
    "id": "t3",
-   "category": "world",
-   "headline": "Tourist convicted for stealing flamingo from Las Vegas enclosure",
-   "question": "What does this theft say about wildlife security in tourist venues?",
+   "category": "tech",
+   "headline": "Google resolves cloud outage affecting UK banks and websites",
+   "question": "What measures can large cloud providers take to prevent widespread outages that impact critical services?",
    "source": "BBC News"
   },
   {
    "id": "t4",
    "category": "tech",
-   "headline": "Guide to avoiding AI‑driven scams online",
-   "question": "Are current public awareness efforts enough to protect users from AI scams?",
+   "headline": "US bans China's DeepSeek from government in race for AI dominance",
+   "question": "Is banning foreign AI models from government use an effective strategy for national security?",
    "source": "BBC News"
   },
   {
    "id": "t5",
    "category": "science",
-   "headline": "Mars mission launches to retrieve sample from its moon Phobos",
-   "question": "What scientific breakthroughs could result from bringing back Phobos material?",
+   "headline": "Huge fin whale filmed off Welsh coast",
+   "question": "How can sightings of large marine mammals like fin whales inform conservation policies in coastal regions?",
    "source": "BBC News"
   },
   {
    "id": "t6",
    "category": "science",
-   "headline": "Orionid meteor shower expected to peak over UK this week",
-   "question": "How can public interest in meteor showers be leveraged for science education?",
+   "headline": "Mission blasts off for Mars to grab a piece of its moon",
+   "question": "What are the scientific and ethical considerations of retrieving samples from Phobos or Deimos?",
    "source": "BBC News"
   },
   {
    "id": "t7",
    "category": "health",
-   "headline": "Study explores diagnosing illness from facial photos",
-   "question": "Can facial analysis reliably indicate health conditions without medical tests?",
+   "headline": "Can a simple photo of your face reveal how ill you are?",
+   "question": "To what extent should facial analysis technology be used in medical diagnostics, given privacy concerns?",
    "source": "BBC News"
   },
   {
    "id": "t8",
    "category": "business",
-   "headline": "Paddy Power announces 1,400 job cuts, cites betting tax rise",
-   "question": "Will higher betting taxes lead to more job losses in the gambling industry?",
+   "headline": "Paddy Power cuts 1,400 jobs and blames betting tax rises",
+   "question": "Are increased betting taxes justified if they lead to significant job losses in the gambling industry?",
    "source": "BBC News"
   },
   {
    "id": "t9",
    "category": "trending",
-   "headline": "Dengue fever cases surge globally, raising health concerns",
-   "question": "What strategies are most effective in controlling the spread of dengue fever worldwide?",
+   "headline": "barcelona vs real madrid",
+   "question": "How does the ongoing rivalry between Barcelona and Real Madrid impact the global popularity of La Liga?",
    "source": "Google Trends"
   }
  ]
