@@ -1,74 +1,74 @@
 {
- "updated_at": "2026-10-20T19:08:17+00:00",
+ "updated_at": "2026-10-20T23:06:23+00:00",
  "items": [
   {
    "id": "t0",
    "category": "weather",
-   "headline": "Cold Thanksgiving ahead? Why Farmers' Almanac says to bundle up this year",
-   "question": "How reliable are traditional almanac forecasts compared to modern meteorology for holiday planning?",
+   "headline": "Extreme weather threatens half of U.S. drinking water systems",
+   "question": "How should the U.S. prioritize infrastructure upgrades to protect water supplies from climate impacts?",
    "source": "Google News"
   },
   {
    "id": "t1",
-   "category": "sports",
-   "headline": "Day 1 NBA Power Rankings, with Reasons for Hope and Despair for Every Team",
-   "question": "What factors should weigh most in early-season NBA power rankings: recent performance or roster changes?",
-   "source": "Google News"
+   "category": "science",
+   "headline": "Mars mission launches to retrieve a sample from its moon Phobos",
+   "question": "What scientific benefits justify the high cost of a Phobos sample‑return mission?",
+   "source": "BBC News"
   },
   {
    "id": "t2",
-   "category": "sports",
-   "headline": "Brewers, Rays carry sportsbook liability into World Series",
-   "question": "Should sportsbooks be allowed to assume liability for major sporting events, and how does that affect betting markets?",
-   "source": "Google News"
+   "category": "tech",
+   "headline": "U.S. bans Chinese AI model DeepSeek from government use",
+   "question": "Is banning foreign AI models an effective national security measure or does it hinder innovation?",
+   "source": "BBC News"
   },
   {
    "id": "t3",
-   "category": "tech",
-   "headline": "Google resolves cloud outage affecting UK banks and websites",
-   "question": "What measures can large cloud providers take to prevent widespread outages that impact critical services?",
+   "category": "business",
+   "headline": "Paddy Power cuts 1,400 jobs, citing betting tax increases",
+   "question": "Should gambling companies bear the burden of tax hikes by reducing their workforce?",
    "source": "BBC News"
   },
   {
    "id": "t4",
-   "category": "tech",
-   "headline": "US bans China's DeepSeek from government in race for AI dominance",
-   "question": "Is banning foreign AI models from government use an effective strategy for national security?",
+   "category": "health",
+   "headline": "Can a simple facial photo indicate a person's health condition?",
+   "question": "Will facial analysis become a reliable tool for early disease detection?",
    "source": "BBC News"
   },
   {
    "id": "t5",
-   "category": "science",
-   "headline": "Huge fin whale filmed off Welsh coast",
-   "question": "How can sightings of large marine mammals like fin whales inform conservation policies in coastal regions?",
+   "category": "world",
+   "headline": "North Korea releases new photos of Kim Jong Un amid death rumors",
+   "question": "Do such image releases meaningfully affect international perceptions of North Korea's leadership stability?",
    "source": "BBC News"
   },
   {
    "id": "t6",
-   "category": "science",
-   "headline": "Mission blasts off for Mars to grab a piece of its moon",
-   "question": "What are the scientific and ethical considerations of retrieving samples from Phobos or Deimos?",
-   "source": "BBC News"
+   "category": "trending",
+   "headline": "Spike Lee's latest project sparks debate in the film community",
+   "question": "How do Spike Lee's recent works reflect current social and political issues?",
+   "source": "Google Trends"
   },
   {
    "id": "t7",
-   "category": "health",
-   "headline": "Can a simple photo of your face reveal how ill you are?",
-   "question": "To what extent should facial analysis technology be used in medical diagnostics, given privacy concerns?",
-   "source": "BBC News"
+   "category": "sports",
+   "headline": "Can Phil Foden replace Haaland as Manchester City's main scorer?",
+   "question": "Is Phil Foden ready to become Manchester City's primary goal threat this season?",
+   "source": "BBC Sport"
   },
   {
    "id": "t8",
-   "category": "business",
-   "headline": "Paddy Power cuts 1,400 jobs and blames betting tax rises",
-   "question": "Are increased betting taxes justified if they lead to significant job losses in the gambling industry?",
-   "source": "BBC News"
+   "category": "sports",
+   "headline": "NBA preseason odds show Spurs and Thunder tied for championship",
+   "question": "Do early odds accurately predict NBA championship outcomes, or are they too speculative?",
+   "source": "Google News"
   },
   {
    "id": "t9",
    "category": "trending",
-   "headline": "barcelona vs real madrid",
-   "question": "How does the ongoing rivalry between Barcelona and Real Madrid impact the global popularity of La Liga?",
+   "headline": "College basketball fans focus on Duke's upcoming season",
+   "question": "Can Duke reclaim its dominance in college basketball under the new coaching staff?",
    "source": "Google Trends"
   }
  ]
