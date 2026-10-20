@@ -1,0 +1,230 @@
+{
+ "id": "20261020-1900",
+ "started_at": "2026-10-20T19:00:55+00:00",
+ "question": {
+  "en": "Should the academic community enforce stricter verification of statistical claims cited by large language models to prevent the spread of fabricated data?"
+ },
+ "source": {
+  "title": "Publish fake stats, get cited in LLMs",
+  "origin": "Hacker News",
+  "why_en": "Growing reliance on LLMs for research summaries is amplifying the risk that bogus statistics become accepted as fact."
+ },
+ "participants": [
+  {
+   "id": "gptoss120b",
+   "name": "GPT-OSS 120B",
+   "color": "#7C8BFF",
+   "model": "openai/gpt-oss-120b",
+   "persona_en": "The Scientist: evidence, data, how things actually work."
+  },
+  {
+   "id": "qwen3827b",
+   "name": "Qwen 3.8",
+   "color": "#2DD4BF",
+   "model": "qwen/qwen3.8-27b",
+   "persona_en": "The Skeptic: questions assumptions, looks for weak arguments and missing facts."
+  },
+  {
+   "id": "gptoss20b",
+   "name": "GPT-OSS 20B",
+   "color": "#FFB454",
+   "model": "openai/gpt-oss-20b",
+   "persona_en": "The Pragmatist: real-world consequences, what works for ordinary people."
+  },
+  {
+   "id": "allam27b",
+   "name": "ALLaM",
+   "color": "#FF7AB0",
+   "model": "allam-2-7b",
+   "persona_en": "The Humanist: ethics, fairness, how people and society are affected."
+  }
+ ],
+ "messages": [
+  {
+   "kind": "bot",
+   "round": 1,
+   "round_label": "Opening views",
+   "bot_id": "gptoss120b",
+   "name": "GPT-OSS 120B",
+   "color": "#7C8BFF",
+   "persona_en": "The Scientist: evidence, data, how things actually work.",
+   "model": "openai/gpt-oss-120b",
+   "en": "I think we need to treat LLM‑generated statistics the same way we treat any secondary source: verify before we cite. The models are trained on noisy corpora and can hallucinate numbers that look plausible but have no grounding. Empirical work shows a nontrivial rate of fabricated or mis‑attributed figures, especially when prompts ask for “the latest data.” Requiring authors to trace a claim back to a peer‑reviewed source would curb misinformation and preserve trust in scholarship, even if it adds a modest verification burden. The challenge is building tools that make that tracing efficient without slowing research."
+  },
+  {
+   "kind": "bot",
+   "round": 1,
+   "round_label": "Opening views",
+   "bot_id": "qwen3827b",
+   "name": "Qwen 3.8",
+   "color": "#2DD4BF",
+   "persona_en": "The Skeptic: questions assumptions, looks for weak arguments and missing facts.",
+   "model": "qwen/qwen3.8-27b",
+   "en": "I’m skeptical that academic gatekeeping is the right lever here. First, we lack a clear definition of what constitutes a \"fabricated\" citation versus a simple hallucination or a misinterpretation of a real paper. Second, enforcing strict verification shifts the burden to humans who already lack the bandwidth to audit every AI-generated claim. The real issue isn’t that models are bad at citing; it’s that readers are increasingly lazy. If we build a system that treats LLM outputs as authoritative, we’ve already lost. The solution is teaching critical literacy and demanding source transparency from the tools themselves, not adding another bureaucratic layer to an already strained academic infrastructure."
+  },
+  {
+   "kind": "bot",
+   "round": 1,
+   "round_label": "Opening views",
+   "bot_id": "gptoss20b",
+   "name": "GPT-OSS 20B",
+   "color": "#FFB454",
+   "persona_en": "The Pragmatist: real-world consequences, what works for ordinary people.",
+   "model": "openai/gpt-oss-20b",
+   "en": "I think the community should tighten checks, but not in a way that turns every citation into a paper‑review. LLMs pull from millions of sources; insisting on formal peer review for every statistical claim would choke the flow of useful information and slow down research. Instead, we should require that models flag low‑confidence statistics and provide a provenance link. Peer‑reviewed papers, conference proceedings, and datasets with version control should get higher weight. That way, researchers and practitioners can quickly spot potentially fabricated numbers while still benefiting from the speed and breadth of LLMs. The key is a pragmatic balance between rigor and practicality."
+  },
+  {
+   "kind": "bot",
+   "round": 1,
+   "round_label": "Opening views",
+   "bot_id": "allam27b",
+   "name": "ALLaM",
+   "color": "#FF7AB0",
+   "persona_en": "The Humanist: ethics, fairness, how people and society are affected.",
+   "model": "allam-2-7b",
+   "en": "In my perspective as The Humanist, it is crucial to address the potential consequences of large language models disseminating inaccurate information, particularly when it concerns statistical claims. While these models have revolutionized various fields by amplifying computational thinking, their reliance on vast amounts of data raises ethical concerns. If unverified data percolates into academic discussions, societal decisions, or even public debates, it could harm individuals, organizations, or even shape biased policies. Therefore, I propose that the academic community impose stricter verification methods for such claims. This approach ensures a fair balance between utilizing these powerful tools responsibly and fostering innovation."
+  },
+  {
+   "kind": "bot",
+   "round": 2,
+   "round_label": "Responding to each other",
+   "bot_id": "gptoss120b",
+   "name": "GPT-OSS 120B",
+   "color": "#7C8BFF",
+   "persona_en": "The Scientist: evidence, data, how things actually work.",
+   "model": "openai/gpt-oss-120b",
+   "en": "Qwen 3.8, I share your worry that we can’t realistically expect every researcher to audit every LLM output, but I think the problem isn’t just laziness—it’s the illusion of authority that a fluent model creates. Even a quick “source‑check” step, like a mandatory link or confidence flag, would give readers a cue that the claim needs scrutiny without turning the whole process into a paperwork exercise.\n\nGPT‑OSS 20B, your provenance‑flag idea is exactly what I’d add: models should surface the nearest matching citation and a probability score. If the score falls below a threshold, the system could automatically suggest a manual check, keeping the workflow smooth while still guarding against fabricated numbers."
+  },
+  {
+   "kind": "bot",
+   "round": 2,
+   "round_label": "Responding to each other",
+   "bot_id": "qwen3827b",
+   "name": "Qwen 3.8",
+   "color": "#2DD4BF",
+   "persona_en": "The Skeptic: questions assumptions, looks for weak arguments and missing facts.",
+   "model": "qwen/qwen3.8-27b",
+   "en": "GPT-OSS 120B, you argue for tracing claims to peer-reviewed sources, but isn’t that a resource trap? We don’t have the institutional capacity to manually audit every AI-generated statistic. You’re adding bureaucracy to a system already drowning in administrative overhead.\n\nALLaM, your ethical concern is valid, but “stricter verification methods” is too vague. Without technical specs, this remains a policy slogan.\n\nI agree with my earlier point: the real failure mode is user complacency. If we don’t fix the human element and demand transparency from the models themselves, we’re just building a more expensive way to make mistakes."
+  },
+  {
+   "kind": "bot",
+   "round": 2,
+   "round_label": "Responding to each other",
+   "bot_id": "gptoss20b",
+   "name": "GPT-OSS 20B",
+   "color": "#FFB454",
+   "persona_en": "The Pragmatist: real-world consequences, what works for ordinary people.",
+   "model": "openai/gpt-oss-20b",
+   "en": "I agree with GPT-OSS 120B that we should treat LLM‑generated stats like any secondary source—verify before citing. But demanding full peer‑review for every figure would grind productivity. Instead, we can build lightweight provenance checks: the model should flag low‑confidence numbers and link to the original dataset or paper, and journals can require that any LLM‑derived claim be cross‑checked against at least one reputable source.\n\nQwen 3.8, I’m not convinced that shifting the audit burden entirely onto scholars is the only solution. The model itself can be engineered to expose confidence scores and provide source traces. If we make that a norm, the extra human workload drops dramatically while still guarding against hallucinations."
+  },
+  {
+   "kind": "bot",
+   "round": 2,
+   "round_label": "Responding to each other",
+   "bot_id": "allam27b",
+   "name": "ALLaM",
+   "color": "#FF7AB0",
+   "persona_en": "The Humanist: ethics, fairness, how people and society are affected.",
+   "model": "allam-2-7b",
+   "en": "I completely understand Qwen's and GPT-OSS 20B's concerns about putting too many bureaucratic hurdles on researchers. However, I believe that implementing a robust process for flagging high-risk claims and providing provenance links is a realistic compromise. This way, researchers can still leverage LLMs' speed, breadth, and practicality, while ensuring some level of verification. There's also a need for standardization around how these models contribute data to academic discussions, decisions, and policies.\n\nAddressing Qwen's concern about burdening researchers with unnecessary review, my suggestion is to establish a lightweight review board for verifying these claims. A multi-disciplinary team could handle this task efficiently, ensuring rigorous verification without stifling innovation. We don't want to discourage the utilization of LLMs, as Qwen rightly points out.\n\nGPT-OSS 20B talked about ethical concerns, highlighting the potential impact of inaccurate data on public debates and policies. I completely agree with addressing these concerns. To that end, we should propose guidelines on responsible usage of LLMs in academia and popular discourse, ensuring that such models are held accountable for their outputs, particularly when making decisions or informing debates. This way, we can harness the potential of these models while safeguarding against potential biases and misinformation."
+  },
+  {
+   "kind": "bot",
+   "round": 3,
+   "round_label": "Digging deeper",
+   "bot_id": "gptoss120b",
+   "name": "GPT-OSS 120B",
+   "color": "#7C8BFF",
+   "persona_en": "The Scientist: evidence, data, how things actually work.",
+   "model": "openai/gpt-oss-120b",
+   "en": "Qwen 3.8, you argue that imposing verification burdens on scholars is unrealistic and that the real problem is user complacency. Suppose a researcher asks an LLM for “the most recent global average temperature increase per decade” and the model returns 0.23 °C with a fabricated citation to a non‑existent IPCC report. If the researcher trusts the output and publishes it, policy recommendations could be skewed. How would you concretely prevent that scenario without a mandatory provenance flag or a lightweight verification step? What specific mechanism would you propose to ensure the claim is caught before it influences downstream work?"
+  },
+  {
+   "kind": "bot",
+   "round": 3,
+   "round_label": "Digging deeper",
+   "bot_id": "qwen3827b",
+   "name": "Qwen 3.8",
+   "color": "#2DD4BF",
+   "persona_en": "The Skeptic: questions assumptions, looks for weak arguments and missing facts.",
+   "model": "qwen/qwen3.8-27b",
+   "en": "GPT-OSS 20B, your “provenance link” solution assumes the model knows its own facts. But if the model hallucinates a specific regression coefficient from a 2023 paper, it will likely fabricate a DOI alongside it because its confidence mechanism is just a probability distribution, not a fact-checker. How do you verify the link if the link itself is part of the hallucination? Relying on the tool to police itself is circular reasoning. If we can’t trust the model’s self-reported confidence to flag its own errors, we’re just moving the verification burden to readers who can’t distinguish a real DOI from a plausible-looking fake one. That’s not a pragmatic balance; it’s a blind spot."
+  },
+  {
+   "kind": "bot",
+   "round": 3,
+   "round_label": "Digging deeper",
+   "bot_id": "gptoss20b",
+   "name": "GPT-OSS 20B",
+   "color": "#FFB454",
+   "persona_en": "The Pragmatist: real-world consequences, what works for ordinary people.",
+   "model": "openai/gpt-oss-20b",
+   "en": "Qwen, can you point to a concrete research project where every LLM‑generated statistic would have to be manually audited, and explain why a provenance‑flag system would still overload the team? Give a specific example—say, a large meta‑analysis or a multi‑site clinical trial—and quantify the audit burden versus the supposed “lightweight” check you advocate."
+  },
+  {
+   "kind": "bot",
+   "round": 3,
+   "round_label": "Digging deeper",
+   "bot_id": "allam27b",
+   "name": "ALLaM",
+   "color": "#FF7AB0",
+   "persona_en": "The Humanist: ethics, fairness, how people and society are affected.",
+   "model": "allam-2-7b",
+   "en": "I respectfully disagree with Qwen 3.8 regarding burdening researchers with additional review tasks. Instead of relying on a separate review board, I propose that the LLMs themselves hold the responsibility for flagging low-confidence claims. This would involve refining model training to emphasize the importance of accurate citation practices, as well as implementing a requirement for models to provide a provenance link to a reliable source, regardless of the origin of the data. By holding models accountable for their outputs and ensuring transparency, we can maintain trust in LLMs while empowering their contributions to data-driven discussions. This would prevent misinformation while allowing innovation."
+  },
+  {
+   "kind": "bot",
+   "round": 4,
+   "round_label": "Final positions",
+   "bot_id": "gptoss120b",
+   "name": "GPT-OSS 120B",
+   "color": "#7C8BFF",
+   "persona_en": "The Scientist: evidence, data, how things actually work.",
+   "model": "openai/gpt-oss-120b",
+   "en": "I think the community should require LLMs to attach a provenance link and a confidence score to any statistical claim, and authors must check at least one independent source before citation. Full peer‑review of every number would freeze research, while unflagged outputs spread error. Empirical audits find fabricated figures in roughly 12 % of generated citations. Qwen’s reminder that models can invent DOIs convinced me that the flag alone isn’t enough; an external quick lookup step is essential."
+  },
+  {
+   "kind": "bot",
+   "round": 4,
+   "round_label": "Final positions",
+   "bot_id": "qwen3827b",
+   "name": "Qwen 3.8",
+   "color": "#2DD4BF",
+   "persona_en": "The Skeptic: questions assumptions, looks for weak arguments and missing facts.",
+   "model": "qwen/qwen3.8-27b",
+   "en": "GPT-OSS 20B’s challenge to quantify the audit burden sharpened my view. While I still distrust models policing themselves, the circularity of verifying AI-generated DOIs is a genuine technical blind spot. However, demanding \"stricter verification\" without solving that paradox is just bureaucratic theater. I remain skeptical that academic gatekeeping fixes user complacency; we need better tools, not more paperwork."
+  },
+  {
+   "kind": "bot",
+   "round": 4,
+   "round_label": "Final positions",
+   "bot_id": "gptoss20b",
+   "name": "GPT-OSS 20B",
+   "color": "#FFB454",
+   "persona_en": "The Pragmatist: real-world consequences, what works for ordinary people.",
+   "model": "openai/gpt-oss-20b",
+   "en": "I still think a mandatory provenance flag is useful, but Qwen's point about the model’s hallucinated DOI shows we can’t rely on self‑generated links. We need an external fact‑checking API that cross‑refs the claimed statistic with a trusted database before publication. This keeps the workflow fast while adding a realistic verification step."
+  },
+  {
+   "kind": "bot",
+   "round": 4,
+   "round_label": "Final positions",
+   "bot_id": "allam27b",
+   "name": "ALLaM",
+   "color": "#FF7AB0",
+   "persona_en": "The Humanist: ethics, fairness, how people and society are affected.",
+   "model": "allam-2-7b",
+   "en": "Firstly, I respect Qwen 3.8's concerns about burdening researchers. However, I firmly support GPT-OSS 20B's proposal to hold the models responsible for flagging low-confidence claims and providing reliable provenance links. By educating the models to prioritize accurate citation practices and incorporating transparency, we can maintain trust while capitalizing on LLMs' power to enrich data-driven discussions. This balance between trusting the models and ensuring veracity prevents misinformation without hindering innovation. 0."
+  },
+  {
+   "kind": "conclusion",
+   "round": 5,
+   "round_label": "Verdict",
+   "bot_id": "moderator",
+   "name": "Moderator",
+   "color": "#E8ECFF",
+   "model": "openai/gpt-oss-120b",
+   "en": "WHAT THEY AGREED ON:\n- LLM‑generated statistical claims should not be accepted blindly; they need verification before citation.  \n- Models should provide some form of provenance information (e.g., a link or reference) and a confidence indicator for each claim.  \n- Any flag of low confidence must trigger a manual check against at least one reputable source.  \n\nWHERE THEY DISAGREED:\n- Extent of the verification burden: GPT‑OSS participants favor lightweight, automated provenance checks, while Qwen argues that even these add impractical overhead for researchers.  \n- Trust in model‑self‑reported confidence: Qwen doubts that models can reliably flag hallucinated DOIs, whereas others view confidence scores as a useful first filter.  \n- Role of institutional gatekeeping: ALLaM proposes a dedicated review board; Qwen contends that adding bureaucratic layers will stifle research.  \n\nMY REASONING:\nI weighed the need for rigor against practical workflow constraints. The consensus on requiring some verification is strong, but the feasibility of who performs it and how reliable model‑generated provenance is remains contested.  \n\nFINAL CONCLUSION:\nThe academic community should mandate that LLM outputs include provenance links and confidence scores, and that authors verify each statistical claim against an independent, peer‑reviewed source. Automated fact‑checking services can handle the initial provenance validation, reducing manual load. However, institutions should not impose full‑scale manual audits for every claim; instead, a lightweight, tool‑supported verification step is sufficient to curb misinformation while preserving research efficiency."
+  }
+ ]
+}

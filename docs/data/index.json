@@ -1,6 +1,11 @@
 {
  "sessions": [
   {
+   "id": "20261020-1900",
+   "started_at": "2026-10-20T19:00:55+00:00",
+   "question_en": "Should the academic community enforce stricter verification of statistical claims cited by large language models to prevent the spread of fabricated data?"
+  },
+  {
    "id": "20261020-0817",
    "started_at": "2026-10-20T08:17:38+00:00",
    "question_en": "Should governments prohibit the use of specific AI models in federal agencies on security grounds, even if it curtails technological innovation?"
