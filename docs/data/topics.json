@@ -1,75 +1,75 @@
 {
- "updated_at": "2026-10-20T04:36:50+00:00",
+ "updated_at": "2026-10-20T09:56:47+00:00",
  "items": [
   {
    "id": "t0",
    "category": "weather",
-   "headline": "US satellite cuts could delay weather forecasting by a decade",
-   "question": "Should the government prioritize funding for weather satellites over other budget items?",
-   "source": "Google News"
+   "headline": "Storm Austen set to bring severe gales across the UK",
+   "question": "How should authorities balance public safety and economic disruption during severe weather warnings?",
+   "source": "BBC News"
   },
   {
    "id": "t1",
    "category": "sports",
-   "headline": "Ronaldo receives 30‑day suspension and £215 fine from Portuguese FA",
-   "question": "Is a 30‑day suspension a fair punishment for Ronaldo's conduct?",
+   "headline": "Spurs' Maddison scores a magical goal after 18 months",
+   "question": "Will Maddison's performance signal a turning point for Spurs this season?",
    "source": "BBC Sport"
   },
   {
    "id": "t2",
    "category": "sports",
-   "headline": "Tampa Bay Rays clinch World Series berth, set to face Milwaukee Brewers",
-   "question": "Will the Rays' pitching depth be enough to win the World Series?",
-   "source": "Google News"
+   "headline": "PSG vs Barcelona billed as Europe's most exciting club clash",
+   "question": "Which team is more likely to dominate European football in the coming years?",
+   "source": "BBC Sport"
   },
   {
    "id": "t3",
-   "category": "world",
-   "headline": "Ex‑OpenAI employee alleged to have planted device with Saudi support",
-   "question": "What safeguards should AI firms implement to prevent insider threats?",
+   "category": "tech",
+   "headline": "US bans Chinese AI firm DeepSeek from government use",
+   "question": "Do such bans effectively protect national security without stifling innovation?",
    "source": "BBC News"
   },
   {
    "id": "t4",
    "category": "tech",
-   "headline": "US bans DeepSeek AI from use in government agencies",
-   "question": "Are bans on foreign AI models an effective way to protect national security?",
+   "headline": "Guide to protecting yourself from AI-generated scams",
+   "question": "What are the most effective strategies for individuals to avoid AI scams?",
    "source": "BBC News"
   },
   {
    "id": "t5",
    "category": "science",
-   "headline": "Mission launches to retrieve a sample from Phobos, Mars' moon",
-   "question": "Should space agencies invest in moon‑of‑Mars sample missions given their cost?",
+   "headline": "Orionid meteor shower expected to peak over the UK this week",
+   "question": "How can public interest in meteor showers be leveraged to promote astronomy education?",
    "source": "BBC News"
   },
   {
    "id": "t6",
-   "category": "health",
-   "headline": "NHS officials warn smaller maternity units may need to close",
-   "question": "How should the NHS balance service centralisation with local access to maternity care?",
+   "category": "science",
+   "headline": "Five key impacts of El Niño on global weather patterns",
+   "question": "Should governments invest more in El Niño forecasting to mitigate its effects?",
    "source": "BBC News"
   },
   {
    "id": "t7",
    "category": "business",
-   "headline": "Burnham pledges to end excessive parking charges under new rules",
-   "question": "Will regulating parking fees significantly improve urban mobility?",
+   "headline": "Jobless rate falls while small firms reduce hiring",
+   "question": "What factors are causing small businesses to cut back hiring despite lower unemployment?",
    "source": "BBC News"
   },
   {
    "id": "t8",
-   "category": "trending",
-   "headline": "Searches surge for 'phony hulu' as streaming confusion rises",
-   "question": "What impact do fake streaming services have on consumer trust?",
-   "source": "Google Trends"
+   "category": "business",
+   "headline": "Revolut outage disrupts multiple services for thousands of users",
+   "question": "How can fintech companies improve resilience to prevent large‑scale service outages?",
+   "source": "BBC News"
   },
   {
    "id": "t9",
-   "category": "weather",
-   "headline": "Researchers develop forecasts extending reliable predictions to six weeks",
-   "question": "Can longer‑range weather forecasts meaningfully aid disaster preparedness?",
-   "source": "Google News"
+   "category": "trending",
+   "headline": "SpaceX launch scheduled for today draws global attention",
+   "question": "What are the broader implications of today's SpaceX launch for the commercial space industry?",
+   "source": "Google Trends"
   }
  ]
 }
