@@ -1,75 +1,75 @@
 {
- "updated_at": "2026-10-19T23:32:15+00:00",
+ "updated_at": "2026-10-20T04:36:50+00:00",
  "items": [
   {
    "id": "t0",
-   "category": "world",
-   "headline": "Curfew imposed in parts of central Paris and other cities after rioting",
-   "question": "Should curfews be used as a tool to restore order during civil unrest?",
-   "source": "BBC News"
+   "category": "weather",
+   "headline": "US satellite cuts could delay weather forecasting by a decade",
+   "question": "Should the government prioritize funding for weather satellites over other budget items?",
+   "source": "Google News"
   },
   {
    "id": "t1",
-   "category": "tech",
-   "headline": "Ex-OpenAI worker accused of planting device had Saudi support, says court filing",
-   "question": "What impact could alleged foreign involvement in tech companies have on national security?",
-   "source": "BBC News"
+   "category": "sports",
+   "headline": "Ronaldo receives 30‑day suspension and £215 fine from Portuguese FA",
+   "question": "Is a 30‑day suspension a fair punishment for Ronaldo's conduct?",
+   "source": "BBC Sport"
   },
   {
    "id": "t2",
    "category": "sports",
-   "headline": "Spurs beat Coventry to earn first league win of the season",
-   "question": "How important is an early season victory for a team's confidence and performance?",
-   "source": "BBC Sport"
+   "headline": "Tampa Bay Rays clinch World Series berth, set to face Milwaukee Brewers",
+   "question": "Will the Rays' pitching depth be enough to win the World Series?",
+   "source": "Google News"
   },
   {
    "id": "t3",
-   "category": "sports",
-   "headline": "Dan Patrick: Colts will explore hiring Peyton Manning as GM",
-   "question": "Can former star players be effective general managers in the NFL?",
-   "source": "Google News"
+   "category": "world",
+   "headline": "Ex‑OpenAI employee alleged to have planted device with Saudi support",
+   "question": "What safeguards should AI firms implement to prevent insider threats?",
+   "source": "BBC News"
   },
   {
    "id": "t4",
-   "category": "weather",
-   "headline": "Offshore nor'easter to bring winds and rough seas this week",
-   "question": "How should coastal communities prepare for the upcoming nor'easter?",
-   "source": "Google News"
+   "category": "tech",
+   "headline": "US bans DeepSeek AI from use in government agencies",
+   "question": "Are bans on foreign AI models an effective way to protect national security?",
+   "source": "BBC News"
   },
   {
    "id": "t5",
-   "category": "tech",
-   "headline": "US bans DeepSeek AI from government use as tech tension with China continues",
-   "question": "Are bans on foreign AI tools justified for national security?",
+   "category": "science",
+   "headline": "Mission launches to retrieve a sample from Phobos, Mars' moon",
+   "question": "Should space agencies invest in moon‑of‑Mars sample missions given their cost?",
    "source": "BBC News"
   },
   {
    "id": "t6",
-   "category": "tech",
-   "headline": "Don't fall for this - how to protect yourself from AI scams",
-   "question": "What are the most effective ways for individuals to avoid AI-driven scams?",
+   "category": "health",
+   "headline": "NHS officials warn smaller maternity units may need to close",
+   "question": "How should the NHS balance service centralisation with local access to maternity care?",
    "source": "BBC News"
   },
   {
    "id": "t7",
-   "category": "science",
-   "headline": "Mission blasts off for Mars to grab a piece of its moon",
-   "question": "What scientific benefits could be gained from retrieving a sample of Phobos?",
+   "category": "business",
+   "headline": "Burnham pledges to end excessive parking charges under new rules",
+   "question": "Will regulating parking fees significantly improve urban mobility?",
    "source": "BBC News"
   },
   {
    "id": "t8",
-   "category": "health",
-   "headline": "NHS bosses say smaller maternity units may have to close",
-   "question": "What are the potential effects of closing smaller maternity units on patient care?",
-   "source": "BBC News"
+   "category": "trending",
+   "headline": "Searches surge for 'phony hulu' as streaming confusion rises",
+   "question": "What impact do fake streaming services have on consumer trust?",
+   "source": "Google Trends"
   },
   {
    "id": "t9",
-   "category": "trending",
-   "headline": "Terry McLaurin trending search spikes across platforms",
-   "question": "What factors contribute to sudden spikes in public interest for athletes like Terry McLaurin?",
-   "source": "Google Trends"
+   "category": "weather",
+   "headline": "Researchers develop forecasts extending reliable predictions to six weeks",
+   "question": "Can longer‑range weather forecasts meaningfully aid disaster preparedness?",
+   "source": "Google News"
   }
  ]
 }
