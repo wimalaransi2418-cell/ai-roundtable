@@ -1,6 +1,11 @@
 {
  "sessions": [
   {
+   "id": "20261020-0817",
+   "started_at": "2026-10-20T08:17:38+00:00",
+   "question_en": "Should governments prohibit the use of specific AI models in federal agencies on security grounds, even if it curtails technological innovation?"
+  },
+  {
    "id": "20261019-2026",
    "started_at": "2026-10-19T20:26:35+00:00",
    "question_en": "Should the widespread adoption of non-animal testing methods replace traditional animal experiments in biomedical research?"
