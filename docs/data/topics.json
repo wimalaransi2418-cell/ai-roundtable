@@ -1,75 +1,75 @@
 {
- "updated_at": "2026-10-21T04:29:43+00:00",
+ "updated_at": "2026-10-21T10:00:10+00:00",
  "items": [
   {
    "id": "t0",
    "category": "weather",
-   "headline": "Extreme weather could threaten half of U.S. drinking water systems",
-   "question": "How should policymakers prioritize infrastructure upgrades to protect water supplies from extreme weather?",
+   "headline": "Rare severe weather threat draws storm chasers to Arizona",
+   "question": "How should authorities balance public safety with the interests of storm chasers during severe weather events?",
    "source": "Google News"
   },
   {
    "id": "t1",
    "category": "sports",
-   "headline": "Can Phil Foden replace Haaland as Manchester City's main scorer?",
-   "question": "Will Foden's style suit the role of primary goalscorer for City?",
+   "headline": "Crystal Palace urged to retire its bald eagle mascot",
+   "question": "Should sports teams consider retiring mascots that may be seen as culturally insensitive?",
    "source": "BBC Sport"
   },
   {
    "id": "t2",
    "category": "sports",
-   "headline": "NBA championship and MVP odds: Spurs, Thunder tied; Wembanyama leads",
-   "question": "Are early‑season odds reliable predictors of the NBA champion?",
+   "headline": "New‑look 76ers show potential against defending champion Knicks",
+   "question": "Can the 76ers sustain their early-season momentum against top NBA teams?",
    "source": "Google News"
   },
   {
    "id": "t3",
    "category": "tech",
-   "headline": "Google resolves major cloud outage affecting UK banks and websites",
-   "question": "What steps should cloud providers take to prevent future widespread outages?",
+   "headline": "Tech helping crack decades‑old cold cases",
+   "question": "What are the ethical implications of using advanced technology to reopen old criminal investigations?",
    "source": "BBC News"
   },
   {
    "id": "t4",
-   "category": "science",
-   "headline": "Orionid meteor shower set to peak over the UK this week",
-   "question": "How can amateur astronomers best contribute to meteor shower observations?",
+   "category": "tech",
+   "headline": "Google resolves cloud outage affecting UK banks and websites",
+   "question": "How can critical services improve resilience against large‑scale cloud outages?",
    "source": "BBC News"
   },
   {
    "id": "t5",
-   "category": "health",
-   "headline": "Can a simple facial photo indicate a person's health condition?",
-   "question": "Should facial analysis tools be integrated into routine health screenings?",
+   "category": "science",
+   "headline": "Orionid meteor shower set to peak in UK skies this week",
+   "question": "What factors influence public interest in astronomical events like meteor showers?",
    "source": "BBC News"
   },
   {
    "id": "t6",
-   "category": "business",
-   "headline": "Paddy Power announces 1,400 job cuts, cites betting tax rises",
-   "question": "Are increased betting taxes justified if they lead to significant job losses?",
+   "category": "health",
+   "headline": "Tighter rules planned to protect people from botched cosmetic surgery",
+   "question": "Will stricter regulations effectively reduce complications from cosmetic procedures?",
    "source": "BBC News"
   },
   {
    "id": "t7",
-   "category": "trending",
-   "headline": "Rocket League maintains popularity among competitive gamers",
-   "question": "What factors keep Rocket League relevant in the evolving esports scene?",
-   "source": "Google Trends"
+   "category": "world",
+   "headline": "Pakistan arrests man wanted by US over $126 million postage fraud case",
+   "question": "How should international cooperation be handled in large‑scale fraud investigations?",
+   "source": "BBC News"
   },
   {
    "id": "t8",
-   "category": "tech",
-   "headline": "Google fixes cloud outage that disrupted UK banking services",
-   "question": "Does reliance on single cloud providers pose systemic risks to essential services?",
+   "category": "business",
+   "headline": "What is happening to UK prices?",
+   "question": "What are the main drivers behind the recent rise in UK consumer prices?",
    "source": "BBC News"
   },
   {
    "id": "t9",
-   "category": "science",
-   "headline": "Mars mission launches to collect sample from Phobos, its moon",
-   "question": "What scientific benefits could arise from retrieving material from Phobos?",
-   "source": "BBC News"
+   "category": "trending",
+   "headline": "Grand Theft Auto VI economic impact draws attention",
+   "question": "How do video game releases like GTA VI affect the broader economy and job market?",
+   "source": "Google Trends"
   }
  ]
 }
