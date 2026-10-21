@@ -1,74 +1,74 @@
 {
- "updated_at": "2026-10-21T19:15:12+00:00",
+ "updated_at": "2026-10-21T23:10:44+00:00",
  "items": [
   {
    "id": "t0",
-   "category": "world",
-   "headline": "Russia says it is ready to resume talks with Ukraine and the US",
-   "question": "What conditions are necessary for a lasting peace between Russia and Ukraine?",
-   "source": "BBC News"
+   "category": "weather",
+   "headline": "Subtropical Storm Josephine tracked across the Atlantic",
+   "question": "How effective are current forecasting methods in warning coastal communities about storms like Josephine?",
+   "source": "Google News"
   },
   {
    "id": "t1",
-   "category": "weather",
-   "headline": "New AI framework bridges a critical gap in mid‑range weather forecasts",
-   "question": "Can AI significantly improve the accuracy of medium‑term weather predictions?",
-   "source": "Google News"
+   "category": "sports",
+   "headline": "Arsenal's Saka injury raises concerns for upcoming matches",
+   "question": "Should Arsenal adjust their tactical approach while Saka recovers?",
+   "source": "BBC Sport"
   },
   {
    "id": "t2",
    "category": "sports",
-   "headline": "Giants consider J.J. McCarthy as starting QB for upcoming game vs Texans",
-   "question": "Will promoting a rookie quarterback like McCarthy benefit the Giants long term?",
+   "headline": "Golden State Warriors consider trade for Kristaps Porziņģis",
+   "question": "Will adding Porziņģis improve the Warriors' chances of a championship?",
    "source": "Google News"
   },
   {
    "id": "t3",
-   "category": "sports",
-   "headline": "Thunder defeat Spurs as Shai Gilgeous‑Alexander outplays Victor Wembanyama",
-   "question": "Does Gilgeous‑Alexander's performance signal a shift in NBA power dynamics?",
-   "source": "Google News"
+   "category": "world",
+   "headline": "Pakistan arrests suspect linked to $126 million US postage fraud",
+   "question": "What impact could this arrest have on international fraud investigations?",
+   "source": "BBC News"
   },
   {
    "id": "t4",
    "category": "tech",
-   "headline": "Google resolves cloud outage that disrupted UK banks and major websites",
-   "question": "What steps should cloud providers take to prevent future widespread service disruptions?",
+   "headline": "Global websites down after critical cybersecurity update",
+   "question": "Are mandatory security updates worth the temporary disruption they cause?",
    "source": "BBC News"
   },
   {
    "id": "t5",
    "category": "science",
-   "headline": "Orionid meteor shower set to peak over the UK skies this week",
-   "question": "How can public interest in meteor showers be leveraged to boost science education?",
+   "headline": "Orionid meteor shower set to peak over the UK this week",
+   "question": "How can public outreach improve interest in meteor shower events?",
    "source": "BBC News"
   },
   {
    "id": "t6",
    "category": "health",
-   "headline": "Can a simple facial photo reveal a person’s underlying health conditions?",
-   "question": "Should facial analysis tools be used for medical screening without consent?",
+   "headline": "Study tests diabetes and ADHD drugs on Alzheimer's patients",
+   "question": "Could repurposing existing drugs accelerate treatment options for Alzheimer's?",
    "source": "BBC News"
   },
   {
    "id": "t7",
    "category": "business",
-   "headline": "What is happening to UK prices amid ongoing inflationary pressures?",
-   "question": "Are current monetary policies enough to curb rising living costs in the UK?",
+   "headline": "Meta faces $25 billion fine over alleged data privacy violations",
+   "question": "Will such large fines effectively change big tech's data practices?",
    "source": "BBC News"
   },
   {
    "id": "t8",
    "category": "trending",
-   "headline": "5G technology continues to expand, sparking debate over health and security",
-   "question": "Should governments impose stricter regulations on 5G rollout to address health concerns?",
+   "headline": "World Series Game 1 draws record viewership",
+   "question": "What factors contribute to the growing popularity of baseball's World Series?",
    "source": "Google Trends"
   },
   {
    "id": "t9",
-   "category": "business",
-   "headline": "Inflation and government borrowing hit a year‑high ahead of the upcoming Budget",
-   "question": "How will the next UK Budget address the twin challenges of inflation and high borrowing?",
+   "category": "tech",
+   "headline": "New AI tools assist in solving cold criminal cases",
+   "question": "Should law enforcement rely more on AI for investigating old crimes?",
    "source": "BBC News"
   }
  ]
