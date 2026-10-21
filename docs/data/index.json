@@ -1,6 +1,11 @@
 {
  "sessions": [
   {
+   "id": "20261021-1911",
+   "started_at": "2026-10-21T19:11:49+00:00",
+   "question_en": "Should package repositories like PyPI require mandatory security scanning of all uploaded packages to prevent malicious code distribution?"
+  },
+  {
    "id": "20261021-0821",
    "started_at": "2026-10-21T08:21:45+00:00",
    "question_en": "Should the use of AI chatbots like ChatGPT be regulated to protect user privacy and prevent misinformation?"
