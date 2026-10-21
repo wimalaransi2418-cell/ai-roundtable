@@ -1,75 +1,75 @@
 {
- "updated_at": "2026-10-20T23:06:23+00:00",
+ "updated_at": "2026-10-21T04:29:43+00:00",
  "items": [
   {
    "id": "t0",
    "category": "weather",
-   "headline": "Extreme weather threatens half of U.S. drinking water systems",
-   "question": "How should the U.S. prioritize infrastructure upgrades to protect water supplies from climate impacts?",
+   "headline": "Extreme weather could threaten half of U.S. drinking water systems",
+   "question": "How should policymakers prioritize infrastructure upgrades to protect water supplies from extreme weather?",
    "source": "Google News"
   },
   {
    "id": "t1",
-   "category": "science",
-   "headline": "Mars mission launches to retrieve a sample from its moon Phobos",
-   "question": "What scientific benefits justify the high cost of a Phobos sample‑return mission?",
-   "source": "BBC News"
+   "category": "sports",
+   "headline": "Can Phil Foden replace Haaland as Manchester City's main scorer?",
+   "question": "Will Foden's style suit the role of primary goalscorer for City?",
+   "source": "BBC Sport"
   },
   {
    "id": "t2",
-   "category": "tech",
-   "headline": "U.S. bans Chinese AI model DeepSeek from government use",
-   "question": "Is banning foreign AI models an effective national security measure or does it hinder innovation?",
-   "source": "BBC News"
+   "category": "sports",
+   "headline": "NBA championship and MVP odds: Spurs, Thunder tied; Wembanyama leads",
+   "question": "Are early‑season odds reliable predictors of the NBA champion?",
+   "source": "Google News"
   },
   {
    "id": "t3",
-   "category": "business",
-   "headline": "Paddy Power cuts 1,400 jobs, citing betting tax increases",
-   "question": "Should gambling companies bear the burden of tax hikes by reducing their workforce?",
+   "category": "tech",
+   "headline": "Google resolves major cloud outage affecting UK banks and websites",
+   "question": "What steps should cloud providers take to prevent future widespread outages?",
    "source": "BBC News"
   },
   {
    "id": "t4",
-   "category": "health",
-   "headline": "Can a simple facial photo indicate a person's health condition?",
-   "question": "Will facial analysis become a reliable tool for early disease detection?",
+   "category": "science",
+   "headline": "Orionid meteor shower set to peak over the UK this week",
+   "question": "How can amateur astronomers best contribute to meteor shower observations?",
    "source": "BBC News"
   },
   {
    "id": "t5",
-   "category": "world",
-   "headline": "North Korea releases new photos of Kim Jong Un amid death rumors",
-   "question": "Do such image releases meaningfully affect international perceptions of North Korea's leadership stability?",
+   "category": "health",
+   "headline": "Can a simple facial photo indicate a person's health condition?",
+   "question": "Should facial analysis tools be integrated into routine health screenings?",
    "source": "BBC News"
   },
   {
    "id": "t6",
-   "category": "trending",
-   "headline": "Spike Lee's latest project sparks debate in the film community",
-   "question": "How do Spike Lee's recent works reflect current social and political issues?",
-   "source": "Google Trends"
+   "category": "business",
+   "headline": "Paddy Power announces 1,400 job cuts, cites betting tax rises",
+   "question": "Are increased betting taxes justified if they lead to significant job losses?",
+   "source": "BBC News"
   },
   {
    "id": "t7",
-   "category": "sports",
-   "headline": "Can Phil Foden replace Haaland as Manchester City's main scorer?",
-   "question": "Is Phil Foden ready to become Manchester City's primary goal threat this season?",
-   "source": "BBC Sport"
+   "category": "trending",
+   "headline": "Rocket League maintains popularity among competitive gamers",
+   "question": "What factors keep Rocket League relevant in the evolving esports scene?",
+   "source": "Google Trends"
   },
   {
    "id": "t8",
-   "category": "sports",
-   "headline": "NBA preseason odds show Spurs and Thunder tied for championship",
-   "question": "Do early odds accurately predict NBA championship outcomes, or are they too speculative?",
-   "source": "Google News"
+   "category": "tech",
+   "headline": "Google fixes cloud outage that disrupted UK banking services",
+   "question": "Does reliance on single cloud providers pose systemic risks to essential services?",
+   "source": "BBC News"
   },
   {
    "id": "t9",
-   "category": "trending",
-   "headline": "College basketball fans focus on Duke's upcoming season",
-   "question": "Can Duke reclaim its dominance in college basketball under the new coaching staff?",
-   "source": "Google Trends"
+   "category": "science",
+   "headline": "Mars mission launches to collect sample from Phobos, its moon",
+   "question": "What scientific benefits could arise from retrieving material from Phobos?",
+   "source": "BBC News"
   }
  ]
 }
