@@ -1,74 +1,74 @@
 {
- "updated_at": "2026-10-21T10:00:10+00:00",
+ "updated_at": "2026-10-21T15:02:54+00:00",
  "items": [
   {
    "id": "t0",
    "category": "weather",
-   "headline": "Rare severe weather threat draws storm chasers to Arizona",
-   "question": "How should authorities balance public safety with the interests of storm chasers during severe weather events?",
+   "headline": "Coast-hugging nor'easter churns up high waves, strong winds",
+   "question": "How should coastal communities prepare for increasing nor'easter activity?",
    "source": "Google News"
   },
   {
    "id": "t1",
    "category": "sports",
-   "headline": "Crystal Palace urged to retire its bald eagle mascot",
-   "question": "Should sports teams consider retiring mascots that may be seen as culturally insensitive?",
+   "headline": "F1 races to return to standard distance in 2028",
+   "question": "Should the return to standard F1 race distances improve competition?",
    "source": "BBC Sport"
   },
   {
    "id": "t2",
    "category": "sports",
-   "headline": "New‑look 76ers show potential against defending champion Knicks",
-   "question": "Can the 76ers sustain their early-season momentum against top NBA teams?",
-   "source": "Google News"
+   "headline": "Why do Man City fans boo pre-match anthems?",
+   "question": "Is booing national anthems by fans a legitimate form of protest?",
+   "source": "BBC Sport"
   },
   {
    "id": "t3",
-   "category": "tech",
-   "headline": "Tech helping crack decades‑old cold cases",
-   "question": "What are the ethical implications of using advanced technology to reopen old criminal investigations?",
+   "category": "world",
+   "headline": "Gambia to pay victims of Yahya Jammeh's rule from seized US mansion",
+   "question": "Should seized assets from former leaders be used to compensate victims?",
    "source": "BBC News"
   },
   {
    "id": "t4",
    "category": "tech",
    "headline": "Google resolves cloud outage affecting UK banks and websites",
-   "question": "How can critical services improve resilience against large‑scale cloud outages?",
+   "question": "What responsibilities do cloud providers have to prevent widespread service outages?",
    "source": "BBC News"
   },
   {
    "id": "t5",
    "category": "science",
-   "headline": "Orionid meteor shower set to peak in UK skies this week",
-   "question": "What factors influence public interest in astronomical events like meteor showers?",
+   "headline": "Orionid meteor shower to peak in UK skies this week",
+   "question": "Will increased public interest in meteor showers boost support for astronomy?",
    "source": "BBC News"
   },
   {
    "id": "t6",
-   "category": "health",
-   "headline": "Tighter rules planned to protect people from botched cosmetic surgery",
-   "question": "Will stricter regulations effectively reduce complications from cosmetic procedures?",
+   "category": "science",
+   "headline": "Mission blasts off for Mars to grab a piece of its moon",
+   "question": "Is extracting samples from Mars' moons a worthwhile scientific investment?",
    "source": "BBC News"
   },
   {
    "id": "t7",
-   "category": "world",
-   "headline": "Pakistan arrests man wanted by US over $126 million postage fraud case",
-   "question": "How should international cooperation be handled in large‑scale fraud investigations?",
+   "category": "health",
+   "headline": "Tighter rules planned to protect people from cosmetic surgery mishaps",
+   "question": "Do stricter cosmetic surgery regulations effectively protect patients?",
    "source": "BBC News"
   },
   {
    "id": "t8",
    "category": "business",
-   "headline": "What is happening to UK prices?",
-   "question": "What are the main drivers behind the recent rise in UK consumer prices?",
+   "headline": "Inflation and government borrowing highest for a year ahead of Budget",
+   "question": "Are current fiscal policies sufficient to curb rising inflation?",
    "source": "BBC News"
   },
   {
    "id": "t9",
    "category": "trending",
-   "headline": "Grand Theft Auto VI economic impact draws attention",
-   "question": "How do video game releases like GTA VI affect the broader economy and job market?",
+   "headline": "Sony PS5 firmware update 14.20 released",
+   "question": "Will the PS5 firmware update address major performance issues for gamers?",
    "source": "Google Trends"
   }
  ]
