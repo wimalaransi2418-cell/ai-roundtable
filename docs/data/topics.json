@@ -1,75 +1,75 @@
 {
- "updated_at": "2026-10-21T15:02:54+00:00",
+ "updated_at": "2026-10-21T19:15:12+00:00",
  "items": [
   {
    "id": "t0",
-   "category": "weather",
-   "headline": "Coast-hugging nor'easter churns up high waves, strong winds",
-   "question": "How should coastal communities prepare for increasing nor'easter activity?",
-   "source": "Google News"
+   "category": "world",
+   "headline": "Russia says it is ready to resume talks with Ukraine and the US",
+   "question": "What conditions are necessary for a lasting peace between Russia and Ukraine?",
+   "source": "BBC News"
   },
   {
    "id": "t1",
-   "category": "sports",
-   "headline": "F1 races to return to standard distance in 2028",
-   "question": "Should the return to standard F1 race distances improve competition?",
-   "source": "BBC Sport"
+   "category": "weather",
+   "headline": "New AI framework bridges a critical gap in mid‑range weather forecasts",
+   "question": "Can AI significantly improve the accuracy of medium‑term weather predictions?",
+   "source": "Google News"
   },
   {
    "id": "t2",
    "category": "sports",
-   "headline": "Why do Man City fans boo pre-match anthems?",
-   "question": "Is booing national anthems by fans a legitimate form of protest?",
-   "source": "BBC Sport"
+   "headline": "Giants consider J.J. McCarthy as starting QB for upcoming game vs Texans",
+   "question": "Will promoting a rookie quarterback like McCarthy benefit the Giants long term?",
+   "source": "Google News"
   },
   {
    "id": "t3",
-   "category": "world",
-   "headline": "Gambia to pay victims of Yahya Jammeh's rule from seized US mansion",
-   "question": "Should seized assets from former leaders be used to compensate victims?",
-   "source": "BBC News"
+   "category": "sports",
+   "headline": "Thunder defeat Spurs as Shai Gilgeous‑Alexander outplays Victor Wembanyama",
+   "question": "Does Gilgeous‑Alexander's performance signal a shift in NBA power dynamics?",
+   "source": "Google News"
   },
   {
    "id": "t4",
    "category": "tech",
-   "headline": "Google resolves cloud outage affecting UK banks and websites",
-   "question": "What responsibilities do cloud providers have to prevent widespread service outages?",
+   "headline": "Google resolves cloud outage that disrupted UK banks and major websites",
+   "question": "What steps should cloud providers take to prevent future widespread service disruptions?",
    "source": "BBC News"
   },
   {
    "id": "t5",
    "category": "science",
-   "headline": "Orionid meteor shower to peak in UK skies this week",
-   "question": "Will increased public interest in meteor showers boost support for astronomy?",
+   "headline": "Orionid meteor shower set to peak over the UK skies this week",
+   "question": "How can public interest in meteor showers be leveraged to boost science education?",
    "source": "BBC News"
   },
   {
    "id": "t6",
-   "category": "science",
-   "headline": "Mission blasts off for Mars to grab a piece of its moon",
-   "question": "Is extracting samples from Mars' moons a worthwhile scientific investment?",
+   "category": "health",
+   "headline": "Can a simple facial photo reveal a person’s underlying health conditions?",
+   "question": "Should facial analysis tools be used for medical screening without consent?",
    "source": "BBC News"
   },
   {
    "id": "t7",
-   "category": "health",
-   "headline": "Tighter rules planned to protect people from cosmetic surgery mishaps",
-   "question": "Do stricter cosmetic surgery regulations effectively protect patients?",
+   "category": "business",
+   "headline": "What is happening to UK prices amid ongoing inflationary pressures?",
+   "question": "Are current monetary policies enough to curb rising living costs in the UK?",
    "source": "BBC News"
   },
   {
    "id": "t8",
-   "category": "business",
-   "headline": "Inflation and government borrowing highest for a year ahead of Budget",
-   "question": "Are current fiscal policies sufficient to curb rising inflation?",
-   "source": "BBC News"
+   "category": "trending",
+   "headline": "5G technology continues to expand, sparking debate over health and security",
+   "question": "Should governments impose stricter regulations on 5G rollout to address health concerns?",
+   "source": "Google Trends"
   },
   {
    "id": "t9",
-   "category": "trending",
-   "headline": "Sony PS5 firmware update 14.20 released",
-   "question": "Will the PS5 firmware update address major performance issues for gamers?",
-   "source": "Google Trends"
+   "category": "business",
+   "headline": "Inflation and government borrowing hit a year‑high ahead of the upcoming Budget",
+   "question": "How will the next UK Budget address the twin challenges of inflation and high borrowing?",
+   "source": "BBC News"
   }
  ]
 }
