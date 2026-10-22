@@ -1,74 +1,74 @@
 {
- "updated_at": "2026-10-22T10:01:14+00:00",
+ "updated_at": "2026-10-22T15:04:11+00:00",
  "items": [
   {
    "id": "t0",
-   "category": "weather",
-   "headline": "AI framework aims to improve mid-range weather forecasts",
-   "question": "Will AI-driven forecasts be reliable enough to replace traditional models for daily planning?",
-   "source": "Google News"
+   "category": "world",
+   "headline": "Shark guided out of South Korea canal refuses to re-enter sea",
+   "question": "Should wildlife rescue teams intervene when a shark resists returning to its natural habitat?",
+   "source": "BBC News"
   },
   {
    "id": "t1",
    "category": "sports",
-   "headline": "Harry Kane's performance bolsters his Ballon d'Or candidacy",
-   "question": "Does Kane have a stronger claim to the Ballon d'Or than other top scorers this season?",
+   "headline": "Manchester United's Carrick continues playing amid senior staff concerns",
+   "question": "Should veteran players stay on the pitch if performance concerns arise?",
    "source": "BBC Sport"
   },
   {
    "id": "t2",
    "category": "sports",
-   "headline": "Angel Reese leads Dream to WNBA Finals victory over Valkyries",
-   "question": "Will Angel Reese's impact change the perception of women's basketball talent globally?",
-   "source": "Google News"
+   "headline": "South Africa secures a memorable victory over Australia",
+   "question": "What factors contributed most to South Africa's win against Australia?",
+   "source": "BBC Sport"
   },
   {
    "id": "t3",
    "category": "tech",
-   "headline": "New technology aids investigators in solving cold cases",
-   "question": "Can advanced forensic tech significantly reduce the backlog of unsolved crimes?",
+   "headline": "AI minister reports 500 new government cybersecurity vulnerabilities",
+   "question": "How should governments prioritize fixing a sudden surge in cyber vulnerabilities?",
    "source": "BBC News"
   },
   {
    "id": "t4",
-   "category": "tech",
-   "headline": "UK probes exposure after worldwide cyber-security alert",
-   "question": "Are current cyber-security measures sufficient to protect critical infrastructure?",
+   "category": "science",
+   "headline": "Investigating the environmental impact of peat fires in Indonesia",
+   "question": "Are peat fires a greater climate threat than other types of wildfires?",
    "source": "BBC News"
   },
   {
    "id": "t5",
-   "category": "science",
-   "headline": "Orionid meteor shower expected to peak over UK this week",
-   "question": "How can amateur astronomers best observe the Orionid meteor shower?",
+   "category": "health",
+   "headline": "Chronic UTIs affect millions in the UK; women campaign to end stigma",
+   "question": "What measures can improve awareness and treatment for chronic UTIs?",
    "source": "BBC News"
   },
   {
    "id": "t6",
-   "category": "science",
-   "headline": "Investigation into environmental impact of peat fires in Indonesia",
-   "question": "What policies are most effective in preventing peatland fires?",
+   "category": "business",
+   "headline": "Barclays announces 5,000 job cuts as AI integration expands",
+   "question": "Will AI-driven job cuts ultimately benefit or harm the banking sector?",
    "source": "BBC News"
   },
   {
    "id": "t7",
-   "category": "health",
-   "headline": "Diabetes and ADHD medications slated for Alzheimer's clinical trial",
-   "question": "Could repurposing existing drugs accelerate treatment options for Alzheimer's?",
+   "category": "weather",
+   "headline": "Weather warning issued ahead of Storm Boelo across affected regions",
+   "question": "How effective are current warning systems in preparing communities for storms like Boelo?",
    "source": "BBC News"
   },
   {
    "id": "t8",
-   "category": "business",
-   "headline": "Barclays plans 5,000 job cuts amid AI-driven restructuring",
-   "question": "Will AI adoption in banking ultimately lead to net job losses?",
-   "source": "BBC News"
+   "category": "trending",
+   "headline": "Search interest spikes for former NFL quarterback Tony Romo",
+   "question": "What drives sudden spikes in public interest for retired athletes like Tony Romo?",
+   "source": "Google Trends"
   },
   {
    "id": "t9",
    "category": "trending",
-   "headline": "Brent crude oil prices fluctuate amid market uncertainty",
-   "question": "Is the recent volatility in Brent oil prices a sign of longer-term market shift?",
+   "headline": "Harrison Ford's name trends online amid recent news",
+   "question": "How do celebrity news cycles influence public attention on broader issues?",
    "source": "Google Trends"
   }
  ]
