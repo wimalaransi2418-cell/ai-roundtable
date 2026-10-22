@@ -1,6 +1,11 @@
 {
  "sessions": [
   {
+   "id": "20261022-0824",
+   "started_at": "2026-10-22T08:24:54+00:00",
+   "question_en": "Should AI command‑line interfaces like the OpenAI CLI be required to be open‑source to ensure transparency and foster innovation?"
+  },
+  {
    "id": "20261021-1911",
    "started_at": "2026-10-21T19:11:49+00:00",
    "question_en": "Should package repositories like PyPI require mandatory security scanning of all uploaded packages to prevent malicious code distribution?"
