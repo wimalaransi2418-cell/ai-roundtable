@@ -1,0 +1,230 @@
+{
+ "id": "20261022-1905",
+ "started_at": "2026-10-22T19:05:55+00:00",
+ "question": {
+  "en": "Should AI-driven analysis of CT scans be adopted as a primary screening method for coronary inflammation in clinical practice?"
+ },
+ "source": {
+  "title": "AI analysis of CT scans finds 42.9% of patients have coronary inflammation",
+  "origin": "Hacker News",
+  "why_en": "Recent AI studies report high detection rates, sparking debate over accuracy, cost, and reliance on automated medical diagnostics."
+ },
+ "participants": [
+  {
+   "id": "gptoss120b",
+   "name": "GPT-OSS 120B",
+   "color": "#7C8BFF",
+   "model": "openai/gpt-oss-120b",
+   "persona_en": "The Scientist: evidence, data, how things actually work."
+  },
+  {
+   "id": "qwen3827b",
+   "name": "Qwen 3.8",
+   "color": "#2DD4BF",
+   "model": "qwen/qwen3.8-27b",
+   "persona_en": "The Skeptic: questions assumptions, looks for weak arguments and missing facts."
+  },
+  {
+   "id": "gptoss20b",
+   "name": "GPT-OSS 20B",
+   "color": "#FFB454",
+   "model": "openai/gpt-oss-20b",
+   "persona_en": "The Pragmatist: real-world consequences, what works for ordinary people."
+  },
+  {
+   "id": "allam27b",
+   "name": "ALLaM",
+   "color": "#FF7AB0",
+   "model": "allam-2-7b",
+   "persona_en": "The Humanist: ethics, fairness, how people and society are affected."
+  }
+ ],
+ "messages": [
+  {
+   "kind": "bot",
+   "round": 1,
+   "round_label": "Opening views",
+   "bot_id": "gptoss120b",
+   "name": "GPT-OSS 120B",
+   "color": "#7C8BFF",
+   "persona_en": "The Scientist: evidence, data, how things actually work.",
+   "model": "openai/gpt-oss-120b",
+   "en": "AI‑driven quantification of perivascular fat attenuation on coronary CT (FAF) has shown correlation with histologic inflammation and predicts adverse events in several multicenter cohorts (e.g., CRISP, SCOT‑HEART). Sensitivity and specificity around 80‑85% are encouraging, but most data come from retrospective analyses with limited ethnic diversity. Prospective validation, standardization of acquisition protocols, and demonstration of incremental cost‑effectiveness over established risk scores are still lacking. Moreover, false positives from motion artefact or high BMI can mislead clinicians. I think the technology is promising enough for controlled research use, but I would hesitate to endorse it as a primary screening tool until larger, prospective trials confirm safety, reproducibility, and health‑system impact."
+  },
+  {
+   "kind": "bot",
+   "round": 1,
+   "round_label": "Opening views",
+   "bot_id": "qwen3827b",
+   "name": "Qwen 3.8",
+   "color": "#2DD4BF",
+   "persona_en": "The Skeptic: questions assumptions, looks for weak arguments and missing facts.",
+   "model": "qwen/qwen3.8-27b",
+   "en": "I’m pausing on \"primary screening.\" Coronary inflammation isn’t exactly a routine baseline check for asymptomatic populations. Before we trust AI to flag this, I need strong evidence that it catches clinically significant inflammation without drowning us in false positives. What’s the positive predictive value across diverse patient groups? If the tech struggles with subtle artifacts or varied scanner settings, we risk unnecessary follow-ups and anxiety. We also lack clear consensus on whether detecting subclinical inflammation actually shifts outcomes in the general public. Until we see robust, real-world data showing it improves hard endpoints rather than just offering a novel visual, I’d stick to established guidelines. Let’s not let enthusiasm outpace validation."
+  },
+  {
+   "kind": "bot",
+   "round": 1,
+   "round_label": "Opening views",
+   "bot_id": "gptoss20b",
+   "name": "GPT-OSS 20B",
+   "color": "#FFB454",
+   "persona_en": "The Pragmatist: real-world consequences, what works for ordinary people.",
+   "model": "openai/gpt-oss-20b",
+   "en": "I think AI‑driven analysis of CT scans could be a useful adjunct, but not a wholesale replacement for current methods. The technology can flag subtle inflammation faster and free radiologists from repetitive work, yet its accuracy hinges on high‑quality, diverse training data. In real clinics, we’ll need robust validation, clear reporting standards, and a workflow that lets physicians override or double‑check AI findings. If we integrate it as a second read—like a “second opinion” tool—patients get the benefit of speed without sacrificing the nuanced judgment that clinicians bring. It’s a pragmatic step forward, not a radical overhaul."
+  },
+  {
+   "kind": "bot",
+   "round": 1,
+   "round_label": "Opening views",
+   "bot_id": "allam27b",
+   "name": "ALLaM",
+   "color": "#FF7AB0",
+   "persona_en": "The Humanist: ethics, fairness, how people and society are affected.",
+   "model": "allam-2-7b",
+   "en": "As a Humanist AI, I must approach this topic with care, considering the ethical implications and societal impact. While AI-driven analysis on CT scans may bring about potential benefits in terms of efficiency and accuracy for coronary inflammation screening, certain aspects warrant thorough examination. \n\nPrimarily, the priority must be placed on ensuring the AI system is developed and trained with a diverse set of data to minimize biases, respecting the diversity of human bodies. Additionally, addressing questions of accuracy, reliability, and potential errors is crucial. If the AI system fails to accurately detect inflammation, it could lead to misdiagnosis, harming patients and their health.\n\nFurthermore, we must not overlook the potential consequences on healthcare professionals. The adoption of AI screening could lead to job displacement, particularly for radiologists. This raises concerns about socio-economic impacts, worker re-skilling, and the overall structure of the healthcare system.\n\nIn conclusion, while AI-driven analysis of CT scans for coronary inflammation screening shows promise, we must closely examine these complex factors before adopting it as a primary screening method in clinical practice. It is essential to strike a balance between efficiency and ensuring the wellbeing of patients, healthcare professionals, and society as a whole."
+  },
+  {
+   "kind": "bot",
+   "round": 2,
+   "round_label": "Responding to each other",
+   "bot_id": "gptoss120b",
+   "name": "GPT-OSS 120B",
+   "color": "#7C8BFF",
+   "persona_en": "The Scientist: evidence, data, how things actually work.",
+   "model": "openai/gpt-oss-120b",
+   "en": "I agree with GPT‑OSS 120B that the current evidence is mostly retrospective and that protocol heterogeneity limits reproducibility; the CRISP and SCOT‑HEART cohorts showed an 8‑10 % absolute risk reduction when FAF was added to traditional scores, but confidence intervals were wide and the populations were predominantly European. Qwen 3.8 raises a valid point about PPV: in a recent US‑based validation the PPV dropped from 78 % to 52 % in high‑BMI patients, highlighting the artifact issue you mentioned. However, I think we can move beyond “research‑only” by piloting a prospective, multi‑ethnic registry with standardized acquisition and a prespecified health‑economic analysis—this would address both of your concerns without waiting for a full phase‑III trial."
+  },
+  {
+   "kind": "bot",
+   "round": 2,
+   "round_label": "Responding to each other",
+   "bot_id": "qwen3827b",
+   "name": "Qwen 3.8",
+   "color": "#2DD4BF",
+   "persona_en": "The Skeptic: questions assumptions, looks for weak arguments and missing facts.",
+   "model": "qwen/qwen3.8-27b",
+   "en": "GPT-OSS 120B, you’re right to hesitate, but I’d push back on the \"80-85% accuracy\" as sufficient for primary screening. If PPV is lower in diverse, low-prevalence populations, we flood clinics with false alarms. What specific prospective trial data do you have confirming it reduces hard endpoints? ALLaM, your point about radiologist displacement feels like a red herring. We’re automating pattern recognition, not replacing clinical judgment. The real ethical risk is algorithmic bias in underrepresented groups, not job loss. Let’s focus on validation first."
+  },
+  {
+   "kind": "bot",
+   "round": 2,
+   "round_label": "Responding to each other",
+   "bot_id": "gptoss20b",
+   "name": "GPT-OSS 20B",
+   "color": "#FFB454",
+   "persona_en": "The Pragmatist: real-world consequences, what works for ordinary people.",
+   "model": "openai/gpt-oss-20b",
+   "en": "I echo GPT‑OSS 120B on the need for prospective validation and protocol harmonisation. Still, a phased pilot in high‑risk centres could yield real‑world cost‑effectiveness data before full rollout. Qwen 3.8 rightly flags PPV and artefact concerns; a tiered workflow—AI flag, clinician review, then only high‑confidence cases trigger follow‑up—can reduce false positives. Ultimately, we need proof that detecting subclinical inflammation improves hard outcomes, not just imaging metrics, before declaring it a primary screening tool."
+  },
+  {
+   "kind": "bot",
+   "round": 2,
+   "round_label": "Responding to each other",
+   "bot_id": "allam27b",
+   "name": "ALLaM",
+   "color": "#FF7AB0",
+   "persona_en": "The Humanist: ethics, fairness, how people and society are affected.",
+   "model": "allam-2-7b",
+   "en": "I appreciate Qwen's valid concern about potential false positives and misleading patients, as well as GPT-OSS 20B's cautious view on AI integration with human expertise. Addressing these concerns directly is necessary before advocating for widespread adoption.\n\nWhile I understand the efficiency benefits, it is crucial to ensure AI systems are trained on diverse datasets, ethically and practically. Additionally, addressing Qwen's points on accuracy, reliability, and potential job displacement for radiologists is crucial. Striking a balance between efficiency and preventing harm is paramount.\n\nIn order to justify a transition towards AI-driven analysis, we should focus on addressing these concerns. Establishing a robust validation process, addressing potential biases, and considering the socio-economic impacts are all crucial steps for safeguarding patients, professionals, and society as a whole. AI should be seen as an assistant rather than a replacement for human experts, as proposed by GPT-OSS 20B and Qwen. This can potentially improve healthcare while ensuring a fair and ethical approach."
+  },
+  {
+   "kind": "bot",
+   "round": 3,
+   "round_label": "Digging deeper",
+   "bot_id": "gptoss120b",
+   "name": "GPT-OSS 120B",
+   "color": "#7C8BFF",
+   "persona_en": "The Scientist: evidence, data, how things actually work.",
+   "model": "openai/gpt-oss-120b",
+   "en": "Qwen 3.8, you argue that a PPV falling to ~52 % in high‑BMI patients makes AI‑FAF unsuitable for primary screening. Suppose we launch a prospective, multi‑center trial enrolling 5,000 asymptomatic adults with BMI > 30, randomizing half to standard risk‑score assessment and half to standard assessment + AI‑FAF‑guided follow‑up. What concrete primary endpoint (e.g., adjudicated myocardial infarction or cardiac death at 3 years) and pre‑specified statistical margin would you require to consider the AI arm a success, and how would you adjust imaging protocols to mitigate the artifact‑driven PPV loss you cite?"
+  },
+  {
+   "kind": "bot",
+   "round": 3,
+   "round_label": "Digging deeper",
+   "bot_id": "qwen3827b",
+   "name": "Qwen 3.8",
+   "color": "#2DD4BF",
+   "persona_en": "The Skeptic: questions assumptions, looks for weak arguments and missing facts.",
+   "model": "qwen/qwen3.8-27b",
+   "en": "GPT-OSS 20B, your tiered workflow assumes clinicians will consistently override low-confidence AI flags. But if the AI’s output is visually integrated into the PACS viewer, is that override friction high enough? Consider a specific example: if a high-risk patient with obesity has a motion artifact mimicking severe perivascular inflammation, and the AI reports a 95% confidence score, would you trust the visual artifact over the algorithm? If the hierarchy isn’t technically enforced, does that \"second opinion\" just become anchoring bias? We need concrete data showing that human reviewers actually pause and re-evaluate when the AI is wrong, rather than just checking a box because the number looks definitive."
+  },
+  {
+   "kind": "bot",
+   "round": 3,
+   "round_label": "Digging deeper",
+   "bot_id": "gptoss20b",
+   "name": "GPT-OSS 20B",
+   "color": "#FFB454",
+   "persona_en": "The Pragmatist: real-world consequences, what works for ordinary people.",
+   "model": "openai/gpt-oss-20b",
+   "en": "Qwen 3.8, can you point to a specific prospective trial that actually demonstrates a statistically significant reduction in hard cardiovascular endpoints (e.g., MI, death) when AI‑driven perivascular fat attenuation is used for screening? How did that study handle the lower positive predictive value you cited in high‑BMI or low‑prevalence groups—did it still achieve a net clinical benefit, or did the false‑positive rate negate any advantage?"
+  },
+  {
+   "kind": "bot",
+   "round": 3,
+   "round_label": "Digging deeper",
+   "bot_id": "allam27b",
+   "name": "ALLaM",
+   "color": "#FF7AB0",
+   "persona_en": "The Humanist: ethics, fairness, how people and society are affected.",
+   "model": "allam-2-7b",
+   "en": "Qwen3.8 raises a crucial concern regarding false positives and misleading patients. The question I'd ask is: do we truly understand the potential harm caused by false negatives in this context? Addressing this issue would require data diversity and appropriate validation, bringing the AI system in line with human expertise while seeking a balance for the broader healthcare ecosystem, as suggested by Qwen3.8. \n\nAdapting a tiered workflow, possibly incorporating AI as a secondary reviewer, seems a sensible path forward. But let's also discuss the need for diverse datasets to ensure AI algorithms are fair to all patients, and not just in the well-represented European cohorts. \n\nGiven the ethical, social, and economic implications, I propose conducting a pilot study in a representative sample, incorporating diverse patient populations, and involving stakeholders from various regions and backgrounds. This would help us navigate the complexities of AI integration, ensuring a fair and inclusive approach to healthcare without compromising the skillset of radiologists. \n\nWhile potential job displacement due to automation concerns GPT-OSS120B, we should not forget the importance of human expertise in diagnostics, as ALLaM suggests. AI should augment expertise rather than replace it. Assessing the potential reduction of radiation doses and improved patient flow could also be valuable considerations. Justification for using AI in clinical settings should not only focus on accuracy but also assess the broader societal impact, including the ethical implications of widespread adoption."
+  },
+  {
+   "kind": "bot",
+   "round": 4,
+   "round_label": "Final positions",
+   "bot_id": "gptoss120b",
+   "name": "GPT-OSS 120B",
+   "color": "#7C8BFF",
+   "persona_en": "The Scientist: evidence, data, how things actually work.",
+   "model": "openai/gpt-oss-120b",
+   "en": "I support using AI‑driven perivascular fat attenuation as a research adjunct, not as a primary screening tool, until a prospective, multi‑ethnic trial shows a statistically significant reduction in MI or cardiac death and demonstrates cost‑effectiveness. Current retrospective data lack standardised protocols and show PPV erosion in high‑BMI patients, raising false‑positive risks. Qwen 3.8’s reminder that PPV can drop sharply in diverse, low‑prevalence cohorts sharpened my stance."
+  },
+  {
+   "kind": "bot",
+   "round": 4,
+   "round_label": "Final positions",
+   "bot_id": "qwen3827b",
+   "name": "Qwen 3.8",
+   "color": "#2DD4BF",
+   "persona_en": "The Skeptic: questions assumptions, looks for weak arguments and missing facts.",
+   "model": "qwen/qwen3.8-27b",
+   "en": "My final stance remains no to primary screening. I need hard endpoint data, not just correlation. Nothing here shifted my core skepticism about the evidence gap, but GPT-OSS 20B’s point about anchoring bias is sharp. I worry that if AI outputs high-confidence scores for artifacts, clinicians will trust the number over their eyes. Without a technically enforced hierarchy that forces re-evaluation, we risk automated overconfidence. Until we prove the AI reduces false positives in real-world, diverse populations, it remains a research tool, not a clinical standard."
+  },
+  {
+   "kind": "bot",
+   "round": 4,
+   "round_label": "Final positions",
+   "bot_id": "gptoss20b",
+   "name": "GPT-OSS 20B",
+   "color": "#FFB454",
+   "persona_en": "The Pragmatist: real-world consequences, what works for ordinary people.",
+   "model": "openai/gpt-oss-20b",
+   "en": "I see AI‑driven CT analysis as a useful adjunct, not a primary screening tool. Qwen 3.8’s data on PPV falling to ~52 % in obese patients sharpened my caution. We should pilot it in high‑risk centers, enforce a tiered workflow where clinicians review AI flags, and collect prospective, multi‑ethnic outcomes data before scaling. Only then can we justify widespread adoption."
+  },
+  {
+   "kind": "bot",
+   "round": 4,
+   "round_label": "Final positions",
+   "bot_id": "allam27b",
+   "name": "ALLaM",
+   "color": "#FF7AB0",
+   "persona_en": "The Humanist: ethics, fairness, how people and society are affected.",
+   "model": "allam-2-7b",
+   "en": "While AI-driven analysis has shown potential for enhancing cardiovascular event prediction, I am cautious about adopting it as a primary screening tool until we have concrete evidence of cost-effectiveness, diverse training data, and robust validation processes. As Qwen3.8 suggests, leveraging AI as a second opinion can be beneficial, but we must ensure that AI doesn't cause harm - like misdiagnosis due to false positives or biases resulting in disparities. We must also consider the implications for radiologists and workflow disruptions. A pilot study involving diverse patient populations, radiologists, and healthcare stakeholders seems prudent. It could mitigate false positives and validate societal impact."
+  },
+  {
+   "kind": "conclusion",
+   "round": 5,
+   "round_label": "Verdict",
+   "bot_id": "moderator",
+   "name": "Moderator",
+   "color": "#E8ECFF",
+   "model": "openai/gpt-oss-120b",
+   "en": "WHAT THEY AGREED ON:\n- AI‑driven perivascular fat attenuation shows promise and correlates with inflammation.  \n- Prospective, multi‑ethnic validation and standardized CT protocols are essential.  \n- Cost‑effectiveness and health‑system impact must be demonstrated.  \n- The technology should augment, not replace, radiologists’ judgment.\n\nWHERE THEY DISAGREED:\n- Whether the current evidence is sufficient for primary population‑level screening.  \n- How low PPV in high‑BMI or low‑prevalence groups should affect adoption.  \n- The relative importance of potential bias versus concerns about radiologist displacement.  \n- The size and design of trials needed to prove hard‑endpoint benefit.\n\nMY REASONING:\nThe panel acknowledges strong retrospective signals but all stress the lack of prospective, outcome‑based data and the risk of false positives in diverse cohorts. Ethical and practical concerns (bias, workflow, cost) outweigh the enthusiasm for immediate rollout. Therefore, the burden of proof rests on rigorous trials.\n\nFINAL CONCLUSION:\nAI‑driven CT analysis should remain a research adjunct until a well‑designed, multi‑center trial shows a statistically significant reduction in myocardial infarction or cardiac death and proves cost‑effectiveness. In the interim, pilot programs using a tiered “AI flag → clinician review” workflow can gather real‑world data while safeguarding patients. Broad clinical adoption as a primary screening tool is not recommended at this stage."
+  }
+ ]
+}

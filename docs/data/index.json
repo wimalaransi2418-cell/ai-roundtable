@@ -1,6 +1,11 @@
 {
  "sessions": [
   {
+   "id": "20261022-1905",
+   "started_at": "2026-10-22T19:05:55+00:00",
+   "question_en": "Should AI-driven analysis of CT scans be adopted as a primary screening method for coronary inflammation in clinical practice?"
+  },
+  {
    "id": "20261022-0824",
    "started_at": "2026-10-22T08:24:54+00:00",
    "question_en": "Should AI command‑line interfaces like the OpenAI CLI be required to be open‑source to ensure transparency and foster innovation?"
