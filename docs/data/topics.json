@@ -1,75 +1,75 @@
 {
- "updated_at": "2026-10-22T04:27:24+00:00",
+ "updated_at": "2026-10-22T10:01:14+00:00",
  "items": [
   {
    "id": "t0",
-   "category": "world",
-   "headline": "Global cyber-security update forces worldwide website shutdowns",
-   "question": "Should governments mandate immediate security patches for critical internet infrastructure?",
-   "source": "BBC News"
+   "category": "weather",
+   "headline": "AI framework aims to improve mid-range weather forecasts",
+   "question": "Will AI-driven forecasts be reliable enough to replace traditional models for daily planning?",
+   "source": "Google News"
   },
   {
    "id": "t1",
-   "category": "weather",
-   "headline": "Subtropical Storm Josephine tracking updates and potential impacts",
-   "question": "How should residents prepare for potential impacts of Subtropical Storm Josephine?",
-   "source": "Google News"
+   "category": "sports",
+   "headline": "Harry Kane's performance bolsters his Ballon d'Or candidacy",
+   "question": "Does Kane have a stronger claim to the Ballon d'Or than other top scorers this season?",
+   "source": "BBC Sport"
   },
   {
    "id": "t2",
    "category": "sports",
-   "headline": "Arsenal's Saka injury raises concerns over team's upcoming matches",
-   "question": "Will Arsenal be able to maintain performance without Saka in the short term?",
-   "source": "BBC Sport"
+   "headline": "Angel Reese leads Dream to WNBA Finals victory over Valkyries",
+   "question": "Will Angel Reese's impact change the perception of women's basketball talent globally?",
+   "source": "Google News"
   },
   {
    "id": "t3",
-   "category": "sports",
-   "headline": "Brewers and Rays' World Series histories compared as they chase titles",
-   "question": "Does past World Series performance reliably predict future success for teams?",
-   "source": "Google News"
+   "category": "tech",
+   "headline": "New technology aids investigators in solving cold cases",
+   "question": "Can advanced forensic tech significantly reduce the backlog of unsolved crimes?",
+   "source": "BBC News"
   },
   {
    "id": "t4",
-   "category": "sports",
-   "headline": "Commanders-49ers draw 17.9 million viewers for Monday Night Football",
-   "question": "What factors most influence viewership numbers for major NFL games?",
-   "source": "Google News"
+   "category": "tech",
+   "headline": "UK probes exposure after worldwide cyber-security alert",
+   "question": "Are current cyber-security measures sufficient to protect critical infrastructure?",
+   "source": "BBC News"
   },
   {
    "id": "t5",
-   "category": "tech",
-   "headline": "Just Eat issues apology after AI-generated menu errors go viral",
-   "question": "What safeguards are needed to prevent AI errors in food service platforms?",
+   "category": "science",
+   "headline": "Orionid meteor shower expected to peak over UK this week",
+   "question": "How can amateur astronomers best observe the Orionid meteor shower?",
    "source": "BBC News"
   },
   {
    "id": "t6",
    "category": "science",
-   "headline": "Orionid meteor shower expected to peak over the UK this week",
-   "question": "How can amateur astronomers best observe the Orionid meteor shower?",
+   "headline": "Investigation into environmental impact of peat fires in Indonesia",
+   "question": "What policies are most effective in preventing peatland fires?",
    "source": "BBC News"
   },
   {
    "id": "t7",
    "category": "health",
-   "headline": "Women discuss a taboo health issue gaining attention on social media",
-   "question": "What steps can be taken to reduce stigma around discussing taboo health issues?",
+   "headline": "Diabetes and ADHD medications slated for Alzheimer's clinical trial",
+   "question": "Could repurposing existing drugs accelerate treatment options for Alzheimer's?",
    "source": "BBC News"
   },
   {
    "id": "t8",
    "category": "business",
-   "headline": "Meta hit with $25 billion fine over alleged user data privacy misrepresentations",
-   "question": "Will the $25 billion fine effectively change Meta's data privacy practices?",
+   "headline": "Barclays plans 5,000 job cuts amid AI-driven restructuring",
+   "question": "Will AI adoption in banking ultimately lead to net job losses?",
    "source": "BBC News"
   },
   {
    "id": "t9",
-   "category": "science",
-   "headline": "Investigating the environmental damage caused by peat fires in Indonesia",
-   "question": "What policies could mitigate the ecological harm caused by peat fires?",
-   "source": "BBC News"
+   "category": "trending",
+   "headline": "Brent crude oil prices fluctuate amid market uncertainty",
+   "question": "Is the recent volatility in Brent oil prices a sign of longer-term market shift?",
+   "source": "Google Trends"
   }
  ]
 }
