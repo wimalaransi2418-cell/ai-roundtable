@@ -1,75 +1,75 @@
 {
- "updated_at": "2026-10-22T15:04:11+00:00",
+ "updated_at": "2026-10-22T19:11:02+00:00",
  "items": [
   {
    "id": "t0",
-   "category": "world",
-   "headline": "Shark guided out of South Korea canal refuses to re-enter sea",
-   "question": "Should wildlife rescue teams intervene when a shark resists returning to its natural habitat?",
+   "category": "weather",
+   "headline": "Weather warning issued ahead of Storm Boelo",
+   "question": "How should authorities balance public safety and economic disruption when issuing storm warnings?",
    "source": "BBC News"
   },
   {
    "id": "t1",
    "category": "sports",
-   "headline": "Manchester United's Carrick continues playing amid senior staff concerns",
-   "question": "Should veteran players stay on the pitch if performance concerns arise?",
+   "headline": "Brook hailed as world's best all-format batter in run-fest",
+   "question": "Does Brook's recent performance justify calling him the best all-format batter globally?",
    "source": "BBC Sport"
   },
   {
    "id": "t2",
    "category": "sports",
-   "headline": "South Africa secures a memorable victory over Australia",
-   "question": "What factors contributed most to South Africa's win against Australia?",
+   "headline": "Rice scores to secure Arsenal draw at Bayern",
+   "question": "What impact will Arsenal's draw against Bayern have on their chances in the competition?",
    "source": "BBC Sport"
   },
   {
    "id": "t3",
    "category": "tech",
-   "headline": "AI minister reports 500 new government cybersecurity vulnerabilities",
-   "question": "How should governments prioritize fixing a sudden surge in cyber vulnerabilities?",
+   "headline": "What is PHP and why did it spark a global cyber‑security scramble?",
+   "question": "Should PHP be phased out in favor of more secure programming languages for web development?",
    "source": "BBC News"
   },
   {
    "id": "t4",
-   "category": "science",
-   "headline": "Investigating the environmental impact of peat fires in Indonesia",
-   "question": "Are peat fires a greater climate threat than other types of wildfires?",
+   "category": "tech",
+   "headline": "'500 new vulnerabilities' discovered in government systems, says AI minister",
+   "question": "Are current government cybersecurity measures sufficient to protect against such large numbers of vulnerabilities?",
    "source": "BBC News"
   },
   {
    "id": "t5",
    "category": "health",
-   "headline": "Chronic UTIs affect millions in the UK; women campaign to end stigma",
-   "question": "What measures can improve awareness and treatment for chronic UTIs?",
+   "headline": "Chronic UTIs affect millions in the UK; women fight stigma",
+   "question": "What policies could effectively reduce the stigma and improve treatment for chronic UTIs in the UK?",
    "source": "BBC News"
   },
   {
    "id": "t6",
    "category": "business",
-   "headline": "Barclays announces 5,000 job cuts as AI integration expands",
-   "question": "Will AI-driven job cuts ultimately benefit or harm the banking sector?",
+   "headline": "Barclays to cut 5,000 jobs as it leans more on AI",
+   "question": "Will increased reliance on AI at banks like Barclays lead to better services or greater job insecurity?",
    "source": "BBC News"
   },
   {
    "id": "t7",
-   "category": "weather",
-   "headline": "Weather warning issued ahead of Storm Boelo across affected regions",
-   "question": "How effective are current warning systems in preparing communities for storms like Boelo?",
+   "category": "science",
+   "headline": "Is the UK ready to green‑light a huge untapped oil field?",
+   "question": "Should the UK approve development of the untapped oil field despite climate commitments?",
    "source": "BBC News"
   },
   {
    "id": "t8",
    "category": "trending",
-   "headline": "Search interest spikes for former NFL quarterback Tony Romo",
-   "question": "What drives sudden spikes in public interest for retired athletes like Tony Romo?",
+   "headline": "qqq stock trending on Google",
+   "question": "Is investing in the QQQ ETF a prudent move for investors in the current market climate?",
    "source": "Google Trends"
   },
   {
    "id": "t9",
-   "category": "trending",
-   "headline": "Harrison Ford's name trends online amid recent news",
-   "question": "How do celebrity news cycles influence public attention on broader issues?",
-   "source": "Google Trends"
+   "category": "world",
+   "headline": "Newborn twins struggle to survive as Yemen's hunger crisis worsens",
+   "question": "What international actions are needed to address the hunger crisis affecting vulnerable children in Yemen?",
+   "source": "BBC News"
   }
  ]
 }
