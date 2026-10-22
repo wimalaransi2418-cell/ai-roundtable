@@ -1,75 +1,75 @@
 {
- "updated_at": "2026-10-22T19:11:02+00:00",
+ "updated_at": "2026-10-22T23:12:53+00:00",
  "items": [
   {
    "id": "t0",
-   "category": "weather",
-   "headline": "Weather warning issued ahead of Storm Boelo",
-   "question": "How should authorities balance public safety and economic disruption when issuing storm warnings?",
+   "category": "world",
+   "headline": "Yemen's hunger crisis endangers newborn twins amid ongoing conflict",
+   "question": "What long‑term strategies could effectively address hunger in conflict‑ridden Yemen?",
    "source": "BBC News"
   },
   {
    "id": "t1",
-   "category": "sports",
-   "headline": "Brook hailed as world's best all-format batter in run-fest",
-   "question": "Does Brook's recent performance justify calling him the best all-format batter globally?",
-   "source": "BBC Sport"
+   "category": "weather",
+   "headline": "Arizona storms trigger rain, hail, and flood warnings across the state",
+   "question": "How should authorities balance warning accuracy with public panic during storm alerts?",
+   "source": "Google News"
   },
   {
    "id": "t2",
    "category": "sports",
-   "headline": "Rice scores to secure Arsenal draw at Bayern",
-   "question": "What impact will Arsenal's draw against Bayern have on their chances in the competition?",
+   "headline": "Bournemouth's victory over Milan hailed as a Premier League breakthrough",
+   "question": "Will Bournemouth's recent win signal a lasting rise in Premier League competitiveness?",
    "source": "BBC Sport"
   },
   {
    "id": "t3",
-   "category": "tech",
-   "headline": "What is PHP and why did it spark a global cyber‑security scramble?",
-   "question": "Should PHP be phased out in favor of more secure programming languages for web development?",
-   "source": "BBC News"
+   "category": "sports",
+   "headline": "Kimi Antonelli aims to enjoy United States Grand Prix as title contender",
+   "question": "Can young drivers like Antonelli safely compete for titles in top‑level motorsport?",
+   "source": "Google News"
   },
   {
    "id": "t4",
    "category": "tech",
-   "headline": "'500 new vulnerabilities' discovered in government systems, says AI minister",
-   "question": "Are current government cybersecurity measures sufficient to protect against such large numbers of vulnerabilities?",
+   "headline": "Explaining PHP's role in sparking a worldwide cyber‑security scramble",
+   "question": "Should PHP be phased out in favor of more secure programming languages?",
    "source": "BBC News"
   },
   {
    "id": "t5",
-   "category": "health",
-   "headline": "Chronic UTIs affect millions in the UK; women fight stigma",
-   "question": "What policies could effectively reduce the stigma and improve treatment for chronic UTIs in the UK?",
+   "category": "tech",
+   "headline": "AI minister reports 500 new government vulnerabilities discovered",
+   "question": "What steps should governments take to remediate large numbers of discovered vulnerabilities?",
    "source": "BBC News"
   },
   {
    "id": "t6",
-   "category": "business",
-   "headline": "Barclays to cut 5,000 jobs as it leans more on AI",
-   "question": "Will increased reliance on AI at banks like Barclays lead to better services or greater job insecurity?",
+   "category": "science",
+   "headline": "Grid operator assures electricity supply will remain stable this winter",
+   "question": "Is reliance on existing grid infrastructure sufficient to meet winter energy demand?",
    "source": "BBC News"
   },
   {
    "id": "t7",
-   "category": "science",
-   "headline": "Is the UK ready to green‑light a huge untapped oil field?",
-   "question": "Should the UK approve development of the untapped oil field despite climate commitments?",
+   "category": "health",
+   "headline": "MPs propose wider use of weight‑loss injections on the NHS",
+   "question": "Are weight‑loss injections a viable public health solution for obesity on the NHS?",
    "source": "BBC News"
   },
   {
    "id": "t8",
-   "category": "trending",
-   "headline": "qqq stock trending on Google",
-   "question": "Is investing in the QQQ ETF a prudent move for investors in the current market climate?",
-   "source": "Google Trends"
+   "category": "business",
+   "headline": "Barclays announces 5,000 job cuts while expanding AI integration",
+   "question": "Will AI‑driven job cuts improve efficiency or exacerbate unemployment concerns?",
+   "source": "BBC News"
   },
   {
    "id": "t9",
-   "category": "world",
-   "headline": "Newborn twins struggle to survive as Yemen's hunger crisis worsens",
-   "question": "What international actions are needed to address the hunger crisis affecting vulnerable children in Yemen?",
-   "source": "BBC News"
+   "category": "trending",
+   "headline": "Debate over a major overhaul of the social security database data",
+   "question": "What are the privacy implications of overhauling the social security database?",
+   "source": "Google Trends"
   }
  ]
 }
