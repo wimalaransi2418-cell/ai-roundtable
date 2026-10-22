@@ -1,74 +1,74 @@
 {
- "updated_at": "2026-10-21T23:10:44+00:00",
+ "updated_at": "2026-10-22T04:27:24+00:00",
  "items": [
   {
    "id": "t0",
-   "category": "weather",
-   "headline": "Subtropical Storm Josephine tracked across the Atlantic",
-   "question": "How effective are current forecasting methods in warning coastal communities about storms like Josephine?",
-   "source": "Google News"
+   "category": "world",
+   "headline": "Global cyber-security update forces worldwide website shutdowns",
+   "question": "Should governments mandate immediate security patches for critical internet infrastructure?",
+   "source": "BBC News"
   },
   {
    "id": "t1",
-   "category": "sports",
-   "headline": "Arsenal's Saka injury raises concerns for upcoming matches",
-   "question": "Should Arsenal adjust their tactical approach while Saka recovers?",
-   "source": "BBC Sport"
+   "category": "weather",
+   "headline": "Subtropical Storm Josephine tracking updates and potential impacts",
+   "question": "How should residents prepare for potential impacts of Subtropical Storm Josephine?",
+   "source": "Google News"
   },
   {
    "id": "t2",
    "category": "sports",
-   "headline": "Golden State Warriors consider trade for Kristaps Porziņģis",
-   "question": "Will adding Porziņģis improve the Warriors' chances of a championship?",
-   "source": "Google News"
+   "headline": "Arsenal's Saka injury raises concerns over team's upcoming matches",
+   "question": "Will Arsenal be able to maintain performance without Saka in the short term?",
+   "source": "BBC Sport"
   },
   {
    "id": "t3",
-   "category": "world",
-   "headline": "Pakistan arrests suspect linked to $126 million US postage fraud",
-   "question": "What impact could this arrest have on international fraud investigations?",
-   "source": "BBC News"
+   "category": "sports",
+   "headline": "Brewers and Rays' World Series histories compared as they chase titles",
+   "question": "Does past World Series performance reliably predict future success for teams?",
+   "source": "Google News"
   },
   {
    "id": "t4",
-   "category": "tech",
-   "headline": "Global websites down after critical cybersecurity update",
-   "question": "Are mandatory security updates worth the temporary disruption they cause?",
-   "source": "BBC News"
+   "category": "sports",
+   "headline": "Commanders-49ers draw 17.9 million viewers for Monday Night Football",
+   "question": "What factors most influence viewership numbers for major NFL games?",
+   "source": "Google News"
   },
   {
    "id": "t5",
-   "category": "science",
-   "headline": "Orionid meteor shower set to peak over the UK this week",
-   "question": "How can public outreach improve interest in meteor shower events?",
+   "category": "tech",
+   "headline": "Just Eat issues apology after AI-generated menu errors go viral",
+   "question": "What safeguards are needed to prevent AI errors in food service platforms?",
    "source": "BBC News"
   },
   {
    "id": "t6",
-   "category": "health",
-   "headline": "Study tests diabetes and ADHD drugs on Alzheimer's patients",
-   "question": "Could repurposing existing drugs accelerate treatment options for Alzheimer's?",
+   "category": "science",
+   "headline": "Orionid meteor shower expected to peak over the UK this week",
+   "question": "How can amateur astronomers best observe the Orionid meteor shower?",
    "source": "BBC News"
   },
   {
    "id": "t7",
-   "category": "business",
-   "headline": "Meta faces $25 billion fine over alleged data privacy violations",
-   "question": "Will such large fines effectively change big tech's data practices?",
+   "category": "health",
+   "headline": "Women discuss a taboo health issue gaining attention on social media",
+   "question": "What steps can be taken to reduce stigma around discussing taboo health issues?",
    "source": "BBC News"
   },
   {
    "id": "t8",
-   "category": "trending",
-   "headline": "World Series Game 1 draws record viewership",
-   "question": "What factors contribute to the growing popularity of baseball's World Series?",
-   "source": "Google Trends"
+   "category": "business",
+   "headline": "Meta hit with $25 billion fine over alleged user data privacy misrepresentations",
+   "question": "Will the $25 billion fine effectively change Meta's data privacy practices?",
+   "source": "BBC News"
   },
   {
    "id": "t9",
-   "category": "tech",
-   "headline": "New AI tools assist in solving cold criminal cases",
-   "question": "Should law enforcement rely more on AI for investigating old crimes?",
+   "category": "science",
+   "headline": "Investigating the environmental damage caused by peat fires in Indonesia",
+   "question": "What policies could mitigate the ecological harm caused by peat fires?",
    "source": "BBC News"
   }
  ]
