@@ -1,75 +1,75 @@
 {
- "updated_at": "2026-10-22T23:12:53+00:00",
+ "updated_at": "2026-10-23T04:32:58+00:00",
  "items": [
   {
    "id": "t0",
-   "category": "world",
-   "headline": "Yemen's hunger crisis endangers newborn twins amid ongoing conflict",
-   "question": "What long‑term strategies could effectively address hunger in conflict‑ridden Yemen?",
-   "source": "BBC News"
+   "category": "weather",
+   "headline": "Clear and breezy overnight with nice days and chilly nights into the weekend",
+   "question": "How should residents prepare for the upcoming chilly nights despite clear skies?",
+   "source": "Google News"
   },
   {
    "id": "t1",
-   "category": "weather",
-   "headline": "Arizona storms trigger rain, hail, and flood warnings across the state",
-   "question": "How should authorities balance warning accuracy with public panic during storm alerts?",
+   "category": "sports",
+   "headline": "Sixers rally from 29 points down to win their home opener",
+   "question": "What factors contributed most to the Sixers' dramatic comeback victory?",
    "source": "Google News"
   },
   {
    "id": "t2",
    "category": "sports",
-   "headline": "Bournemouth's victory over Milan hailed as a Premier League breakthrough",
-   "question": "Will Bournemouth's recent win signal a lasting rise in Premier League competitiveness?",
-   "source": "BBC Sport"
+   "headline": "Bears secure win over Patriots with clutch field goal by Cairo Santos",
+   "question": "Did the Bears' win reflect superior strategy or a fortunate field goal?",
+   "source": "Google News"
   },
   {
    "id": "t3",
-   "category": "sports",
-   "headline": "Kimi Antonelli aims to enjoy United States Grand Prix as title contender",
-   "question": "Can young drivers like Antonelli safely compete for titles in top‑level motorsport?",
-   "source": "Google News"
+   "category": "world",
+   "headline": "Yemen's hunger crisis endangers newborn twins amid ongoing conflict",
+   "question": "What international actions are most effective in alleviating Yemen's hunger crisis?",
+   "source": "BBC News"
   },
   {
    "id": "t4",
    "category": "tech",
-   "headline": "Explaining PHP's role in sparking a worldwide cyber‑security scramble",
-   "question": "Should PHP be phased out in favor of more secure programming languages?",
+   "headline": "AI minister reports 500 new government cybersecurity vulnerabilities",
+   "question": "Can government agencies realistically address 500 new cyber vulnerabilities promptly?",
    "source": "BBC News"
   },
   {
    "id": "t5",
-   "category": "tech",
-   "headline": "AI minister reports 500 new government vulnerabilities discovered",
-   "question": "What steps should governments take to remediate large numbers of discovered vulnerabilities?",
+   "category": "health",
+   "headline": "First human case of Shamonda virus identified in France",
+   "question": "Should increased surveillance be implemented to detect emerging viruses like Shamonda?",
    "source": "BBC News"
   },
   {
    "id": "t6",
-   "category": "science",
-   "headline": "Grid operator assures electricity supply will remain stable this winter",
-   "question": "Is reliance on existing grid infrastructure sufficient to meet winter energy demand?",
+   "category": "health",
+   "headline": "Chronic UTIs affect millions of UK women; stigma being challenged",
+   "question": "How can public health campaigns better reduce stigma around chronic UTIs?",
    "source": "BBC News"
   },
   {
    "id": "t7",
-   "category": "health",
-   "headline": "MPs propose wider use of weight‑loss injections on the NHS",
-   "question": "Are weight‑loss injections a viable public health solution for obesity on the NHS?",
+   "category": "business",
+   "headline": "Barclays announces plan to cut 5,000 jobs while expanding AI use",
+   "question": "Will Barclays' AI-driven restructuring improve long-term competitiveness?",
    "source": "BBC News"
   },
   {
    "id": "t8",
-   "category": "business",
-   "headline": "Barclays announces 5,000 job cuts while expanding AI integration",
-   "question": "Will AI‑driven job cuts improve efficiency or exacerbate unemployment concerns?",
-   "source": "BBC News"
+   "category": "trending",
+   "headline": "Current NFC North standings and playoff implications",
+   "question": "Is the NFC North likely to see a shift in dominance this season?",
+   "source": "Google Trends"
   },
   {
    "id": "t9",
-   "category": "trending",
-   "headline": "Debate over a major overhaul of the social security database data",
-   "question": "What are the privacy implications of overhauling the social security database?",
-   "source": "Google Trends"
+   "category": "tech",
+   "headline": "PHP's rise linked to global cybersecurity concerns, experts explain",
+   "question": "Does PHP's popularity outweigh the security risks it may introduce?",
+   "source": "BBC News"
   }
  ]
 }
