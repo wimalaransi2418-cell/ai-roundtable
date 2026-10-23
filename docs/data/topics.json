@@ -1,75 +1,75 @@
 {
- "updated_at": "2026-10-23T19:04:24+00:00",
+ "updated_at": "2026-10-23T22:03:01+00:00",
  "items": [
   {
    "id": "t0",
    "category": "weather",
-   "headline": "Storm Austen hits UK as yellow wind warnings in effect",
-   "question": "Should the UK government invest more in infrastructure to mitigate future storm damage?",
-   "source": "BBC News"
+   "headline": "Halloween forecast 2026: Who gets rain, storms and chilly trick-or-treating weather",
+   "question": "How should households prepare for potentially rainy and cold Halloween weather this year?",
+   "source": "Google News"
   },
   {
    "id": "t1",
    "category": "sports",
-   "headline": "Arsenal worry about Bukayo Saka's potential two‑month injury layoff",
-   "question": "How should Arsenal adjust their tactics if Saka misses the next two months?",
+   "headline": "England balancing points chase and discipline at World Cup",
+   "question": "Should England prioritize aggressive play over discipline to secure World Cup points?",
    "source": "BBC Sport"
   },
   {
    "id": "t2",
    "category": "sports",
-   "headline": "Samoa dominate Wales in a decisive rugby victory",
-   "question": "What does this result indicate about the current state of Welsh rugby?",
+   "headline": "Wade equals Prem try-scoring record as Newcastle beat Sale",
+   "question": "Does Wade's record-breaking performance signal a shift in Newcastle's offensive strategy?",
    "source": "BBC Sport"
   },
   {
    "id": "t3",
    "category": "world",
-   "headline": "Oil spill contaminates UAE beaches following tanker incident",
-   "question": "What measures should be taken to prevent future marine oil spills in the region?",
+   "headline": "Oil spill washes up on UAE beaches after tanker strike",
+   "question": "What responsibilities should the shipping company and UAE government share in cleaning the oil spill?",
    "source": "BBC News"
   },
   {
    "id": "t4",
    "category": "tech",
-   "headline": "Companies rush to patch systems after major cyber‑security flaw discovered",
-   "question": "Are current industry standards sufficient to handle emerging cyber‑security vulnerabilities?",
+   "headline": "What is PHP and why did it spark a global cyber-security scramble?",
+   "question": "Is the focus on PHP's security flaws a sign that legacy languages need to be phased out?",
    "source": "BBC News"
   },
   {
    "id": "t5",
-   "category": "science",
-   "headline": "Full Hunter's Moon visible across the UK this weekend",
-   "question": "How does increased lunar illumination affect nocturnal wildlife behavior?",
+   "category": "tech",
+   "headline": "'500 new vulnerabilities' found in government, says AI minister",
+   "question": "Do the newly discovered government vulnerabilities indicate a systemic failure in cybersecurity oversight?",
    "source": "BBC News"
   },
   {
    "id": "t6",
-   "category": "health",
-   "headline": "Personalised cancer vaccine reduces recurrence risk in trial",
-   "question": "Could personalised vaccines become standard treatment for multiple cancer types?",
+   "category": "science",
+   "headline": "Storm Austen brings power cuts and travel disruption as more wind and rain forecast",
+   "question": "Should authorities invest more in infrastructure resilience to mitigate storms like Austen?",
    "source": "BBC News"
   },
   {
    "id": "t7",
-   "category": "business",
-   "headline": "First‑time buyer loan scheme caps earnings at £140,000",
-   "question": "Will the earnings cap effectively target assistance to those who need it most?",
+   "category": "health",
+   "headline": "First personalised cancer vaccine cuts risk of disease returning in major trial",
+   "question": "Will personalized cancer vaccines become the standard of care for preventing relapse?",
    "source": "BBC News"
   },
   {
    "id": "t8",
-   "category": "trending",
-   "headline": "Disneyland reopens the Indiana Jones Adventure ride",
-   "question": "Will the reopened ride attract new visitors to Disneyland post‑pandemic?",
-   "source": "Google Trends"
+   "category": "business",
+   "headline": "Lights will stay on this winter, grid operator says after concerns",
+   "question": "Is the grid's ability to stay on this winter a sign of effective energy policy or temporary luck?",
+   "source": "BBC News"
   },
   {
    "id": "t9",
-   "category": "tech",
-   "headline": "Understanding PHP and its role in recent global cyber‑security concerns",
-   "question": "Should PHP be phased out in favor of more secure programming languages?",
-   "source": "BBC News"
+   "category": "trending",
+   "headline": "Gold and silver price decline",
+   "question": "Is the recent decline in gold and silver prices a short-term correction or a longer-term trend?",
+   "source": "Google Trends"
   }
  ]
 }
