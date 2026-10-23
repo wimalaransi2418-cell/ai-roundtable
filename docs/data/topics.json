@@ -1,74 +1,74 @@
 {
- "updated_at": "2026-10-23T09:55:40+00:00",
+ "updated_at": "2026-10-23T14:54:20+00:00",
  "items": [
   {
    "id": "t0",
-   "category": "weather",
-   "headline": "Storm Boelo triggers weather warnings across affected regions",
-   "question": "Should authorities prioritize evacuations over maintaining critical infrastructure during storms?",
+   "category": "world",
+   "headline": "Denmark reverses decision, reinstates ban on mink farming",
+   "question": "Should governments prioritize animal welfare over agricultural economic interests?",
    "source": "BBC News"
   },
   {
    "id": "t1",
    "category": "sports",
-   "headline": "Bears' kicker Santos redeems missed field goal with game-winner",
-   "question": "Is a single successful kick enough to judge a player's overall performance?",
-   "source": "Google News"
+   "headline": "Manchester United manager Carrick may drop Fernandes from squad",
+   "question": "Is it better for a team to prioritize talent or team harmony when selecting players?",
+   "source": "BBC Sport"
   },
   {
    "id": "t2",
    "category": "sports",
-   "headline": "Sixers rally from 29 points down to beat Cavaliers in comeback win",
-   "question": "Do dramatic comebacks reflect better coaching strategies or just luck?",
-   "source": "Google News"
+   "headline": "Arsenal worry star winger Saka could miss two months with injury",
+   "question": "Should clubs invest heavily in medical staff to reduce injury downtime?",
+   "source": "BBC Sport"
   },
   {
    "id": "t3",
-   "category": "world",
-   "headline": "Ebola patients from Nigeria and Kenya may have intersected at Ugandan airport",
-   "question": "Should international travel protocols be tightened to prevent cross-border disease spread?",
+   "category": "tech",
+   "headline": "What is PHP and why did it trigger a global cyber‑security scramble?",
+   "question": "Is PHP's widespread use justified despite its security challenges?",
    "source": "BBC News"
   },
   {
    "id": "t4",
-   "category": "world",
-   "headline": "Newborn twins battling for survival amid Yemen's worsening hunger crisis",
-   "question": "How can the international community best improve child survival in conflict zones?",
+   "category": "tech",
+   "headline": "Companies race to patch systems after major cyber‑security flaw discovered",
+   "question": "Are reactive security patches enough, or should firms adopt proactive cybersecurity strategies?",
    "source": "BBC News"
   },
   {
    "id": "t5",
    "category": "tech",
-   "headline": "Indian workers film daily tasks to create data for training AI systems",
-   "question": "Is using workers' filmed tasks for AI training ethically acceptable?",
+   "headline": "AI minister reports 500 new government vulnerabilities uncovered",
+   "question": "How should governments balance transparency about cyber threats with national security?",
    "source": "BBC News"
   },
   {
    "id": "t6",
-   "category": "tech",
-   "headline": "Companies rush to patch computer systems after major cybersecurity flaw discovered",
-   "question": "Should companies be mandated to disclose security flaws immediately?",
+   "category": "weather",
+   "headline": "Scotland faces 80 mph gusts as Storm Boelo upgraded to amber alert",
+   "question": "Are current storm warning systems sufficient to protect communities?",
    "source": "BBC News"
   },
   {
    "id": "t7",
-   "category": "science",
-   "headline": "Grid operator assures electricity supply will remain stable through winter",
-   "question": "Is investing in renewable energy essential to ensure winter power stability?",
+   "category": "health",
+   "headline": "Personalised cancer vaccine halves risk of disease return in trial",
+   "question": "Will personalised vaccines become the standard for cancer treatment?",
    "source": "BBC News"
   },
   {
    "id": "t8",
-   "category": "health",
-   "headline": "Personalized cancer vaccine shows promise in reducing disease recurrence",
-   "question": "Will personalized vaccines become standard care for cancer treatment?",
+   "category": "business",
+   "headline": "First‑time buyer loan scheme caps earnings at £140,000",
+   "question": "Do income caps on loan schemes help or hinder housing market accessibility?",
    "source": "BBC News"
   },
   {
    "id": "t9",
-   "category": "business",
-   "headline": "Barclays announces 5,000 job cuts as AI integration expands",
-   "question": "Can AI-driven efficiency justify large-scale job reductions?",
+   "category": "trending",
+   "headline": "96‑year‑old TikTok star amasses 15 million followers, sparking senior creator trend",
+   "question": "Does the rise of elderly influencers reflect changing social media dynamics?",
    "source": "BBC News"
   }
  ]
