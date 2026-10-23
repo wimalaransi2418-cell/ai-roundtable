@@ -1,6 +1,11 @@
 {
  "sessions": [
   {
+   "id": "20261023-1855",
+   "started_at": "2026-10-23T18:55:57+00:00",
+   "question_en": "Should the PHP programming language be phased out in favor of more secure alternatives for new web development projects?"
+  },
+  {
    "id": "20261023-0820",
    "started_at": "2026-10-23T08:20:29+00:00",
    "question_en": "Should AI service providers adjust pricing or usage limits based on the regional carbon intensity of the data centers handling requests?"
