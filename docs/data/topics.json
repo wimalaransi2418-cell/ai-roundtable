@@ -1,74 +1,74 @@
 {
- "updated_at": "2026-10-23T14:54:20+00:00",
+ "updated_at": "2026-10-23T19:04:24+00:00",
  "items": [
   {
    "id": "t0",
-   "category": "world",
-   "headline": "Denmark reverses decision, reinstates ban on mink farming",
-   "question": "Should governments prioritize animal welfare over agricultural economic interests?",
+   "category": "weather",
+   "headline": "Storm Austen hits UK as yellow wind warnings in effect",
+   "question": "Should the UK government invest more in infrastructure to mitigate future storm damage?",
    "source": "BBC News"
   },
   {
    "id": "t1",
    "category": "sports",
-   "headline": "Manchester United manager Carrick may drop Fernandes from squad",
-   "question": "Is it better for a team to prioritize talent or team harmony when selecting players?",
+   "headline": "Arsenal worry about Bukayo Saka's potential two‑month injury layoff",
+   "question": "How should Arsenal adjust their tactics if Saka misses the next two months?",
    "source": "BBC Sport"
   },
   {
    "id": "t2",
    "category": "sports",
-   "headline": "Arsenal worry star winger Saka could miss two months with injury",
-   "question": "Should clubs invest heavily in medical staff to reduce injury downtime?",
+   "headline": "Samoa dominate Wales in a decisive rugby victory",
+   "question": "What does this result indicate about the current state of Welsh rugby?",
    "source": "BBC Sport"
   },
   {
    "id": "t3",
-   "category": "tech",
-   "headline": "What is PHP and why did it trigger a global cyber‑security scramble?",
-   "question": "Is PHP's widespread use justified despite its security challenges?",
+   "category": "world",
+   "headline": "Oil spill contaminates UAE beaches following tanker incident",
+   "question": "What measures should be taken to prevent future marine oil spills in the region?",
    "source": "BBC News"
   },
   {
    "id": "t4",
    "category": "tech",
-   "headline": "Companies race to patch systems after major cyber‑security flaw discovered",
-   "question": "Are reactive security patches enough, or should firms adopt proactive cybersecurity strategies?",
+   "headline": "Companies rush to patch systems after major cyber‑security flaw discovered",
+   "question": "Are current industry standards sufficient to handle emerging cyber‑security vulnerabilities?",
    "source": "BBC News"
   },
   {
    "id": "t5",
-   "category": "tech",
-   "headline": "AI minister reports 500 new government vulnerabilities uncovered",
-   "question": "How should governments balance transparency about cyber threats with national security?",
+   "category": "science",
+   "headline": "Full Hunter's Moon visible across the UK this weekend",
+   "question": "How does increased lunar illumination affect nocturnal wildlife behavior?",
    "source": "BBC News"
   },
   {
    "id": "t6",
-   "category": "weather",
-   "headline": "Scotland faces 80 mph gusts as Storm Boelo upgraded to amber alert",
-   "question": "Are current storm warning systems sufficient to protect communities?",
+   "category": "health",
+   "headline": "Personalised cancer vaccine reduces recurrence risk in trial",
+   "question": "Could personalised vaccines become standard treatment for multiple cancer types?",
    "source": "BBC News"
   },
   {
    "id": "t7",
-   "category": "health",
-   "headline": "Personalised cancer vaccine halves risk of disease return in trial",
-   "question": "Will personalised vaccines become the standard for cancer treatment?",
+   "category": "business",
+   "headline": "First‑time buyer loan scheme caps earnings at £140,000",
+   "question": "Will the earnings cap effectively target assistance to those who need it most?",
    "source": "BBC News"
   },
   {
    "id": "t8",
-   "category": "business",
-   "headline": "First‑time buyer loan scheme caps earnings at £140,000",
-   "question": "Do income caps on loan schemes help or hinder housing market accessibility?",
-   "source": "BBC News"
+   "category": "trending",
+   "headline": "Disneyland reopens the Indiana Jones Adventure ride",
+   "question": "Will the reopened ride attract new visitors to Disneyland post‑pandemic?",
+   "source": "Google Trends"
   },
   {
    "id": "t9",
-   "category": "trending",
-   "headline": "96‑year‑old TikTok star amasses 15 million followers, sparking senior creator trend",
-   "question": "Does the rise of elderly influencers reflect changing social media dynamics?",
+   "category": "tech",
+   "headline": "Understanding PHP and its role in recent global cyber‑security concerns",
+   "question": "Should PHP be phased out in favor of more secure programming languages?",
    "source": "BBC News"
   }
  ]
