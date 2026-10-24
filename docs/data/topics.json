@@ -1,74 +1,74 @@
 {
- "updated_at": "2026-10-24T20:40:12+00:00",
+ "updated_at": "2026-10-24T23:05:11+00:00",
  "items": [
   {
    "id": "t0",
    "category": "world",
-   "headline": "Ukraine reports Starlink internet connection now stable after limits lifted",
-   "question": "How might stable Starlink access affect Ukraine's communication resilience in the ongoing conflict?",
+   "headline": "Ukraine reports stable Starlink internet connection after recent limits",
+   "question": "How might reliable satellite internet affect Ukraine's resilience and future infrastructure plans?",
    "source": "BBC News"
   },
   {
    "id": "t1",
-   "category": "sports",
-   "headline": "Arsenal defeat Everton to equal Man City's points tally",
-   "question": "Can Arsenal sustain this momentum to challenge for the Premier League title?",
-   "source": "BBC Sport"
+   "category": "tech",
+   "headline": "UK commits £100 million to launch world‑first AI biosecurity laboratory",
+   "question": "What are the potential benefits and risks of using AI in biosecurity research?",
+   "source": "BBC News"
   },
   {
    "id": "t2",
-   "category": "sports",
-   "headline": "Aston Villa's Jackson scores twice, ending Man City's perfect start",
-   "question": "Will Aston Villa's recent win signal a shift in the early season power balance?",
-   "source": "BBC Sport"
+   "category": "science",
+   "headline": "Five‑year rescue effort moves animals from Russian cages to Irish sanctuary",
+   "question": "Should international cooperation be expanded to protect wildlife displaced by conflict?",
+   "source": "BBC News"
   },
   {
    "id": "t3",
-   "category": "weather",
-   "headline": "Thousands left without power as South West faces stormy weather",
-   "question": "What measures should authorities prioritize to improve grid resilience during severe storms?",
-   "source": "Google News"
+   "category": "health",
+   "headline": "Personalised cancer vaccine reduces recurrence risk in major clinical trial",
+   "question": "Will personalised vaccines become standard care for cancer patients?",
+   "source": "BBC News"
   },
   {
    "id": "t4",
-   "category": "tech",
-   "headline": "UK to invest £100m in world‑first AI biosecurity laboratory",
-   "question": "Will the new AI biosecurity lab effectively mitigate emerging biological threats?",
+   "category": "business",
+   "headline": "UK government allocates £100 million to AI biosecurity lab project",
+   "question": "How should public funding be balanced between AI innovation and biosecurity safeguards?",
    "source": "BBC News"
   },
   {
    "id": "t5",
-   "category": "tech",
-   "headline": "Government races to patch computer systems after major cyber‑security flaw",
-   "question": "Are current cyber‑security policies sufficient to prevent large‑scale system vulnerabilities?",
-   "source": "BBC News"
+   "category": "trending",
+   "headline": "Google Trends shows surge in searches for 'mosquito bowl'",
+   "question": "What factors could be driving the recent popularity of mosquito bowl products?",
+   "source": "Google Trends"
   },
   {
    "id": "t6",
-   "category": "health",
-   "headline": "Personalised cancer vaccine reduces risk of disease return in major trial",
-   "question": "Could personalised vaccines become standard care for cancer prevention?",
+   "category": "weather",
+   "headline": "Amber warning issued as Storm Boelo brings heavy rain to Scotland",
+   "question": "Are current warning systems sufficient to protect communities from storms like Boelo?",
    "source": "BBC News"
   },
   {
    "id": "t7",
-   "category": "business",
-   "headline": "First‑time buyer loan scheme raises earnings limit to £140,000",
-   "question": "Will raising the earnings cap improve housing affordability for new buyers?",
-   "source": "BBC News"
+   "category": "sports",
+   "headline": "Spurs' candid meeting sparks optimism about team's future direction",
+   "question": "Can internal candid discussions translate into improved performance for Spurs?",
+   "source": "BBC Sport"
   },
   {
    "id": "t8",
-   "category": "trending",
-   "headline": "Brazilian football league (Brasileirão) trends worldwide",
-   "question": "How does the global interest in Brasileirão impact the league's commercial growth?",
-   "source": "Google Trends"
+   "category": "sports",
+   "headline": "Arsenal defeat Everton, tying on points with league leaders Manchester City",
+   "question": "Will Arsenal's recent win signal a sustained challenge to Manchester City's dominance?",
+   "source": "BBC Sport"
   },
   {
    "id": "t9",
-   "category": "science",
-   "headline": "Trains cancelled and road warnings issued as Storm Boelo hits Scotland",
-   "question": "Should transport infrastructure be redesigned to better withstand storms like Boelo?",
+   "category": "tech",
+   "headline": "Meta secures deal to cover potential California billionaire tax for Zuckerberg",
+   "question": "Should tech CEOs be responsible for state taxes through corporate arrangements?",
    "source": "BBC News"
   }
  ]
