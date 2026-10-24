@@ -1,6 +1,11 @@
 {
  "sessions": [
   {
+   "id": "20261024-1756",
+   "started_at": "2026-10-24T17:56:39+00:00",
+   "question_en": "Should AI language models like ChatGPT be granted legal personhood so they can be held liable for harmful or misleading content they produce?"
+  },
+  {
    "id": "20261024-0757",
    "started_at": "2026-10-24T07:57:40+00:00",
    "question_en": "Should AI language models like ChatGPT be integrated into primary and secondary school curricula?"
