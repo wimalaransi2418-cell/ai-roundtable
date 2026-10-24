@@ -1,75 +1,75 @@
 {
- "updated_at": "2026-10-24T18:02:27+00:00",
+ "updated_at": "2026-10-24T20:40:12+00:00",
  "items": [
   {
    "id": "t0",
    "category": "world",
-   "headline": "Ukraine reports Starlink internet connection now stable after previous limits",
-   "question": "Will stable Starlink access improve Ukraine's resilience against future cyber disruptions?",
+   "headline": "Ukraine reports Starlink internet connection now stable after limits lifted",
+   "question": "How might stable Starlink access affect Ukraine's communication resilience in the ongoing conflict?",
    "source": "BBC News"
   },
   {
    "id": "t1",
-   "category": "tech",
-   "headline": "UK commits £100 million to establish world‑first AI biosecurity laboratory",
-   "question": "Can significant AI biosecurity investment effectively prevent future biological threats?",
-   "source": "BBC News"
+   "category": "sports",
+   "headline": "Arsenal defeat Everton to equal Man City's points tally",
+   "question": "Can Arsenal sustain this momentum to challenge for the Premier League title?",
+   "source": "BBC Sport"
   },
   {
    "id": "t2",
-   "category": "tech",
-   "headline": "Government agencies race to patch computer systems after major cyber‑security flaw discovered",
-   "question": "Are current cyber‑security response strategies sufficient to protect critical infrastructure?",
-   "source": "BBC News"
+   "category": "sports",
+   "headline": "Aston Villa's Jackson scores twice, ending Man City's perfect start",
+   "question": "Will Aston Villa's recent win signal a shift in the early season power balance?",
+   "source": "BBC Sport"
   },
   {
    "id": "t3",
-   "category": "science",
-   "headline": "Wales initiates consultation to ban steel pylons in a move toward greener power lines",
-   "question": "Will banning steel pylons significantly accelerate Wales' transition to renewable energy?",
-   "source": "BBC News"
+   "category": "weather",
+   "headline": "Thousands left without power as South West faces stormy weather",
+   "question": "What measures should authorities prioritize to improve grid resilience during severe storms?",
+   "source": "Google News"
   },
   {
    "id": "t4",
-   "category": "health",
-   "headline": "Personalised cancer vaccine shows promise in reducing disease recurrence in major trial",
-   "question": "Could personalised cancer vaccines become the new standard for preventing relapse?",
+   "category": "tech",
+   "headline": "UK to invest £100m in world‑first AI biosecurity laboratory",
+   "question": "Will the new AI biosecurity lab effectively mitigate emerging biological threats?",
    "source": "BBC News"
   },
   {
    "id": "t5",
-   "category": "business",
-   "headline": "Comparison of the UK state pension with pension schemes in other countries",
-   "question": "Is the UK state pension competitive enough to ensure retirees' financial security?",
+   "category": "tech",
+   "headline": "Government races to patch computer systems after major cyber‑security flaw",
+   "question": "Are current cyber‑security policies sufficient to prevent large‑scale system vulnerabilities?",
    "source": "BBC News"
   },
   {
    "id": "t6",
-   "category": "weather",
-   "headline": "Met Office warns Storm Boelo may disrupt Liverpool vs Brighton football match",
-   "question": "Should major sporting events be postponed when severe weather poses safety risks?",
-   "source": "Google News"
+   "category": "health",
+   "headline": "Personalised cancer vaccine reduces risk of disease return in major trial",
+   "question": "Could personalised vaccines become standard care for cancer prevention?",
+   "source": "BBC News"
   },
   {
    "id": "t7",
-   "category": "sports",
-   "headline": "Jacob Misiorowski sets World Series record with fastest pitch on his debut",
-   "question": "Will Misiorowski's record‑breaking velocity signal a new era for pitching talent?",
-   "source": "Google News"
+   "category": "business",
+   "headline": "First‑time buyer loan scheme raises earnings limit to £140,000",
+   "question": "Will raising the earnings cap improve housing affordability for new buyers?",
+   "source": "BBC News"
   },
   {
    "id": "t8",
-   "category": "sports",
-   "headline": "William Contreras shines as Brewers claim first World Series title in 44 years",
-   "question": "Does Contreras' performance indicate a lasting shift in the Brewers' competitive edge?",
-   "source": "Google News"
+   "category": "trending",
+   "headline": "Brazilian football league (Brasileirão) trends worldwide",
+   "question": "How does the global interest in Brasileirão impact the league's commercial growth?",
+   "source": "Google Trends"
   },
   {
    "id": "t9",
-   "category": "trending",
-   "headline": "Fans inquire whether LeBron James will play in tonight's NBA game",
-   "question": "How does LeBron's potential participation impact viewership and team dynamics?",
-   "source": "Google Trends"
+   "category": "science",
+   "headline": "Trains cancelled and road warnings issued as Storm Boelo hits Scotland",
+   "question": "Should transport infrastructure be redesigned to better withstand storms like Boelo?",
+   "source": "BBC News"
   }
  ]
 }
