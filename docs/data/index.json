@@ -1,6 +1,11 @@
 {
  "sessions": [
   {
+   "id": "20261024-0757",
+   "started_at": "2026-10-24T07:57:40+00:00",
+   "question_en": "Should AI language models like ChatGPT be integrated into primary and secondary school curricula?"
+  },
+  {
    "id": "20261023-1855",
    "started_at": "2026-10-23T18:55:57+00:00",
    "question_en": "Should the PHP programming language be phased out in favor of more secure alternatives for new web development projects?"
