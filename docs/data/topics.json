@@ -1,75 +1,75 @@
 {
- "updated_at": "2026-10-24T05:39:48+00:00",
+ "updated_at": "2026-10-24T10:46:56+00:00",
  "items": [
   {
    "id": "t0",
-   "category": "world",
-   "headline": "France prepares for day of protest following nationwide riots",
-   "question": "How might widespread protests influence France's upcoming policy decisions?",
-   "source": "BBC News"
+   "category": "weather",
+   "headline": "Weather alert issued for Southern California Friday evening, says NWS",
+   "question": "How should residents balance staying informed with avoiding panic during sudden weather alerts?",
+   "source": "Google News"
   },
   {
    "id": "t1",
    "category": "sports",
-   "headline": "Leclerc fastest in US GP practice, ahead of Antonelli",
-   "question": "What factors could give Leclerc an edge in the upcoming United States Grand Prix?",
+   "headline": "England thrash France to keep World Cup hopes alive",
+   "question": "Does a dominant win like this indicate England's true chances of advancing far in the tournament?",
    "source": "BBC Sport"
   },
   {
    "id": "t2",
    "category": "sports",
-   "headline": "Arsenal worry Saka may miss two months with injury",
-   "question": "How could Saka's potential absence affect Arsenal's season objectives?",
-   "source": "BBC Sport"
+   "headline": "Brewers take early lead over Rays in World Series Game 1",
+   "question": "Can the Brewers maintain momentum after a strong opening performance in the Series?",
+   "source": "Google News"
   },
   {
    "id": "t3",
    "category": "tech",
-   "headline": "UK to invest £100 million in world‑first AI biosecurity laboratory",
-   "question": "What are the potential benefits and risks of a dedicated AI biosecurity lab?",
+   "headline": "UK to invest £100m in world‑first AI biosecurity laboratory",
+   "question": "Will large AI biosecurity investments effectively prevent future biological threats?",
    "source": "BBC News"
   },
   {
    "id": "t4",
-   "category": "tech",
-   "headline": "AI minister reports 500 new government cybersecurity vulnerabilities",
-   "question": "How should governments prioritize fixing large numbers of newly discovered vulnerabilities?",
+   "category": "science",
+   "headline": "Wales proposes ban on steel pylons in new energy consultation",
+   "question": "Are steel pylons an acceptable trade‑off for renewable energy expansion in Wales?",
    "source": "BBC News"
   },
   {
    "id": "t5",
-   "category": "science",
-   "headline": "Second storm hits UK, bringing wind, rain and power outages",
-   "question": "What measures can communities take to mitigate impacts of successive storms?",
+   "category": "health",
+   "headline": "Personalised cancer vaccine cuts disease‑return risk in major trial",
+   "question": "Could personalised vaccines become standard care for cancer prevention?",
    "source": "BBC News"
   },
   {
    "id": "t6",
-   "category": "health",
-   "headline": "Personalised cancer vaccine reduces risk of disease return in trial",
-   "question": "Could personalised vaccines become standard care for cancer patients?",
+   "category": "business",
+   "headline": "Grid operator says lights will stay on this winter despite concerns",
+   "question": "What measures are most effective to ensure winter power reliability?",
    "source": "BBC News"
   },
   {
    "id": "t7",
-   "category": "business",
-   "headline": "First‑time buyer loan scheme caps earnings at £140 k",
-   "question": "Will the earnings cap effectively target assistance to those who need it most?",
-   "source": "BBC News"
+   "category": "trending",
+   "headline": "Stefanos Tsitsipas trending worldwide after recent performance",
+   "question": "How does Tsitsipas' recent form impact his standing among the tennis elite?",
+   "source": "Google Trends"
   },
   {
    "id": "t8",
-   "category": "weather",
-   "headline": "NWS issues weather alert for Southern California Friday evening",
-   "question": "How should residents respond to sudden weather alerts in Southern California?",
-   "source": "Google News"
+   "category": "world",
+   "headline": "White House lifts tariffs on select Canadian goods ahead of midterms",
+   "question": "Will lifting these tariffs boost US‑Canada trade without affecting domestic industries?",
+   "source": "BBC News"
   },
   {
    "id": "t9",
-   "category": "trending",
-   "headline": "Trending: Stephen Curry",
-   "question": "What factors contribute to Stephen Curry's sustained popularity on social media?",
-   "source": "Google Trends"
+   "category": "tech",
+   "headline": "AI minister reports 500 new government vulnerabilities discovered",
+   "question": "What steps should governments prioritize to address the surge in cyber vulnerabilities?",
+   "source": "BBC News"
   }
  ]
 }
