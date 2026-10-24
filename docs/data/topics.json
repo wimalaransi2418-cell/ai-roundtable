@@ -1,75 +1,75 @@
 {
- "updated_at": "2026-10-24T10:46:56+00:00",
+ "updated_at": "2026-10-24T14:25:27+00:00",
  "items": [
   {
    "id": "t0",
-   "category": "weather",
-   "headline": "Weather alert issued for Southern California Friday evening, says NWS",
-   "question": "How should residents balance staying informed with avoiding panic during sudden weather alerts?",
-   "source": "Google News"
+   "category": "world",
+   "headline": "Ukraine reports Starlink connection now stable after network limits",
+   "question": "Should governments rely on private satellite networks for critical communications during conflicts?",
+   "source": "BBC News"
   },
   {
    "id": "t1",
    "category": "sports",
-   "headline": "England thrash France to keep World Cup hopes alive",
-   "question": "Does a dominant win like this indicate England's true chances of advancing far in the tournament?",
+   "headline": "England avoid World Cup exit with 68‑point swing and Tonga win",
+   "question": "Does England's recent performance indicate a need for deeper changes in team strategy?",
    "source": "BBC Sport"
   },
   {
    "id": "t2",
    "category": "sports",
-   "headline": "Brewers take early lead over Rays in World Series Game 1",
-   "question": "Can the Brewers maintain momentum after a strong opening performance in the Series?",
-   "source": "Google News"
+   "headline": "Jackson scores two goals as player ratings released for Villa vs Man City",
+   "question": "How much should individual player ratings influence fan perceptions of team performance?",
+   "source": "BBC Sport"
   },
   {
    "id": "t3",
    "category": "tech",
-   "headline": "UK to invest £100m in world‑first AI biosecurity laboratory",
-   "question": "Will large AI biosecurity investments effectively prevent future biological threats?",
+   "headline": "UK to invest £100 million in world‑first AI biosecurity laboratory",
+   "question": "Will large public investments in AI biosecurity accelerate safe innovation or create new risks?",
    "source": "BBC News"
   },
   {
    "id": "t4",
-   "category": "science",
-   "headline": "Wales proposes ban on steel pylons in new energy consultation",
-   "question": "Are steel pylons an acceptable trade‑off for renewable energy expansion in Wales?",
+   "category": "weather",
+   "headline": "Storm Boelo expected to bring severe gales and heavy rain",
+   "question": "Are current emergency preparedness measures sufficient for storms like Boelo in the UK?",
    "source": "BBC News"
   },
   {
    "id": "t5",
-   "category": "health",
-   "headline": "Personalised cancer vaccine cuts disease‑return risk in major trial",
-   "question": "Could personalised vaccines become standard care for cancer prevention?",
+   "category": "science",
+   "headline": "Oil spill washes up on UAE beaches after tanker collision",
+   "question": "What long‑term environmental impacts could the UAE oil spill have on marine ecosystems?",
    "source": "BBC News"
   },
   {
    "id": "t6",
-   "category": "business",
-   "headline": "Grid operator says lights will stay on this winter despite concerns",
-   "question": "What measures are most effective to ensure winter power reliability?",
+   "category": "health",
+   "headline": "First personalised cancer vaccine reduces risk of disease returning in trial",
+   "question": "Can personalized cancer vaccines become a standard part of oncology treatment?",
    "source": "BBC News"
   },
   {
    "id": "t7",
-   "category": "trending",
-   "headline": "Stefanos Tsitsipas trending worldwide after recent performance",
-   "question": "How does Tsitsipas' recent form impact his standing among the tennis elite?",
-   "source": "Google Trends"
+   "category": "business",
+   "headline": "Earnings limit of up to £140k introduced for first‑time buyer loan scheme",
+   "question": "Will the new earnings cap improve housing affordability for first‑time buyers?",
+   "source": "BBC News"
   },
   {
    "id": "t8",
-   "category": "world",
-   "headline": "White House lifts tariffs on select Canadian goods ahead of midterms",
-   "question": "Will lifting these tariffs boost US‑Canada trade without affecting domestic industries?",
+   "category": "trending",
+   "headline": "96‑year‑old TikTok star amasses 15 million followers, leading granny trend",
+   "question": "What does the rise of elderly influencers say about changing social media demographics?",
    "source": "BBC News"
   },
   {
    "id": "t9",
-   "category": "tech",
-   "headline": "AI minister reports 500 new government vulnerabilities discovered",
-   "question": "What steps should governments prioritize to address the surge in cyber vulnerabilities?",
-   "source": "BBC News"
+   "category": "trending",
+   "headline": "Space Exploration Technologies Corp. dominates latest trending searches",
+   "question": "Is public enthusiasm for SpaceX influencing policy and investment in space travel?",
+   "source": "Google Trends"
   }
  ]
 }
