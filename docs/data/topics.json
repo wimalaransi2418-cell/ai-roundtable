@@ -1,74 +1,74 @@
 {
- "updated_at": "2026-10-24T14:25:27+00:00",
+ "updated_at": "2026-10-24T18:02:27+00:00",
  "items": [
   {
    "id": "t0",
    "category": "world",
-   "headline": "Ukraine reports Starlink connection now stable after network limits",
-   "question": "Should governments rely on private satellite networks for critical communications during conflicts?",
+   "headline": "Ukraine reports Starlink internet connection now stable after previous limits",
+   "question": "Will stable Starlink access improve Ukraine's resilience against future cyber disruptions?",
    "source": "BBC News"
   },
   {
    "id": "t1",
-   "category": "sports",
-   "headline": "England avoid World Cup exit with 68‑point swing and Tonga win",
-   "question": "Does England's recent performance indicate a need for deeper changes in team strategy?",
-   "source": "BBC Sport"
+   "category": "tech",
+   "headline": "UK commits £100 million to establish world‑first AI biosecurity laboratory",
+   "question": "Can significant AI biosecurity investment effectively prevent future biological threats?",
+   "source": "BBC News"
   },
   {
    "id": "t2",
-   "category": "sports",
-   "headline": "Jackson scores two goals as player ratings released for Villa vs Man City",
-   "question": "How much should individual player ratings influence fan perceptions of team performance?",
-   "source": "BBC Sport"
+   "category": "tech",
+   "headline": "Government agencies race to patch computer systems after major cyber‑security flaw discovered",
+   "question": "Are current cyber‑security response strategies sufficient to protect critical infrastructure?",
+   "source": "BBC News"
   },
   {
    "id": "t3",
-   "category": "tech",
-   "headline": "UK to invest £100 million in world‑first AI biosecurity laboratory",
-   "question": "Will large public investments in AI biosecurity accelerate safe innovation or create new risks?",
+   "category": "science",
+   "headline": "Wales initiates consultation to ban steel pylons in a move toward greener power lines",
+   "question": "Will banning steel pylons significantly accelerate Wales' transition to renewable energy?",
    "source": "BBC News"
   },
   {
    "id": "t4",
-   "category": "weather",
-   "headline": "Storm Boelo expected to bring severe gales and heavy rain",
-   "question": "Are current emergency preparedness measures sufficient for storms like Boelo in the UK?",
+   "category": "health",
+   "headline": "Personalised cancer vaccine shows promise in reducing disease recurrence in major trial",
+   "question": "Could personalised cancer vaccines become the new standard for preventing relapse?",
    "source": "BBC News"
   },
   {
    "id": "t5",
-   "category": "science",
-   "headline": "Oil spill washes up on UAE beaches after tanker collision",
-   "question": "What long‑term environmental impacts could the UAE oil spill have on marine ecosystems?",
+   "category": "business",
+   "headline": "Comparison of the UK state pension with pension schemes in other countries",
+   "question": "Is the UK state pension competitive enough to ensure retirees' financial security?",
    "source": "BBC News"
   },
   {
    "id": "t6",
-   "category": "health",
-   "headline": "First personalised cancer vaccine reduces risk of disease returning in trial",
-   "question": "Can personalized cancer vaccines become a standard part of oncology treatment?",
-   "source": "BBC News"
+   "category": "weather",
+   "headline": "Met Office warns Storm Boelo may disrupt Liverpool vs Brighton football match",
+   "question": "Should major sporting events be postponed when severe weather poses safety risks?",
+   "source": "Google News"
   },
   {
    "id": "t7",
-   "category": "business",
-   "headline": "Earnings limit of up to £140k introduced for first‑time buyer loan scheme",
-   "question": "Will the new earnings cap improve housing affordability for first‑time buyers?",
-   "source": "BBC News"
+   "category": "sports",
+   "headline": "Jacob Misiorowski sets World Series record with fastest pitch on his debut",
+   "question": "Will Misiorowski's record‑breaking velocity signal a new era for pitching talent?",
+   "source": "Google News"
   },
   {
    "id": "t8",
-   "category": "trending",
-   "headline": "96‑year‑old TikTok star amasses 15 million followers, leading granny trend",
-   "question": "What does the rise of elderly influencers say about changing social media demographics?",
-   "source": "BBC News"
+   "category": "sports",
+   "headline": "William Contreras shines as Brewers claim first World Series title in 44 years",
+   "question": "Does Contreras' performance indicate a lasting shift in the Brewers' competitive edge?",
+   "source": "Google News"
   },
   {
    "id": "t9",
    "category": "trending",
-   "headline": "Space Exploration Technologies Corp. dominates latest trending searches",
-   "question": "Is public enthusiasm for SpaceX influencing policy and investment in space travel?",
+   "headline": "Fans inquire whether LeBron James will play in tonight's NBA game",
+   "question": "How does LeBron's potential participation impact viewership and team dynamics?",
    "source": "Google Trends"
   }
  ]
