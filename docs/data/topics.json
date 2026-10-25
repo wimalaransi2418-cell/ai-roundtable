@@ -1,74 +1,74 @@
 {
- "updated_at": "2026-10-25T01:04:00+00:00",
+ "updated_at": "2026-10-25T05:59:27+00:00",
  "items": [
   {
    "id": "t0",
-   "category": "weather",
-   "headline": "Weather conditions affect weed control efforts",
-   "question": "How should farmers adapt weed management practices to changing weather patterns?",
-   "source": "Google News"
+   "category": "world",
+   "headline": "Ukraine reports stable Starlink connection after network limits lifted",
+   "question": "How might reliable satellite internet affect Ukraine's resilience in the ongoing conflict?",
+   "source": "BBC News"
   },
   {
    "id": "t1",
    "category": "sports",
-   "headline": "Arsenal defeats Everton to match Man City on points",
-   "question": "Can Arsenal sustain this momentum to challenge for the league title?",
+   "headline": "Spurs secure rare win at Stamford Bridge as Palmer receives red card",
+   "question": "Can Tottenham's recent victory signal a sustained turnaround in their season performance?",
    "source": "BBC Sport"
   },
   {
    "id": "t2",
    "category": "sports",
-   "headline": "Spurs secure rare win at Stamford Bridge despite red card",
-   "question": "What impact will this victory have on Tottenham's season prospects?",
+   "headline": "Arsenal defeat Everton to draw level with Manchester City on points",
+   "question": "Will Arsenal's win be enough to challenge Manchester City's lead in the title race?",
    "source": "BBC Sport"
   },
   {
    "id": "t3",
-   "category": "world",
-   "headline": "Ukraine reports stable Starlink connection after recent limits",
-   "question": "Will reliable satellite internet improve Ukraine's resilience in the conflict?",
+   "category": "tech",
+   "headline": "UK to invest £100 million in world‑first AI biosecurity laboratory",
+   "question": "What are the ethical implications of creating an AI‑driven biosecurity lab?",
    "source": "BBC News"
   },
   {
    "id": "t4",
    "category": "tech",
-   "headline": "UK commits £100 million to world‑first AI biosecurity laboratory",
-   "question": "Is investing in AI biosecurity the best use of public funds for national safety?",
+   "headline": "Government agencies rush to patch systems after major cyber‑security flaw discovered",
+   "question": "How effective are rapid patching efforts in preventing large‑scale cyber attacks?",
    "source": "BBC News"
   },
   {
    "id": "t5",
-   "category": "tech",
-   "headline": "AI minister says 500 new government cyber‑vulnerabilities discovered",
-   "question": "What steps should be taken to address the surge in government cyber‑vulnerabilities?",
+   "category": "science",
+   "headline": "Storm Boelo sweeps Scotland, prompting travel cancellations and road warnings",
+   "question": "Are current storm‑response strategies sufficient to protect communities from events like Boelo?",
    "source": "BBC News"
   },
   {
    "id": "t6",
-   "category": "science",
-   "headline": "Wales launches consultation to ban steel pylons",
-   "question": "Will banning steel pylons significantly improve Wales' environmental goals?",
-   "source": "BBC News"
+   "category": "weather",
+   "headline": "Tornado warning issued for Santa Fe, effective until 7:30 p.m.",
+   "question": "What steps can residents take to improve safety during short‑duration tornado warnings?",
+   "source": "Google News"
   },
   {
    "id": "t7",
    "category": "health",
-   "headline": "Personalised cancer vaccine reduces disease recurrence in trial",
-   "question": "Can personalised vaccines become standard care for cancer prevention?",
+   "headline": "Personalised cancer vaccine shows promise in reducing disease recurrence",
+   "question": "Could personalised vaccines become the standard approach for cancer treatment?",
    "source": "BBC News"
   },
   {
    "id": "t8",
    "category": "business",
-   "headline": "Grid operator assures electricity supply will remain on through winter",
-   "question": "Are current measures sufficient to prevent power shortages this winter?",
+   "headline": "Budget proposes £1 billion for new social and affordable housing projects",
+   "question": "Will the £1 billion housing allocation adequately address the UK's affordability crisis?",
    "source": "BBC News"
   },
   {
    "id": "t9",
    "category": "trending",
-   "headline": "Kyrie Irving's latest news trends across social platforms",
-   "question": "How does Kyrie Irving's public presence influence fan engagement and brand perception?",
+   "headline": "Public interest spikes in searches for 'aliens' across Google Trends",
+   "question": "What factors are driving the recent surge in curiosity about extraterrestrial life?",
    "source": "Google Trends"
   }
  ]
