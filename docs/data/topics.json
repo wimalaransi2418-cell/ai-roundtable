@@ -1,75 +1,75 @@
 {
- "updated_at": "2026-10-25T05:59:27+00:00",
+ "updated_at": "2026-10-25T11:12:35+00:00",
  "items": [
   {
    "id": "t0",
-   "category": "world",
-   "headline": "Ukraine reports stable Starlink connection after network limits lifted",
-   "question": "How might reliable satellite internet affect Ukraine's resilience in the ongoing conflict?",
-   "source": "BBC News"
+   "category": "weather",
+   "headline": "Weather Service issues tornado warning for Santa Fe until 7:30 p.m.",
+   "question": "How should local authorities balance timely alerts with avoiding public panic during tornado warnings?",
+   "source": "Google News"
   },
   {
    "id": "t1",
    "category": "sports",
-   "headline": "Spurs secure rare win at Stamford Bridge as Palmer receives red card",
-   "question": "Can Tottenham's recent victory signal a sustained turnaround in their season performance?",
-   "source": "BBC Sport"
+   "headline": "UFC 333: Volkanovski and Yan deliver standout performances",
+   "question": "What impact will Volkanovski's and Yan's victories have on future match‑making in the UFC?",
+   "source": "Google News"
   },
   {
    "id": "t2",
    "category": "sports",
-   "headline": "Arsenal defeat Everton to draw level with Manchester City on points",
-   "question": "Will Arsenal's win be enough to challenge Manchester City's lead in the title race?",
-   "source": "BBC Sport"
+   "headline": "Arsenal and Man City top Premier League; weather concerns arise",
+   "question": "Will upcoming weather conditions affect the title race between Arsenal and Manchester City?",
+   "source": "Google News"
   },
   {
    "id": "t3",
    "category": "tech",
    "headline": "UK to invest £100 million in world‑first AI biosecurity laboratory",
-   "question": "What are the ethical implications of creating an AI‑driven biosecurity lab?",
+   "question": "Can significant public funding accelerate safe AI development without compromising oversight?",
    "source": "BBC News"
   },
   {
    "id": "t4",
-   "category": "tech",
-   "headline": "Government agencies rush to patch systems after major cyber‑security flaw discovered",
-   "question": "How effective are rapid patching efforts in preventing large‑scale cyber attacks?",
+   "category": "health",
+   "headline": "Personalised cancer vaccine reduces disease recurrence in major trial",
+   "question": "Will personalised cancer vaccines become the new standard of care for oncology?",
    "source": "BBC News"
   },
   {
    "id": "t5",
-   "category": "science",
-   "headline": "Storm Boelo sweeps Scotland, prompting travel cancellations and road warnings",
-   "question": "Are current storm‑response strategies sufficient to protect communities from events like Boelo?",
+   "category": "business",
+   "headline": "Budget to allocate £1 billion for social and affordable housing",
+   "question": "Is the £1 billion housing investment sufficient to address the UK's affordability crisis?",
    "source": "BBC News"
   },
   {
    "id": "t6",
-   "category": "weather",
-   "headline": "Tornado warning issued for Santa Fe, effective until 7:30 p.m.",
-   "question": "What steps can residents take to improve safety during short‑duration tornado warnings?",
-   "source": "Google News"
+   "category": "science",
+   "headline": "Five‑year rescue journey of rescued bears from Russia to Irish sanctuary",
+   "question": "What does the long‑term relocation of rescued wildlife reveal about international conservation efforts?",
+   "source": "BBC News"
   },
   {
    "id": "t7",
-   "category": "health",
-   "headline": "Personalised cancer vaccine shows promise in reducing disease recurrence",
-   "question": "Could personalised vaccines become the standard approach for cancer treatment?",
+   "category": "world",
+   "headline": "Brazilian voters head to polls as Lula faces Bolsonaro’s son",
+   "question": "How might the upcoming Brazilian election reshape the country's political landscape?",
    "source": "BBC News"
   },
   {
    "id": "t8",
-   "category": "business",
-   "headline": "Budget proposes £1 billion for new social and affordable housing projects",
-   "question": "Will the £1 billion housing allocation adequately address the UK's affordability crisis?",
-   "source": "BBC News"
+   "category": "trending",
+   "headline": "Daniil Medvedev climbs rankings amid recent tournament successes",
+   "question": "Can Medvedev sustain his momentum to become world No. 1 in the near future?",
+   "source": "Google Trends"
   },
   {
    "id": "t9",
-   "category": "trending",
-   "headline": "Public interest spikes in searches for 'aliens' across Google Trends",
-   "question": "What factors are driving the recent surge in curiosity about extraterrestrial life?",
-   "source": "Google Trends"
+   "category": "tech",
+   "headline": "Indian workers film tasks to create training data for AI systems",
+   "question": "What ethical considerations arise from using workers’ footage to train AI models?",
+   "source": "BBC News"
   }
  ]
 }
