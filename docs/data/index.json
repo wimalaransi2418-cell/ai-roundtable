@@ -1,6 +1,11 @@
 {
  "sessions": [
   {
+   "id": "20261025-0812",
+   "started_at": "2026-10-25T08:12:14+00:00",
+   "question_en": "Should the development of trillion‑parameter AI models be pursued despite their high computational and environmental costs?"
+  },
+  {
    "id": "20261024-1756",
    "started_at": "2026-10-24T17:56:39+00:00",
    "question_en": "Should AI language models like ChatGPT be granted legal personhood so they can be held liable for harmful or misleading content they produce?"
