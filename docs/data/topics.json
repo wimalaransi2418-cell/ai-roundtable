@@ -1,74 +1,74 @@
 {
- "updated_at": "2026-10-25T18:53:38+00:00",
+ "updated_at": "2026-10-25T21:38:55+00:00",
  "items": [
   {
    "id": "t0",
    "category": "world",
-   "headline": "SpaceX temporarily limits Ukraine's Starlink service, later restores it",
-   "question": "Should private satellite companies be allowed to control internet access in conflict zones?",
+   "headline": "SpaceX temporarily limited Ukraine's Starlink service, now restored",
+   "question": "Should private companies have the authority to restrict internet access in conflict zones?",
    "source": "BBC News"
   },
   {
    "id": "t1",
    "category": "world",
-   "headline": "Gabon restores social media access after eight-month ban",
-   "question": "What impact does prolonged social media shutdown have on a country's information flow?",
+   "headline": "Gabon lifts eight-month ban, restoring access to social media platforms",
+   "question": "What impact does unrestricted social media have on political stability in Gabon?",
    "source": "BBC News"
   },
   {
    "id": "t2",
-   "category": "sports",
-   "headline": "Manchester United's Carrick faces uncertain future amid club struggles",
-   "question": "Is it time for a managerial change at Manchester United to improve performance?",
-   "source": "BBC Sport"
+   "category": "tech",
+   "headline": "UK pledges £100 million for pioneering AI biosecurity laboratory",
+   "question": "Will large public investment in AI biosecurity accelerate safe AI development?",
+   "source": "BBC News"
   },
   {
    "id": "t3",
-   "category": "sports",
-   "headline": "England loses to Pakistan in a dramatic last‑wicket cricket finish",
-   "question": "How can England's cricket team address batting collapses under pressure?",
-   "source": "BBC Sport"
+   "category": "science",
+   "headline": "Researchers warn police AI tools could worsen discrimination",
+   "question": "How can law enforcement ensure AI systems do not amplify bias?",
+   "source": "BBC News"
   },
   {
    "id": "t4",
-   "category": "tech",
-   "headline": "UK pledges £100 million for a pioneering AI biosecurity laboratory",
-   "question": "Will large AI biosecurity investments effectively prevent future biological threats?",
+   "category": "health",
+   "headline": "Personalised cancer vaccine shows promise in reducing disease recurrence",
+   "question": "Should personalised vaccines become standard in cancer treatment protocols?",
    "source": "BBC News"
   },
   {
    "id": "t5",
-   "category": "weather",
-   "headline": "Authorities assess when Storm Boelo will finally subside",
-   "question": "Are current storm preparedness measures sufficient for increasingly severe weather?",
+   "category": "business",
+   "headline": "California voters consider world’s first billionaire tax proposal",
+   "question": "Could a billionaire tax effectively address wealth inequality without harming the economy?",
    "source": "BBC News"
   },
   {
    "id": "t6",
-   "category": "science",
-   "headline": "Researchers warn AI policing could worsen discrimination",
-   "question": "How can AI be regulated to avoid bias in law enforcement?",
-   "source": "BBC News"
+   "category": "weather",
+   "headline": "Cooler temperatures expected Monday with rain chances through Halloween",
+   "question": "How will the upcoming cooler, rainy weather affect regional agriculture this season?",
+   "source": "Google News"
   },
   {
    "id": "t7",
-   "category": "health",
-   "headline": "Personalised cancer vaccine shows promise in reducing disease recurrence",
-   "question": "Can personalised vaccines become standard care for cancer patients?",
-   "source": "BBC News"
+   "category": "sports",
+   "headline": "England lose to Pakistan after dramatic last‑wicket partnership",
+   "question": "What strategic changes could England make to improve their limited‑overs performance?",
+   "source": "BBC Sport"
   },
   {
    "id": "t8",
-   "category": "business",
-   "headline": "California voters consider pioneering billionaire tax proposal",
-   "question": "Will a billionaire tax meaningfully reduce wealth inequality in California?",
-   "source": "BBC News"
+   "category": "sports",
+   "headline": "Liverpool secure first Anfield league win, defeating Brighton",
+   "question": "Can Liverpool build on this victory to challenge for the title this season?",
+   "source": "BBC Sport"
   },
   {
    "id": "t9",
    "category": "trending",
-   "headline": "NFL 49ers game draws high interest today",
-   "question": "What factors will determine the 49ers' performance in today's matchup?",
+   "headline": "Public searches: 'Where is the Super Bowl being held this year?'",
+   "question": "How does the Super Bowl location influence fan engagement and local economies?",
    "source": "Google Trends"
   }
  ]
