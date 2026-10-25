@@ -1,75 +1,75 @@
 {
- "updated_at": "2026-10-25T16:00:06+00:00",
+ "updated_at": "2026-10-25T18:53:38+00:00",
  "items": [
   {
    "id": "t0",
    "category": "world",
-   "headline": "Record high voter turnout reported in Serbia's elections",
-   "question": "What factors contributed to the unprecedented turnout in Serbia's recent election?",
+   "headline": "SpaceX temporarily limits Ukraine's Starlink service, later restores it",
+   "question": "Should private satellite companies be allowed to control internet access in conflict zones?",
    "source": "BBC News"
   },
   {
    "id": "t1",
    "category": "world",
    "headline": "Gabon restores social media access after eight-month ban",
-   "question": "How will the reinstatement of social media affect Gabon's political and social landscape?",
+   "question": "What impact does prolonged social media shutdown have on a country's information flow?",
    "source": "BBC News"
   },
   {
    "id": "t2",
-   "category": "tech",
-   "headline": "UK pledges £100 million for world‑first AI biosecurity laboratory",
-   "question": "Will the new AI biosecurity lab significantly improve the UK's ability to prevent biological threats?",
-   "source": "BBC News"
+   "category": "sports",
+   "headline": "Manchester United's Carrick faces uncertain future amid club struggles",
+   "question": "Is it time for a managerial change at Manchester United to improve performance?",
+   "source": "BBC Sport"
   },
   {
    "id": "t3",
-   "category": "tech",
-   "headline": "Government agencies rush to patch systems after major cyber‑security flaw",
-   "question": "What steps should organizations take to better prepare for large‑scale cyber vulnerabilities?",
-   "source": "BBC News"
+   "category": "sports",
+   "headline": "England loses to Pakistan in a dramatic last‑wicket cricket finish",
+   "question": "How can England's cricket team address batting collapses under pressure?",
+   "source": "BBC Sport"
   },
   {
    "id": "t4",
-   "category": "science",
-   "headline": "Researchers warn AI use in policing could worsen discrimination",
-   "question": "How can AI be deployed in law enforcement without amplifying existing biases?",
+   "category": "tech",
+   "headline": "UK pledges £100 million for a pioneering AI biosecurity laboratory",
+   "question": "Will large AI biosecurity investments effectively prevent future biological threats?",
    "source": "BBC News"
   },
   {
    "id": "t5",
-   "category": "health",
-   "headline": "Personalised cancer vaccine reduces disease recurrence in major trial",
-   "question": "Could personalised vaccines become the new standard for cancer treatment?",
+   "category": "weather",
+   "headline": "Authorities assess when Storm Boelo will finally subside",
+   "question": "Are current storm preparedness measures sufficient for increasingly severe weather?",
    "source": "BBC News"
   },
   {
    "id": "t6",
-   "category": "business",
-   "headline": "Budget allocates £1 billion for social and affordable housing projects",
-   "question": "Will the £1 billion housing investment effectively address the UK's housing shortage?",
+   "category": "science",
+   "headline": "Researchers warn AI policing could worsen discrimination",
+   "question": "How can AI be regulated to avoid bias in law enforcement?",
    "source": "BBC News"
   },
   {
    "id": "t7",
-   "category": "weather",
-   "headline": "Scotland hit by Storm Boelo with winds up to 85 mph",
-   "question": "What measures can communities take to better cope with extreme wind events like Storm Boelo?",
+   "category": "health",
+   "headline": "Personalised cancer vaccine shows promise in reducing disease recurrence",
+   "question": "Can personalised vaccines become standard care for cancer patients?",
    "source": "BBC News"
   },
   {
    "id": "t8",
-   "category": "sports",
-   "headline": "Australia defeats Fiji to reach World Cup semi‑finals",
-   "question": "What key strategies enabled Australia to overcome Fiji in the World Cup match?",
-   "source": "BBC Sport"
+   "category": "business",
+   "headline": "California voters consider pioneering billionaire tax proposal",
+   "question": "Will a billionaire tax meaningfully reduce wealth inequality in California?",
+   "source": "BBC News"
   },
   {
    "id": "t9",
-   "category": "sports",
-   "headline": "Jarman secures second World Championship silver in vault",
-   "question": "What does Jarman's repeat success indicate about the future of vault gymnastics?",
-   "source": "BBC Sport"
+   "category": "trending",
+   "headline": "NFL 49ers game draws high interest today",
+   "question": "What factors will determine the 49ers' performance in today's matchup?",
+   "source": "Google Trends"
   }
  ]
 }
