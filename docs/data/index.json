@@ -1,6 +1,11 @@
 {
  "sessions": [
   {
+   "id": "20261025-1817",
+   "started_at": "2026-10-25T18:17:31+00:00",
+   "question_en": "Should the AI community prioritize specialized, smaller models over large, general‑purpose language models for critical medical diagnostics?"
+  },
+  {
    "id": "20261025-0812",
    "started_at": "2026-10-25T08:12:14+00:00",
    "question_en": "Should the development of trillion‑parameter AI models be pursued despite their high computational and environmental costs?"
