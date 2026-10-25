@@ -1,75 +1,75 @@
 {
- "updated_at": "2026-10-25T11:12:35+00:00",
+ "updated_at": "2026-10-25T16:00:06+00:00",
  "items": [
   {
    "id": "t0",
-   "category": "weather",
-   "headline": "Weather Service issues tornado warning for Santa Fe until 7:30 p.m.",
-   "question": "How should local authorities balance timely alerts with avoiding public panic during tornado warnings?",
-   "source": "Google News"
+   "category": "world",
+   "headline": "Record high voter turnout reported in Serbia's elections",
+   "question": "What factors contributed to the unprecedented turnout in Serbia's recent election?",
+   "source": "BBC News"
   },
   {
    "id": "t1",
-   "category": "sports",
-   "headline": "UFC 333: Volkanovski and Yan deliver standout performances",
-   "question": "What impact will Volkanovski's and Yan's victories have on future match‑making in the UFC?",
-   "source": "Google News"
+   "category": "world",
+   "headline": "Gabon restores social media access after eight-month ban",
+   "question": "How will the reinstatement of social media affect Gabon's political and social landscape?",
+   "source": "BBC News"
   },
   {
    "id": "t2",
-   "category": "sports",
-   "headline": "Arsenal and Man City top Premier League; weather concerns arise",
-   "question": "Will upcoming weather conditions affect the title race between Arsenal and Manchester City?",
-   "source": "Google News"
+   "category": "tech",
+   "headline": "UK pledges £100 million for world‑first AI biosecurity laboratory",
+   "question": "Will the new AI biosecurity lab significantly improve the UK's ability to prevent biological threats?",
+   "source": "BBC News"
   },
   {
    "id": "t3",
    "category": "tech",
-   "headline": "UK to invest £100 million in world‑first AI biosecurity laboratory",
-   "question": "Can significant public funding accelerate safe AI development without compromising oversight?",
+   "headline": "Government agencies rush to patch systems after major cyber‑security flaw",
+   "question": "What steps should organizations take to better prepare for large‑scale cyber vulnerabilities?",
    "source": "BBC News"
   },
   {
    "id": "t4",
-   "category": "health",
-   "headline": "Personalised cancer vaccine reduces disease recurrence in major trial",
-   "question": "Will personalised cancer vaccines become the new standard of care for oncology?",
+   "category": "science",
+   "headline": "Researchers warn AI use in policing could worsen discrimination",
+   "question": "How can AI be deployed in law enforcement without amplifying existing biases?",
    "source": "BBC News"
   },
   {
    "id": "t5",
-   "category": "business",
-   "headline": "Budget to allocate £1 billion for social and affordable housing",
-   "question": "Is the £1 billion housing investment sufficient to address the UK's affordability crisis?",
+   "category": "health",
+   "headline": "Personalised cancer vaccine reduces disease recurrence in major trial",
+   "question": "Could personalised vaccines become the new standard for cancer treatment?",
    "source": "BBC News"
   },
   {
    "id": "t6",
-   "category": "science",
-   "headline": "Five‑year rescue journey of rescued bears from Russia to Irish sanctuary",
-   "question": "What does the long‑term relocation of rescued wildlife reveal about international conservation efforts?",
+   "category": "business",
+   "headline": "Budget allocates £1 billion for social and affordable housing projects",
+   "question": "Will the £1 billion housing investment effectively address the UK's housing shortage?",
    "source": "BBC News"
   },
   {
    "id": "t7",
-   "category": "world",
-   "headline": "Brazilian voters head to polls as Lula faces Bolsonaro’s son",
-   "question": "How might the upcoming Brazilian election reshape the country's political landscape?",
+   "category": "weather",
+   "headline": "Scotland hit by Storm Boelo with winds up to 85 mph",
+   "question": "What measures can communities take to better cope with extreme wind events like Storm Boelo?",
    "source": "BBC News"
   },
   {
    "id": "t8",
-   "category": "trending",
-   "headline": "Daniil Medvedev climbs rankings amid recent tournament successes",
-   "question": "Can Medvedev sustain his momentum to become world No. 1 in the near future?",
-   "source": "Google Trends"
+   "category": "sports",
+   "headline": "Australia defeats Fiji to reach World Cup semi‑finals",
+   "question": "What key strategies enabled Australia to overcome Fiji in the World Cup match?",
+   "source": "BBC Sport"
   },
   {
    "id": "t9",
-   "category": "tech",
-   "headline": "Indian workers film tasks to create training data for AI systems",
-   "question": "What ethical considerations arise from using workers’ footage to train AI models?",
-   "source": "BBC News"
+   "category": "sports",
+   "headline": "Jarman secures second World Championship silver in vault",
+   "question": "What does Jarman's repeat success indicate about the future of vault gymnastics?",
+   "source": "BBC Sport"
   }
  ]
 }
