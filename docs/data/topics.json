@@ -1,75 +1,75 @@
 {
- "updated_at": "2026-10-26T00:05:50+00:00",
+ "updated_at": "2026-10-26T05:58:27+00:00",
  "items": [
   {
    "id": "t0",
    "category": "weather",
-   "headline": "A few rain chances this final week of October as milder temperatures return",
-   "question": "How will the expected rain this week affect local agriculture and outdoor events?",
+   "headline": "Slow-moving storm may bring heavy rain and slushy snow to Plains",
+   "question": "How should authorities balance warning the public with avoiding unnecessary panic during such storms?",
    "source": "Google News"
   },
   {
    "id": "t1",
    "category": "sports",
-   "headline": "Isak finally living up to price tag as Liverpool patience rewarded",
-   "question": "Should Liverpool continue investing heavily in young talent like Isak despite mixed results?",
-   "source": "BBC Sport"
+   "headline": "Seahawks defeat Chiefs, ending Kansas City's unbeaten streak",
+   "question": "Will this loss signal a shift in NFL power dynamics this season?",
+   "source": "Google News"
   },
   {
    "id": "t2",
    "category": "sports",
-   "headline": "England lose to Pakistan after improbable last-wicket stand",
-   "question": "What changes should England's cricket team make to avoid similar collapses in future?",
-   "source": "BBC Sport"
+   "headline": "J.J. McCarthy impresses, giving Harbaugh reasons to reconsider his strategy",
+   "question": "Should the Ravens give McCarthy a larger role despite his inexperience?",
+   "source": "Google News"
   },
   {
    "id": "t3",
    "category": "world",
-   "headline": "Gabon says access to social media restored after eight-month ban",
-   "question": "Will restoring social media in Gabon improve public discourse or reignite tensions?",
+   "headline": "Russia to host first Olympic federation event since Ukraine invasion",
+   "question": "Is it appropriate for Russia to host international sports events amid ongoing geopolitical tensions?",
    "source": "BBC News"
   },
   {
    "id": "t4",
    "category": "tech",
-   "headline": "UK to invest £100m in 'world first' AI Biosecurity Lab",
-   "question": "Is a £100m investment in AI biosecurity the best use of public funds for health safety?",
+   "headline": "UK pledges £100m for world-first AI biosecurity laboratory",
+   "question": "Can AI-driven biosecurity labs effectively prevent future pandemics?",
    "source": "BBC News"
   },
   {
    "id": "t5",
-   "category": "science",
-   "headline": "Police using AI risks making discrimination worse, researchers warn",
-   "question": "How can law enforcement balance AI efficiency with the risk of bias?",
+   "category": "tech",
+   "headline": "Indian workers film daily tasks to create AI training data",
+   "question": "Will using worker-generated footage raise privacy or labor concerns?",
    "source": "BBC News"
   },
   {
    "id": "t6",
-   "category": "health",
-   "headline": "First personalised cancer vaccine cuts risk of disease returning in major trial",
-   "question": "Will personalized cancer vaccines become standard treatment for all cancers?",
+   "category": "science",
+   "headline": "AI transforms agriculture: From traditional farms to smart tech",
+   "question": "Will AI-driven farming widen the gap between large agribusinesses and small farmers?",
    "source": "BBC News"
   },
   {
    "id": "t7",
-   "category": "business",
-   "headline": "Will a new code end 'rip-off parking charges'?",
-   "question": "Will new parking regulations effectively curb excessive fees for drivers?",
+   "category": "health",
+   "headline": "Personalised cancer vaccine reduces recurrence risk in major trial",
+   "question": "Should personalised vaccines become standard care for cancer patients?",
    "source": "BBC News"
   },
   {
    "id": "t8",
-   "category": "trending",
-   "headline": "Marvel Cinematic Universe continues to dominate pop culture",
-   "question": "Is the Marvel Cinematic Universe's expanding franchise beneficial for the film industry?",
-   "source": "Google Trends"
+   "category": "business",
+   "headline": "Proposed code aims to end excessive parking charges",
+   "question": "Will stricter parking regulations improve urban mobility or hurt businesses?",
+   "source": "BBC News"
   },
   {
    "id": "t9",
-   "category": "tech",
-   "headline": "The Indian workers filming their work to train AI",
-   "question": "Does using worker‑filmed footage for AI training raise ethical concerns about labor privacy?",
-   "source": "BBC News"
+   "category": "trending",
+   "headline": "Laika Studios gains buzz for upcoming animated projects",
+   "question": "Can Laika Studios' new direction revitalize stop‑motion animation popularity?",
+   "source": "Google Trends"
   }
  ]
 }
