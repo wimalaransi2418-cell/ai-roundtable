@@ -1,75 +1,75 @@
 {
- "updated_at": "2026-10-26T12:46:14+00:00",
+ "updated_at": "2026-10-26T19:10:06+00:00",
  "items": [
   {
    "id": "t0",
-   "category": "world",
-   "headline": "Celebrations in Serbia after veteran ruler Vučić loses election to student-led protest movement",
-   "source": "BBC News",
-   "question": "What do you make of this story: Celebrations in Serbia after veteran ruler Vučić loses election to student-led protest movement?"
+   "category": "weather",
+   "headline": "Mild and sunny conditions expected in Colorado Springs throughout the week",
+   "question": "How might this pleasant weather affect local outdoor activities and tourism?",
+   "source": "Google News"
   },
   {
    "id": "t1",
-   "category": "world",
-   "headline": "Australian murderer loses bid to eat Vegemite in prison",
-   "source": "BBC News",
-   "question": "What do you make of this story: Australian murderer loses bid to eat Vegemite in prison?"
+   "category": "sports",
+   "headline": "Harry Kane mistakenly announced as Ballon d'Or winner before correction",
+   "question": "What does this mix‑up reveal about the reliability of award voting processes?",
+   "source": "BBC Sport"
   },
   {
    "id": "t2",
-   "category": "world",
-   "headline": "Rapper Nicki Minaj joins Trump onstage at Michigan rally",
-   "source": "BBC News",
-   "question": "What do you make of this story: Rapper Nicki Minaj joins Trump onstage at Michigan rally?"
+   "category": "sports",
+   "headline": "NFC West sees tight race as 49ers close gap; Seahawks and Rams secure wins",
+   "question": "Will the 49ers' recent performance be enough to clinch the division title?",
+   "source": "Google News"
   },
   {
    "id": "t3",
-   "category": "world",
-   "headline": "Deeply divided Israel braces for pivotal election",
-   "source": "BBC News",
-   "question": "What do you make of this story: Deeply divided Israel braces for pivotal election?"
+   "category": "tech",
+   "headline": "Anthropic's upcoming share listing unveils five surprising details",
+   "question": "Do these revelations change investors' perception of AI company valuations?",
+   "source": "BBC News"
   },
   {
    "id": "t4",
-   "category": "sports",
-   "headline": "End approaching for Carrick but Man Utd fans make clear who they blame",
-   "source": "BBC Sport",
-   "question": "What do you make of this story: End approaching for Carrick but Man Utd fans make clear who they blame?"
+   "category": "tech",
+   "headline": "Data centre projects face growing backlash over noise and local impact",
+   "question": "Should communities have greater authority to block new data centre developments?",
+   "source": "BBC News"
   },
   {
    "id": "t5",
-   "category": "sports",
-   "headline": "Borthwick's autumn questions as World Cup looms",
-   "source": "BBC Sport",
-   "question": "What do you make of this story: Borthwick's autumn questions as World Cup looms?"
+   "category": "tech",
+   "headline": "PHP sparks global cyber‑security scramble amid widespread vulnerabilities",
+   "question": "Is phasing out PHP the best solution to improve web security?",
+   "source": "BBC News"
   },
   {
    "id": "t6",
-   "category": "sports",
-   "headline": "Ex-Liverpool winger Pennant has more than 50 stitches after dog attack",
-   "source": "BBC Sport",
-   "question": "What do you make of this story: Ex-Liverpool winger Pennant has more than 50 stitches after dog attack?"
+   "category": "science",
+   "headline": "Storm Boelo causes power outages for 22,000 as Met Office issues wind warning",
+   "question": "Are current infrastructure measures sufficient to withstand storms like Boelo?",
+   "source": "BBC News"
   },
   {
    "id": "t7",
-   "category": "sports",
-   "headline": "Who should win the men's Ballon d'Or? BBC Sport pundits have their say",
-   "source": "BBC Sport",
-   "question": "What do you make of this story: Who should win the men's Ballon d'Or? BBC Sport pundits have their say?"
+   "category": "health",
+   "headline": "Personalised cancer vaccine shown to lower recurrence risk in major trial",
+   "question": "Will personalised vaccines become standard care for cancer patients soon?",
+   "source": "BBC News"
   },
   {
    "id": "t8",
-   "category": "tech",
-   "headline": "Big, noisy and coming to a town near you - why the data centre backlash is growing",
-   "source": "BBC News",
-   "question": "What do you make of this story: Big, noisy and coming to a town near you - why the data centre backlash is growing?"
+   "category": "business",
+   "headline": "Budget plans aim to protect low‑income pensioners from income tax",
+   "question": "Will the proposed tax shield effectively improve financial security for retirees?",
+   "source": "BBC News"
   },
   {
    "id": "t9",
-   "category": "tech",
-   "headline": "What is PHP and why did it spark a global cyber-security scramble?",
-   "source": "BBC News",
-   "question": "What do you make of this story: What is PHP and why did it spark a global cyber-security scramble??"
+   "category": "trending",
+   "headline": "Beyoncé dominates current online searches and social media trends",
+   "question": "What factors contribute to Beyoncé's enduring popularity in digital culture?",
+   "source": "Google Trends"
   }
  ]
 }
