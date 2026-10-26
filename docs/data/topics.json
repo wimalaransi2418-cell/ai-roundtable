@@ -1,75 +1,75 @@
 {
- "updated_at": "2026-10-26T19:10:06+00:00",
+ "updated_at": "2026-10-26T23:44:36+00:00",
  "items": [
   {
    "id": "t0",
    "category": "weather",
-   "headline": "Mild and sunny conditions expected in Colorado Springs throughout the week",
-   "question": "How might this pleasant weather affect local outdoor activities and tourism?",
-   "source": "Google News"
+   "headline": "New weather warnings issued as third storm approaches Scotland",
+   "question": "How should authorities balance public safety and economic disruption when issuing storm warnings?",
+   "source": "BBC News"
   },
   {
    "id": "t1",
    "category": "sports",
-   "headline": "Harry Kane mistakenly announced as Ballon d'Or winner before correction",
-   "question": "What does this mix‑up reveal about the reliability of award voting processes?",
+   "headline": "Putellas wins record-equalling third Ballon d'Or",
+   "question": "Does awarding the Ballon d'Or to Putellas reflect a shift towards greater recognition of women's football?",
    "source": "BBC Sport"
   },
   {
    "id": "t2",
    "category": "sports",
-   "headline": "NFC West sees tight race as 49ers close gap; Seahawks and Rams secure wins",
-   "question": "Will the 49ers' recent performance be enough to clinch the division title?",
-   "source": "Google News"
+   "headline": "Kane's top Bundesliga goals highlighted after Ballon d'Or win",
+   "question": "Should individual goal compilations influence future Ballon d'Or voting?",
+   "source": "BBC Sport"
   },
   {
    "id": "t3",
    "category": "tech",
-   "headline": "Anthropic's upcoming share listing unveils five surprising details",
-   "question": "Do these revelations change investors' perception of AI company valuations?",
+   "headline": "Anthropic's share listing reveals five surprising details",
+   "question": "Do the new details about Anthropic's listing suggest AI firms are becoming too influential?",
    "source": "BBC News"
   },
   {
    "id": "t4",
    "category": "tech",
-   "headline": "Data centre projects face growing backlash over noise and local impact",
-   "question": "Should communities have greater authority to block new data centre developments?",
+   "headline": "UK pledges £100m for world‑first AI biosecurity laboratory",
+   "question": "Is government funding for AI biosecurity the most effective way to mitigate emerging risks?",
    "source": "BBC News"
   },
   {
    "id": "t5",
-   "category": "tech",
-   "headline": "PHP sparks global cyber‑security scramble amid widespread vulnerabilities",
-   "question": "Is phasing out PHP the best solution to improve web security?",
+   "category": "science",
+   "headline": "Stunning photos showcase October's Hunter's Moon worldwide",
+   "question": "Do such celestial photography trends increase public interest in astronomy?",
    "source": "BBC News"
   },
   {
    "id": "t6",
-   "category": "science",
-   "headline": "Storm Boelo causes power outages for 22,000 as Met Office issues wind warning",
-   "question": "Are current infrastructure measures sufficient to withstand storms like Boelo?",
+   "category": "health",
+   "headline": "Personalised cancer vaccine cuts disease recurrence in major trial",
+   "question": "Will personalised cancer vaccines become standard care in the near future?",
    "source": "BBC News"
   },
   {
    "id": "t7",
-   "category": "health",
-   "headline": "Personalised cancer vaccine shown to lower recurrence risk in major trial",
-   "question": "Will personalised vaccines become standard care for cancer patients soon?",
+   "category": "business",
+   "headline": "Salon owners call for VAT cut to ease staffing pressures",
+   "question": "Could a VAT reduction for salons meaningfully improve employment in the sector?",
    "source": "BBC News"
   },
   {
    "id": "t8",
-   "category": "business",
-   "headline": "Budget plans aim to protect low‑income pensioners from income tax",
-   "question": "Will the proposed tax shield effectively improve financial security for retirees?",
-   "source": "BBC News"
+   "category": "trending",
+   "headline": "Wealth tax gains attention in trending discussions",
+   "question": "What are the potential economic impacts of implementing a wealth tax?",
+   "source": "Google Trends"
   },
   {
    "id": "t9",
-   "category": "trending",
-   "headline": "Beyoncé dominates current online searches and social media trends",
-   "question": "What factors contribute to Beyoncé's enduring popularity in digital culture?",
-   "source": "Google Trends"
+   "category": "world",
+   "headline": "Maxxing named Dictionary.com word of the year",
+   "question": "What does the popularity of 'maxxing' reveal about current cultural values?",
+   "source": "BBC News"
   }
  ]
 }
