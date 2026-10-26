@@ -1,75 +1,75 @@
 {
- "updated_at": "2026-10-25T21:38:55+00:00",
+ "updated_at": "2026-10-26T00:05:50+00:00",
  "items": [
   {
    "id": "t0",
-   "category": "world",
-   "headline": "SpaceX temporarily limited Ukraine's Starlink service, now restored",
-   "question": "Should private companies have the authority to restrict internet access in conflict zones?",
-   "source": "BBC News"
+   "category": "weather",
+   "headline": "A few rain chances this final week of October as milder temperatures return",
+   "question": "How will the expected rain this week affect local agriculture and outdoor events?",
+   "source": "Google News"
   },
   {
    "id": "t1",
-   "category": "world",
-   "headline": "Gabon lifts eight-month ban, restoring access to social media platforms",
-   "question": "What impact does unrestricted social media have on political stability in Gabon?",
-   "source": "BBC News"
+   "category": "sports",
+   "headline": "Isak finally living up to price tag as Liverpool patience rewarded",
+   "question": "Should Liverpool continue investing heavily in young talent like Isak despite mixed results?",
+   "source": "BBC Sport"
   },
   {
    "id": "t2",
-   "category": "tech",
-   "headline": "UK pledges £100 million for pioneering AI biosecurity laboratory",
-   "question": "Will large public investment in AI biosecurity accelerate safe AI development?",
-   "source": "BBC News"
+   "category": "sports",
+   "headline": "England lose to Pakistan after improbable last-wicket stand",
+   "question": "What changes should England's cricket team make to avoid similar collapses in future?",
+   "source": "BBC Sport"
   },
   {
    "id": "t3",
-   "category": "science",
-   "headline": "Researchers warn police AI tools could worsen discrimination",
-   "question": "How can law enforcement ensure AI systems do not amplify bias?",
+   "category": "world",
+   "headline": "Gabon says access to social media restored after eight-month ban",
+   "question": "Will restoring social media in Gabon improve public discourse or reignite tensions?",
    "source": "BBC News"
   },
   {
    "id": "t4",
-   "category": "health",
-   "headline": "Personalised cancer vaccine shows promise in reducing disease recurrence",
-   "question": "Should personalised vaccines become standard in cancer treatment protocols?",
+   "category": "tech",
+   "headline": "UK to invest £100m in 'world first' AI Biosecurity Lab",
+   "question": "Is a £100m investment in AI biosecurity the best use of public funds for health safety?",
    "source": "BBC News"
   },
   {
    "id": "t5",
-   "category": "business",
-   "headline": "California voters consider world’s first billionaire tax proposal",
-   "question": "Could a billionaire tax effectively address wealth inequality without harming the economy?",
+   "category": "science",
+   "headline": "Police using AI risks making discrimination worse, researchers warn",
+   "question": "How can law enforcement balance AI efficiency with the risk of bias?",
    "source": "BBC News"
   },
   {
    "id": "t6",
-   "category": "weather",
-   "headline": "Cooler temperatures expected Monday with rain chances through Halloween",
-   "question": "How will the upcoming cooler, rainy weather affect regional agriculture this season?",
-   "source": "Google News"
+   "category": "health",
+   "headline": "First personalised cancer vaccine cuts risk of disease returning in major trial",
+   "question": "Will personalized cancer vaccines become standard treatment for all cancers?",
+   "source": "BBC News"
   },
   {
    "id": "t7",
-   "category": "sports",
-   "headline": "England lose to Pakistan after dramatic last‑wicket partnership",
-   "question": "What strategic changes could England make to improve their limited‑overs performance?",
-   "source": "BBC Sport"
+   "category": "business",
+   "headline": "Will a new code end 'rip-off parking charges'?",
+   "question": "Will new parking regulations effectively curb excessive fees for drivers?",
+   "source": "BBC News"
   },
   {
    "id": "t8",
-   "category": "sports",
-   "headline": "Liverpool secure first Anfield league win, defeating Brighton",
-   "question": "Can Liverpool build on this victory to challenge for the title this season?",
-   "source": "BBC Sport"
+   "category": "trending",
+   "headline": "Marvel Cinematic Universe continues to dominate pop culture",
+   "question": "Is the Marvel Cinematic Universe's expanding franchise beneficial for the film industry?",
+   "source": "Google Trends"
   },
   {
    "id": "t9",
-   "category": "trending",
-   "headline": "Public searches: 'Where is the Super Bowl being held this year?'",
-   "question": "How does the Super Bowl location influence fan engagement and local economies?",
-   "source": "Google Trends"
+   "category": "tech",
+   "headline": "The Indian workers filming their work to train AI",
+   "question": "Does using worker‑filmed footage for AI training raise ethical concerns about labor privacy?",
+   "source": "BBC News"
   }
  ]
 }
