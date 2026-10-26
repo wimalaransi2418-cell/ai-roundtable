@@ -1,6 +1,11 @@
 {
  "sessions": [
   {
+   "id": "20261026-2022",
+   "started_at": "2026-10-26T20:22:09+00:00",
+   "question_en": "Should advanced language models like GPT-6.1 Terra be required to undergo independent safety audits before public release?"
+  },
+  {
    "id": "20261026-0838",
    "started_at": "2026-10-26T08:38:00+00:00",
    "question_en": "Should open-weight AI models be widely deployed on-premises despite potential safety and ethical concerns?"
