@@ -1,6 +1,11 @@
 {
  "sessions": [
   {
+   "id": "20261026-0838",
+   "started_at": "2026-10-26T08:38:00+00:00",
+   "question_en": "Should open-weight AI models be widely deployed on-premises despite potential safety and ethical concerns?"
+  },
+  {
    "id": "20261025-1817",
    "started_at": "2026-10-25T18:17:31+00:00",
    "question_en": "Should the AI community prioritize specialized, smaller models over large, general‑purpose language models for critical medical diagnostics?"
