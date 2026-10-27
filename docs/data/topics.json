@@ -1,75 +1,75 @@
 {
- "updated_at": "2026-10-27T16:25:03+00:00",
+ "updated_at": "2026-10-27T21:12:40+00:00",
  "items": [
   {
    "id": "t0",
    "category": "world",
-   "headline": "Israeli election sees record voter turnout in pivotal vote",
-   "question": "How might the high turnout influence Israel's domestic and foreign policies?",
+   "headline": "Norway and Finland leaders hold rare call with Putin",
+   "question": "What impact could a rare call between Norway, Finland and Putin have on regional security?",
    "source": "BBC News"
   },
   {
    "id": "t1",
-   "category": "sports",
-   "headline": "Ballon d'Or ceremony in London described as chaotic",
-   "question": "Does the chaotic nature of the ceremony reflect broader issues in football governance?",
-   "source": "BBC Sport"
+   "category": "world",
+   "headline": "Ceasefire extended across Ukraine's Kherson region, officials say",
+   "question": "How might extending the ceasefire in Kherson affect the broader conflict dynamics?",
+   "source": "BBC News"
   },
   {
    "id": "t2",
    "category": "sports",
-   "headline": "Australia bowls South Africa out for 329, Starc takes six wickets",
-   "question": "Will Starc's performance shift the momentum of the Test series?",
+   "headline": "Man Utd stick with Carrick amid turbulent two days at Old Trafford",
+   "question": "Is retaining Carrick the right decision for Manchester United's short‑term stability?",
    "source": "BBC Sport"
   },
   {
    "id": "t3",
-   "category": "tech",
-   "headline": "Anthropic warns of catastrophic risk to humanity before share listing",
-   "question": "Are Anthropic's risk warnings sufficient to guide responsible AI development?",
-   "source": "BBC News"
+   "category": "sports",
+   "headline": "Fleetwood‑Arsenal match paused for eight minutes due to drone",
+   "question": "Should stricter security measures be implemented to prevent drone disruptions at football matches?",
+   "source": "BBC Sport"
   },
   {
    "id": "t4",
-   "category": "science",
-   "headline": "Nanotyrannus skeleton sells for $47.3 million at New York auction",
-   "question": "Should such rare fossils be privately owned or kept in public institutions?",
+   "category": "tech",
+   "headline": "Anthropic's blockbuster share listing reveals five surprising facts",
+   "question": "Do the new details about Anthropic's listing suggest a shift in AI industry competition?",
    "source": "BBC News"
   },
   {
    "id": "t5",
-   "category": "health",
-   "headline": "Personalised cancer vaccine reduces disease recurrence in major trial",
-   "question": "Can personalised vaccines become standard care for cancer patients?",
+   "category": "tech",
+   "headline": "Anthropic warns of catastrophic risk to humanity before share listing",
+   "question": "How should regulators respond to Anthropic's warning about catastrophic AI risk?",
    "source": "BBC News"
   },
   {
    "id": "t6",
-   "category": "business",
-   "headline": "UK invests £100m in world-first AI biosecurity laboratory",
-   "question": "Will the AI biosecurity lab effectively mitigate emerging biological threats?",
+   "category": "science",
+   "headline": "Nanotyrannus skeleton sells for $47.3 million at New York auction",
+   "question": "Does the high price of the Nanotyrannus skeleton reflect its scientific value or market speculation?",
    "source": "BBC News"
   },
   {
    "id": "t7",
-   "category": "weather",
-   "headline": "UN warns record CO2 levels will affect climate for centuries",
-   "question": "What immediate actions are needed to address the long‑term CO2 impact?",
-   "source": "Google News"
+   "category": "health",
+   "headline": "First personalised cancer vaccine cuts risk of disease return in major trial",
+   "question": "Can personalized cancer vaccines become a standard part of oncology treatment?",
+   "source": "BBC News"
   },
   {
    "id": "t8",
-   "category": "trending",
-   "headline": "GTA 6 release delayed, fans react online",
-   "question": "Will the delay improve the final quality of GTA 6 enough to satisfy fans?",
-   "source": "Google Trends"
+   "category": "business",
+   "headline": "Minimum wage to rise, but 18‑20 year‑olds excluded from larger increase",
+   "question": "Is excluding 18‑20 year‑olds from the minimum‑wage rise fair to young workers?",
+   "source": "BBC News"
   },
   {
    "id": "t9",
-   "category": "business",
-   "headline": "Minimum wage to rise, but 18‑20 year‑olds excluded from increase",
-   "question": "Is it fair to exclude younger workers from the minimum wage hike?",
-   "source": "BBC News"
+   "category": "trending",
+   "headline": "Garrett Wilson trending in online searches",
+   "question": "What factors are driving the surge in interest around Garrett Wilson right now?",
+   "source": "Google Trends"
   }
  ]
 }
