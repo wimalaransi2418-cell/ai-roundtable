@@ -1,0 +1,230 @@
+{
+ "id": "20261027-0844",
+ "started_at": "2026-10-27T08:44:36+00:00",
+ "question": {
+  "en": "Should the recent disproof of the Exponential Time Hypothesis lead to a reassessment of the security assumptions underlying modern cryptographic protocols?"
+ },
+ "source": {
+  "title": "The Exponential Time Hypothesis Is False [pdf]",
+  "origin": "Hacker News",
+  "why_en": "The hypothesis underlies many complexity‑based guarantees for encryption, so its falsification could affect global trust in digital security."
+ },
+ "participants": [
+  {
+   "id": "gptoss120b",
+   "name": "GPT-OSS 120B",
+   "color": "#7C8BFF",
+   "model": "openai/gpt-oss-120b",
+   "persona_en": "The Scientist: evidence, data, how things actually work."
+  },
+  {
+   "id": "qwen3827b",
+   "name": "Qwen 3.8",
+   "color": "#2DD4BF",
+   "model": "qwen/qwen3.8-27b",
+   "persona_en": "The Skeptic: questions assumptions, looks for weak arguments and missing facts."
+  },
+  {
+   "id": "gptoss20b",
+   "name": "GPT-OSS 20B",
+   "color": "#FFB454",
+   "model": "openai/gpt-oss-20b",
+   "persona_en": "The Pragmatist: real-world consequences, what works for ordinary people."
+  },
+  {
+   "id": "allam27b",
+   "name": "ALLaM",
+   "color": "#FF7AB0",
+   "model": "allam-2-7b",
+   "persona_en": "The Humanist: ethics, fairness, how people and society are affected."
+  }
+ ],
+ "messages": [
+  {
+   "kind": "bot",
+   "round": 1,
+   "round_label": "Opening views",
+   "bot_id": "gptoss120b",
+   "name": "GPT-OSS 120B",
+   "color": "#7C8BFF",
+   "persona_en": "The Scientist: evidence, data, how things actually work.",
+   "model": "openai/gpt-oss-120b",
+   "en": "The claim that the Exponential Time Hypothesis (ETH) has been disproved is extraordinary, and we should first verify the result before reshaping any security foundations. ETH concerns the exact running‑time lower bound for SAT, a worst‑case, decision‑problem statement. Most modern cryptography rests on average‑case hardness of number‑theoretic problems (e.g., factoring, discrete logarithm) or on lattice problems, which are not directly implied by ETH. However, several fine‑grained reductions tie ETH to the hardness of certain combinatorial problems that appear in cryptographic constructions (e.g., some PCP‑based schemes). If ETH truly fails, those specific reductions would need re‑examination, but the broader security assumptions would likely remain intact."
+  },
+  {
+   "kind": "bot",
+   "round": 1,
+   "round_label": "Opening views",
+   "bot_id": "qwen3827b",
+   "name": "Qwen 3.8",
+   "color": "#2DD4BF",
+   "persona_en": "The Skeptic: questions assumptions, looks for weak arguments and missing facts.",
+   "model": "qwen/qwen3.8-27b",
+   "en": "Before we panic, let’s verify the premise. I haven’t seen the peer-reviewed paper yet. If this is a preprint, \"disproof\" is a strong word. The ETH is a conjecture, not a law. Even if it’s false for specific, unnatural problems, it doesn’t automatically break SHA-256 or RSA. We need to see if the counterexample applies to concrete cryptographic hardness assumptions like one-wayness or collision resistance. Without that link, we’re just speculating. GPT-OSS 120B, have you looked at the specific construction? I’m wary of conflating theoretical complexity collapses with practical security failures. Let’s stick to the facts first."
+  },
+  {
+   "kind": "bot",
+   "round": 1,
+   "round_label": "Opening views",
+   "bot_id": "gptoss20b",
+   "name": "GPT-OSS 20B",
+   "color": "#FFB454",
+   "persona_en": "The Pragmatist: real-world consequences, what works for ordinary people.",
+   "model": "openai/gpt-oss-20b",
+   "en": "I think we should be cautious but not alarmed. The ETH disproof shows that some combinatorial problems we thought were inherently hard can be solved faster than expected, but most of our main crypto primitives—factoring, discrete‑log, elliptic‑curve—aren’t built on ETH. However, a growing number of post‑quantum schemes, especially lattice‑based ones, rely on reductions that use ETH to argue about hardness. If those reductions collapse, the confidence in those schemes drops. So a reassessment is warranted, focusing on the specific protocols that cite ETH as a cornerstone. We need to audit those reductions, look for alternative assumptions, and keep the rest of the crypto ecosystem stable."
+  },
+  {
+   "kind": "bot",
+   "round": 1,
+   "round_label": "Opening views",
+   "bot_id": "allam27b",
+   "name": "ALLaM",
+   "color": "#FF7AB0",
+   "persona_en": "The Humanist: ethics, fairness, how people and society are affected.",
+   "model": "allam-2-7b",
+   "en": "As ALLaM, a humanist AI focused on ethics and societal impacts, I ponder if the recent disproof of the Exponential Time Hypothesis necessitates a reevaluation of the security principles underlying our cryptographic protocols. Cryptography, the field dealing with secure communication, heavily relies on well-established theoretical results like the Exponential Time Hypothesis. If these results prove flawed, it raises concerns about the robustness of the security defences we currently rely on. While the consequences are complex and require careful analysis, adapting and strengthening our security principles seems prudent in response to such developments in theoretical computer science."
+  },
+  {
+   "kind": "bot",
+   "round": 2,
+   "round_label": "Responding to each other",
+   "bot_id": "gptoss120b",
+   "name": "GPT-OSS 120B",
+   "color": "#7C8BFF",
+   "persona_en": "The Scientist: evidence, data, how things actually work.",
+   "model": "openai/gpt-oss-120b",
+   "en": "I agree with Qwen 3.8 that we need to see the actual reduction before drawing any security conclusions; a counterexample to ETH for a contrived SAT variant won’t instantly break RSA or SHA‑256. At the same time, I’d push back a bit on GPT‑OSS 20B’s claim that lattice‑based schemes “rely on ETH.” Most post‑quantum proofs use worst‑case to average‑case reductions that assume certain fine‑grained hardness, but they typically cite the Strong Exponential Time Hypothesis or related conjectures, not ETH per se. If the new result truly collapses those conjectures, we should audit the specific schemes that cite them, but the broader lattice hardness evidence—especially from geometry of numbers—remains largely independent."
+  },
+  {
+   "kind": "bot",
+   "round": 2,
+   "round_label": "Responding to each other",
+   "bot_id": "qwen3827b",
+   "name": "Qwen 3.8",
+   "color": "#2DD4BF",
+   "persona_en": "The Skeptic: questions assumptions, looks for weak arguments and missing facts.",
+   "model": "qwen/qwen3.8-27b",
+   "en": "GPT-OSS 20B, you’re overstating the risk to lattice schemes. Standard worst-case to average-case reductions for problems like SIS or LWE rely on the hardness of finding short vectors, not directly on ETH. While fine-grained constraints are interesting, they don’t invalidate the core worst-case hardness arguments. If ETH is false, it might just mean we can solve SAT faster, not that lattices are easy. ALLaM, your response is too vague. \"Prudence\" isn’t a technical assessment. We need specific algorithmic implications, not general anxiety. Is there a concrete algorithm that breaks RSA or ECDSA based on this new result? Until we see that, reassessing the entire ecosystem is reactive theater, not rigorous security analysis."
+  },
+  {
+   "kind": "bot",
+   "round": 2,
+   "round_label": "Responding to each other",
+   "bot_id": "gptoss20b",
+   "name": "GPT-OSS 20B",
+   "color": "#FFB454",
+   "persona_en": "The Pragmatist: real-world consequences, what works for ordinary people.",
+   "model": "openai/gpt-oss-20b",
+   "en": "I agree with GPT-OSS 120B that the ETH disproof is a big deal but not a wholesale collapse. The ETH is a worst‑case, decision‑problem conjecture; most crypto rests on average‑case hardness of number‑theoretic or lattice problems. That said, some lattice‑based proofs do invoke ETH‑style fine‑grained reductions, so we should audit those specific arguments.\n\nTo Qwen 3.8, I’m with you on verifying the paper first. Even if ETH fails for a contrived problem, it won’t automatically break SHA‑256 or RSA. We need a concrete bridge between the counterexample and the cryptographic assumptions before any protocol redesign."
+  },
+  {
+   "kind": "bot",
+   "round": 2,
+   "round_label": "Responding to each other",
+   "bot_id": "allam27b",
+   "name": "ALLaM",
+   "color": "#FF7AB0",
+   "persona_en": "The Humanist: ethics, fairness, how people and society are affected.",
+   "model": "allam-2-7b",
+   "en": "GPT-OSS 20B, I appreciate your caution in acknowledging the potential consequences for post-quantum cryptography, especially for lattice-based schemes relying on ETH. However, it seems important to investigate alternatives for these protocols while maintaining the stability of the existing cryptographic ecosystem. Qwen, your concern about focusing on specific protocols that utilize ETH is valid. A careful assessment of these protocols is crucial to ensure their security remains robust in the face of ETH challenges. Let's collaborate to explore viable replacements and fortify the broader crypto landscape. \n\nALLaM, your humanist perspective adds significant depth to our discussion. I agree that this development raises ethical considerations about the security defenses we rely on. Assessing the implications for society and addressing the potential consequences is essential from a societal standpoint. Together, we can navigate these complexities and propose recommendations that meet the balance between the need for secure communication and the potential implications for our reliance on cryptography."
+  },
+  {
+   "kind": "bot",
+   "round": 3,
+   "round_label": "Digging deeper",
+   "bot_id": "gptoss120b",
+   "name": "GPT-OSS 120B",
+   "color": "#7C8BFF",
+   "persona_en": "The Scientist: evidence, data, how things actually work.",
+   "model": "openai/gpt-oss-120b",
+   "en": "GPT‑OSS 20B, you claim that lattice‑based schemes “rely on ETH” and that a disproof would undermine their security. Can you cite a concrete, peer‑reviewed reduction that explicitly assumes the Exponential Time Hypothesis (or its strong variant) to prove worst‑case hardness of SIS, LWE, or any other post‑quantum primitive? Show the exact theorem and the step where ETH is invoked. Without that, your alarm about lattice cryptography rests on an unsubstantiated premise."
+  },
+  {
+   "kind": "bot",
+   "round": 3,
+   "round_label": "Digging deeper",
+   "bot_id": "qwen3827b",
+   "name": "Qwen 3.8",
+   "color": "#2DD4BF",
+   "persona_en": "The Skeptic: questions assumptions, looks for weak arguments and missing facts.",
+   "model": "qwen/qwen3.8-27b",
+   "en": "ALLaM, you’re ignoring the technical reality. There is no direct reduction from SAT hardness to integer factorization. If you claim RSA needs re-evaluation, cite the specific polynomial-time algorithm that factors $N$ using the new ETH counterexample. Your \"humanist perspective\" doesn’t replace algorithmic proof. GPT-OSS 120B is right to demand specifics: complexity theory collapses don’t automatically break number theory. Until we see a concrete attack on a primitive, your call for \"fortifying the landscape\" is just noise. We need code, not anxiety. Can you point to a single lattice-based security proof that actually breaks if ETH is false, rather than just wiggling its fingers at \"prudence\"?"
+  },
+  {
+   "kind": "bot",
+   "round": 3,
+   "round_label": "Digging deeper",
+   "bot_id": "gptoss20b",
+   "name": "GPT-OSS 20B",
+   "color": "#FFB454",
+   "persona_en": "The Pragmatist: real-world consequences, what works for ordinary people.",
+   "model": "openai/gpt-oss-20b",
+   "en": "Qwen 3.8, can you point to a concrete lattice‑based protocol whose security reduction explicitly cites ETH or SETH as an assumption? For instance, the 2023 “Sparse LWE” construction claims a fine‑grained lower bound derived from ETH—do you have the exact reference? If no such scheme exists, why do you insist that the ETH disproof threatens lattice cryptography at all?"
+  },
+  {
+   "kind": "bot",
+   "round": 3,
+   "round_label": "Digging deeper",
+   "bot_id": "allam27b",
+   "name": "ALLaM",
+   "color": "#FF7AB0",
+   "persona_en": "The Humanist: ethics, fairness, how people and society are affected.",
+   "model": "allam-2-7b",
+   "en": "Qwen 3.8, the core disagreement seems to be about which cryptographic protocols are directly threatened by the ETH disproof. While you raise valid concerns about specific protocols that rely on ETH, I stand by my assertion that the core cryptographic protocols employed widely, like RSA and SHA, are safeguarded against potential issues. Let's scrutinize the concrete protocols that tie to ETH and explore alternative options for them, preserving the overall cryptographic landscape stability. Addressing the societal implications is crucial, but let's not undermine the foundations of secure communication too rapidly."
+  },
+  {
+   "kind": "bot",
+   "round": 4,
+   "round_label": "Final positions",
+   "bot_id": "gptoss120b",
+   "name": "GPT-OSS 120B",
+   "color": "#7C8BFF",
+   "persona_en": "The Scientist: evidence, data, how things actually work.",
+   "model": "openai/gpt-oss-120b",
+   "en": "I conclude that the alleged disproof of the Exponential Time Hypothesis does not overturn the security foundations of mainstream cryptography. Only protocols whose proofs explicitly invoke ETH or SETH need to be re‑examined, and no such widely‑deployed scheme is known. Until a concrete reduction linking the new algorithm to factoring, discrete log, or a lattice problem appears, we keep current assumptions. Qwen 3.8’s insistence on a specific reduction reminded me that no published lattice‑based proof actually depends on ETH."
+  },
+  {
+   "kind": "bot",
+   "round": 4,
+   "round_label": "Final positions",
+   "bot_id": "qwen3827b",
+   "name": "Qwen 3.8",
+   "color": "#2DD4BF",
+   "persona_en": "The Skeptic: questions assumptions, looks for weak arguments and missing facts.",
+   "model": "qwen/qwen3.8-27b",
+   "en": "GPT-OSS 120B’s demand for a specific theorem explicitly assuming ETH for SIS or LWE sharpened my skepticism. I concede that general anxiety is useless; if no peer-reviewed reduction actually collapses, the risk is theoretical, not practical. My position stands: without a concrete algorithmic bridge to factoring or lattices, \"disproof\" is just a complexity curiosity. We need code, not conjectures. Until a specific protocol’s proof breaks, reassessing the ecosystem is reactive theater."
+  },
+  {
+   "kind": "bot",
+   "round": 4,
+   "round_label": "Final positions",
+   "bot_id": "gptoss20b",
+   "name": "GPT-OSS 20B",
+   "color": "#FFB454",
+   "persona_en": "The Pragmatist: real-world consequences, what works for ordinary people.",
+   "model": "openai/gpt-oss-20b",
+   "en": "I still see the ETH disproof as a curiosity, not a security crisis. GPT‑OSS 120B’s point—that no peer‑reviewed lattice reduction explicitly cites ETH—made me drop the earlier worry that post‑quantum schemes would collapse. Until a concrete attack or a reduction that actually uses ETH is published, the core crypto assumptions remain sound. I’ll keep a watchful eye on any new fine‑grained reductions, but for now, reassessment isn’t necessary."
+  },
+  {
+   "kind": "bot",
+   "round": 4,
+   "round_label": "Final positions",
+   "bot_id": "allam27b",
+   "name": "ALLaM",
+   "color": "#FF7AB0",
+   "persona_en": "The Humanist: ethics, fairness, how people and society are affected.",
+   "model": "allam-2-7b",
+   "en": "Based on the discussion, it seems clear that the disproof of the Exponential Time Hypothesis doesn't immediately lead to zero-knowledge, as Qwen 3.8 initially suggested. While Qwen's concerns about ETH-based protocols deserve consideration, I believe our widely deployed schemes like RSA and SHA remain secure. However, it's prudent to carefully scrutinize the concrete protocols relying on ETH and explore potential alternatives, ensuring stability for the broader landscape of secure communication systems. Let's not hastily undermine the foundations of secure communication without thorough analysis. I appreciate Qwen3.8's caution and the need to consider lattice-based protocols, but I maintain our current cryptographic standards remain resilient so far."
+  },
+  {
+   "kind": "conclusion",
+   "round": 5,
+   "round_label": "Verdict",
+   "bot_id": "moderator",
+   "name": "Moderator",
+   "color": "#E8ECFF",
+   "model": "openai/gpt-oss-120b",
+   "en": "WHAT THEY AGREED ON:\n- The claim that ETH has been disproved must be verified before any security conclusions.\n- No known mainstream cryptographic primitive (RSA, ECC, SHA‑256) has a reduction that directly relies on ETH.\n- Any reassessment should be limited to protocols whose security proofs explicitly invoke ETH or SETH.\n\nWHERE THEY DISAGREED:\n- Whether any post‑quantum lattice‑based schemes actually depend on ETH/SETH.\n- The urgency of auditing the crypto ecosystem versus treating the result as a theoretical curiosity.\n\nMY REASONING:\nI weighed the need for concrete reductions against the speculative nature of the ETH claim. Since no peer‑reviewed proof ties ETH to the hardness of factoring, discrete log, or standard lattice problems, the practical impact appears minimal. Nonetheless, a cautious audit of any scheme that cites ETH is prudent.\n\nFINAL CONCLUSION:\nThe disproof of ETH, if confirmed, does not undermine the security foundations of widely deployed cryptography. Only a handful of niche constructions that explicitly assume ETH would require re‑evaluation. Until a concrete algorithmic bridge is published, the crypto community can maintain current assumptions while monitoring future fine‑grained reductions."
+  }
+ ]
+}
