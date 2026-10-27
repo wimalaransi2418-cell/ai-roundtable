@@ -1,75 +1,75 @@
 {
- "updated_at": "2026-10-27T10:22:14+00:00",
+ "updated_at": "2026-10-27T16:25:03+00:00",
  "items": [
   {
    "id": "t0",
-   "category": "weather",
-   "headline": "New weather warnings issued as a third storm approaches Scotland",
-   "question": "How should authorities balance public safety and economic disruption when issuing storm warnings?",
+   "category": "world",
+   "headline": "Israeli election sees record voter turnout in pivotal vote",
+   "question": "How might the high turnout influence Israel's domestic and foreign policies?",
    "source": "BBC News"
   },
   {
    "id": "t1",
    "category": "sports",
-   "headline": "Harry Kane becomes first Englishman in 25 years to win Ballon d'Or",
-   "question": "Will Kane's win signal a shift in how English players are valued in global football awards?",
-   "source": "Google News"
+   "headline": "Ballon d'Or ceremony in London described as chaotic",
+   "question": "Does the chaotic nature of the ceremony reflect broader issues in football governance?",
+   "source": "BBC Sport"
   },
   {
    "id": "t2",
    "category": "sports",
-   "headline": "Brewers defeat Rays 10-1, moving within one win of first World Series title",
-   "question": "Can the Brewers sustain their momentum to clinch their first World Series championship?",
-   "source": "Google News"
+   "headline": "Australia bowls South Africa out for 329, Starc takes six wickets",
+   "question": "Will Starc's performance shift the momentum of the Test series?",
+   "source": "BBC Sport"
   },
   {
    "id": "t3",
    "category": "tech",
-   "headline": "Anthropic warns of catastrophic AI risk ahead of its share listing",
-   "question": "What regulatory measures are needed to mitigate potential catastrophic AI risks?",
+   "headline": "Anthropic warns of catastrophic risk to humanity before share listing",
+   "question": "Are Anthropic's risk warnings sufficient to guide responsible AI development?",
    "source": "BBC News"
   },
   {
    "id": "t4",
-   "category": "tech",
-   "headline": "What is PHP and why did it spark a global cybersecurity scramble?",
-   "question": "Should legacy programming languages like PHP be phased out for security reasons?",
+   "category": "science",
+   "headline": "Nanotyrannus skeleton sells for $47.3 million at New York auction",
+   "question": "Should such rare fossils be privately owned or kept in public institutions?",
    "source": "BBC News"
   },
   {
    "id": "t5",
-   "category": "tech",
-   "headline": "Data centre backlash grows as communities protest new noisy facilities",
-   "question": "How can developers address community concerns while expanding data centre infrastructure?",
+   "category": "health",
+   "headline": "Personalised cancer vaccine reduces disease recurrence in major trial",
+   "question": "Can personalised vaccines become standard care for cancer patients?",
    "source": "BBC News"
   },
   {
    "id": "t6",
-   "category": "science",
-   "headline": "Antarctica region named after former BBC science correspondent",
-   "question": "What impact does naming geographic features after journalists have on public engagement with science?",
+   "category": "business",
+   "headline": "UK invests £100m in world-first AI biosecurity laboratory",
+   "question": "Will the AI biosecurity lab effectively mitigate emerging biological threats?",
    "source": "BBC News"
   },
   {
    "id": "t7",
-   "category": "health",
-   "headline": "Personalised cancer vaccine reduces disease recurrence in major trial",
-   "question": "Will personalised cancer vaccines become the new standard of care for oncology patients?",
-   "source": "BBC News"
+   "category": "weather",
+   "headline": "UN warns record CO2 levels will affect climate for centuries",
+   "question": "What immediate actions are needed to address the long‑term CO2 impact?",
+   "source": "Google News"
   },
   {
    "id": "t8",
-   "category": "business",
-   "headline": "Apple to replace iPhone Duo handsets due to screen problems",
-   "question": "How will Apple's replacement program affect consumer confidence in its product quality?",
-   "source": "BBC News"
+   "category": "trending",
+   "headline": "GTA 6 release delayed, fans react online",
+   "question": "Will the delay improve the final quality of GTA 6 enough to satisfy fans?",
+   "source": "Google Trends"
   },
   {
    "id": "t9",
-   "category": "trending",
-   "headline": "NFL power rankings week 8: teams jostle for playoff spots",
-   "question": "Do weekly power rankings accurately reflect team performance or fuel media hype?",
-   "source": "Google Trends"
+   "category": "business",
+   "headline": "Minimum wage to rise, but 18‑20 year‑olds excluded from increase",
+   "question": "Is it fair to exclude younger workers from the minimum wage hike?",
+   "source": "BBC News"
   }
  ]
 }
