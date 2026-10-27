@@ -1,74 +1,74 @@
 {
- "updated_at": "2026-10-26T23:44:36+00:00",
+ "updated_at": "2026-10-27T04:49:09+00:00",
  "items": [
   {
    "id": "t0",
    "category": "weather",
-   "headline": "New weather warnings issued as third storm approaches Scotland",
-   "question": "How should authorities balance public safety and economic disruption when issuing storm warnings?",
-   "source": "BBC News"
+   "headline": "Will Thanksgiving be snowy? Old Farmer’s Almanac releases forecast",
+   "question": "How reliable are long‑term holiday weather predictions for planning events?",
+   "source": "Google News"
   },
   {
    "id": "t1",
    "category": "sports",
-   "headline": "Putellas wins record-equalling third Ballon d'Or",
-   "question": "Does awarding the Ballon d'Or to Putellas reflect a shift towards greater recognition of women's football?",
+   "headline": "Harry Kane ends England’s 25‑year wait for a Ballon d’Or",
+   "question": "Does Kane’s award reflect his individual brilliance or England’s recent success?",
    "source": "BBC Sport"
   },
   {
    "id": "t2",
    "category": "sports",
-   "headline": "Kane's top Bundesliga goals highlighted after Ballon d'Or win",
-   "question": "Should individual goal compilations influence future Ballon d'Or voting?",
+   "headline": "Alexia Putellas wins a record‑equalling third Ballon d’Or",
+   "question": "What does Putellas’ third win say about the growth of women’s football?",
    "source": "BBC Sport"
   },
   {
    "id": "t3",
    "category": "tech",
-   "headline": "Anthropic's share listing reveals five surprising details",
-   "question": "Do the new details about Anthropic's listing suggest AI firms are becoming too influential?",
+   "headline": "Apple to replace iPhone Duo units due to screen problems",
+   "question": "Will Apple’s replacement program set a new standard for handling hardware flaws?",
    "source": "BBC News"
   },
   {
    "id": "t4",
    "category": "tech",
-   "headline": "UK pledges £100m for world‑first AI biosecurity laboratory",
-   "question": "Is government funding for AI biosecurity the most effective way to mitigate emerging risks?",
+   "headline": "Data centre backlash grows as noisy sites appear near towns",
+   "question": "How should communities balance the need for data infrastructure with local quality‑of‑life concerns?",
    "source": "BBC News"
   },
   {
    "id": "t5",
    "category": "science",
-   "headline": "Stunning photos showcase October's Hunter's Moon worldwide",
-   "question": "Do such celestial photography trends increase public interest in astronomy?",
+   "headline": "Storm Boelo leaves thousands without power, Met Office issues new wind warning",
+   "question": "Are current UK power grid resilience measures sufficient for increasingly severe storms?",
    "source": "BBC News"
   },
   {
    "id": "t6",
-   "category": "health",
-   "headline": "Personalised cancer vaccine cuts disease recurrence in major trial",
-   "question": "Will personalised cancer vaccines become standard care in the near future?",
+   "category": "science",
+   "headline": "Stunning photos capture October’s Hunter’s Moon worldwide",
+   "question": "Why do lunar phenomena like the Hunter’s Moon capture public imagination across cultures?",
    "source": "BBC News"
   },
   {
    "id": "t7",
-   "category": "business",
-   "headline": "Salon owners call for VAT cut to ease staffing pressures",
-   "question": "Could a VAT reduction for salons meaningfully improve employment in the sector?",
+   "category": "health",
+   "headline": "Personalised cancer vaccine reduces risk of disease recurrence in trial",
+   "question": "Can personalised vaccines become a standard part of cancer treatment protocols?",
    "source": "BBC News"
   },
   {
    "id": "t8",
-   "category": "trending",
-   "headline": "Wealth tax gains attention in trending discussions",
-   "question": "What are the potential economic impacts of implementing a wealth tax?",
-   "source": "Google Trends"
+   "category": "health",
+   "headline": "First human case of Shamonda virus identified in France",
+   "question": "What steps should health authorities take to monitor and contain emerging viruses like Shamonda?",
+   "source": "BBC News"
   },
   {
    "id": "t9",
-   "category": "world",
-   "headline": "Maxxing named Dictionary.com word of the year",
-   "question": "What does the popularity of 'maxxing' reveal about current cultural values?",
+   "category": "business",
+   "headline": "Explaining the UK Budget: key components and potential impacts",
+   "question": "Which Budget measures are likely to have the greatest effect on everyday citizens?",
    "source": "BBC News"
   }
  ]
