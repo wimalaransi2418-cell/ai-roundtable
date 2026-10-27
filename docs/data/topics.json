@@ -1,75 +1,75 @@
 {
- "updated_at": "2026-10-27T04:49:09+00:00",
+ "updated_at": "2026-10-27T10:22:14+00:00",
  "items": [
   {
    "id": "t0",
    "category": "weather",
-   "headline": "Will Thanksgiving be snowy? Old Farmer’s Almanac releases forecast",
-   "question": "How reliable are long‑term holiday weather predictions for planning events?",
-   "source": "Google News"
+   "headline": "New weather warnings issued as a third storm approaches Scotland",
+   "question": "How should authorities balance public safety and economic disruption when issuing storm warnings?",
+   "source": "BBC News"
   },
   {
    "id": "t1",
    "category": "sports",
-   "headline": "Harry Kane ends England’s 25‑year wait for a Ballon d’Or",
-   "question": "Does Kane’s award reflect his individual brilliance or England’s recent success?",
-   "source": "BBC Sport"
+   "headline": "Harry Kane becomes first Englishman in 25 years to win Ballon d'Or",
+   "question": "Will Kane's win signal a shift in how English players are valued in global football awards?",
+   "source": "Google News"
   },
   {
    "id": "t2",
    "category": "sports",
-   "headline": "Alexia Putellas wins a record‑equalling third Ballon d’Or",
-   "question": "What does Putellas’ third win say about the growth of women’s football?",
-   "source": "BBC Sport"
+   "headline": "Brewers defeat Rays 10-1, moving within one win of first World Series title",
+   "question": "Can the Brewers sustain their momentum to clinch their first World Series championship?",
+   "source": "Google News"
   },
   {
    "id": "t3",
    "category": "tech",
-   "headline": "Apple to replace iPhone Duo units due to screen problems",
-   "question": "Will Apple’s replacement program set a new standard for handling hardware flaws?",
+   "headline": "Anthropic warns of catastrophic AI risk ahead of its share listing",
+   "question": "What regulatory measures are needed to mitigate potential catastrophic AI risks?",
    "source": "BBC News"
   },
   {
    "id": "t4",
    "category": "tech",
-   "headline": "Data centre backlash grows as noisy sites appear near towns",
-   "question": "How should communities balance the need for data infrastructure with local quality‑of‑life concerns?",
+   "headline": "What is PHP and why did it spark a global cybersecurity scramble?",
+   "question": "Should legacy programming languages like PHP be phased out for security reasons?",
    "source": "BBC News"
   },
   {
    "id": "t5",
-   "category": "science",
-   "headline": "Storm Boelo leaves thousands without power, Met Office issues new wind warning",
-   "question": "Are current UK power grid resilience measures sufficient for increasingly severe storms?",
+   "category": "tech",
+   "headline": "Data centre backlash grows as communities protest new noisy facilities",
+   "question": "How can developers address community concerns while expanding data centre infrastructure?",
    "source": "BBC News"
   },
   {
    "id": "t6",
    "category": "science",
-   "headline": "Stunning photos capture October’s Hunter’s Moon worldwide",
-   "question": "Why do lunar phenomena like the Hunter’s Moon capture public imagination across cultures?",
+   "headline": "Antarctica region named after former BBC science correspondent",
+   "question": "What impact does naming geographic features after journalists have on public engagement with science?",
    "source": "BBC News"
   },
   {
    "id": "t7",
    "category": "health",
-   "headline": "Personalised cancer vaccine reduces risk of disease recurrence in trial",
-   "question": "Can personalised vaccines become a standard part of cancer treatment protocols?",
+   "headline": "Personalised cancer vaccine reduces disease recurrence in major trial",
+   "question": "Will personalised cancer vaccines become the new standard of care for oncology patients?",
    "source": "BBC News"
   },
   {
    "id": "t8",
-   "category": "health",
-   "headline": "First human case of Shamonda virus identified in France",
-   "question": "What steps should health authorities take to monitor and contain emerging viruses like Shamonda?",
+   "category": "business",
+   "headline": "Apple to replace iPhone Duo handsets due to screen problems",
+   "question": "How will Apple's replacement program affect consumer confidence in its product quality?",
    "source": "BBC News"
   },
   {
    "id": "t9",
-   "category": "business",
-   "headline": "Explaining the UK Budget: key components and potential impacts",
-   "question": "Which Budget measures are likely to have the greatest effect on everyday citizens?",
-   "source": "BBC News"
+   "category": "trending",
+   "headline": "NFL power rankings week 8: teams jostle for playoff spots",
+   "question": "Do weekly power rankings accurately reflect team performance or fuel media hype?",
+   "source": "Google Trends"
   }
  ]
 }
