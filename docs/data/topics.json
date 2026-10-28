@@ -1,74 +1,74 @@
 {
- "updated_at": "2026-10-27T21:12:40+00:00",
+ "updated_at": "2026-10-28T01:08:56+00:00",
  "items": [
   {
    "id": "t0",
    "category": "world",
-   "headline": "Norway and Finland leaders hold rare call with Putin",
-   "question": "What impact could a rare call between Norway, Finland and Putin have on regional security?",
+   "headline": "Ceasefire extended across Ukraine's Kherson region, officials say",
+   "question": "Will the extended ceasefire lead to a lasting peace in Kherson?",
    "source": "BBC News"
   },
   {
    "id": "t1",
-   "category": "world",
-   "headline": "Ceasefire extended across Ukraine's Kherson region, officials say",
-   "question": "How might extending the ceasefire in Kherson affect the broader conflict dynamics?",
+   "category": "tech",
+   "headline": "UK pledges £100 million for world‑first AI biosecurity laboratory",
+   "question": "How might a dedicated AI biosecurity lab change global disease prevention?",
    "source": "BBC News"
   },
   {
    "id": "t2",
-   "category": "sports",
-   "headline": "Man Utd stick with Carrick amid turbulent two days at Old Trafford",
-   "question": "Is retaining Carrick the right decision for Manchester United's short‑term stability?",
-   "source": "BBC Sport"
+   "category": "tech",
+   "headline": "Anthropic warns of catastrophic risk to humanity before share listing",
+   "question": "Are Anthropic's risk warnings sufficient to guide responsible AI development?",
+   "source": "BBC News"
   },
   {
    "id": "t3",
-   "category": "sports",
-   "headline": "Fleetwood‑Arsenal match paused for eight minutes due to drone",
-   "question": "Should stricter security measures be implemented to prevent drone disruptions at football matches?",
-   "source": "BBC Sport"
+   "category": "weather",
+   "headline": "Monsoon weather threatens Hawaii with potential flooding",
+   "question": "How should Hawaii prepare for the increased flooding risk from the monsoon?",
+   "source": "Google News"
   },
   {
    "id": "t4",
-   "category": "tech",
-   "headline": "Anthropic's blockbuster share listing reveals five surprising facts",
-   "question": "Do the new details about Anthropic's listing suggest a shift in AI industry competition?",
-   "source": "BBC News"
+   "category": "sports",
+   "headline": "Seahawks make major trade aimed at improving team performance",
+   "question": "Will the Seahawks' new trade significantly improve their chances this season?",
+   "source": "Google News"
   },
   {
    "id": "t5",
-   "category": "tech",
-   "headline": "Anthropic warns of catastrophic risk to humanity before share listing",
-   "question": "How should regulators respond to Anthropic's warning about catastrophic AI risk?",
-   "source": "BBC News"
+   "category": "sports",
+   "headline": "World Series Game 4 live updates: Brewers vs. Rays",
+   "question": "Which team has the momentum to win the World Series after Game 4?",
+   "source": "Google News"
   },
   {
    "id": "t6",
    "category": "science",
-   "headline": "Nanotyrannus skeleton sells for $47.3 million at New York auction",
-   "question": "Does the high price of the Nanotyrannus skeleton reflect its scientific value or market speculation?",
+   "headline": "NASA's Artemis III mission: goals and next steps explained",
+   "question": "What are the key scientific challenges remaining for Artemis III and beyond?",
    "source": "BBC News"
   },
   {
    "id": "t7",
    "category": "health",
-   "headline": "First personalised cancer vaccine cuts risk of disease return in major trial",
-   "question": "Can personalized cancer vaccines become a standard part of oncology treatment?",
+   "headline": "Personalised cancer vaccine reduces risk of disease recurrence in trial",
+   "question": "Can personalised cancer vaccines become standard treatment for all cancers?",
    "source": "BBC News"
   },
   {
    "id": "t8",
    "category": "business",
-   "headline": "Minimum wage to rise, but 18‑20 year‑olds excluded from larger increase",
-   "question": "Is excluding 18‑20 year‑olds from the minimum‑wage rise fair to young workers?",
+   "headline": "Minimum wage to rise, but 18‑20‑year‑olds see no increase",
+   "question": "Is it fair for the minimum wage increase to exclude 18‑20‑year‑olds?",
    "source": "BBC News"
   },
   {
    "id": "t9",
    "category": "trending",
-   "headline": "Garrett Wilson trending in online searches",
-   "question": "What factors are driving the surge in interest around Garrett Wilson right now?",
+   "headline": "Searches for Duncan Robinson surge on Google Trends",
+   "question": "What does the rising interest in Duncan Robinson reveal about NBA fan trends?",
    "source": "Google Trends"
   }
  ]
