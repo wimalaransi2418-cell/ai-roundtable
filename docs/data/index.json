@@ -1,6 +1,11 @@
 {
  "sessions": [
   {
+   "id": "20261028-0924",
+   "started_at": "2026-10-28T09:24:54+00:00",
+   "question_en": "Should the United States adopt Git as the primary platform for drafting, publishing, and maintaining its federal code?"
+  },
+  {
    "id": "20261027-1954",
    "started_at": "2026-10-27T19:54:36+00:00",
    "question_en": "Should AI developers be legally required to ensure that all training data is obtained with proper permission and licensing?"
