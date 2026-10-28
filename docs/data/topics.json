@@ -1,75 +1,75 @@
 {
- "updated_at": "2026-10-28T01:08:56+00:00",
+ "updated_at": "2026-10-28T08:16:52+00:00",
  "items": [
   {
    "id": "t0",
    "category": "world",
-   "headline": "Ceasefire extended across Ukraine's Kherson region, officials say",
-   "question": "Will the extended ceasefire lead to a lasting peace in Kherson?",
+   "headline": "Norway and Finland leaders hold rare call with Putin",
+   "question": "What impact could this unusual dialogue have on regional security dynamics?",
    "source": "BBC News"
   },
   {
    "id": "t1",
-   "category": "tech",
-   "headline": "UK pledges £100 million for world‑first AI biosecurity laboratory",
-   "question": "How might a dedicated AI biosecurity lab change global disease prevention?",
+   "category": "world",
+   "headline": "Egypt court fines journalist Lina Attalah and orders news site closure",
+   "question": "Does the court's action threaten press freedom in Egypt?",
    "source": "BBC News"
   },
   {
    "id": "t2",
    "category": "tech",
-   "headline": "Anthropic warns of catastrophic risk to humanity before share listing",
-   "question": "Are Anthropic's risk warnings sufficient to guide responsible AI development?",
+   "headline": "Search for stealthier drones intensifies amid concerns over surveillance",
+   "question": "Should stricter regulations be imposed on the development of quieter drones?",
    "source": "BBC News"
   },
   {
    "id": "t3",
-   "category": "weather",
-   "headline": "Monsoon weather threatens Hawaii with potential flooding",
-   "question": "How should Hawaii prepare for the increased flooding risk from the monsoon?",
-   "source": "Google News"
+   "category": "tech",
+   "headline": "Anthropic's share listing raises questions about AI company valuations",
+   "question": "Are current market valuations for AI firms like Anthropic sustainable long‑term?",
+   "source": "BBC News"
   },
   {
    "id": "t4",
-   "category": "sports",
-   "headline": "Seahawks make major trade aimed at improving team performance",
-   "question": "Will the Seahawks' new trade significantly improve their chances this season?",
-   "source": "Google News"
+   "category": "weather",
+   "headline": "Storm warning lifted as third storm eases off Scotland",
+   "question": "How can communities better prepare for successive storms like those hitting Scotland?",
+   "source": "BBC News"
   },
   {
    "id": "t5",
-   "category": "sports",
-   "headline": "World Series Game 4 live updates: Brewers vs. Rays",
-   "question": "Which team has the momentum to win the World Series after Game 4?",
-   "source": "Google News"
+   "category": "health",
+   "headline": "Consultant doctors in England plan to strike next month over pay",
+   "question": "Will the upcoming doctors' strike significantly affect patient care in England?",
+   "source": "BBC News"
   },
   {
    "id": "t6",
-   "category": "science",
-   "headline": "NASA's Artemis III mission: goals and next steps explained",
-   "question": "What are the key scientific challenges remaining for Artemis III and beyond?",
+   "category": "health",
+   "headline": "Personalised cancer vaccine shows promise in reducing disease recurrence",
+   "question": "Could personalized cancer vaccines become a standard part of oncology treatment?",
    "source": "BBC News"
   },
   {
    "id": "t7",
-   "category": "health",
-   "headline": "Personalised cancer vaccine reduces risk of disease recurrence in trial",
-   "question": "Can personalised cancer vaccines become standard treatment for all cancers?",
+   "category": "business",
+   "headline": "Potential budget measures: energy bill aid, minimum wage rise, bank taxes",
+   "question": "Which of the proposed budget measures would most effectively support low‑income households?",
    "source": "BBC News"
   },
   {
    "id": "t8",
-   "category": "business",
-   "headline": "Minimum wage to rise, but 18‑20‑year‑olds see no increase",
-   "question": "Is it fair for the minimum wage increase to exclude 18‑20‑year‑olds?",
-   "source": "BBC News"
+   "category": "sports",
+   "headline": "Rays win Game 4 in extra innings to stay alive in World Series",
+   "question": "What strategies should the Rays adopt to sustain momentum in the World Series?",
+   "source": "Google News"
   },
   {
    "id": "t9",
-   "category": "trending",
-   "headline": "Searches for Duncan Robinson surge on Google Trends",
-   "question": "What does the rising interest in Duncan Robinson reveal about NBA fan trends?",
-   "source": "Google Trends"
+   "category": "sports",
+   "headline": "NFL Week 8 snap count report highlights key player usage trends",
+   "question": "Do snap count trends this week indicate a shift in offensive strategies across the league?",
+   "source": "Google News"
   }
  ]
 }
