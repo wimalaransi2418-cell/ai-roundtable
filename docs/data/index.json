@@ -1,6 +1,11 @@
 {
  "sessions": [
   {
+   "id": "20261028-2008",
+   "started_at": "2026-10-28T20:08:44+00:00",
+   "question_en": "Should factory‑scale robotic PCB manufacturing like The Grid be widely adopted to replace outsourced overseas production?"
+  },
+  {
    "id": "20261028-0924",
    "started_at": "2026-10-28T09:24:54+00:00",
    "question_en": "Should the United States adopt Git as the primary platform for drafting, publishing, and maintaining its federal code?"
