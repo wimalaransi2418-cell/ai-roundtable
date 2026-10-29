@@ -1,6 +1,11 @@
 {
  "sessions": [
   {
+   "id": "20261029-0932",
+   "started_at": "2026-10-29T09:32:22+00:00",
+   "question_en": "Should large language models be employed to design and simulate hardware architectures, potentially replacing traditional engineering workflows?"
+  },
+  {
    "id": "20261028-2008",
    "started_at": "2026-10-28T20:08:44+00:00",
    "question_en": "Should factory‑scale robotic PCB manufacturing like The Grid be widely adopted to replace outsourced overseas production?"
