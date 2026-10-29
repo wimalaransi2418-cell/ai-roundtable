@@ -1,74 +1,74 @@
 {
- "updated_at": "2026-10-29T06:56:08+00:00",
+ "updated_at": "2026-10-29T14:07:09+00:00",
  "items": [
   {
    "id": "t0",
-   "category": "world",
-   "headline": "Cruise passengers stranded in Cambodia as fuel costs soar",
-   "question": "What measures should governments take to protect travelers when fuel prices disrupt voyages?",
-   "source": "BBC News"
+   "category": "weather",
+   "headline": "Mild temperatures expected with scattered rain showers",
+   "question": "Should residents adjust outdoor plans based on the forecasted rain?",
+   "source": "Google News"
   },
   {
    "id": "t1",
    "category": "sports",
-   "headline": "Fleetwood Town set to meet Everton or Newcastle in FA Cup quarterfinal",
-   "question": "Should the FA Cup draw be restructured to reduce travel burdens on lower‑league clubs?",
-   "source": "BBC Sport"
+   "headline": "Milwaukee Brewers plan 2026 World Series victory parade",
+   "question": "Will the parade boost local economy and community spirit?",
+   "source": "Google News"
   },
   {
    "id": "t2",
    "category": "sports",
-   "headline": "Arsenal defeat Benfica with a Russo hat‑trick",
-   "question": "Does relying on a single player’s scoring performance benefit a team’s long‑term success?",
-   "source": "BBC Sport"
+   "headline": "Rays fall short despite leading American League in 2026",
+   "question": "What factors contributed to the Rays' loss despite strong regular season performance?",
+   "source": "Google News"
   },
   {
    "id": "t3",
-   "category": "tech",
-   "headline": "Ofcom proposes new age‑verification methods for social‑media platforms",
-   "question": "Will mandatory age verification on social media effectively protect minors without harming user privacy?",
+   "category": "world",
+   "headline": "Canada-EU summit in Montreal aims to strengthen bilateral relations",
+   "question": "How can Canada and the EU deepen cooperation beyond trade?",
    "source": "BBC News"
   },
   {
    "id": "t4",
    "category": "tech",
-   "headline": "Apple announces replacement program for iPhone Duo screen issues",
-   "question": "Is a replacement program the best way for Apple to address widespread hardware defects?",
+   "headline": "Microsoft reports profit surge following major layoff announcement",
+   "question": "Do the profit gains justify the large-scale layoffs at Microsoft?",
    "source": "BBC News"
   },
   {
    "id": "t5",
-   "category": "science",
-   "headline": "Rapid construction puts 300,000 people in potential Himalayan disaster zones",
-   "question": "Should development in high‑risk mountain regions be limited to prevent disaster exposure?",
+   "category": "tech",
+   "headline": "Anthropic raises concerns about existential AI risks before IPO",
+   "question": "What regulatory steps are needed to mitigate AI's catastrophic risk?",
    "source": "BBC News"
   },
   {
    "id": "t6",
-   "category": "health",
-   "headline": "Personalised cancer vaccine shows promise in reducing disease recurrence",
-   "question": "Can personalised cancer vaccines become a standard part of oncology treatment?",
+   "category": "science",
+   "headline": "Water sector pollution persists despite £5bn environmental investment",
+   "question": "How effective are current investments in reducing water industry pollution?",
    "source": "BBC News"
   },
   {
    "id": "t7",
-   "category": "business",
-   "headline": "Four charts summarise the current state of the UK economy",
-   "question": "Do these economic indicators suggest the UK is heading towards growth or recession?",
+   "category": "health",
+   "headline": "Personalised cancer vaccine shows promise in reducing recurrence",
+   "question": "Can personalized vaccines become standard care for cancer patients?",
    "source": "BBC News"
   },
   {
    "id": "t8",
-   "category": "weather",
-   "headline": "ABC7 provides the latest weather forecast for the region",
-   "question": "How reliable are short‑term regional forecasts in helping residents prepare for extreme weather?",
-   "source": "Google News"
+   "category": "business",
+   "headline": "Poundland faces potential collapse amid financial struggles",
+   "question": "What strategies could rescue Poundland from bankruptcy?",
+   "source": "BBC News"
   },
   {
    "id": "t9",
    "category": "trending",
-   "headline": "GoFundMe platform sees surge in fundraising campaigns",
-   "question": "Are online crowdfunding platforms a sustainable solution for personal and community emergencies?",
+   "headline": "AI advances reshape theoretical computer science research",
+   "question": "Will AI fundamentally change the direction of theoretical computer science?",
    "source": "Google Trends"
   }
  ]
