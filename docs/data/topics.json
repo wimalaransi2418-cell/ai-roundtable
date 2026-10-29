@@ -1,74 +1,74 @@
 {
- "updated_at": "2026-10-29T00:46:16+00:00",
+ "updated_at": "2026-10-29T06:56:08+00:00",
  "items": [
   {
    "id": "t0",
-   "category": "weather",
-   "headline": "Record‑breaking high tides cause chaos and kayak commutes in California",
-   "question": "How should coastal cities adapt infrastructure to cope with increasingly extreme tides?",
-   "source": "Google News"
+   "category": "world",
+   "headline": "Cruise passengers stranded in Cambodia as fuel costs soar",
+   "question": "What measures should governments take to protect travelers when fuel prices disrupt voyages?",
+   "source": "BBC News"
   },
   {
    "id": "t1",
    "category": "sports",
-   "headline": "World Series Game 5 lineups announced for Brewers vs Rays",
-   "question": "Will the starting pitchers' recent performances give the Brewers an edge in Game 5?",
-   "source": "Google News"
+   "headline": "Fleetwood Town set to meet Everton or Newcastle in FA Cup quarterfinal",
+   "question": "Should the FA Cup draw be restructured to reduce travel burdens on lower‑league clubs?",
+   "source": "BBC Sport"
   },
   {
    "id": "t2",
    "category": "sports",
-   "headline": "Recent surge in NBA injuries raises concerns about player health",
-   "question": "Are current NBA scheduling and training practices contributing to the rise in injuries?",
-   "source": "Google News"
+   "headline": "Arsenal defeat Benfica with a Russo hat‑trick",
+   "question": "Does relying on a single player’s scoring performance benefit a team’s long‑term success?",
+   "source": "BBC Sport"
   },
   {
    "id": "t3",
-   "category": "world",
-   "headline": "Luxury cruise passengers stranded in Cambodia due to rising fuel costs",
-   "question": "Should cruise lines be required to provide clearer contingency plans for fuel price spikes?",
+   "category": "tech",
+   "headline": "Ofcom proposes new age‑verification methods for social‑media platforms",
+   "question": "Will mandatory age verification on social media effectively protect minors without harming user privacy?",
    "source": "BBC News"
   },
   {
    "id": "t4",
    "category": "tech",
-   "headline": "Microsoft reports $36.6 bn profit and offers buyouts to a quarter of its workforce",
-   "question": "Do large buyout offers signal a shift toward more flexible staffing in tech giants?",
+   "headline": "Apple announces replacement program for iPhone Duo screen issues",
+   "question": "Is a replacement program the best way for Apple to address widespread hardware defects?",
    "source": "BBC News"
   },
   {
    "id": "t5",
-   "category": "tech",
-   "headline": "Anthropic's share listing reveals five surprising insights about the AI firm",
-   "question": "What do Anthropic's listing details suggest about the future competitive landscape of AI?",
+   "category": "science",
+   "headline": "Rapid construction puts 300,000 people in potential Himalayan disaster zones",
+   "question": "Should development in high‑risk mountain regions be limited to prevent disaster exposure?",
    "source": "BBC News"
   },
   {
    "id": "t6",
-   "category": "science",
-   "headline": "NASA's Artemis III mission aims to return humans to the Moon; what's next?",
-   "question": "Is the Artemis program a sustainable path toward a permanent lunar presence?",
+   "category": "health",
+   "headline": "Personalised cancer vaccine shows promise in reducing disease recurrence",
+   "question": "Can personalised cancer vaccines become a standard part of oncology treatment?",
    "source": "BBC News"
   },
   {
    "id": "t7",
-   "category": "health",
-   "headline": "Personalised cancer vaccine cuts recurrence risk in major clinical trial",
-   "question": "Can personalized cancer vaccines become a standard part of oncology treatment?",
+   "category": "business",
+   "headline": "Four charts summarise the current state of the UK economy",
+   "question": "Do these economic indicators suggest the UK is heading towards growth or recession?",
    "source": "BBC News"
   },
   {
    "id": "t8",
-   "category": "business",
-   "headline": "Four charts summarise the current state of the UK economy",
-   "question": "Do the latest economic indicators point to a short‑term recovery or deeper challenges for the UK?",
-   "source": "BBC News"
+   "category": "weather",
+   "headline": "ABC7 provides the latest weather forecast for the region",
+   "question": "How reliable are short‑term regional forecasts in helping residents prepare for extreme weather?",
+   "source": "Google News"
   },
   {
    "id": "t9",
    "category": "trending",
-   "headline": "Google Trends shows rising interest in 'thunder vs mavericks'",
-   "question": "What factors are driving the recent spike in searches comparing Thunder and Mavericks?",
+   "headline": "GoFundMe platform sees surge in fundraising campaigns",
+   "question": "Are online crowdfunding platforms a sustainable solution for personal and community emergencies?",
    "source": "Google Trends"
   }
  ]
