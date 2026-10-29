@@ -1,74 +1,74 @@
 {
- "updated_at": "2026-10-29T14:07:09+00:00",
+ "updated_at": "2026-10-29T20:11:15+00:00",
  "items": [
   {
    "id": "t0",
    "category": "weather",
-   "headline": "Mild temperatures expected with scattered rain showers",
-   "question": "Should residents adjust outdoor plans based on the forecasted rain?",
+   "headline": "NYC Marathon forecast predicts warmer-than-usual temperatures",
+   "question": "How might the warmer forecast affect runners' performance and safety?",
    "source": "Google News"
   },
   {
    "id": "t1",
    "category": "sports",
-   "headline": "Milwaukee Brewers plan 2026 World Series victory parade",
-   "question": "Will the parade boost local economy and community spirit?",
+   "headline": "Dream defeat Valkyries to force Game 7 in WNBA Finals",
+   "question": "Will the momentum shift favor the Dream in the decisive Game 7?",
    "source": "Google News"
   },
   {
    "id": "t2",
    "category": "sports",
-   "headline": "Rays fall short despite leading American League in 2026",
-   "question": "What factors contributed to the Rays' loss despite strong regular season performance?",
+   "headline": "Details emerge on Milwaukee Brewers' 2026 World Series victory parade",
+   "question": "Should the city allocate additional resources for the parade to manage crowds?",
    "source": "Google News"
   },
   {
    "id": "t3",
    "category": "world",
-   "headline": "Canada-EU summit in Montreal aims to strengthen bilateral relations",
-   "question": "How can Canada and the EU deepen cooperation beyond trade?",
+   "headline": "EU leader outlines vision for enhanced EU-Canada partnership at Montreal summit",
+   "question": "What are the potential benefits and challenges of deepening EU-Canada ties?",
    "source": "BBC News"
   },
   {
    "id": "t4",
    "category": "tech",
-   "headline": "Microsoft reports profit surge following major layoff announcement",
-   "question": "Do the profit gains justify the large-scale layoffs at Microsoft?",
+   "headline": "Ofcom proposes age verification methods before under-16 social media ban",
+   "question": "Are the proposed age‑check methods effective and privacy‑respecting?",
    "source": "BBC News"
   },
   {
    "id": "t5",
-   "category": "tech",
-   "headline": "Anthropic raises concerns about existential AI risks before IPO",
-   "question": "What regulatory steps are needed to mitigate AI's catastrophic risk?",
+   "category": "science",
+   "headline": "Rain brings relief to Indonesian firefighters battling wildfires",
+   "question": "Will the recent rain provide lasting relief or just a temporary pause in the wildfire crisis?",
    "source": "BBC News"
   },
   {
    "id": "t6",
-   "category": "science",
-   "headline": "Water sector pollution persists despite £5bn environmental investment",
-   "question": "How effective are current investments in reducing water industry pollution?",
+   "category": "health",
+   "headline": "Personalised cancer vaccine reduces recurrence risk in major trial",
+   "question": "Could personalised vaccines become standard care for cancer survivors?",
    "source": "BBC News"
   },
   {
    "id": "t7",
-   "category": "health",
-   "headline": "Personalised cancer vaccine shows promise in reducing recurrence",
-   "question": "Can personalized vaccines become standard care for cancer patients?",
+   "category": "business",
+   "headline": "DoorDash announces $17bn acquisition of Instacart",
+   "question": "Will the DoorDash‑Instacart merger improve grocery delivery options for consumers?",
    "source": "BBC News"
   },
   {
    "id": "t8",
-   "category": "business",
-   "headline": "Poundland faces potential collapse amid financial struggles",
-   "question": "What strategies could rescue Poundland from bankruptcy?",
-   "source": "BBC News"
+   "category": "trending",
+   "headline": "William Shatner trends online amid recent media coverage",
+   "question": "What recent events have sparked renewed interest in William Shatner?",
+   "source": "Google Trends"
   },
   {
    "id": "t9",
    "category": "trending",
-   "headline": "AI advances reshape theoretical computer science research",
-   "question": "Will AI fundamentally change the direction of theoretical computer science?",
+   "headline": "Joe Buck trends as fans discuss his recent broadcasting decisions",
+   "question": "How have Joe Buck's recent commentary choices impacted viewer perception?",
    "source": "Google Trends"
   }
  ]
