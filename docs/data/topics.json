@@ -1,74 +1,74 @@
 {
- "updated_at": "2026-10-30T00:47:04+00:00",
+ "updated_at": "2026-10-30T06:58:52+00:00",
  "items": [
   {
    "id": "t0",
-   "category": "world",
-   "headline": "EU chief outlines vision for new Canada partnership at Montreal summit",
-   "question": "How might this partnership reshape economic ties between the EU and Canada?",
-   "source": "BBC News"
+   "category": "weather",
+   "headline": "Stormy weather could hit key states on Election Day, forecasters predict",
+   "question": "How should voters prepare for potential disruptions caused by severe weather on Election Day?",
+   "source": "Google News"
   },
   {
    "id": "t1",
-   "category": "tech",
-   "headline": "Google's market value drops $500bn as AI concerns unsettle investors",
-   "question": "Will AI-related risks lead to lasting changes in tech company valuations?",
-   "source": "BBC News"
+   "category": "sports",
+   "headline": "Packers hold on for 27-19 win over Panthers in Thursday Night Football",
+   "question": "Does the Packers' narrow win indicate a stronger team outlook for the rest of the season?",
+   "source": "Google News"
   },
   {
    "id": "t2",
-   "category": "science",
-   "headline": "Water industry pollution stays high despite £5bn investment",
-   "question": "What additional measures are needed to reduce water industry pollution effectively?",
-   "source": "BBC News"
+   "category": "sports",
+   "headline": "Christian Watson makes stunning return for Packers after hospital stay",
+   "question": "What impact will Christian Watson's return have on the Packers' offensive strategy?",
+   "source": "Google News"
   },
   {
    "id": "t3",
-   "category": "health",
-   "headline": "Hundreds of GP practices lose online services after tech firm collapse",
-   "question": "How can the NHS safeguard digital services against future tech failures?",
+   "category": "world",
+   "headline": "Syrians face soaring prices as crisis hampers post‑Assad recovery",
+   "question": "What policies could most effectively alleviate the cost‑of‑living crisis in Syria?",
    "source": "BBC News"
   },
   {
    "id": "t4",
-   "category": "health",
-   "headline": "Personalised cancer vaccine cuts risk of disease returning in major trial",
-   "question": "Could personalised vaccines become standard treatment for cancer patients?",
+   "category": "tech",
+   "headline": "Ofcom outlines age‑check methods ahead of under‑16 social‑media ban",
+   "question": "Are age‑verification systems sufficient to protect minors online, or is a ban necessary?",
    "source": "BBC News"
   },
   {
    "id": "t5",
-   "category": "business",
-   "headline": "US interest rates held steady as economy grows: implications for consumers",
-   "question": "What impact will steady rates have on inflation and household spending?",
+   "category": "tech",
+   "headline": "The search for stealthier drones intensifies amid privacy concerns",
+   "question": "Should stricter regulations be imposed on drone development to safeguard privacy?",
    "source": "BBC News"
   },
   {
    "id": "t6",
-   "category": "weather",
-   "headline": "Polar vortex outlook: maps and updates for winter 2026/27",
-   "question": "How might the upcoming polar vortex affect energy demand across North America?",
-   "source": "Google News"
+   "category": "science",
+   "headline": "Water industry pollution stays high despite £5bn investment",
+   "question": "What additional measures are needed to reduce water‑industry pollution beyond current investments?",
+   "source": "BBC News"
   },
   {
    "id": "t7",
-   "category": "sports",
-   "headline": "Zverev clinches world No.1 ranking after latest tournament win",
-   "question": "Will Zverev's rise to No.1 change the dynamics of men's tennis?",
-   "source": "BBC Sport"
+   "category": "science",
+   "headline": "Nanotyrannus skeleton sells for $47.3m at New York auction",
+   "question": "Does the high price of the Nanotyrannus skeleton reflect its scientific value or market hype?",
+   "source": "BBC News"
   },
   {
    "id": "t8",
-   "category": "sports",
-   "headline": "PSG scores late to hold off struggling Manchester City",
-   "question": "Can PSG maintain momentum after this comeback against Manchester City?",
-   "source": "BBC Sport"
+   "category": "health",
+   "headline": "Experts say food waste could provide the biggest boost to dietary fibre",
+   "question": "Can turning food waste into fibre supplements realistically improve public nutrition?",
+   "source": "BBC News"
   },
   {
    "id": "t9",
    "category": "trending",
-   "headline": "Ebola outbreak resurfaces, prompting global health alerts",
-   "question": "What steps should the international community take to prevent a wider Ebola spread?",
+   "headline": "Stock futures surge as investors react to latest economic data",
+   "question": "Are current stock‑future trends a reliable indicator of the broader economy's health?",
    "source": "Google Trends"
   }
  ]
