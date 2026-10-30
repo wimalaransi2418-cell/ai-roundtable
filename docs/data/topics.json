@@ -1,75 +1,75 @@
 {
- "updated_at": "2026-10-30T19:08:39+00:00",
+ "updated_at": "2026-10-30T23:37:01+00:00",
  "items": [
   {
    "id": "t0",
    "category": "world",
-   "headline": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
-   "source": "BBC News",
-   "question": "What do you make of this story: Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea?"
+   "headline": "US authorizes sale of 500 Patriot missiles to Ukraine",
+   "question": "How might this missile sale affect the ongoing conflict in Ukraine?",
+   "source": "BBC News"
   },
   {
    "id": "t1",
    "category": "world",
-   "headline": "Hundreds evacuated from Russian-occupied Oleshky during rare Ukraine ceasefire",
-   "source": "BBC News",
-   "question": "What do you make of this story: Hundreds evacuated from Russian-occupied Oleshky during rare Ukraine ceasefire?"
+   "headline": "Founder alleges Russian newspaper closed due to government pressure",
+   "question": "What does this closure indicate about press freedom in Russia?",
+   "source": "BBC News"
   },
   {
    "id": "t2",
-   "category": "world",
-   "headline": "Spain transport minister says he won't resign over high-speed rail disaster",
-   "source": "BBC News",
-   "question": "What do you make of this story: Spain transport minister says he won't resign over high-speed rail disaster?"
+   "category": "tech",
+   "headline": "US tech stocks drop sharply as AI spending approaches $1 trillion",
+   "question": "Will high AI investment sustain long‑term growth for tech companies?",
+   "source": "BBC News"
   },
   {
    "id": "t3",
-   "category": "world",
-   "headline": "US tech stocks see sharp falls as AI spending nears $1tn",
-   "source": "BBC News",
-   "question": "What do you make of this story: US tech stocks see sharp falls as AI spending nears $1tn?"
+   "category": "tech",
+   "headline": "Ofcom proposes age‑verification methods before under‑16 social media ban",
+   "question": "Are age‑check systems effective in protecting minors online?",
+   "source": "BBC News"
   },
   {
    "id": "t4",
-   "category": "sports",
-   "headline": "What Howe could bring to Man Utd - and what are the challenges?",
-   "source": "BBC Sport",
-   "question": "What do you make of this story: What Howe could bring to Man Utd - and what are the challenges??"
+   "category": "science",
+   "headline": "Largest woodland bat survey highlights AI's role in conservation",
+   "question": "Can AI-driven surveys replace traditional wildlife monitoring methods?",
+   "source": "BBC News"
   },
   {
    "id": "t5",
-   "category": "sports",
-   "headline": "From her own Barbie doll to bench - how Ellie Kildunne slipped from Red Roses' XV",
-   "source": "BBC Sport",
-   "question": "What do you make of this story: From her own Barbie doll to bench - how Ellie Kildunne slipped from Red Roses' XV?"
+   "category": "health",
+   "headline": "Experts say food waste could provide a major boost to dietary fibre",
+   "question": "Should governments promote using food scraps to increase public fibre intake?",
+   "source": "BBC News"
   },
   {
    "id": "t6",
-   "category": "sports",
-   "headline": "Arteta warns Dowman 'we are not in Disneyland' after red card",
-   "source": "BBC Sport",
-   "question": "What do you make of this story: Arteta warns Dowman 'we are not in Disneyland' after red card?"
+   "category": "business",
+   "headline": "Poundland's evolution from market stall to high‑street retail giant",
+   "question": "What strategies were key to Poundland's rapid expansion?",
+   "source": "BBC News"
   },
   {
    "id": "t7",
-   "category": "sports",
-   "headline": "Sutton's predictions v Bad Day At The Office star John Hannah",
-   "source": "BBC Sport",
-   "question": "What do you make of this story: Sutton's predictions v Bad Day At The Office star John Hannah?"
+   "category": "weather",
+   "headline": "Cross‑country storm expected to hit 35 states with rain, snow through Halloween",
+   "question": "How prepared are affected regions for the upcoming widespread storm?",
+   "source": "Google News"
   },
   {
    "id": "t8",
-   "category": "tech",
-   "headline": "US tech stocks see sharp falls as AI spending nears $1tn",
-   "source": "BBC News",
-   "question": "What do you make of this story: US tech stocks see sharp falls as AI spending nears $1tn?"
+   "category": "sports",
+   "headline": "2026 NFL trade deadline: key positions and potential moves for all teams",
+   "question": "Which teams are most likely to make impactful trades before the deadline?",
+   "source": "Google News"
   },
   {
    "id": "t9",
-   "category": "tech",
-   "headline": "Who could be behind the Binance hack and what we know so far",
-   "source": "BBC News",
-   "question": "What do you make of this story: Who could be behind the Binance hack and what we know so far?"
+   "category": "sports",
+   "headline": "Boxing analysts predict outcomes for upcoming Canelo vs. Mbilli fight",
+   "question": "Who has the tactical edge in the upcoming Canelo‑Mbilli matchup?",
+   "source": "Google News"
   }
  ]
 }
