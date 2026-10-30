@@ -1,74 +1,74 @@
 {
- "updated_at": "2026-10-29T20:11:15+00:00",
+ "updated_at": "2026-10-30T00:47:04+00:00",
  "items": [
   {
    "id": "t0",
-   "category": "weather",
-   "headline": "NYC Marathon forecast predicts warmer-than-usual temperatures",
-   "question": "How might the warmer forecast affect runners' performance and safety?",
-   "source": "Google News"
+   "category": "world",
+   "headline": "EU chief outlines vision for new Canada partnership at Montreal summit",
+   "question": "How might this partnership reshape economic ties between the EU and Canada?",
+   "source": "BBC News"
   },
   {
    "id": "t1",
-   "category": "sports",
-   "headline": "Dream defeat Valkyries to force Game 7 in WNBA Finals",
-   "question": "Will the momentum shift favor the Dream in the decisive Game 7?",
-   "source": "Google News"
+   "category": "tech",
+   "headline": "Google's market value drops $500bn as AI concerns unsettle investors",
+   "question": "Will AI-related risks lead to lasting changes in tech company valuations?",
+   "source": "BBC News"
   },
   {
    "id": "t2",
-   "category": "sports",
-   "headline": "Details emerge on Milwaukee Brewers' 2026 World Series victory parade",
-   "question": "Should the city allocate additional resources for the parade to manage crowds?",
-   "source": "Google News"
+   "category": "science",
+   "headline": "Water industry pollution stays high despite £5bn investment",
+   "question": "What additional measures are needed to reduce water industry pollution effectively?",
+   "source": "BBC News"
   },
   {
    "id": "t3",
-   "category": "world",
-   "headline": "EU leader outlines vision for enhanced EU-Canada partnership at Montreal summit",
-   "question": "What are the potential benefits and challenges of deepening EU-Canada ties?",
+   "category": "health",
+   "headline": "Hundreds of GP practices lose online services after tech firm collapse",
+   "question": "How can the NHS safeguard digital services against future tech failures?",
    "source": "BBC News"
   },
   {
    "id": "t4",
-   "category": "tech",
-   "headline": "Ofcom proposes age verification methods before under-16 social media ban",
-   "question": "Are the proposed age‑check methods effective and privacy‑respecting?",
+   "category": "health",
+   "headline": "Personalised cancer vaccine cuts risk of disease returning in major trial",
+   "question": "Could personalised vaccines become standard treatment for cancer patients?",
    "source": "BBC News"
   },
   {
    "id": "t5",
-   "category": "science",
-   "headline": "Rain brings relief to Indonesian firefighters battling wildfires",
-   "question": "Will the recent rain provide lasting relief or just a temporary pause in the wildfire crisis?",
+   "category": "business",
+   "headline": "US interest rates held steady as economy grows: implications for consumers",
+   "question": "What impact will steady rates have on inflation and household spending?",
    "source": "BBC News"
   },
   {
    "id": "t6",
-   "category": "health",
-   "headline": "Personalised cancer vaccine reduces recurrence risk in major trial",
-   "question": "Could personalised vaccines become standard care for cancer survivors?",
-   "source": "BBC News"
+   "category": "weather",
+   "headline": "Polar vortex outlook: maps and updates for winter 2026/27",
+   "question": "How might the upcoming polar vortex affect energy demand across North America?",
+   "source": "Google News"
   },
   {
    "id": "t7",
-   "category": "business",
-   "headline": "DoorDash announces $17bn acquisition of Instacart",
-   "question": "Will the DoorDash‑Instacart merger improve grocery delivery options for consumers?",
-   "source": "BBC News"
+   "category": "sports",
+   "headline": "Zverev clinches world No.1 ranking after latest tournament win",
+   "question": "Will Zverev's rise to No.1 change the dynamics of men's tennis?",
+   "source": "BBC Sport"
   },
   {
    "id": "t8",
-   "category": "trending",
-   "headline": "William Shatner trends online amid recent media coverage",
-   "question": "What recent events have sparked renewed interest in William Shatner?",
-   "source": "Google Trends"
+   "category": "sports",
+   "headline": "PSG scores late to hold off struggling Manchester City",
+   "question": "Can PSG maintain momentum after this comeback against Manchester City?",
+   "source": "BBC Sport"
   },
   {
    "id": "t9",
    "category": "trending",
-   "headline": "Joe Buck trends as fans discuss his recent broadcasting decisions",
-   "question": "How have Joe Buck's recent commentary choices impacted viewer perception?",
+   "headline": "Ebola outbreak resurfaces, prompting global health alerts",
+   "question": "What steps should the international community take to prevent a wider Ebola spread?",
    "source": "Google Trends"
   }
  ]
