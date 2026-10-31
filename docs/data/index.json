@@ -1,6 +1,11 @@
 {
  "sessions": [
   {
+   "id": "20261031-0923",
+   "started_at": "2026-10-31T09:23:37+00:00",
+   "question_en": "Should developers be allowed to create and distribute tools that bypass CAPTCHA systems like Cloudflare Turnstile?"
+  },
+  {
    "id": "20261030-1953",
    "started_at": "2026-10-30T19:53:42+00:00",
    "question_en": "Should AI chat assistants be required to explicitly disclose when they refuse a user request due to policy or safety reasons?"
