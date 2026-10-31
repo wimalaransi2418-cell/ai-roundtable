@@ -1,6 +1,11 @@
 {
  "sessions": [
   {
+   "id": "20261031-1910",
+   "started_at": "2026-10-31T19:10:15+00:00",
+   "question_en": "Should the widespread use of generative AI in education be limited to preserve students' critical thinking skills?"
+  },
+  {
    "id": "20261031-0923",
    "started_at": "2026-10-31T09:23:37+00:00",
    "question_en": "Should developers be allowed to create and distribute tools that bypass CAPTCHA systems like Cloudflare Turnstile?"
