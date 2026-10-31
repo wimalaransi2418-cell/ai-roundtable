@@ -1,74 +1,74 @@
 {
- "updated_at": "2026-10-31T17:37:46+00:00",
+ "updated_at": "2026-10-31T21:23:15+00:00",
  "items": [
   {
    "id": "t0",
-   "category": "world",
-   "headline": "Ukrainian evacuees reunite with families after years in occupied city",
-   "question": "What long‑term support should be provided to families displaced by conflict?",
-   "source": "BBC News"
+   "category": "weather",
+   "headline": "Pineapple Express threatens floods in California and the Southwest",
+   "question": "What measures should local authorities take to mitigate flood risks from the Pineapple Express?",
+   "source": "Google News"
   },
   {
    "id": "t1",
-   "category": "world",
-   "headline": "Global nature summit secures agreement, funding gaps persist",
-   "question": "How can the international community ensure sufficient financing for biodiversity commitments?",
-   "source": "BBC News"
+   "category": "sports",
+   "headline": "Martinez's 'inexplicable' 83 seconds cost Man Utd and Carrick",
+   "question": "Should a single moment of poor performance be blamed for a team's broader struggles?",
+   "source": "BBC Sport"
   },
   {
    "id": "t2",
    "category": "sports",
-   "headline": "Chelsea defeat Manchester United in tightly contested Premier League match",
-   "question": "Should disciplinary standards be stricter to prevent match‑impacting red cards?",
-   "source": "Google News"
+   "headline": "Verbruggen spreads belief as Brighton continue to impress",
+   "question": "Can Brighton's recent form be sustained to challenge for top league positions?",
+   "source": "BBC Sport"
   },
   {
    "id": "t3",
-   "category": "sports",
-   "headline": "College football experts predict potential upsets for Ohio State and Georgia",
-   "question": "What factors most influence upset predictions in college football?",
-   "source": "Google News"
+   "category": "world",
+   "headline": "Ethiopian PM puts ministers through military training",
+   "question": "What are the implications of military training for civilian ministers in Ethiopia?",
+   "source": "BBC News"
   },
   {
    "id": "t4",
-   "category": "weather",
-   "headline": "Halloween forecast calls for scattered showers across regions",
-   "question": "How should outdoor Halloween events adapt to unpredictable autumn weather?",
-   "source": "Google News"
+   "category": "tech",
+   "headline": "Google value plunges $500bn as its AI search impacts ad sales",
+   "question": "Will AI-driven search fundamentally reshape online advertising revenue models?",
+   "source": "BBC News"
   },
   {
    "id": "t5",
    "category": "tech",
-   "headline": "Google market value drops $500 bn amid AI‑driven ad revenue decline",
-   "question": "Will AI integration ultimately boost or hurt major tech companies' advertising models?",
+   "headline": "Why North Korea's elite hackers are prime suspect in major Binance hack",
+   "question": "How credible is the attribution of the Binance hack to North Korean state actors?",
    "source": "BBC News"
   },
   {
    "id": "t6",
    "category": "science",
-   "headline": "AI aids largest woodland bat survey, highlighting conservation benefits",
-   "question": "Can AI become a standard tool for wildlife monitoring worldwide?",
+   "headline": "Largest woodland bat survey showcases AI for good",
+   "question": "How can AI-driven wildlife surveys improve conservation efforts globally?",
    "source": "BBC News"
   },
   {
    "id": "t7",
    "category": "health",
-   "headline": "Experts suggest food waste scraps could significantly increase dietary fibre",
-   "question": "Should public health guidelines promote using food waste for fibre intake?",
+   "headline": "Experts say biggest fibre boost could come from food scraps",
+   "question": "Should waste-derived fibre become a mainstream dietary recommendation?",
    "source": "BBC News"
   },
   {
    "id": "t8",
    "category": "business",
-   "headline": "Poundland's evolution from market stall to high‑street retail leader",
-   "question": "What strategies are most effective for discount retailers expanding nationally?",
+   "headline": "How Poundland grew from a market stall to a high street giant",
+   "question": "What key strategies enabled Poundland's rapid expansion in the retail market?",
    "source": "BBC News"
   },
   {
    "id": "t9",
    "category": "trending",
-   "headline": "Zendaya tops recent Google Trends, reflecting rising public interest",
-   "question": "How do celebrity trends influence broader cultural conversations online?",
+   "headline": "76ers vs Hornets matchup draws online interest",
+   "question": "Which factors will most influence the outcome of the 76ers-Hornets game?",
    "source": "Google Trends"
   }
  ]
