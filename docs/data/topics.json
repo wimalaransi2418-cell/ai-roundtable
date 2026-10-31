@@ -1,75 +1,75 @@
 {
- "updated_at": "2026-10-30T23:37:01+00:00",
+ "updated_at": "2026-10-31T05:20:00+00:00",
  "items": [
   {
    "id": "t0",
-   "category": "world",
-   "headline": "US authorizes sale of 500 Patriot missiles to Ukraine",
-   "question": "How might this missile sale affect the ongoing conflict in Ukraine?",
-   "source": "BBC News"
+   "category": "weather",
+   "headline": "Halloween weather forecast across regions",
+   "question": "How might the predicted Halloween weather affect local celebrations?",
+   "source": "Google News"
   },
   {
    "id": "t1",
-   "category": "world",
-   "headline": "Founder alleges Russian newspaper closed due to government pressure",
-   "question": "What does this closure indicate about press freedom in Russia?",
-   "source": "BBC News"
+   "category": "sports",
+   "headline": "England defeats USA in international soccer match",
+   "question": "What factors contributed most to England's victory over the USA?",
+   "source": "BBC Sport"
   },
   {
    "id": "t2",
-   "category": "tech",
-   "headline": "US tech stocks drop sharply as AI spending approaches $1 trillion",
-   "question": "Will high AI investment sustain long‑term growth for tech companies?",
-   "source": "BBC News"
+   "category": "sports",
+   "headline": "South Africa vs Australia cricket final preview",
+   "question": "Which team is more likely to win based on recent form and historical matchups?",
+   "source": "BBC Sport"
   },
   {
    "id": "t3",
-   "category": "tech",
-   "headline": "Ofcom proposes age‑verification methods before under‑16 social media ban",
-   "question": "Are age‑check systems effective in protecting minors online?",
+   "category": "world",
+   "headline": "Global nature summit reaches agreement, funding still uncertain",
+   "question": "What mechanisms could ensure sufficient financing for the nature deal?",
    "source": "BBC News"
   },
   {
    "id": "t4",
-   "category": "science",
-   "headline": "Largest woodland bat survey highlights AI's role in conservation",
-   "question": "Can AI-driven surveys replace traditional wildlife monitoring methods?",
+   "category": "tech",
+   "headline": "Google's market value drops $500bn after AI search impacts ad revenue",
+   "question": "Will AI-driven search fundamentally reshape online advertising models?",
    "source": "BBC News"
   },
   {
    "id": "t5",
-   "category": "health",
-   "headline": "Experts say food waste could provide a major boost to dietary fibre",
-   "question": "Should governments promote using food scraps to increase public fibre intake?",
+   "category": "science",
+   "headline": "AI assists largest woodland bat survey to date",
+   "question": "How can AI improve wildlife monitoring beyond this bat survey?",
    "source": "BBC News"
   },
   {
    "id": "t6",
-   "category": "business",
-   "headline": "Poundland's evolution from market stall to high‑street retail giant",
-   "question": "What strategies were key to Poundland's rapid expansion?",
+   "category": "science",
+   "headline": "Water industry pollution stays high despite £5bn investment",
+   "question": "What additional measures are needed to reduce water industry pollution effectively?",
    "source": "BBC News"
   },
   {
    "id": "t7",
-   "category": "weather",
-   "headline": "Cross‑country storm expected to hit 35 states with rain, snow through Halloween",
-   "question": "How prepared are affected regions for the upcoming widespread storm?",
-   "source": "Google News"
+   "category": "health",
+   "headline": "Experts suggest food waste can boost dietary fibre intake",
+   "question": "How feasible is it for consumers to increase fibre by using food waste?",
+   "source": "BBC News"
   },
   {
    "id": "t8",
-   "category": "sports",
-   "headline": "2026 NFL trade deadline: key positions and potential moves for all teams",
-   "question": "Which teams are most likely to make impactful trades before the deadline?",
-   "source": "Google News"
+   "category": "business",
+   "headline": "Poundland's evolution from market stall to high-street chain",
+   "question": "What strategies were key to Poundland's rapid expansion?",
+   "source": "BBC News"
   },
   {
    "id": "t9",
-   "category": "sports",
-   "headline": "Boxing analysts predict outcomes for upcoming Canelo vs. Mbilli fight",
-   "question": "Who has the tactical edge in the upcoming Canelo‑Mbilli matchup?",
-   "source": "Google News"
+   "category": "trending",
+   "headline": "Stephen Curry's latest performance sparks discussion",
+   "question": "How does Stephen Curry's recent play influence the NBA's competitive balance?",
+   "source": "Google Trends"
   }
  ]
 }
