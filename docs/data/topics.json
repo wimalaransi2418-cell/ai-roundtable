@@ -1,75 +1,75 @@
 {
- "updated_at": "2026-10-31T05:20:00+00:00",
+ "updated_at": "2026-10-31T12:10:15+00:00",
  "items": [
   {
    "id": "t0",
    "category": "weather",
-   "headline": "Halloween weather forecast across regions",
-   "question": "How might the predicted Halloween weather affect local celebrations?",
-   "source": "Google News"
+   "headline": "Fog warning raises hazardous driving conditions for Friday",
+   "question": "How should authorities balance timely warnings with preventing driver panic?",
+   "source": "BBC News"
   },
   {
    "id": "t1",
    "category": "sports",
-   "headline": "England defeats USA in international soccer match",
-   "question": "What factors contributed most to England's victory over the USA?",
+   "headline": "Verstappen and Lawson receive grid penalties after Mexico practice clash",
+   "question": "Should grid penalties be applied for practice incidents, or reserved for race events?",
    "source": "BBC Sport"
   },
   {
    "id": "t2",
    "category": "sports",
-   "headline": "South Africa vs Australia cricket final preview",
-   "question": "Which team is more likely to win based on recent form and historical matchups?",
+   "headline": "British player Dart reaches first WTA Tour singles final",
+   "question": "What factors most influence a player's breakthrough to a first major final?",
    "source": "BBC Sport"
   },
   {
    "id": "t3",
    "category": "world",
-   "headline": "Global nature summit reaches agreement, funding still uncertain",
-   "question": "What mechanisms could ensure sufficient financing for the nature deal?",
+   "headline": "Global nature talks secure a deal, but financing remains uncertain",
+   "question": "What mechanisms can ensure sufficient funding for international climate agreements?",
    "source": "BBC News"
   },
   {
    "id": "t4",
    "category": "tech",
-   "headline": "Google's market value drops $500bn after AI search impacts ad revenue",
-   "question": "Will AI-driven search fundamentally reshape online advertising models?",
+   "headline": "US tech stocks tumble as AI spending approaches $1 trillion",
+   "question": "Is the rapid rise in AI investment sustainable for the broader economy?",
    "source": "BBC News"
   },
   {
    "id": "t5",
    "category": "science",
-   "headline": "AI assists largest woodland bat survey to date",
-   "question": "How can AI improve wildlife monitoring beyond this bat survey?",
+   "headline": "Largest woodland bat survey showcases AI's potential for conservation",
+   "question": "Can AI-driven wildlife surveys replace traditional field research effectively?",
    "source": "BBC News"
   },
   {
    "id": "t6",
-   "category": "science",
-   "headline": "Water industry pollution stays high despite £5bn investment",
-   "question": "What additional measures are needed to reduce water industry pollution effectively?",
+   "category": "health",
+   "headline": "Experts suggest boosting fibre intake using food waste scraps",
+   "question": "Is incorporating food waste into diets a viable strategy for public health?",
    "source": "BBC News"
   },
   {
    "id": "t7",
-   "category": "health",
-   "headline": "Experts suggest food waste can boost dietary fibre intake",
-   "question": "How feasible is it for consumers to increase fibre by using food waste?",
+   "category": "business",
+   "headline": "Poundland's evolution from market stall to high‑street giant",
+   "question": "What key strategies enabled Poundland's successful expansion?",
    "source": "BBC News"
   },
   {
    "id": "t8",
-   "category": "business",
-   "headline": "Poundland's evolution from market stall to high-street chain",
-   "question": "What strategies were key to Poundland's rapid expansion?",
-   "source": "BBC News"
+   "category": "trending",
+   "headline": "Google Trends shows rising searches for Jonathan Taylor",
+   "question": "What drives the recent surge in interest around Jonathan Taylor?",
+   "source": "Google Trends"
   },
   {
    "id": "t9",
-   "category": "trending",
-   "headline": "Stephen Curry's latest performance sparks discussion",
-   "question": "How does Stephen Curry's recent play influence the NBA's competitive balance?",
-   "source": "Google Trends"
+   "category": "tech",
+   "headline": "Ofcom proposes age‑check methods ahead of under‑16 social media ban",
+   "question": "Will mandatory age checks effectively protect minors online without infringing privacy?",
+   "source": "BBC News"
   }
  ]
 }
