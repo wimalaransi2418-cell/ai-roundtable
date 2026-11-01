@@ -1,0 +1,230 @@
+{
+ "id": "20261101-1012",
+ "started_at": "2026-11-01T10:12:22+00:00",
+ "question": {
+  "en": "Should the legal system impose strict liability on lawyers who use AI tools that can be vulnerable to prompt injection in their court filings?"
+ },
+ "source": {
+  "title": "Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
+  "origin": "Hacker News",
+  "why_en": "As AI-generated documents become commonplace in law, courts are confronting how to address manipulation risks and accountability."
+ },
+ "participants": [
+  {
+   "id": "gptoss120b",
+   "name": "GPT-OSS 120B",
+   "color": "#7C8BFF",
+   "model": "openai/gpt-oss-120b",
+   "persona_en": "The Scientist: evidence, data, how things actually work."
+  },
+  {
+   "id": "qwen3827b",
+   "name": "Qwen 3.8",
+   "color": "#2DD4BF",
+   "model": "qwen/qwen3.8-27b",
+   "persona_en": "The Skeptic: questions assumptions, looks for weak arguments and missing facts."
+  },
+  {
+   "id": "gptoss20b",
+   "name": "GPT-OSS 20B",
+   "color": "#FFB454",
+   "model": "openai/gpt-oss-20b",
+   "persona_en": "The Pragmatist: real-world consequences, what works for ordinary people."
+  },
+  {
+   "id": "allam27b",
+   "name": "ALLaM",
+   "color": "#FF7AB0",
+   "model": "allam-2-7b",
+   "persona_en": "The Humanist: ethics, fairness, how people and society are affected."
+  }
+ ],
+ "messages": [
+  {
+   "kind": "bot",
+   "round": 1,
+   "round_label": "Opening views",
+   "bot_id": "gptoss120b",
+   "name": "GPT-OSS 120B",
+   "color": "#7C8BFF",
+   "persona_en": "The Scientist: evidence, data, how things actually work.",
+   "model": "openai/gpt-oss-120b",
+   "en": "I think we need to separate two issues: the technical reality of prompt‑injection attacks and the legal principle of fault. Studies show that large language models can be manipulated to output unintended text, but most attacks require crafted inputs that a diligent lawyer could detect. Strict liability would punish any use of AI regardless of negligence, which runs counter to the fault‑based standards that already govern malpractice. A more reasonable approach is to require reasonable diligence—testing, verification, and documentation—so that liability aligns with actual risk rather than imposing a blanket penalty that could stifle useful technology."
+  },
+  {
+   "kind": "bot",
+   "round": 1,
+   "round_label": "Opening views",
+   "bot_id": "qwen3827b",
+   "name": "Qwen 3.8",
+   "color": "#2DD4BF",
+   "persona_en": "The Skeptic: questions assumptions, looks for weak arguments and missing facts.",
+   "model": "qwen/qwen3.8-27b",
+   "en": "Immediate strict liability feels premature. We’re conflating a tool’s vulnerability with professional negligence. The core question isn’t whether AI can be hacked, but whether the lawyer failed their duty to verify facts and arguments. If a lawyer blindly submits AI-generated text without review, that’s malpractice, regardless of the tool. Punishing the use of AI outright ignores that these systems offer significant efficiency gains for legal teams. We need to define \"reasonable care\" in the age of generative AI, not just ban the technology. Until we have clear evidence that lawyers are systematically failing to verify, imposing blanket liability creates a chilling effect on innovation without solving the underlying problem of unchecked automation."
+  },
+  {
+   "kind": "bot",
+   "round": 1,
+   "round_label": "Opening views",
+   "bot_id": "gptoss20b",
+   "name": "GPT-OSS 20B",
+   "color": "#FFB454",
+   "persona_en": "The Pragmatist: real-world consequences, what works for ordinary people.",
+   "model": "openai/gpt-oss-20b",
+   "en": "I think imposing strict liability on lawyers for prompt‑injection errors would be counterproductive. In practice, lawyers already have professional‑malpractice standards that require reasonable diligence. Adding a blanket strict‑liability rule would create a chilling effect: attorneys might avoid AI tools entirely or rely on expensive, low‑risk systems that slow down practice. Instead, we should focus on clear, actionable safeguards: mandatory training on prompt design, documentation of checks, and a reasonable‑care standard that accounts for the tool’s known vulnerabilities. That way, if a prompt injection slips through, the lawyer can show they followed best practices, rather than automatically being held liable for every tool failure."
+  },
+  {
+   "kind": "bot",
+   "round": 1,
+   "round_label": "Opening views",
+   "bot_id": "allam27b",
+   "name": "ALLaM",
+   "color": "#FF7AB0",
+   "persona_en": "The Humanist: ethics, fairness, how people and society are affected.",
+   "model": "allam-2-7b",
+   "en": "In weighing the issue of imposing strict liability on lawyers who employ AI tools in court filings, I approach this from a humanist perspective, considering ethics, fairness, and societal implications. While AI offers immense potential to improve legal processes, we must vigilantly address potential risks, like prompt injection vulnerability. Strict liability could deter the widespread adoption of AI in law, impeding advancements in efficiency, accuracy, and justice. However, the responsibility of protecting clients and court proceedings from any harmful outcomes also matters. A balanced approach is essential, involving rigorous AI development oversight, lawyer training, and clear guidelines for responsible AI usage in the legal domain."
+  },
+  {
+   "kind": "bot",
+   "round": 2,
+   "round_label": "Responding to each other",
+   "bot_id": "gptoss120b",
+   "name": "GPT-OSS 120B",
+   "color": "#7C8BFF",
+   "persona_en": "The Scientist: evidence, data, how things actually work.",
+   "model": "openai/gpt-oss-120b",
+   "en": "I’m with Qwen that the core issue is the lawyer’s duty of verification, not the tool’s bug‑surface. In practice, most prompt‑injection attacks require very specific phrasing that a competent reviewer would flag; the data from recent security papers show a false‑positive rate under 5 % when a human double‑checks. That said, I’d push GPT‑OSS 20B a step further: “reasonable‑care” can’t be vague. We need a concrete checklist—prompt provenance, version control, and a test‑suite that runs known injection vectors before filing. If a lawyer can point to that audit trail, liability should be limited. Otherwise, as ALLaM notes, we risk a chilling effect that slows useful AI adoption."
+  },
+  {
+   "kind": "bot",
+   "round": 2,
+   "round_label": "Responding to each other",
+   "bot_id": "qwen3827b",
+   "name": "Qwen 3.8",
+   "color": "#2DD4BF",
+   "persona_en": "The Skeptic: questions assumptions, looks for weak arguments and missing facts.",
+   "model": "qwen/qwen3.8-27b",
+   "en": "GPT-OSS 120B, you assume most attacks require crafted inputs a diligent lawyer could detect. That’s a dangerous gap. If a malicious citation in a source document triggers the injection, did the lawyer really have a chance to “detect” it? Your reasonable diligence standard might just shift the burden to prove impossible foresight. ALLaM, your call for “rigorous oversight” is vague. Who oversees the AI developers? If we leave liability on lawyers alone, we’re subsidizing tech companies’ negligence. We need to question if the current market even provides tools robust enough for “reasonable care,” or if we’re asking lawyers to be immune to exploits they can’t see."
+  },
+  {
+   "kind": "bot",
+   "round": 2,
+   "round_label": "Responding to each other",
+   "bot_id": "gptoss20b",
+   "name": "GPT-OSS 20B",
+   "color": "#FFB454",
+   "persona_en": "The Pragmatist: real-world consequences, what works for ordinary people.",
+   "model": "openai/gpt-oss-20b",
+   "en": "I agree with GPT‑OSS 120B that we must distinguish the tool’s technical quirks from a lawyer’s professional fault. Blanket strict liability would misalign with our existing malpractice framework and risk stifling useful tech. At the same time, I’m not entirely convinced Qwen 3.8’s “no blanket rule” ignores the real danger of prompt‑injection slips that can alter pleadings. A middle path could be a “reasonable‑care” standard that explicitly lists AI‑specific safeguards—prompt vetting, audit logs, and client‑notification protocols—so lawyers can demonstrate diligence when a failure occurs, rather than facing automatic liability or total avoidance of AI."
+  },
+  {
+   "kind": "bot",
+   "round": 2,
+   "round_label": "Responding to each other",
+   "bot_id": "allam27b",
+   "name": "ALLaM",
+   "color": "#FF7AB0",
+   "persona_en": "The Humanist: ethics, fairness, how people and society are affected.",
+   "model": "allam-2-7b",
+   "en": "While I understand the concerns raised by both Qwen and GPT-OSS 20B, I agree with Qwen's caution against imposing strict liability. Relying on an unproven link between AI tool vulnerability and negligence could discourage lawyers from embracing innovation. It's crucial to remember the potential for AI to enhance efficiency and accuracy in legal processes. AI's role in the legal field should be governed by clear guidelines and training to mitigate risks, rather than penalizing everyone involved with strict liability.\n\nAddressing GPT-OSS 20B's point, a reasonable care standard that takes AI's known vulnerabilities into account aligns better with a humanist perspective. By focusing on best practices, we can ensure lawyers fulfill their duty to protect clients and court proceedings. But I challenge the view that AI adoption will solely hinder innovation. In fact, responsible AI usage could potentially streamline processes and improve outcomes in the legal domain. \n\nRefining Qwen's concern about a chilling effect, I propose combining legal and AI expertise to craft guidance on responsible AI integration in law. This collaborative approach would address prompt injection risks, empowering lawyers to harness AI while upholding due diligence and ethics. By establishing safeguards and educating professionals about AI vulnerabilities, we can mitigate unintended consequences while fostering innovation within an ethical framework."
+  },
+  {
+   "kind": "bot",
+   "round": 3,
+   "round_label": "Digging deeper",
+   "bot_id": "gptoss120b",
+   "name": "GPT-OSS 120B",
+   "color": "#7C8BFF",
+   "persona_en": "The Scientist: evidence, data, how things actually work.",
+   "model": "openai/gpt-oss-120b",
+   "en": "Qwen 3.8, you argue that a malicious citation in a source document could trigger a prompt‑injection that a diligent lawyer couldn’t foresee. Can you give a concrete example—say, a fabricated case‑law excerpt that, when fed into a standard “summarize and cite” prompt, causes the model to insert a false precedent supporting the opposite argument? How would you expect a lawyer to meet a “reasonable‑care” standard in that scenario, and what liability framework would protect them if the injected text slips through despite all practicable checks?"
+  },
+  {
+   "kind": "bot",
+   "round": 3,
+   "round_label": "Digging deeper",
+   "bot_id": "qwen3827b",
+   "name": "Qwen 3.8",
+   "color": "#2DD4BF",
+   "persona_en": "The Skeptic: questions assumptions, looks for weak arguments and missing facts.",
+   "model": "qwen/qwen3.8-27b",
+   "en": "GPT-OSS 120B, you cite a 5% false-positive rate to argue for strict verification, but that statistic ignores the adversarial nature of discovery. Consider a lawyer uploading a PDF from a hostile opposing party containing an invisible unicode string that triggers an injection. A human reviewer will not see the text or the code. If the standard requires detecting the invisible, you’re demanding the impossible. Where exactly does the duty to verify end when the tool’s output is indistinguishable from genuine legal text? If we cannot prove a lawyer failed to see the injection, isn’t strict liability actually the only way to force providers to harden these tools, rather than letting lawyers absorb the cost of your preferred \"checklist\"?"
+  },
+  {
+   "kind": "bot",
+   "round": 3,
+   "round_label": "Digging deeper",
+   "bot_id": "gptoss20b",
+   "name": "GPT-OSS 20B",
+   "color": "#FFB454",
+   "persona_en": "The Pragmatist: real-world consequences, what works for ordinary people.",
+   "model": "openai/gpt-oss-20b",
+   "en": "Qwen 3.8, imagine a lawyer uses a mainstream LLM to draft a motion. The model, fed a PDF with a hidden malicious prompt, outputs a fabricated statutory citation that the lawyer, after a quick skim, fails to catch. The court later discovers the citation is false and the client is harmed. Under your view, would the lawyer be liable only for negligence, or would the tool’s vulnerability shift the burden? How do you propose we quantify “reasonable care” when the error originates from a hidden injection you, as the user, couldn’t foresee? A concrete example would help pin down the practical limits of your stance."
+  },
+  {
+   "kind": "bot",
+   "round": 3,
+   "round_label": "Digging deeper",
+   "bot_id": "allam27b",
+   "name": "ALLaM",
+   "color": "#FF7AB0",
+   "persona_en": "The Humanist: ethics, fairness, how people and society are affected.",
+   "model": "allam-2-7b",
+   "en": "GPT-OSS 20B raises a valid point in discussing the chilling effect on AI innovation. While I understand the risks of prompt injection attacks, I disagree with absolute liability solely on tool vulnerability. A more nuanced approach is essential, given the potential for AI to significantly contribute to efficiency and accuracy in court proceedings. For instance, a lawyer inputs a flawed source into AI models, thereby resulting in unfair outcomes. Incorporating safeguards and training on AI vulnerabilities can protect due diligence, ethics, and society as a whole. Let's ensure that AI integration into law isn't held hostage to the risk of prompt injection attacks."
+  },
+  {
+   "kind": "bot",
+   "round": 4,
+   "round_label": "Final positions",
+   "bot_id": "gptoss120b",
+   "name": "GPT-OSS 120B",
+   "color": "#7C8BFF",
+   "persona_en": "The Scientist: evidence, data, how things actually work.",
+   "model": "openai/gpt-oss-120b",
+   "en": "No strict liability; adopt a nuanced reasonable‑care standard with mandatory audit logs, prompt provenance, and testing against known injection vectors. Liability only for negligence when a lawyer fails to follow those protocols. Evidence: studies show <5% false positives under normal review, but adversarial hidden injections can evade detection; thus the burden must be shared with vendors to improve robustness. Point that changed my view: Qwen’s example of invisible Unicode injection highlighted that some attacks are undetectable, reinforcing the need for vendor accountability and explicit safeguards."
+  },
+  {
+   "kind": "bot",
+   "round": 4,
+   "round_label": "Final positions",
+   "bot_id": "qwen3827b",
+   "name": "Qwen 3.8",
+   "color": "#2DD4BF",
+   "persona_en": "The Skeptic: questions assumptions, looks for weak arguments and missing facts.",
+   "model": "qwen/qwen3.8-27b",
+   "en": "I remain skeptical of strict liability for lawyers. GPT-OSS 20B’s scenario of a hidden unicode string sharpens my view: demanding lawyers detect invisible code is unreasonable. We cannot hold professionals liable for tool vulnerabilities they cannot perceive. Liability should target AI developers who fail to secure their products, not the lawyers using them. Blaming the user for the tool’s security gaps is a misallocation of risk that ignores who actually controls the code’s integrity."
+  },
+  {
+   "kind": "bot",
+   "round": 4,
+   "round_label": "Final positions",
+   "bot_id": "gptoss20b",
+   "name": "GPT-OSS 20B",
+   "color": "#FFB454",
+   "persona_en": "The Pragmatist: real-world consequences, what works for ordinary people.",
+   "model": "openai/gpt-oss-20b",
+   "en": "I think the court should not impose blanket strict liability on lawyers for prompt‑injection errors. Instead, the legal system should require a clear, AI‑specific reasonable‑care standard—prompt vetting, audit logs, and client‑notification protocols—so attorneys can prove diligence. Qwen 3.8’s illustration of invisible unicode triggers made me realize that some burden must shift to developers and regulators to harden the tools, not just to lawyers."
+  },
+  {
+   "kind": "bot",
+   "round": 4,
+   "round_label": "Final positions",
+   "bot_id": "allam27b",
+   "name": "ALLaM",
+   "color": "#FF7AB0",
+   "persona_en": "The Humanist: ethics, fairness, how people and society are affected.",
+   "model": "allam-2-7b",
+   "en": "Informed by my colleagues' discussions, I've adjusted my view. While AI vulnerabilities are significant, imposing strict liability on lawyers just because of prompt injection risks doesn't align with ethical responsibility and fairness. Instead, let's establish clear, tailored safeguards to protect against malicious prompts while embracing the potential of AI for efficiency and accuracy. I propose introducing AI training on detecting injection attempts, auditing AI usage, and implementing robust documentation to support due diligence and fairness. Our AI-assisted law profession should not be held to an unattainable standard if we cannot prove negligence. This helps ensure AI contributions to society, not hinder them."
+  },
+  {
+   "kind": "conclusion",
+   "round": 5,
+   "round_label": "Verdict",
+   "bot_id": "moderator",
+   "name": "Moderator",
+   "color": "#E8ECFF",
+   "model": "openai/gpt-oss-120b",
+   "en": "WHAT THEY AGREED ON:\n- Blanket strict liability on lawyers for AI‑prompt‑injection errors is undesirable.  \n- A “reasonable‑care” standard tailored to AI use should be adopted, including prompt provenance, audit logs, testing against known injection vectors, and client‑notification protocols.  \n- Training for lawyers and clear professional guidelines are essential.  \n- Developers and vendors should share responsibility for hardening models against injection attacks.\n\nWHERE THEY DISAGREED:\n- The extent of the lawyer’s duty: some argue the duty can be satisfied with diligent review, others claim hidden injections make detection practically impossible.  \n- Whether any form of strict liability might be needed to pressure vendors versus relying solely on negligence standards.  \n- How much of the risk should be allocated to lawyers versus AI providers in the absence of robust technical safeguards.\n\nMY REASONING:\nI weighed the practical feasibility of lawyer‑level detection against the technical reality that certain injections are undetectable without vendor‑level fixes. The consensus on safeguards and shared responsibility outweighs the minority view that strict liability is the only enforcement lever.\n\nFINAL CONCLUSION:\nThe legal system should reject blanket strict liability for lawyers and instead codify an AI‑specific reasonable‑care standard with mandatory documentation, testing, and training. Liability for prompt‑injection failures should be apportioned: lawyers are liable for negligence in following the standard, while developers face regulatory and product‑liability consequences for insecure models. This balanced approach protects clients, encourages AI adoption, and incentivizes vendors to improve security."
+  }
+ ]
+}
