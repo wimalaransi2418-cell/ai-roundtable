@@ -1,74 +1,74 @@
 {
- "updated_at": "2026-11-01T07:22:06+00:00",
+ "updated_at": "2026-11-01T14:57:35+00:00",
  "items": [
   {
    "id": "t0",
    "category": "weather",
-   "headline": "Dry and seasonable weather continues as we head into November",
-   "question": "How might the mild November weather affect agricultural planning and energy demand?",
-   "source": "Google News"
+   "headline": "UK could see ten consecutive days without rain after a record‑wet week",
+   "question": "What could be the short‑ and long‑term impacts of an extended dry spell on the UK’s agriculture and water management?",
+   "source": "BBC News"
   },
   {
    "id": "t1",
    "category": "sports",
-   "headline": "Chelsea defeat Manchester United to increase pressure on manager Carrick",
-   "question": "Will Chelsea's victory signal a turning point in their season performance?",
+   "headline": "Chelsea defeat ten‑man Manchester United, increasing pressure on manager Carrick",
+   "question": "Will this victory be enough to secure Carrick’s position as Chelsea’s manager?",
    "source": "BBC Sport"
   },
   {
    "id": "t2",
    "category": "sports",
-   "headline": "Evanilson scores as Bournemouth secure win over Leeds United",
-   "question": "Can Bournemouth's recent win indicate a sustained improvement in their league standing?",
+   "headline": "Brighton achieve first away league win over Manchester City",
+   "question": "Does Brighton’s away win signal a shift in the Premier League power balance?",
    "source": "BBC Sport"
   },
   {
    "id": "t3",
-   "category": "world",
-   "headline": "Ukrainian evacuees reunite with families after years in occupied city",
-   "question": "What long‑term support should be provided to evacuees returning from conflict zones?",
+   "category": "tech",
+   "headline": "Google’s market value drops $500bn as AI‑driven search cuts ad revenue",
+   "question": "Can Google’s AI search model sustain its profitability without traditional ad income?",
    "source": "BBC News"
   },
   {
    "id": "t4",
    "category": "tech",
-   "headline": "US tech stocks fall sharply as AI spending approaches $1 trillion",
-   "question": "Is the rapid increase in AI investment justified given the recent market downturn?",
+   "headline": "US tech stocks tumble as AI investment approaches $1 trillion",
+   "question": "Is the rapid rise in AI spending creating a sustainable growth trajectory for the tech sector?",
    "source": "BBC News"
   },
   {
    "id": "t5",
-   "category": "science",
-   "headline": "Rare beetle species rediscovered in Wales after 60-year absence",
-   "question": "What does the rediscovery of the beetle suggest about biodiversity monitoring in the UK?",
+   "category": "tech",
+   "headline": "Obscure firms stoke fears of an AI bubble burst",
+   "question": "Are concerns about an AI bubble justified, or are they overstated hype?",
    "source": "BBC News"
   },
   {
    "id": "t6",
-   "category": "health",
-   "headline": "Experts say food waste could provide a major boost to dietary fibre",
-   "question": "Should governments promote food‑waste recycling as a strategy to improve public health?",
+   "category": "science",
+   "headline": "Rare beetle rediscovered in Wales after a 60‑year absence",
+   "question": "What does the beetle’s return indicate about biodiversity monitoring in the UK?",
    "source": "BBC News"
   },
   {
    "id": "t7",
-   "category": "business",
-   "headline": "Poundland's growth: from market stall to high‑street retail giant",
-   "question": "What factors most contributed to Poundland's successful expansion into the high street?",
+   "category": "science",
+   "headline": "Global nature summit reaches agreement, but financing remains uncertain",
+   "question": "Will the lack of clear funding jeopardize the implementation of the nature deal?",
    "source": "BBC News"
   },
   {
    "id": "t8",
-   "category": "trending",
-   "headline": "Public curiosity spikes: When will GTA 6 be released?",
-   "question": "How will the release timing of GTA 6 impact the future of open‑world gaming?",
-   "source": "Google Trends"
+   "category": "health",
+   "headline": "Experts suggest household waste could become a major source of dietary fibre",
+   "question": "Is turning food waste into fibre a viable strategy for public health nutrition?",
+   "source": "BBC News"
   },
   {
    "id": "t9",
    "category": "business",
-   "headline": "Binance seeks to recover $6.3 bn lost in hack allegedly linked to North Korea",
-   "question": "What regulatory measures could better protect crypto exchanges from large‑scale hacks?",
+   "headline": "From market stall to high‑street chain: the rise of Poundland",
+   "question": "What factors have driven Poundland’s rapid expansion in the discount retail market?",
    "source": "BBC News"
   }
  ]
