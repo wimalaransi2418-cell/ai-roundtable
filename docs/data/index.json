@@ -1,6 +1,11 @@
 {
  "sessions": [
   {
+   "id": "20261101-1925",
+   "started_at": "2026-11-01T19:25:03+00:00",
+   "question_en": "Should AI-driven diagnostic tools be widely adopted for the early detection of Lewy body dementia?"
+  },
+  {
    "id": "20261101-1012",
    "started_at": "2026-11-01T10:12:22+00:00",
    "question_en": "Should the legal system impose strict liability on lawyers who use AI tools that can be vulnerable to prompt injection in their court filings?"
