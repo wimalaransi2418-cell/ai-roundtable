@@ -1,74 +1,74 @@
 {
- "updated_at": "2026-11-01T14:57:35+00:00",
+ "updated_at": "2026-11-01T19:29:56+00:00",
  "items": [
   {
    "id": "t0",
    "category": "weather",
-   "headline": "UK could see ten consecutive days without rain after a record‑wet week",
-   "question": "What could be the short‑ and long‑term impacts of an extended dry spell on the UK’s agriculture and water management?",
-   "source": "BBC News"
+   "headline": "Flash Flood Watch issued as heavy rain and storms impact the region",
+   "question": "How should local authorities balance flood warnings with minimizing public alarm?",
+   "source": "Google News"
   },
   {
    "id": "t1",
    "category": "sports",
-   "headline": "Chelsea defeat ten‑man Manchester United, increasing pressure on manager Carrick",
-   "question": "Will this victory be enough to secure Carrick’s position as Chelsea’s manager?",
+   "headline": "Liverpool and Arsenal player ratings: Rice praised, Wirtz urged to improve",
+   "question": "Do player rating systems accurately reflect individual contributions in football?",
    "source": "BBC Sport"
   },
   {
    "id": "t2",
    "category": "sports",
-   "headline": "Brighton achieve first away league win over Manchester City",
-   "question": "Does Brighton’s away win signal a shift in the Premier League power balance?",
+   "headline": "Alcaraz clinches Vienna Open title, extending his unbeaten run",
+   "question": "Can Alcaraz maintain his perfect record as competition intensifies?",
    "source": "BBC Sport"
   },
   {
    "id": "t3",
-   "category": "tech",
-   "headline": "Google’s market value drops $500bn as AI‑driven search cuts ad revenue",
-   "question": "Can Google’s AI search model sustain its profitability without traditional ad income?",
+   "category": "world",
+   "headline": "India's opposition stages large rally demanding resignation of election chief",
+   "question": "Will large opposition rallies effectively pressure electoral reforms in India?",
    "source": "BBC News"
   },
   {
    "id": "t4",
    "category": "tech",
-   "headline": "US tech stocks tumble as AI investment approaches $1 trillion",
-   "question": "Is the rapid rise in AI spending creating a sustainable growth trajectory for the tech sector?",
+   "headline": "US tech stocks tumble as AI spending approaches $1 trillion milestone",
+   "question": "Is the rapid increase in AI spending sustainable for the US tech sector?",
    "source": "BBC News"
   },
   {
    "id": "t5",
-   "category": "tech",
-   "headline": "Obscure firms stoke fears of an AI bubble burst",
-   "question": "Are concerns about an AI bubble justified, or are they overstated hype?",
+   "category": "science",
+   "headline": "Rare beetle species rediscovered in Wales after a 60‑year absence",
+   "question": "What does the rediscovery of the beetle indicate about biodiversity monitoring?",
    "source": "BBC News"
   },
   {
    "id": "t6",
-   "category": "science",
-   "headline": "Rare beetle rediscovered in Wales after a 60‑year absence",
-   "question": "What does the beetle’s return indicate about biodiversity monitoring in the UK?",
+   "category": "health",
+   "headline": "Experts suggest household waste could be a major source of dietary fibre",
+   "question": "Could using food waste for fibre significantly improve public health outcomes?",
    "source": "BBC News"
   },
   {
    "id": "t7",
-   "category": "science",
-   "headline": "Global nature summit reaches agreement, but financing remains uncertain",
-   "question": "Will the lack of clear funding jeopardize the implementation of the nature deal?",
+   "category": "business",
+   "headline": "From market stall to high‑street chain: The growth story of Poundland",
+   "question": "What factors most contributed to Poundland's successful expansion?",
    "source": "BBC News"
   },
   {
    "id": "t8",
-   "category": "health",
-   "headline": "Experts suggest household waste could become a major source of dietary fibre",
-   "question": "Is turning food waste into fibre a viable strategy for public health nutrition?",
-   "source": "BBC News"
+   "category": "trending",
+   "headline": "Baker Mayfield trends online: What drives the surge in searches?",
+   "question": "What does the surge in Baker Mayfield searches reveal about fan engagement?",
+   "source": "Google Trends"
   },
   {
    "id": "t9",
    "category": "business",
-   "headline": "From market stall to high‑street chain: the rise of Poundland",
-   "question": "What factors have driven Poundland’s rapid expansion in the discount retail market?",
+   "headline": "Airbnb's new house rules spark debate among hosts and guests",
+   "question": "Do Airbnb's new house rules benefit the platform overall or burden hosts?",
    "source": "BBC News"
   }
  ]
