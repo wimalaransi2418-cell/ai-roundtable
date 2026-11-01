@@ -1,74 +1,74 @@
 {
- "updated_at": "2026-10-31T21:23:15+00:00",
+ "updated_at": "2026-11-01T00:57:19+00:00",
  "items": [
   {
    "id": "t0",
    "category": "weather",
-   "headline": "Pineapple Express threatens floods in California and the Southwest",
-   "question": "What measures should local authorities take to mitigate flood risks from the Pineapple Express?",
+   "headline": "Milder weather with a brief break from rain on November 1",
+   "question": "Will the brief dry spell improve outdoor activities and local economies this month?",
    "source": "Google News"
   },
   {
    "id": "t1",
    "category": "sports",
-   "headline": "Martinez's 'inexplicable' 83 seconds cost Man Utd and Carrick",
-   "question": "Should a single moment of poor performance be blamed for a team's broader struggles?",
+   "headline": "Brighton secures first away league win against Manchester City",
+   "question": "Does Brighton's away victory signal a shift in Premier League competitiveness?",
    "source": "BBC Sport"
   },
   {
    "id": "t2",
    "category": "sports",
-   "headline": "Verbruggen spreads belief as Brighton continue to impress",
-   "question": "Can Brighton's recent form be sustained to challenge for top league positions?",
+   "headline": "Spurs continue revival with win over 10-man Crystal Palace",
+   "question": "Can Tottenham maintain momentum after their recent win against a reduced Palace side?",
    "source": "BBC Sport"
   },
   {
    "id": "t3",
    "category": "world",
-   "headline": "Ethiopian PM puts ministers through military training",
-   "question": "What are the implications of military training for civilian ministers in Ethiopia?",
+   "headline": "Ukrainian evacuees reunite with families after years in occupied city",
+   "question": "What long-term support should be provided to families displaced by the conflict?",
    "source": "BBC News"
   },
   {
    "id": "t4",
    "category": "tech",
-   "headline": "Google value plunges $500bn as its AI search impacts ad sales",
-   "question": "Will AI-driven search fundamentally reshape online advertising revenue models?",
+   "headline": "US tech stocks tumble as AI spending approaches $1 trillion",
+   "question": "Is the rapid rise in AI investment sustainable for the tech sector?",
    "source": "BBC News"
   },
   {
    "id": "t5",
    "category": "tech",
-   "headline": "Why North Korea's elite hackers are prime suspect in major Binance hack",
-   "question": "How credible is the attribution of the Binance hack to North Korean state actors?",
+   "headline": "How video game remakes leverage nostalgia to attract players",
+   "question": "Do remakes enhance the gaming experience or rely too heavily on nostalgia?",
    "source": "BBC News"
   },
   {
    "id": "t6",
    "category": "science",
-   "headline": "Largest woodland bat survey showcases AI for good",
-   "question": "How can AI-driven wildlife surveys improve conservation efforts globally?",
+   "headline": "Rare beetle species rediscovered in Wales after 60 years",
+   "question": "What does the beetle's return indicate about biodiversity conservation efforts?",
    "source": "BBC News"
   },
   {
    "id": "t7",
    "category": "health",
-   "headline": "Experts say biggest fibre boost could come from food scraps",
-   "question": "Should waste-derived fibre become a mainstream dietary recommendation?",
+   "headline": "Experts suggest using food scraps to boost dietary fibre intake",
+   "question": "Can incorporating food waste into diets effectively improve public fibre consumption?",
    "source": "BBC News"
   },
   {
    "id": "t8",
    "category": "business",
-   "headline": "How Poundland grew from a market stall to a high street giant",
-   "question": "What key strategies enabled Poundland's rapid expansion in the retail market?",
+   "headline": "Poundland's growth from market stall to high street retailer",
+   "question": "What factors have driven Poundland's success in the discount retail market?",
    "source": "BBC News"
   },
   {
    "id": "t9",
    "category": "trending",
-   "headline": "76ers vs Hornets matchup draws online interest",
-   "question": "Which factors will most influence the outcome of the 76ers-Hornets game?",
+   "headline": "Margot Robbie trending on Google searches",
+   "question": "What recent events have contributed to the surge in interest around Margot Robbie?",
    "source": "Google Trends"
   }
  ]
