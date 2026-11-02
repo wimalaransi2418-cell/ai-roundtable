@@ -1,74 +1,74 @@
 {
- "updated_at": "2026-11-02T05:47:22+00:00",
+ "updated_at": "2026-11-02T15:33:48+00:00",
  "items": [
   {
    "id": "t0",
-   "category": "world",
-   "headline": "Ukraine air‑raid app reportedly hacked, sending false radiation alerts",
-   "question": "How should governments balance rapid emergency alerts with cybersecurity safeguards?",
-   "source": "BBC News"
+   "category": "weather",
+   "headline": "Europe could face colder weather as polar vortex weakens",
+   "question": "How should governments prepare for potential cold snaps caused by a weakening polar vortex?",
+   "source": "Google News"
   },
   {
    "id": "t1",
    "category": "sports",
-   "headline": "Antonelli's dominant performance propels him to Formula 1 world champion",
-   "question": "Will Antonelli's success reshape talent development pathways in F1?",
+   "headline": "Antonelli's record‑breaking performance reshapes F1 history",
+   "question": "Will Antonelli's achievement raise the competitive bar for future F1 drivers?",
    "source": "BBC Sport"
   },
   {
    "id": "t2",
-   "category": "tech",
-   "headline": "US tech stocks tumble as AI investment approaches $1 trillion milestone",
-   "question": "Is the rapid rise in AI spending sustainable for the broader tech market?",
-   "source": "BBC News"
-  },
-  {
-   "id": "t3",
-   "category": "science",
-   "headline": "Global nature summit reaches agreement, but funding gaps remain unresolved",
-   "question": "What mechanisms can ensure adequate financing for international environmental deals?",
-   "source": "BBC News"
-  },
-  {
-   "id": "t4",
-   "category": "health",
-   "headline": "New A&E warning system aims to identify deteriorating children faster",
-   "question": "Can early‑warning tools significantly improve outcomes for critically ill kids?",
-   "source": "BBC News"
-  },
-  {
-   "id": "t5",
-   "category": "business",
-   "headline": "Virgin Media O2 announces thousands of job cuts amid restructuring",
-   "question": "What long‑term impacts will large‑scale telecom job reductions have on the industry?",
-   "source": "BBC News"
-  },
-  {
-   "id": "t6",
-   "category": "weather",
-   "headline": "Massive cross‑country storm expected to bring severe weather to over 35 states",
-   "question": "How can communities better prepare for widespread severe weather events?",
-   "source": "Google News"
-  },
-  {
-   "id": "t7",
    "category": "sports",
-   "headline": "Ravens report Lamar Jackson needs thumb surgery, may miss remainder of season",
+   "headline": "Lamar Jackson faces thumb surgery, may miss remainder of season",
    "question": "How will Jackson's absence affect the Ravens' playoff prospects?",
    "source": "Google News"
   },
   {
+   "id": "t3",
+   "category": "world",
+   "headline": "Cyber‑attack disrupts shop freezers across seven European nations",
+   "question": "What steps should retailers take to strengthen freezer security against cyber threats?",
+   "source": "BBC News"
+  },
+  {
+   "id": "t4",
+   "category": "tech",
+   "headline": "Google loses $500bn as AI search impacts advertising revenue",
+   "question": "Can AI‑driven search models sustain long‑term profitability for tech giants?",
+   "source": "BBC News"
+  },
+  {
+   "id": "t5",
+   "category": "science",
+   "headline": "Rare beetle rediscovered in Wales after six decades",
+   "question": "What does the beetle's return indicate about biodiversity recovery in the region?",
+   "source": "BBC News"
+  },
+  {
+   "id": "t6",
+   "category": "health",
+   "headline": "Food waste could provide major boost to dietary fibre intake",
+   "question": "Should policies promote recycling food scraps for fibre enrichment?",
+   "source": "BBC News"
+  },
+  {
+   "id": "t7",
+   "category": "business",
+   "headline": "Virgin Media O2 plans thousands of job cuts to cut costs",
+   "question": "Will the layoffs improve the company's financial health or harm its service quality?",
+   "source": "BBC News"
+  },
+  {
    "id": "t8",
    "category": "trending",
-   "headline": "Current NFL commanders standings spark debate over division competitiveness",
-   "question": "Do the latest standings reflect true team strength or scheduling quirks?",
+   "headline": "Investors eye 'spy' stock amid market speculation",
+   "question": "Is the surge in 'spy' stock driven by fundamentals or hype?",
    "source": "Google Trends"
   },
   {
    "id": "t9",
    "category": "trending",
-   "headline": "MLB Giants release upcoming season schedule, fans plan travel and tickets",
-   "question": "How much does a team's schedule influence fan engagement and revenue?",
+   "headline": "Tesla stock price fluctuates amid market volatility",
+   "question": "Will Tesla's valuation remain justified given recent production challenges?",
    "source": "Google Trends"
   }
  ]
