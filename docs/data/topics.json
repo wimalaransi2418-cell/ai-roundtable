@@ -1,75 +1,75 @@
 {
- "updated_at": "2026-11-02T15:33:48+00:00",
+ "updated_at": "2026-11-02T23:25:01+00:00",
  "items": [
   {
    "id": "t0",
-   "category": "weather",
-   "headline": "Europe could face colder weather as polar vortex weakens",
-   "question": "How should governments prepare for potential cold snaps caused by a weakening polar vortex?",
-   "source": "Google News"
+   "category": "world",
+   "headline": "Russian bombing kills 26 people at Ukraine aid centre, Kyiv says",
+   "source": "BBC News",
+   "question": "What do you make of this story: Russian bombing kills 26 people at Ukraine aid centre, Kyiv says?"
   },
   {
    "id": "t1",
-   "category": "sports",
-   "headline": "Antonelli's record‑breaking performance reshapes F1 history",
-   "question": "Will Antonelli's achievement raise the competitive bar for future F1 drivers?",
-   "source": "BBC Sport"
+   "category": "world",
+   "headline": "Shop freezers in seven European countries hit by cyber-attack",
+   "source": "BBC News",
+   "question": "What do you make of this story: Shop freezers in seven European countries hit by cyber-attack?"
   },
   {
    "id": "t2",
-   "category": "sports",
-   "headline": "Lamar Jackson faces thumb surgery, may miss remainder of season",
-   "question": "How will Jackson's absence affect the Ravens' playoff prospects?",
-   "source": "Google News"
+   "category": "world",
+   "headline": "Legal challenge to Australia's social media ban to start in High Court",
+   "source": "BBC News",
+   "question": "What do you make of this story: Legal challenge to Australia's social media ban to start in High Court?"
   },
   {
    "id": "t3",
    "category": "world",
-   "headline": "Cyber‑attack disrupts shop freezers across seven European nations",
-   "question": "What steps should retailers take to strengthen freezer security against cyber threats?",
-   "source": "BBC News"
+   "headline": "Dutch police offer record €2m reward in hunt for drug lord",
+   "source": "BBC News",
+   "question": "What do you make of this story: Dutch police offer record €2m reward in hunt for drug lord?"
   },
   {
    "id": "t4",
-   "category": "tech",
-   "headline": "Google loses $500bn as AI search impacts advertising revenue",
-   "question": "Can AI‑driven search models sustain long‑term profitability for tech giants?",
-   "source": "BBC News"
+   "category": "sports",
+   "headline": "Grealish can still have Everton future - Moyes",
+   "source": "BBC Sport",
+   "question": "What do you make of this story: Grealish can still have Everton future - Moyes?"
   },
   {
    "id": "t5",
-   "category": "science",
-   "headline": "Rare beetle rediscovered in Wales after six decades",
-   "question": "What does the beetle's return indicate about biodiversity recovery in the region?",
-   "source": "BBC News"
+   "category": "sports",
+   "headline": "Carrick says it's 'crazy' but he's looking forward to Roma game",
+   "source": "BBC Sport",
+   "question": "What do you make of this story: Carrick says it's 'crazy' but he's looking forward to Roma game?"
   },
   {
    "id": "t6",
-   "category": "health",
-   "headline": "Food waste could provide major boost to dietary fibre intake",
-   "question": "Should policies promote recycling food scraps for fibre enrichment?",
-   "source": "BBC News"
+   "category": "sports",
+   "headline": "Russell says F1 title loss 'tough to deal with'",
+   "source": "BBC Sport",
+   "question": "What do you make of this story: Russell says F1 title loss 'tough to deal with'?"
   },
   {
    "id": "t7",
-   "category": "business",
-   "headline": "Virgin Media O2 plans thousands of job cuts to cut costs",
-   "question": "Will the layoffs improve the company's financial health or harm its service quality?",
-   "source": "BBC News"
+   "category": "sports",
+   "headline": "Everton hold off Newcastle to move into seventh",
+   "source": "BBC Sport",
+   "question": "What do you make of this story: Everton hold off Newcastle to move into seventh?"
   },
   {
    "id": "t8",
-   "category": "trending",
-   "headline": "Investors eye 'spy' stock amid market speculation",
-   "question": "Is the surge in 'spy' stock driven by fundamentals or hype?",
-   "source": "Google Trends"
+   "category": "tech",
+   "headline": "If hackers can take control of a supermarket freezer, how vulnerable is other tech?",
+   "source": "BBC News",
+   "question": "What do you make of this story: If hackers can take control of a supermarket freezer, how vulnerable is other tech??"
   },
   {
    "id": "t9",
-   "category": "trending",
-   "headline": "Tesla stock price fluctuates amid market volatility",
-   "question": "Will Tesla's valuation remain justified given recent production challenges?",
-   "source": "Google Trends"
+   "category": "tech",
+   "headline": "These firms you've never heard of are feeding fears the AI bubble could burst",
+   "source": "BBC News",
+   "question": "What do you make of this story: These firms you've never heard of are feeding fears the AI bubble could burst?"
   }
  ]
 }
