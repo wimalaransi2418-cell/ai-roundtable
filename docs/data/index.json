@@ -1,6 +1,11 @@
 {
  "sessions": [
   {
+   "id": "20261102-2301",
+   "started_at": "2026-11-02T23:01:48+00:00",
+   "question_en": "Should the SEC block the IPO of AI companies like Anthropic to protect the public?"
+  },
+  {
    "id": "20261102-1040",
    "started_at": "2026-11-02T10:40:44+00:00",
    "question_en": "Should countries implement export controls on frontier AI technologies to mitigate potential risks?"
