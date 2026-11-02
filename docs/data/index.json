@@ -1,6 +1,11 @@
 {
  "sessions": [
   {
+   "id": "20261102-1040",
+   "started_at": "2026-11-02T10:40:44+00:00",
+   "question_en": "Should countries implement export controls on frontier AI technologies to mitigate potential risks?"
+  },
+  {
    "id": "20261101-1925",
    "started_at": "2026-11-01T19:25:03+00:00",
    "question_en": "Should AI-driven diagnostic tools be widely adopted for the early detection of Lewy body dementia?"
