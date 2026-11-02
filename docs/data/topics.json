@@ -1,74 +1,74 @@
 {
- "updated_at": "2026-11-01T23:29:39+00:00",
+ "updated_at": "2026-11-02T05:47:22+00:00",
  "items": [
   {
    "id": "t0",
-   "category": "weather",
-   "headline": "Rain and storms threaten southeast Louisiana this week",
-   "question": "How should residents prepare for the increased storm risk in the region?",
-   "source": "Google News"
+   "category": "world",
+   "headline": "Ukraine air‑raid app reportedly hacked, sending false radiation alerts",
+   "question": "How should governments balance rapid emergency alerts with cybersecurity safeguards?",
+   "source": "BBC News"
   },
   {
    "id": "t1",
    "category": "sports",
-   "headline": "Arsenal climb to top after rare victory at Liverpool",
-   "question": "Will Arsenal's recent win signal a sustained challenge for the league title?",
+   "headline": "Antonelli's dominant performance propels him to Formula 1 world champion",
+   "question": "Will Antonelli's success reshape talent development pathways in F1?",
    "source": "BBC Sport"
   },
   {
    "id": "t2",
-   "category": "sports",
-   "headline": "Antonelli wins F1 world championship as Verstappen triumphs in Mexico",
-   "question": "Can Antonelli's success inspire more young drivers to enter Formula 1?",
-   "source": "BBC Sport"
+   "category": "tech",
+   "headline": "US tech stocks tumble as AI investment approaches $1 trillion milestone",
+   "question": "Is the rapid rise in AI spending sustainable for the broader tech market?",
+   "source": "BBC News"
   },
   {
    "id": "t3",
-   "category": "world",
-   "headline": "India's opposition stages large rally demanding election chief's resignation",
-   "question": "What impact could the rally have on India's electoral reforms?",
+   "category": "science",
+   "headline": "Global nature summit reaches agreement, but funding gaps remain unresolved",
+   "question": "What mechanisms can ensure adequate financing for international environmental deals?",
    "source": "BBC News"
   },
   {
    "id": "t4",
-   "category": "tech",
-   "headline": "Lesser‑known firms stoke fears of an AI bubble burst",
-   "question": "Are concerns about an AI bubble justified or overblown?",
+   "category": "health",
+   "headline": "New A&E warning system aims to identify deteriorating children faster",
+   "question": "Can early‑warning tools significantly improve outcomes for critically ill kids?",
    "source": "BBC News"
   },
   {
    "id": "t5",
-   "category": "tech",
-   "headline": "US tech stocks tumble as AI spending approaches $1 trillion",
-   "question": "Will massive AI investment sustain long‑term growth for tech companies?",
+   "category": "business",
+   "headline": "Virgin Media O2 announces thousands of job cuts amid restructuring",
+   "question": "What long‑term impacts will large‑scale telecom job reductions have on the industry?",
    "source": "BBC News"
   },
   {
    "id": "t6",
-   "category": "science",
-   "headline": "Rare beetle species rediscovered in Wales after six decades",
-   "question": "What does the beetle's return indicate about biodiversity monitoring?",
-   "source": "BBC News"
+   "category": "weather",
+   "headline": "Massive cross‑country storm expected to bring severe weather to over 35 states",
+   "question": "How can communities better prepare for widespread severe weather events?",
+   "source": "Google News"
   },
   {
    "id": "t7",
-   "category": "health",
-   "headline": "Experts say food waste could boost national fibre intake",
-   "question": "Should policies encourage using food scraps to improve dietary fibre?",
-   "source": "BBC News"
+   "category": "sports",
+   "headline": "Ravens report Lamar Jackson needs thumb surgery, may miss remainder of season",
+   "question": "How will Jackson's absence affect the Ravens' playoff prospects?",
+   "source": "Google News"
   },
   {
    "id": "t8",
-   "category": "business",
-   "headline": "Virgin Media O2 announces thousands of job cuts",
-   "question": "How will the job reductions affect the UK's telecom market?",
-   "source": "BBC News"
+   "category": "trending",
+   "headline": "Current NFL commanders standings spark debate over division competitiveness",
+   "question": "Do the latest standings reflect true team strength or scheduling quirks?",
+   "source": "Google Trends"
   },
   {
    "id": "t9",
    "category": "trending",
-   "headline": "Search interest spikes for Joe Rogan",
-   "question": "What factors are driving the renewed public interest in Joe Rogan?",
+   "headline": "MLB Giants release upcoming season schedule, fans plan travel and tickets",
+   "question": "How much does a team's schedule influence fan engagement and revenue?",
    "source": "Google Trends"
   }
  ]
