@@ -1,75 +1,75 @@
 {
- "updated_at": "2026-11-02T23:25:01+00:00",
+ "updated_at": "2026-11-03T06:29:26+00:00",
  "items": [
   {
    "id": "t0",
-   "category": "world",
-   "headline": "Russian bombing kills 26 people at Ukraine aid centre, Kyiv says",
-   "source": "BBC News",
-   "question": "What do you make of this story: Russian bombing kills 26 people at Ukraine aid centre, Kyiv says?"
+   "category": "weather",
+   "headline": "Massive storms hit 35 states with severe weather, heavy rain and flooding",
+   "question": "How should governments balance emergency response with long-term climate adaptation for such storms?",
+   "source": "Google News"
   },
   {
    "id": "t1",
-   "category": "world",
-   "headline": "Shop freezers in seven European countries hit by cyber-attack",
-   "source": "BBC News",
-   "question": "What do you make of this story: Shop freezers in seven European countries hit by cyber-attack?"
+   "category": "sports",
+   "headline": "Everton hold off Newcastle to move into seventh",
+   "question": "Should Everton's recent performance be seen as a sign of consistent improvement?",
+   "source": "BBC Sport"
   },
   {
    "id": "t2",
-   "category": "world",
-   "headline": "Legal challenge to Australia's social media ban to start in High Court",
-   "source": "BBC News",
-   "question": "What do you make of this story: Legal challenge to Australia's social media ban to start in High Court?"
+   "category": "sports",
+   "headline": "Jeffery Simmons, Bears' defense handle Seahawks",
+   "question": "Can Jeffery Simmons' impact change the Bears' defensive ranking this season?",
+   "source": "Google News"
   },
   {
    "id": "t3",
    "category": "world",
-   "headline": "Dutch police offer record €2m reward in hunt for drug lord",
-   "source": "BBC News",
-   "question": "What do you make of this story: Dutch police offer record €2m reward in hunt for drug lord?"
+   "headline": "Legal challenge to Australia's social media ban to start in High Court",
+   "question": "Will the High Court's ruling on Australia's social media ban set a global precedent?",
+   "source": "BBC News"
   },
   {
    "id": "t4",
-   "category": "sports",
-   "headline": "Grealish can still have Everton future - Moyes",
-   "source": "BBC Sport",
-   "question": "What do you make of this story: Grealish can still have Everton future - Moyes?"
+   "category": "tech",
+   "headline": "Apple unsure when more foldable iPhones will be available after selling out",
+   "question": "Is consumer demand for foldable iPhones strong enough to sustain mass production?",
+   "source": "BBC News"
   },
   {
    "id": "t5",
-   "category": "sports",
-   "headline": "Carrick says it's 'crazy' but he's looking forward to Roma game",
-   "source": "BBC Sport",
-   "question": "What do you make of this story: Carrick says it's 'crazy' but he's looking forward to Roma game?"
+   "category": "science",
+   "headline": "AI data centres could undermine UK's emissions goals",
+   "question": "Do AI data centres pose a greater risk to emissions than traditional data centers?",
+   "source": "BBC News"
   },
   {
    "id": "t6",
-   "category": "sports",
-   "headline": "Russell says F1 title loss 'tough to deal with'",
-   "source": "BBC Sport",
-   "question": "What do you make of this story: Russell says F1 title loss 'tough to deal with'?"
+   "category": "health",
+   "headline": "Hundreds of GP practices lose online services after collapse of tech firm",
+   "question": "What steps can the NHS take to prevent future tech failures affecting patient care?",
+   "source": "BBC News"
   },
   {
    "id": "t7",
-   "category": "sports",
-   "headline": "Everton hold off Newcastle to move into seventh",
-   "source": "BBC Sport",
-   "question": "What do you make of this story: Everton hold off Newcastle to move into seventh?"
+   "category": "business",
+   "headline": "UK and EU agree draft deal to scrap Brexit red tape over food exports",
+   "question": "Will scrapping Brexit red tape boost UK food exports significantly?",
+   "source": "BBC News"
   },
   {
    "id": "t8",
-   "category": "tech",
-   "headline": "If hackers can take control of a supermarket freezer, how vulnerable is other tech?",
-   "source": "BBC News",
-   "question": "What do you make of this story: If hackers can take control of a supermarket freezer, how vulnerable is other tech??"
+   "category": "trending",
+   "headline": "NBA standings",
+   "question": "How accurately do current NBA standings predict playoff outcomes?",
+   "source": "Google Trends"
   },
   {
    "id": "t9",
    "category": "tech",
-   "headline": "These firms you've never heard of are feeding fears the AI bubble could burst",
-   "source": "BBC News",
-   "question": "What do you make of this story: These firms you've never heard of are feeding fears the AI bubble could burst?"
+   "headline": "US tech stocks see sharp falls as AI spending nears $1tn",
+   "question": "Is the recent drop in US tech stocks a temporary correction or a sign of broader AI market risks?",
+   "source": "BBC News"
   }
  ]
 }
