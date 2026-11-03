@@ -1,6 +1,11 @@
 {
  "sessions": [
   {
+   "id": "20261103-2050",
+   "started_at": "2026-11-03T20:50:23+00:00",
+   "question_en": "Should software platforms be required to obtain explicit user consent before installing AI plugins that can access and share API data?"
+  },
+  {
    "id": "20261103-1033",
    "started_at": "2026-11-03T10:33:04+00:00",
    "question_en": "Should brain‑computer interfaces that translate subvocal speech into computer commands be widely adopted despite potential privacy and security risks?"
