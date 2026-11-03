@@ -1,6 +1,11 @@
 {
  "sessions": [
   {
+   "id": "20261103-1033",
+   "started_at": "2026-11-03T10:33:04+00:00",
+   "question_en": "Should brain‑computer interfaces that translate subvocal speech into computer commands be widely adopted despite potential privacy and security risks?"
+  },
+  {
    "id": "20261102-2301",
    "started_at": "2026-11-02T23:01:48+00:00",
    "question_en": "Should the SEC block the IPO of AI companies like Anthropic to protect the public?"
