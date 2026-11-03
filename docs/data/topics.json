@@ -1,74 +1,74 @@
 {
- "updated_at": "2026-11-03T14:58:40+00:00",
+ "updated_at": "2026-11-03T20:52:31+00:00",
  "items": [
   {
    "id": "t0",
    "category": "weather",
-   "headline": "Severe floods and storms affect parts of the U.S. on Election Day",
-   "question": "How should emergency services balance election duties with disaster response?",
+   "headline": "Potential subtropical storm may form in Atlantic this week",
+   "question": "How should coastal communities prepare for a possible subtropical storm?",
    "source": "Google News"
   },
   {
    "id": "t1",
    "category": "sports",
-   "headline": "NFL trade deadline 2026: Updated list of 50 potential player moves",
-   "question": "Will the upcoming trade deadline significantly reshape team competitiveness for the season?",
+   "headline": "NFL Week 9 power rankings: Bills top, Bears rise to top three",
+   "question": "Do the current power rankings accurately reflect team performance this season?",
    "source": "Google News"
   },
   {
    "id": "t2",
    "category": "sports",
-   "headline": "NFL Week 8 recap: Key fantasy football takeaways from Bears vs. Seahawks",
-   "question": "What strategies should fantasy managers adopt based on Week 8 performances?",
+   "headline": "Lamar Jackson now a challenge for his own Ravens team",
+   "question": "Should the Ravens adjust their offensive strategy to better suit Jackson's playstyle?",
    "source": "Google News"
   },
   {
    "id": "t3",
-   "category": "tech",
-   "headline": "US tech stocks tumble as AI investment approaches $1 trillion",
-   "question": "Is the rapid rise in AI spending justified given the recent market decline?",
+   "category": "world",
+   "headline": "Europe alerts over cyber‑attacks on supermarket freezers across ten nations",
+   "question": "What steps should governments take to protect critical food‑supply infrastructure from cyber threats?",
    "source": "BBC News"
   },
   {
    "id": "t4",
    "category": "tech",
-   "headline": "Lesser‑known firms stoke fears of an AI bubble burst",
-   "question": "Are concerns about an AI bubble driven by genuine risk or hype?",
+   "headline": "Apple uncertain about roll‑out of additional foldable iPhones before holiday season",
+   "question": "Should Apple accelerate foldable phone development to stay competitive?",
    "source": "BBC News"
   },
   {
    "id": "t5",
-   "category": "science",
-   "headline": "AI data centres may hinder UK's emissions targets",
-   "question": "Can the UK implement policies to ensure AI data centres align with climate goals?",
+   "category": "tech",
+   "headline": "Binance users pull $3.6 bn following record‑size crypto hack",
+   "question": "Will massive withdrawals undermine confidence in centralized crypto exchanges?",
    "source": "BBC News"
   },
   {
    "id": "t6",
-   "category": "health",
-   "headline": "Hundreds of GP practices lose online services after tech firm collapse",
-   "question": "What measures can protect primary care digital services from tech provider failures?",
+   "category": "science",
+   "headline": "AI data centres risk hindering UK's net‑zero emissions targets",
+   "question": "How can the UK balance AI growth with its climate commitments?",
    "source": "BBC News"
   },
   {
    "id": "t7",
-   "category": "business",
-   "headline": "Quiet quitting may be impacting the economy, analysts say",
-   "question": "To what extent is 'quiet quitting' influencing overall economic productivity?",
+   "category": "health",
+   "headline": "GP practices lose online services after tech firm collapse",
+   "question": "What measures can protect healthcare digital services from vendor failures?",
    "source": "BBC News"
   },
   {
    "id": "t8",
-   "category": "world",
-   "headline": "European troops rehearse Ukraine deployment plans for a peace scenario",
-   "question": "Do such rehearsals improve readiness for peacekeeping or risk escalating tensions?",
+   "category": "business",
+   "headline": "Quiet quitting may be impacting the economy, experts suggest",
+   "question": "Is 'quiet quitting' a symptom of deeper workplace dissatisfaction?",
    "source": "BBC News"
   },
   {
    "id": "t9",
    "category": "trending",
-   "headline": "Trending: public interest in lawsuits rises",
-   "question": "What factors are driving the recent surge in public attention to legal disputes?",
+   "headline": "Bayern Munich's recent performance fuels fan debate",
+   "question": "Should Bayern focus on rebuilding the squad or aim for immediate titles?",
    "source": "Google Trends"
   }
  ]
