@@ -1,75 +1,75 @@
 {
- "updated_at": "2026-11-03T06:29:26+00:00",
+ "updated_at": "2026-11-03T14:58:40+00:00",
  "items": [
   {
    "id": "t0",
    "category": "weather",
-   "headline": "Massive storms hit 35 states with severe weather, heavy rain and flooding",
-   "question": "How should governments balance emergency response with long-term climate adaptation for such storms?",
+   "headline": "Severe floods and storms affect parts of the U.S. on Election Day",
+   "question": "How should emergency services balance election duties with disaster response?",
    "source": "Google News"
   },
   {
    "id": "t1",
    "category": "sports",
-   "headline": "Everton hold off Newcastle to move into seventh",
-   "question": "Should Everton's recent performance be seen as a sign of consistent improvement?",
-   "source": "BBC Sport"
+   "headline": "NFL trade deadline 2026: Updated list of 50 potential player moves",
+   "question": "Will the upcoming trade deadline significantly reshape team competitiveness for the season?",
+   "source": "Google News"
   },
   {
    "id": "t2",
    "category": "sports",
-   "headline": "Jeffery Simmons, Bears' defense handle Seahawks",
-   "question": "Can Jeffery Simmons' impact change the Bears' defensive ranking this season?",
+   "headline": "NFL Week 8 recap: Key fantasy football takeaways from Bears vs. Seahawks",
+   "question": "What strategies should fantasy managers adopt based on Week 8 performances?",
    "source": "Google News"
   },
   {
    "id": "t3",
-   "category": "world",
-   "headline": "Legal challenge to Australia's social media ban to start in High Court",
-   "question": "Will the High Court's ruling on Australia's social media ban set a global precedent?",
+   "category": "tech",
+   "headline": "US tech stocks tumble as AI investment approaches $1 trillion",
+   "question": "Is the rapid rise in AI spending justified given the recent market decline?",
    "source": "BBC News"
   },
   {
    "id": "t4",
    "category": "tech",
-   "headline": "Apple unsure when more foldable iPhones will be available after selling out",
-   "question": "Is consumer demand for foldable iPhones strong enough to sustain mass production?",
+   "headline": "Lesser‑known firms stoke fears of an AI bubble burst",
+   "question": "Are concerns about an AI bubble driven by genuine risk or hype?",
    "source": "BBC News"
   },
   {
    "id": "t5",
    "category": "science",
-   "headline": "AI data centres could undermine UK's emissions goals",
-   "question": "Do AI data centres pose a greater risk to emissions than traditional data centers?",
+   "headline": "AI data centres may hinder UK's emissions targets",
+   "question": "Can the UK implement policies to ensure AI data centres align with climate goals?",
    "source": "BBC News"
   },
   {
    "id": "t6",
    "category": "health",
-   "headline": "Hundreds of GP practices lose online services after collapse of tech firm",
-   "question": "What steps can the NHS take to prevent future tech failures affecting patient care?",
+   "headline": "Hundreds of GP practices lose online services after tech firm collapse",
+   "question": "What measures can protect primary care digital services from tech provider failures?",
    "source": "BBC News"
   },
   {
    "id": "t7",
    "category": "business",
-   "headline": "UK and EU agree draft deal to scrap Brexit red tape over food exports",
-   "question": "Will scrapping Brexit red tape boost UK food exports significantly?",
+   "headline": "Quiet quitting may be impacting the economy, analysts say",
+   "question": "To what extent is 'quiet quitting' influencing overall economic productivity?",
    "source": "BBC News"
   },
   {
    "id": "t8",
-   "category": "trending",
-   "headline": "NBA standings",
-   "question": "How accurately do current NBA standings predict playoff outcomes?",
-   "source": "Google Trends"
+   "category": "world",
+   "headline": "European troops rehearse Ukraine deployment plans for a peace scenario",
+   "question": "Do such rehearsals improve readiness for peacekeeping or risk escalating tensions?",
+   "source": "BBC News"
   },
   {
    "id": "t9",
-   "category": "tech",
-   "headline": "US tech stocks see sharp falls as AI spending nears $1tn",
-   "question": "Is the recent drop in US tech stocks a temporary correction or a sign of broader AI market risks?",
-   "source": "BBC News"
+   "category": "trending",
+   "headline": "Trending: public interest in lawsuits rises",
+   "question": "What factors are driving the recent surge in public attention to legal disputes?",
+   "source": "Google Trends"
   }
  ]
 }
