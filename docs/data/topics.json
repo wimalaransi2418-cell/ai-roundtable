@@ -1,75 +1,75 @@
 {
- "updated_at": "2026-11-04T17:03:23+00:00",
+ "updated_at": "2026-11-04T22:33:39+00:00",
  "items": [
   {
    "id": "t0",
-   "category": "weather",
-   "headline": "Massive cross‑country storm set to hit Southeast and East Coast",
-   "question": "How should authorities balance emergency warnings with minimizing public panic during such widespread storms?",
-   "source": "Google News"
+   "category": "world",
+   "headline": "Delhi air quality worsens ahead of Diwali as firework restrictions take effect",
+   "question": "Should stricter firework regulations be permanently adopted to improve air quality during festivals?",
+   "source": "BBC News"
   },
   {
    "id": "t1",
-   "category": "sports",
-   "headline": "Man United's Roma comeback draws comparisons to Mourinho and Solskjaer",
-   "question": "Does the tactical approach in the Roma match signal a lasting shift in Man United's playing style?",
-   "source": "BBC Sport"
+   "category": "world",
+   "headline": "Secret police files released in Hungary 37 years after the fall of communism",
+   "question": "How should societies balance transparency with privacy when releasing historic secret police records?",
+   "source": "BBC News"
   },
   {
    "id": "t2",
    "category": "sports",
-   "headline": "Hyrox aims for Olympic inclusion, raising questions for triathlon",
-   "question": "Will Hyrox's potential Olympic debut complement or compete with traditional triathlon events?",
+   "headline": "Haaland scores winning goal as Manchester City defeats Leipzig",
+   "question": "Does Haaland's performance indicate a growing reliance on star players for team success?",
    "source": "BBC Sport"
   },
   {
    "id": "t3",
-   "category": "world",
-   "headline": "Delhi's air quality deteriorates ahead of Diwali despite firework restrictions",
-   "question": "Are current firework restrictions sufficient to protect public health during Diwali in Delhi?",
-   "source": "BBC News"
+   "category": "sports",
+   "headline": "Arsenal hold off late Slavia attack to secure a hard‑fought win",
+   "question": "What tactical adjustments can teams make to protect leads against late-game pressure?",
+   "source": "BBC Sport"
   },
   {
    "id": "t4",
    "category": "tech",
-   "headline": "Hackers controlling supermarket freezers raise concerns about broader tech security",
-   "question": "What regulatory steps are needed to safeguard critical infrastructure from similar cyber attacks?",
+   "headline": "Hackers control supermarket freezers – what does this mean for broader tech security?",
+   "question": "Are current cybersecurity measures sufficient to protect critical infrastructure from similar attacks?",
    "source": "BBC News"
   },
   {
    "id": "t5",
    "category": "science",
-   "headline": "AI data centres could jeopardise UK's emissions targets",
-   "question": "Should the UK impose stricter energy standards on AI data centres to meet climate goals?",
+   "headline": "AI data centres may threaten UK's emissions reduction targets",
+   "question": "Can the growth of AI data centres be aligned with national climate goals, and how?",
    "source": "BBC News"
   },
   {
    "id": "t6",
    "category": "health",
-   "headline": "Multi‑cancer blood tests to be offered at select GP surgeries soon",
-   "question": "Will early multi‑cancer screening improve outcomes enough to justify widespread rollout?",
+   "headline": "Experts say food waste scraps could provide a major boost to dietary fibre",
+   "question": "What policies could encourage the use of food waste as a source of dietary fibre?",
    "source": "BBC News"
   },
   {
    "id": "t7",
    "category": "business",
-   "headline": "Poundland owner faces crunch talks as retailer's collapse looms",
-   "question": "Can restructuring plans revive Poundland's financial health or is closure inevitable?",
+   "headline": "Pound climbs to its highest level since the 2016 Brexit referendum",
+   "question": "What factors are driving the pound's recent rise, and what are the implications for the UK economy?",
    "source": "BBC News"
   },
   {
    "id": "t8",
-   "category": "trending",
-   "headline": "Nintendo Switch cartridge ROM manufacturer announces closure",
-   "question": "How will the loss of a ROM manufacturer affect indie developers and the Switch ecosystem?",
-   "source": "Google Trends"
+   "category": "weather",
+   "headline": "Super El Niño continues to shape global weather patterns – impacts and outlook",
+   "question": "How will the lingering effects of El Niño influence agricultural planning and disaster preparedness?",
+   "source": "Google News"
   },
   {
    "id": "t9",
-   "category": "tech",
-   "headline": "Graduates managing AI: Are they gaining sufficient broader skills?",
-   "question": "Should university curricula broaden beyond AI to ensure well‑rounded graduate competencies?",
-   "source": "BBC News"
+   "category": "trending",
+   "headline": "Erling Haaland remains a top trending topic worldwide",
+   "question": "What does Haaland's popularity reveal about global sports culture and media consumption?",
+   "source": "Google Trends"
   }
  ]
 }
