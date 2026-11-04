@@ -1,6 +1,11 @@
 {
  "sessions": [
   {
+   "id": "20261104-1036",
+   "started_at": "2026-11-04T10:36:14+00:00",
+   "question_en": "Should manufacturers be required to use encrypted firmware on AI accelerators even if it significantly reduces performance?"
+  },
+  {
    "id": "20261103-2050",
    "started_at": "2026-11-03T20:50:23+00:00",
    "question_en": "Should software platforms be required to obtain explicit user consent before installing AI plugins that can access and share API data?"
