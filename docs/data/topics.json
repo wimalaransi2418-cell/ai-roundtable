@@ -1,75 +1,75 @@
 {
- "updated_at": "2026-11-04T08:57:25+00:00",
+ "updated_at": "2026-11-04T17:03:23+00:00",
  "items": [
   {
    "id": "t0",
-   "category": "world",
-   "headline": "Delhi air quality worsens ahead of Diwali as firework restrictions enter force",
-   "question": "Should stricter firework regulations be permanently enforced to improve air quality?",
-   "source": "BBC News"
+   "category": "weather",
+   "headline": "Massive cross‑country storm set to hit Southeast and East Coast",
+   "question": "How should authorities balance emergency warnings with minimizing public panic during such widespread storms?",
+   "source": "Google News"
   },
   {
    "id": "t1",
-   "category": "tech",
-   "headline": "If hackers can take control of a supermarket freezer, how vulnerable is other tech?",
-   "question": "What regulatory measures should be introduced to secure IoT devices against hacking?",
-   "source": "BBC News"
+   "category": "sports",
+   "headline": "Man United's Roma comeback draws comparisons to Mourinho and Solskjaer",
+   "question": "Does the tactical approach in the Roma match signal a lasting shift in Man United's playing style?",
+   "source": "BBC Sport"
   },
   {
    "id": "t2",
-   "category": "science",
-   "headline": "AI data centres could undermine UK's emissions goals",
-   "question": "Can AI development be aligned with net‑zero targets without hindering progress?",
-   "source": "BBC News"
+   "category": "sports",
+   "headline": "Hyrox aims for Olympic inclusion, raising questions for triathlon",
+   "question": "Will Hyrox's potential Olympic debut complement or compete with traditional triathlon events?",
+   "source": "BBC Sport"
   },
   {
    "id": "t3",
-   "category": "health",
-   "headline": "'Multi-cancer' blood tests coming to some GP surgeries soon",
-   "question": "Will widespread use of multi‑cancer blood tests improve early detection enough to justify costs?",
+   "category": "world",
+   "headline": "Delhi's air quality deteriorates ahead of Diwali despite firework restrictions",
+   "question": "Are current firework restrictions sufficient to protect public health during Diwali in Delhi?",
    "source": "BBC News"
   },
   {
    "id": "t4",
-   "category": "business",
-   "headline": "Graduates are managing AI - but are they learning much else?",
-   "question": "Should companies invest more in broader training for AI‑focused graduate roles?",
+   "category": "tech",
+   "headline": "Hackers controlling supermarket freezers raise concerns about broader tech security",
+   "question": "What regulatory steps are needed to safeguard critical infrastructure from similar cyber attacks?",
    "source": "BBC News"
   },
   {
    "id": "t5",
-   "category": "weather",
-   "headline": "Capital Weather’s Winter Outlook: Big El Niño, big snow? Here’s what we expect",
-   "question": "How should communities prepare for the potential impacts of a strong El Niño this winter?",
-   "source": "Google News"
+   "category": "science",
+   "headline": "AI data centres could jeopardise UK's emissions targets",
+   "question": "Should the UK impose stricter energy standards on AI data centres to meet climate goals?",
+   "source": "BBC News"
   },
   {
    "id": "t6",
-   "category": "sports",
-   "headline": "College Football Playoff Bubble Watch after first ranking",
-   "question": "What criteria should be prioritized when selecting teams for the College Football Playoff?",
-   "source": "Google News"
+   "category": "health",
+   "headline": "Multi‑cancer blood tests to be offered at select GP surgeries soon",
+   "question": "Will early multi‑cancer screening improve outcomes enough to justify widespread rollout?",
+   "source": "BBC News"
   },
   {
    "id": "t7",
-   "category": "sports",
-   "headline": "Week 9 NFL Power Rankings: Did the Niners fall after their bye week?",
-   "question": "Do bye weeks typically affect NFL team performance positively or negatively?",
-   "source": "Google News"
+   "category": "business",
+   "headline": "Poundland owner faces crunch talks as retailer's collapse looms",
+   "question": "Can restructuring plans revive Poundland's financial health or is closure inevitable?",
+   "source": "BBC News"
   },
   {
    "id": "t8",
    "category": "trending",
-   "headline": "Tesla Autopilot under scrutiny as safety concerns rise",
-   "question": "Should regulators mandate stricter testing before allowing wider use of autonomous driving features?",
+   "headline": "Nintendo Switch cartridge ROM manufacturer announces closure",
+   "question": "How will the loss of a ROM manufacturer affect indie developers and the Switch ecosystem?",
    "source": "Google Trends"
   },
   {
    "id": "t9",
-   "category": "trending",
-   "headline": "India vs New Zealand ODI series draws global attention",
-   "question": "How does the increasing popularity of ODI cricket influence the sport's future formats?",
-   "source": "Google Trends"
+   "category": "tech",
+   "headline": "Graduates managing AI: Are they gaining sufficient broader skills?",
+   "question": "Should university curricula broaden beyond AI to ensure well‑rounded graduate competencies?",
+   "source": "BBC News"
   }
  ]
 }
