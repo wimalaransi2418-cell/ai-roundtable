@@ -1,6 +1,11 @@
 {
  "sessions": [
   {
+   "id": "20261104-2107",
+   "started_at": "2026-11-04T21:07:14+00:00",
+   "question_en": "Should the deployment of conversational AI systems like ChatGPT be subject to mandatory transparency and accountability standards?"
+  },
+  {
    "id": "20261104-1036",
    "started_at": "2026-11-04T10:36:14+00:00",
    "question_en": "Should manufacturers be required to use encrypted firmware on AI accelerators even if it significantly reduces performance?"
