@@ -1,75 +1,75 @@
 {
- "updated_at": "2026-11-04T22:33:39+00:00",
+ "updated_at": "2026-11-05T03:24:48+00:00",
  "items": [
   {
    "id": "t0",
-   "category": "world",
-   "headline": "Delhi air quality worsens ahead of Diwali as firework restrictions take effect",
-   "question": "Should stricter firework regulations be permanently adopted to improve air quality during festivals?",
-   "source": "BBC News"
+   "category": "weather",
+   "headline": "Scattered showers expected Thursday with possible rain Friday",
+   "question": "How should commuters adjust their travel plans given the forecasted showers?",
+   "source": "Google News"
   },
   {
    "id": "t1",
-   "category": "world",
-   "headline": "Secret police files released in Hungary 37 years after the fall of communism",
-   "question": "How should societies balance transparency with privacy when releasing historic secret police records?",
-   "source": "BBC News"
+   "category": "sports",
+   "headline": "Haaland nets winner as Manchester City defeats Leipzig",
+   "question": "Will Haaland's performance cement his status as a top striker in Europe?",
+   "source": "BBC Sport"
   },
   {
    "id": "t2",
    "category": "sports",
-   "headline": "Haaland scores winning goal as Manchester City defeats Leipzig",
-   "question": "Does Haaland's performance indicate a growing reliance on star players for team success?",
+   "headline": "Zverev expresses frustration over reactions to his world No.1 ranking",
+   "question": "Should athletes be judged more on performance than public perception?",
    "source": "BBC Sport"
   },
   {
    "id": "t3",
-   "category": "sports",
-   "headline": "Arsenal hold off late Slavia attack to secure a hard‑fought win",
-   "question": "What tactical adjustments can teams make to protect leads against late-game pressure?",
-   "source": "BBC Sport"
+   "category": "world",
+   "headline": "Delhi air quality declines ahead of Diwali despite firework restrictions",
+   "question": "Are current firework restrictions sufficient to protect air quality during Diwali?",
+   "source": "BBC News"
   },
   {
    "id": "t4",
    "category": "tech",
-   "headline": "Hackers control supermarket freezers – what does this mean for broader tech security?",
-   "question": "Are current cybersecurity measures sufficient to protect critical infrastructure from similar attacks?",
+   "headline": "UK meat sector hit by cyber‑attack targeting supermarket freezers",
+   "question": "What steps can the food industry take to strengthen cyber‑security after the freezer hack?",
    "source": "BBC News"
   },
   {
    "id": "t5",
    "category": "science",
-   "headline": "AI data centres may threaten UK's emissions reduction targets",
-   "question": "Can the growth of AI data centres be aligned with national climate goals, and how?",
+   "headline": "Typhoons batter East Asia as El Niño intensifies Pacific heat",
+   "question": "How can affected nations improve resilience to increasingly severe typhoons?",
    "source": "BBC News"
   },
   {
    "id": "t6",
    "category": "health",
-   "headline": "Experts say food waste scraps could provide a major boost to dietary fibre",
-   "question": "What policies could encourage the use of food waste as a source of dietary fibre?",
+   "headline": "'Multi‑cancer' blood tests to be offered at select GP surgeries soon",
+   "question": "Will early multi‑cancer screening become a standard part of primary care?",
    "source": "BBC News"
   },
   {
    "id": "t7",
    "category": "business",
-   "headline": "Pound climbs to its highest level since the 2016 Brexit referendum",
-   "question": "What factors are driving the pound's recent rise, and what are the implications for the UK economy?",
+   "headline": "Interest rates projected to rise for first time in over three years",
+   "question": "How will the anticipated rate hike impact borrowers and the broader economy?",
    "source": "BBC News"
   },
   {
    "id": "t8",
-   "category": "weather",
-   "headline": "Super El Niño continues to shape global weather patterns – impacts and outlook",
-   "question": "How will the lingering effects of El Niño influence agricultural planning and disaster preparedness?",
-   "source": "Google News"
+   "category": "trending",
+   "headline": "Energy drinks continue to surge in popularity among consumers",
+   "question": "Are energy drinks a safe choice for regular consumption?",
+   "source": "Google Trends"
   },
   {
    "id": "t9",
-   "category": "trending",
-   "headline": "Erling Haaland remains a top trending topic worldwide",
-   "question": "What does Haaland's popularity reveal about global sports culture and media consumption?",
-   "source": "Google Trends"
+   "category": "tech",
+   "headline": "Graduates managing AI raise questions about depth of their broader education",
+   "question": "Should AI training be integrated more comprehensively into university curricula?",
+   "source": "BBC News"
   }
  ]
 }
