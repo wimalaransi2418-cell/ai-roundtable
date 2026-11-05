@@ -1,6 +1,11 @@
 {
  "sessions": [
   {
+   "id": "20261105-2123",
+   "started_at": "2026-11-05T21:23:10+00:00",
+   "question_en": "Should open‑source large AI models be subject to the same regulatory oversight as proprietary models?"
+  },
+  {
    "id": "20261105-1028",
    "started_at": "2026-11-05T10:28:40+00:00",
    "question_en": "Should government agencies prohibit the use of residential proxies on official networks to mitigate security and privacy risks?"
