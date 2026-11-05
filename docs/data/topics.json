@@ -1,75 +1,75 @@
 {
- "updated_at": "2026-11-05T12:08:48+00:00",
+ "updated_at": "2026-11-05T20:34:47+00:00",
  "items": [
   {
    "id": "t0",
    "category": "weather",
-   "headline": "Super El Niño arrives, bringing unpredictable weather across the U.S.",
-   "question": "How should communities adapt to the increasing frequency of extreme El Niño events?",
+   "headline": "National Weather Service to resume twice‑daily weather balloon launches",
+   "question": "Will restoring regular balloon launches significantly improve forecast accuracy?",
    "source": "Google News"
   },
   {
    "id": "t1",
    "category": "sports",
-   "headline": "Wembanyama scores 52 points, 24 rebounds in Spurs' victory",
-   "question": "Will Wembanyama's breakout performance signal a new era for the Spurs franchise?",
+   "headline": "LIV Golf announces winding down after five years and $5 billion spend",
+   "question": "Is ending LIV Golf a positive step for the future of professional golf?",
    "source": "Google News"
   },
   {
    "id": "t2",
    "category": "sports",
-   "headline": "San Francisco celebrates Valkyries' historic championship with citywide parade",
-   "question": "What impact will the Valkyries' championship have on women's sports visibility in the Bay Area?",
+   "headline": "Baltimore Ravens vs. Jacksonville Jaguars fantasy football matchup preview for Week 9",
+   "question": "Which team offers the better fantasy value for Week 9 lineups?",
    "source": "Google News"
   },
   {
    "id": "t3",
    "category": "world",
-   "headline": "France prepares for nationwide strikes as unions call for mass mobilisation",
-   "question": "Are the upcoming French strikes likely to achieve the unions' demands?",
+   "headline": "French unions join protests over high cost of living",
+   "question": "Will the growing protests force the French government to change its economic policies?",
    "source": "BBC News"
   },
   {
    "id": "t4",
-   "category": "world",
-   "headline": "India's biggest-budget film retells a Hindu epic, sparking mixed reviews",
-   "question": "Does the new epic film strengthen cultural pride or deepen cinematic divides in India?",
+   "category": "tech",
+   "headline": "Binance alleges fake job interviews were part of a $6.3 bn crypto hack",
+   "question": "How can the crypto industry better protect job applicants from fraud schemes?",
    "source": "BBC News"
   },
   {
    "id": "t5",
-   "category": "tech",
-   "headline": "Hackers seize supermarket freezers; experts warn broader tech vulnerabilities",
-   "question": "How can critical infrastructure be better protected against remote hacking attacks?",
+   "category": "science",
+   "headline": "El Niño intensifies typhoons across East Asia, Pacific heats up",
+   "question": "What long‑term measures should vulnerable regions adopt to cope with stronger typhoons?",
    "source": "BBC News"
   },
   {
    "id": "t6",
-   "category": "science",
-   "headline": "AI data centres may undermine UK's net‑zero emissions targets",
-   "question": "Should stricter regulations be imposed on AI data centre energy use to meet climate goals?",
+   "category": "health",
+   "headline": "Experts say food waste scraps could boost daily fibre intake",
+   "question": "Should governments promote using food‑waste scraps as a dietary fibre source?",
    "source": "BBC News"
   },
   {
    "id": "t7",
-   "category": "health",
-   "headline": "Experts suggest food waste scraps could boost national fibre intake",
-   "question": "Can incorporating food‑waste‑derived fibre into diets be a viable public‑health strategy?",
+   "category": "business",
+   "headline": "Interest rates rise to 4 % – first hike in over three years",
+   "question": "Will the rate increase curb inflation without harming economic growth?",
    "source": "BBC News"
   },
   {
    "id": "t8",
-   "category": "business",
-   "headline": "Three ways the recent interest‑rate rise could affect everyday finances",
-   "question": "Will higher interest rates ultimately curb inflation or hurt consumer spending?",
-   "source": "BBC News"
+   "category": "trending",
+   "headline": "2027 IRS standard deduction amounts spark tax‑planning discussions",
+   "question": "Will the proposed 2027 standard deduction changes affect taxpayer behavior significantly?",
+   "source": "Google Trends"
   },
   {
    "id": "t9",
-   "category": "trending",
-   "headline": "National Donut Day approaches: celebrations and promotions across the country",
-   "question": "Do themed food holidays like National Donut Day meaningfully boost local economies?",
-   "source": "Google Trends"
+   "category": "tech",
+   "headline": "SpaceX shares tumble as tech and AI stocks fall",
+   "question": "Is the recent drop in SpaceX stock a sign of broader challenges for the AI‑driven space sector?",
+   "source": "BBC News"
   }
  ]
 }
