@@ -1,74 +1,74 @@
 {
- "updated_at": "2026-11-06T09:15:07+00:00",
+ "updated_at": "2026-11-06T17:22:43+00:00",
  "items": [
   {
    "id": "t0",
    "category": "world",
-   "headline": "Pope begins extensive Latin America tour weeks after lung cancer surgery",
-   "question": "How might the Pope's health influence his diplomatic engagements during the tour?",
+   "headline": "AI stocks climb after trillions wiped from market values",
+   "question": "Will the recent surge in AI stock prices be sustainable in the long term?",
    "source": "BBC News"
   },
   {
    "id": "t1",
    "category": "sports",
-   "headline": "Ronaldo's career draws to a close, marking an era for Portuguese football",
-   "question": "Will Ronaldo's retirement impact the global popularity of football?",
+   "headline": "Is Palmer's England career over under Tuchel?",
+   "question": "Should manager Tuchel give Palmer another chance in the England squad?",
    "source": "BBC Sport"
   },
   {
    "id": "t2",
    "category": "sports",
-   "headline": "Wayne Rooney wins pundit of the year award, silencing critics",
-   "question": "Does awarding pundits shape public perception of football analysis?",
+   "headline": "Fly-half Smith fit to steer England against Wallabies",
+   "question": "Will Smith's fitness give England an edge against the Wallabies?",
    "source": "BBC Sport"
   },
   {
    "id": "t3",
-   "category": "tech",
-   "headline": "Global tech stocks tumble as midterm elections fuel AI slowdown concerns",
-   "question": "Are political cycles a major driver of volatility in tech markets?",
-   "source": "BBC News"
+   "category": "weather",
+   "headline": "Maui Weather Forecast for November 06, 2026",
+   "question": "How might the upcoming weather conditions affect tourism on Maui this weekend?",
+   "source": "Google News"
   },
   {
    "id": "t4",
    "category": "tech",
-   "headline": "Innovative engine components claim to defy conventional physics",
-   "question": "Can new engine designs truly overcome established physical limits?",
+   "headline": "Global stocks plunge as fears over US AI slowdown spread to Asia and Europe",
+   "question": "Are concerns about an AI slowdown justified enough to impact global markets?",
    "source": "BBC News"
   },
   {
    "id": "t5",
    "category": "science",
-   "headline": "Record‑early polar vortex weakening may bring snow to the UK",
-   "question": "How reliable are predictions linking polar vortex changes to UK snowfall?",
+   "headline": "How climate change worsens heatwaves, droughts, wildfires and floods",
+   "question": "What are the most effective strategies to mitigate climate‑related extreme weather?",
    "source": "BBC News"
   },
   {
    "id": "t6",
    "category": "health",
-   "headline": "Cocaine now surpasses heroin as leading cause of drug deaths in England and Wales",
-   "question": "What factors are driving the rise of cocaine‑related fatalities?",
+   "headline": "Tempted by snacks before bed? Here's why - and what you can do about it",
+   "question": "Should people avoid late‑night snacking to improve sleep quality?",
    "source": "BBC News"
   },
   {
    "id": "t7",
    "category": "business",
-   "headline": "Interest rates rise to 4%, the first hike in over three years",
-   "question": "Will the latest rate increase curb inflation without harming growth?",
+   "headline": "Interest rates hiked to 4% in first increase in over three years",
+   "question": "Will the recent interest‑rate hike curb inflation without harming growth?",
    "source": "BBC News"
   },
   {
    "id": "t8",
-   "category": "weather",
-   "headline": "Kauai weather forecast for November 6, 2026: expected conditions",
-   "question": "How might upcoming weather patterns affect tourism on Kauai this week?",
-   "source": "Google News"
+   "category": "trending",
+   "headline": "Broadcom stock",
+   "question": "Is Broadcom stock poised for growth amid the current semiconductor market?",
+   "source": "Google Trends"
   },
   {
    "id": "t9",
    "category": "trending",
-   "headline": "Zelda Switch 2 console generates high search interest",
-   "question": "Will the anticipated Zelda Switch 2 live up to fan expectations?",
+   "headline": "Dell stock",
+   "question": "Is Dell stock a good buy for investors seeking tech exposure now?",
    "source": "Google Trends"
   }
  ]
