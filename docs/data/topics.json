@@ -1,74 +1,74 @@
 {
- "updated_at": "2026-11-06T17:22:43+00:00",
+ "updated_at": "2026-11-06T22:58:58+00:00",
  "items": [
   {
    "id": "t0",
-   "category": "world",
-   "headline": "AI stocks climb after trillions wiped from market values",
-   "question": "Will the recent surge in AI stock prices be sustainable in the long term?",
-   "source": "BBC News"
+   "category": "weather",
+   "headline": "National Weather Service resumes twice‑daily weather balloon launches",
+   "question": "What are the potential benefits and drawbacks of increasing balloon launch frequency for weather forecasting?",
+   "source": "Google News"
   },
   {
    "id": "t1",
    "category": "sports",
-   "headline": "Is Palmer's England career over under Tuchel?",
-   "question": "Should manager Tuchel give Palmer another chance in the England squad?",
-   "source": "BBC Sport"
+   "headline": "Kimi Antonelli sets fastest time in F1 Brazilian Grand Prix practice session",
+   "question": "Will Antonelli's strong practice performance translate into a competitive race result?",
+   "source": "Google News"
   },
   {
    "id": "t2",
    "category": "sports",
-   "headline": "Fly-half Smith fit to steer England against Wallabies",
-   "question": "Will Smith's fitness give England an edge against the Wallabies?",
-   "source": "BBC Sport"
+   "headline": "AI model releases weekly NFL game predictions and score forecasts",
+   "question": "How reliable should AI‑generated sports predictions be considered by fans and bettors?",
+   "source": "Google News"
   },
   {
    "id": "t3",
-   "category": "weather",
-   "headline": "Maui Weather Forecast for November 06, 2026",
-   "question": "How might the upcoming weather conditions affect tourism on Maui this weekend?",
-   "source": "Google News"
+   "category": "world",
+   "headline": "AI‑related stocks surge as market values experience massive adjustments",
+   "question": "Is the recent AI stock rally justified by underlying technological progress?",
+   "source": "BBC News"
   },
   {
    "id": "t4",
    "category": "tech",
-   "headline": "Global stocks plunge as fears over US AI slowdown spread to Asia and Europe",
-   "question": "Are concerns about an AI slowdown justified enough to impact global markets?",
+   "headline": "Elon Musk signals possible cancellation of the Cybertruck project",
+   "question": "What impact would ending the Cybertruck have on Tesla's market strategy and EV competition?",
    "source": "BBC News"
   },
   {
    "id": "t5",
    "category": "science",
-   "headline": "How climate change worsens heatwaves, droughts, wildfires and floods",
-   "question": "What are the most effective strategies to mitigate climate‑related extreme weather?",
+   "headline": "How climate change intensifies heatwaves, droughts, wildfires and floods",
+   "question": "What policies are most effective in mitigating climate‑change‑driven extreme weather?",
    "source": "BBC News"
   },
   {
    "id": "t6",
    "category": "health",
-   "headline": "Tempted by snacks before bed? Here's why - and what you can do about it",
-   "question": "Should people avoid late‑night snacking to improve sleep quality?",
+   "headline": "Snacking before bed: why it may disrupt sleep and how to manage it",
+   "question": "Should people avoid all nighttime snacking to improve sleep quality?",
    "source": "BBC News"
   },
   {
    "id": "t7",
    "category": "business",
-   "headline": "Interest rates hiked to 4% in first increase in over three years",
-   "question": "Will the recent interest‑rate hike curb inflation without harming growth?",
+   "headline": "UK government urges firms to list salaries in job ads under new transparency law",
+   "question": "Will mandatory salary disclosures in job ads meaningfully reduce pay gaps?",
    "source": "BBC News"
   },
   {
    "id": "t8",
    "category": "trending",
-   "headline": "Broadcom stock",
-   "question": "Is Broadcom stock poised for growth amid the current semiconductor market?",
+   "headline": "WWE Crown Jewel 2026 event draws global attention and fan debate",
+   "question": "Does the spectacle of WWE Crown Jewel enhance or dilute professional wrestling's sport credibility?",
    "source": "Google Trends"
   },
   {
    "id": "t9",
    "category": "trending",
-   "headline": "Dell stock",
-   "question": "Is Dell stock a good buy for investors seeking tech exposure now?",
+   "headline": "Dhanteras puja muhurat: cultural significance and timing for worshippers",
+   "question": "How does the timing of Dhanteras puja influence participation and cultural practices?",
    "source": "Google Trends"
   }
  ]
