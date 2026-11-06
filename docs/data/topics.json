@@ -1,75 +1,75 @@
 {
- "updated_at": "2026-11-06T01:28:18+00:00",
+ "updated_at": "2026-11-06T09:15:07+00:00",
  "items": [
   {
    "id": "t0",
-   "category": "weather",
-   "headline": "Arizona weather forecast: Sunny days ahead for Arizona",
-   "question": "How might the upcoming sunny weather affect outdoor activities and energy consumption in Arizona?",
-   "source": "Google News"
+   "category": "world",
+   "headline": "Pope begins extensive Latin America tour weeks after lung cancer surgery",
+   "question": "How might the Pope's health influence his diplomatic engagements during the tour?",
+   "source": "BBC News"
   },
   {
    "id": "t1",
    "category": "sports",
-   "headline": "A bitter end for Ronaldo – the icon who transformed Portugal",
-   "question": "Should Ronaldo’s retirement be seen as the end of an era for Portuguese football?",
+   "headline": "Ronaldo's career draws to a close, marking an era for Portuguese football",
+   "question": "Will Ronaldo's retirement impact the global popularity of football?",
    "source": "BBC Sport"
   },
   {
    "id": "t2",
    "category": "sports",
-   "headline": "What new Kane deal means for England and the Premier League record",
-   "question": "Will Harry Kane’s new contract boost England’s chances in upcoming tournaments?",
+   "headline": "Wayne Rooney wins pundit of the year award, silencing critics",
+   "question": "Does awarding pundits shape public perception of football analysis?",
    "source": "BBC Sport"
   },
   {
    "id": "t3",
-   "category": "world",
-   "headline": "Pope begins lengthy trip to Latin America weeks after lung cancer surgery",
-   "question": "Is the Pope’s Latin America tour an effective way to address regional challenges?",
+   "category": "tech",
+   "headline": "Global tech stocks tumble as midterm elections fuel AI slowdown concerns",
+   "question": "Are political cycles a major driver of volatility in tech markets?",
    "source": "BBC News"
   },
   {
    "id": "t4",
-   "category": "world",
-   "headline": "Paraguay President Santiago Peña resigns after bank collapse",
-   "question": "Will Peña’s resignation restore confidence in Paraguay’s financial system?",
+   "category": "tech",
+   "headline": "Innovative engine components claim to defy conventional physics",
+   "question": "Can new engine designs truly overcome established physical limits?",
    "source": "BBC News"
   },
   {
    "id": "t5",
-   "category": "tech",
-   "headline": "Graduates are managing AI – but are they learning much else?",
-   "question": "Are current AI curricula preparing graduates for broader career skills?",
+   "category": "science",
+   "headline": "Record‑early polar vortex weakening may bring snow to the UK",
+   "question": "How reliable are predictions linking polar vortex changes to UK snowfall?",
    "source": "BBC News"
   },
   {
    "id": "t6",
-   "category": "tech",
-   "headline": "Apple unsure when it will get more foldable iPhones ahead of Christmas",
-   "question": "Will Apple’s delay in foldable iPhones affect its market position during the holiday season?",
+   "category": "health",
+   "headline": "Cocaine now surpasses heroin as leading cause of drug deaths in England and Wales",
+   "question": "What factors are driving the rise of cocaine‑related fatalities?",
    "source": "BBC News"
   },
   {
    "id": "t7",
-   "category": "science",
-   "headline": "Typhoons batter East Asia as El Niño makes Pacific ‘burn with fever’",
-   "question": "How should East Asian nations adapt to the increasing intensity of typhoons linked to El Niño?",
+   "category": "business",
+   "headline": "Interest rates rise to 4%, the first hike in over three years",
+   "question": "Will the latest rate increase curb inflation without harming growth?",
    "source": "BBC News"
   },
   {
    "id": "t8",
-   "category": "health",
-   "headline": "Tempted by snacks before bed? Here’s why – and what you can do about it",
-   "question": "Do late‑night snacks significantly disrupt sleep quality and overall health?",
-   "source": "BBC News"
+   "category": "weather",
+   "headline": "Kauai weather forecast for November 6, 2026: expected conditions",
+   "question": "How might upcoming weather patterns affect tourism on Kauai this week?",
+   "source": "Google News"
   },
   {
    "id": "t9",
-   "category": "business",
-   "headline": "Firms told to publish salaries in job adverts ahead of new law",
-   "question": "Will mandatory salary disclosure in job ads improve pay transparency and reduce wage gaps?",
-   "source": "BBC News"
+   "category": "trending",
+   "headline": "Zelda Switch 2 console generates high search interest",
+   "question": "Will the anticipated Zelda Switch 2 live up to fan expectations?",
+   "source": "Google Trends"
   }
  ]
 }
