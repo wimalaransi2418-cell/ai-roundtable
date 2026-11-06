@@ -1,6 +1,11 @@
 {
  "sessions": [
   {
+   "id": "20261106-1030",
+   "started_at": "2026-11-06T10:30:39+00:00",
+   "question_en": "Should the creation and distribution of Hackintosh tools that enable macOS to run on non-Apple hardware be legally permitted?"
+  },
+  {
    "id": "20261105-2123",
    "started_at": "2026-11-05T21:23:10+00:00",
    "question_en": "Should open‑source large AI models be subject to the same regulatory oversight as proprietary models?"
