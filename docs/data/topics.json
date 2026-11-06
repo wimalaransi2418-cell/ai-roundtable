@@ -1,74 +1,74 @@
 {
- "updated_at": "2026-11-05T20:34:47+00:00",
+ "updated_at": "2026-11-06T01:28:18+00:00",
  "items": [
   {
    "id": "t0",
    "category": "weather",
-   "headline": "National Weather Service to resume twice‑daily weather balloon launches",
-   "question": "Will restoring regular balloon launches significantly improve forecast accuracy?",
+   "headline": "Arizona weather forecast: Sunny days ahead for Arizona",
+   "question": "How might the upcoming sunny weather affect outdoor activities and energy consumption in Arizona?",
    "source": "Google News"
   },
   {
    "id": "t1",
    "category": "sports",
-   "headline": "LIV Golf announces winding down after five years and $5 billion spend",
-   "question": "Is ending LIV Golf a positive step for the future of professional golf?",
-   "source": "Google News"
+   "headline": "A bitter end for Ronaldo – the icon who transformed Portugal",
+   "question": "Should Ronaldo’s retirement be seen as the end of an era for Portuguese football?",
+   "source": "BBC Sport"
   },
   {
    "id": "t2",
    "category": "sports",
-   "headline": "Baltimore Ravens vs. Jacksonville Jaguars fantasy football matchup preview for Week 9",
-   "question": "Which team offers the better fantasy value for Week 9 lineups?",
-   "source": "Google News"
+   "headline": "What new Kane deal means for England and the Premier League record",
+   "question": "Will Harry Kane’s new contract boost England’s chances in upcoming tournaments?",
+   "source": "BBC Sport"
   },
   {
    "id": "t3",
    "category": "world",
-   "headline": "French unions join protests over high cost of living",
-   "question": "Will the growing protests force the French government to change its economic policies?",
+   "headline": "Pope begins lengthy trip to Latin America weeks after lung cancer surgery",
+   "question": "Is the Pope’s Latin America tour an effective way to address regional challenges?",
    "source": "BBC News"
   },
   {
    "id": "t4",
-   "category": "tech",
-   "headline": "Binance alleges fake job interviews were part of a $6.3 bn crypto hack",
-   "question": "How can the crypto industry better protect job applicants from fraud schemes?",
+   "category": "world",
+   "headline": "Paraguay President Santiago Peña resigns after bank collapse",
+   "question": "Will Peña’s resignation restore confidence in Paraguay’s financial system?",
    "source": "BBC News"
   },
   {
    "id": "t5",
-   "category": "science",
-   "headline": "El Niño intensifies typhoons across East Asia, Pacific heats up",
-   "question": "What long‑term measures should vulnerable regions adopt to cope with stronger typhoons?",
+   "category": "tech",
+   "headline": "Graduates are managing AI – but are they learning much else?",
+   "question": "Are current AI curricula preparing graduates for broader career skills?",
    "source": "BBC News"
   },
   {
    "id": "t6",
-   "category": "health",
-   "headline": "Experts say food waste scraps could boost daily fibre intake",
-   "question": "Should governments promote using food‑waste scraps as a dietary fibre source?",
+   "category": "tech",
+   "headline": "Apple unsure when it will get more foldable iPhones ahead of Christmas",
+   "question": "Will Apple’s delay in foldable iPhones affect its market position during the holiday season?",
    "source": "BBC News"
   },
   {
    "id": "t7",
-   "category": "business",
-   "headline": "Interest rates rise to 4 % – first hike in over three years",
-   "question": "Will the rate increase curb inflation without harming economic growth?",
+   "category": "science",
+   "headline": "Typhoons batter East Asia as El Niño makes Pacific ‘burn with fever’",
+   "question": "How should East Asian nations adapt to the increasing intensity of typhoons linked to El Niño?",
    "source": "BBC News"
   },
   {
    "id": "t8",
-   "category": "trending",
-   "headline": "2027 IRS standard deduction amounts spark tax‑planning discussions",
-   "question": "Will the proposed 2027 standard deduction changes affect taxpayer behavior significantly?",
-   "source": "Google Trends"
+   "category": "health",
+   "headline": "Tempted by snacks before bed? Here’s why – and what you can do about it",
+   "question": "Do late‑night snacks significantly disrupt sleep quality and overall health?",
+   "source": "BBC News"
   },
   {
    "id": "t9",
-   "category": "tech",
-   "headline": "SpaceX shares tumble as tech and AI stocks fall",
-   "question": "Is the recent drop in SpaceX stock a sign of broader challenges for the AI‑driven space sector?",
+   "category": "business",
+   "headline": "Firms told to publish salaries in job adverts ahead of new law",
+   "question": "Will mandatory salary disclosure in job ads improve pay transparency and reduce wage gaps?",
    "source": "BBC News"
   }
  ]
