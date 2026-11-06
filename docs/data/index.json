@@ -1,6 +1,11 @@
 {
  "sessions": [
   {
+   "id": "20261106-2044",
+   "started_at": "2026-11-06T20:44:40+00:00",
+   "question_en": "Should Tesla continue investing in the Cybertruck despite recent production setbacks, or shift its resources to other electric vehicle models?"
+  },
+  {
    "id": "20261106-1030",
    "started_at": "2026-11-06T10:30:39+00:00",
    "question_en": "Should the creation and distribution of Hackintosh tools that enable macOS to run on non-Apple hardware be legally permitted?"
