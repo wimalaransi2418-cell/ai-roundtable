@@ -1,6 +1,11 @@
 {
  "sessions": [
   {
+   "id": "20261107-0943",
+   "started_at": "2026-11-07T09:43:09+00:00",
+   "question_en": "Should AI agents be allowed to retain persistent memory of user interactions across sessions?"
+  },
+  {
    "id": "20261106-2044",
    "started_at": "2026-11-06T20:44:40+00:00",
    "question_en": "Should Tesla continue investing in the Cybertruck despite recent production setbacks, or shift its resources to other electric vehicle models?"
