@@ -1,75 +1,75 @@
 {
- "updated_at": "2026-11-07T09:54:31+00:00",
+ "updated_at": "2026-11-07T16:17:35+00:00",
  "items": [
   {
    "id": "t0",
-   "category": "world",
-   "headline": "Pope Francis in good health as he begins Latin America tour",
-   "question": "How might the Pope's health influence the Catholic Church's outreach in Latin America?",
-   "source": "BBC News"
+   "category": "weather",
+   "headline": "Austin forecast shows cloudy skies with cool temperatures and rain",
+   "question": "How should residents adjust their weekend plans given the expected rain in Austin?",
+   "source": "Google News"
   },
   {
    "id": "t1",
    "category": "sports",
-   "headline": "New Zealand defeats Samoa to reach Women's World Cup final",
-   "question": "What impact will New Zealand's success have on the growth of women's soccer in the region?",
+   "headline": "F1 drivers Hamilton, Leclerc and Verstappen receive penalties",
+   "question": "Do the penalties fairly reflect the drivers' actions during the race?",
    "source": "BBC Sport"
   },
   {
    "id": "t2",
    "category": "sports",
-   "headline": "Ferrari faces internal challenges between Hamilton and Leclerc",
-   "question": "How could team dynamics between Hamilton and Leclerc affect Ferrari's performance this season?",
-   "source": "BBC Sport"
-  },
-  {
-   "id": "t3",
-   "category": "weather",
-   "headline": "Hawaii County weather forecast for November 7, 2026",
-   "question": "How might the predicted weather conditions affect local tourism and daily life in Hawaii?",
+   "headline": "NFL Week 9 predictions highlight potential upsets and sleeper performances",
+   "question": "Which underdog team is most likely to pull off an upset in Week 9?",
    "source": "Google News"
   },
   {
-   "id": "t4",
+   "id": "t3",
    "category": "tech",
-   "headline": "Global stocks fall as concerns over US AI slowdown spread worldwide",
-   "question": "Will fears of an AI slowdown lead to lasting changes in global investment strategies?",
+   "headline": "French blood banks face freezer hacks, prompting investigation into culprits",
+   "question": "What security measures should be implemented to protect critical medical storage from cyber attacks?",
+   "source": "BBC News"
+  },
+  {
+   "id": "t4",
+   "category": "science",
+   "headline": "Climate change intensifies heatwaves, droughts, wildfires and floods worldwide",
+   "question": "What are the most effective strategies for societies to mitigate worsening climate impacts?",
    "source": "BBC News"
   },
   {
    "id": "t5",
-   "category": "science",
-   "headline": "Climate change intensifies heatwaves, droughts, wildfires, and floods",
-   "question": "What are the most effective policies to mitigate climate‑related extreme weather events?",
+   "category": "health",
+   "headline": "Multi-cancer blood tests slated for rollout in select GP surgeries soon",
+   "question": "Will early multi-cancer screening significantly improve patient outcomes?",
    "source": "BBC News"
   },
   {
    "id": "t6",
-   "category": "health",
-   "headline": "Multi-cancer blood tests to be offered at some GP surgeries soon",
-   "question": "Will early multi‑cancer screening improve outcomes enough to justify widespread implementation?",
+   "category": "business",
+   "headline": "Understanding how falling share prices affect everyday investors",
+   "question": "Should individual investors adjust their portfolios during market downturns?",
    "source": "BBC News"
   },
   {
    "id": "t7",
-   "category": "business",
-   "headline": "UK PM urges firms to list salaries in job adverts under new law",
-   "question": "Will mandatory salary disclosure reduce pay gaps and improve hiring transparency?",
+   "category": "world",
+   "headline": "Pope reports good health as he begins Latin America tour",
+   "question": "How might the Pope's Latin America tour influence regional social issues?",
    "source": "BBC News"
   },
   {
    "id": "t8",
    "category": "trending",
-   "headline": "Artificial intelligence news dominates online searches",
-   "question": "How should societies balance rapid AI advancements with ethical considerations?",
+   "headline": "Florida State vs Boston College matchup draws online search interest",
+   "question": "Which team is likely to win the upcoming Florida State–Boston College game?",
    "source": "Google Trends"
   },
   {
    "id": "t9",
-   "category": "trending",
-   "headline": "New documentaries debut on Netflix this November",
-   "question": "Which documentary topics are most likely to shape public discourse this month?",
-   "source": "Google Trends"
+   "category": "tech",
+   "headline": "Engine components designed to defy conventional physical limits unveiled",
+   "question": "Can these advanced engine parts revolutionize efficiency across industries?",
+   "source": "BBC News"
   }
  ]
 }
