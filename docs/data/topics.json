@@ -1,75 +1,68 @@
 {
- "updated_at": "2026-11-08T00:24:13+00:00",
+ "updated_at": "2026-11-08T07:09:25+00:00",
  "items": [
   {
    "id": "t0",
    "category": "weather",
-   "headline": "Quiet and dry weather ahead, late week storm to watch in Philly region",
-   "question": "How should residents prepare for the expected late‑week storm in the Philadelphia area?",
+   "headline": "FIRST ALERT WEATHER: Cold start to Sunday before a milder afternoon",
+   "question": "How should residents prepare for sudden temperature shifts this weekend?",
    "source": "Google News"
   },
   {
    "id": "t1",
    "category": "sports",
    "headline": "Arsenal beat Hull to extend lead at top of the table",
-   "question": "Will Arsenal maintain its lead for the rest of the season after this victory?",
+   "question": "Does Arsenal's recent win signal a dominant season ahead?",
    "source": "BBC Sport"
   },
   {
    "id": "t2",
    "category": "sports",
-   "headline": "Leeds beat Spurs to end five‑game winless run",
-   "question": "Can Leeds build on this win to secure a higher league position?",
+   "headline": "Leeds beat Spurs to end five-game winless run",
+   "question": "Will Leeds' victory over Spurs mark a turning point in their campaign?",
    "source": "BBC Sport"
   },
   {
    "id": "t3",
-   "category": "world",
-   "headline": "US offers $20 million reward for information about Iran's nuclear programme",
-   "question": "Will the US reward effectively encourage new intelligence on Iran's nuclear activities?",
+   "category": "tech",
+   "headline": "Can the Zelda remake capture the magic of the original?",
+   "question": "Can the Zelda remake live up to fans' expectations while innovating gameplay?",
    "source": "BBC News"
   },
   {
    "id": "t4",
-   "category": "tech",
-   "headline": "Global stocks plunge as fears over US AI slowdown spread to Asia and Europe",
-   "question": "Are concerns about a US AI slowdown justified in influencing global markets?",
+   "category": "science",
+   "headline": "How climate change worsens heatwaves, droughts, wildfires and floods",
+   "question": "What policies are most effective in mitigating worsening climate‑related disasters?",
    "source": "BBC News"
   },
   {
    "id": "t5",
-   "category": "science",
-   "headline": "How climate change worsens heatwaves, droughts, wildfires and floods",
-   "question": "What policies are most effective in mitigating the escalating climate‑related disasters?",
+   "category": "health",
+   "headline": "Tempted by snacks before bed? Here's why - and what you can do about it",
+   "question": "Do late‑night snacks significantly disrupt sleep quality and overall health?",
    "source": "BBC News"
   },
   {
    "id": "t6",
-   "category": "health",
-   "headline": "Cocaine overtakes heroin as leading cause of drug deaths in England and Wales",
-   "question": "What factors are driving the rise of cocaine‑related deaths compared to heroin?",
+   "category": "business",
+   "headline": "Why smoky bacon crisps threaten to reignite rows over EU rules",
+   "question": "Should EU regulators tighten rules on flavored bacon crisps to address health concerns?",
    "source": "BBC News"
   },
   {
    "id": "t7",
-   "category": "business",
-   "headline": "How does it affect me if share prices fall?",
-   "question": "How significant is the impact of falling share prices on everyday investors?",
+   "category": "world",
+   "headline": "UK cannot 'cherry pick' EU single market deal, Barnier tells BBC",
+   "question": "Is the UK's approach to the EU single market deal realistic for future trade?",
    "source": "BBC News"
   },
   {
    "id": "t8",
    "category": "trending",
-   "headline": "wizards vs thunder",
-   "question": "Which team is favored to win the upcoming Wizards vs Thunder matchup?",
+   "headline": "Elon Musk net worth trends",
+   "question": "Does Elon Musk's net worth reflect his impact on technology and society?",
    "source": "Google Trends"
-  },
-  {
-   "id": "t9",
-   "category": "science",
-   "headline": "Delhi's toxic winter air is back – is the Indian capital prepared for pollution?",
-   "question": "Are current measures sufficient to protect Delhi residents from the worsening winter smog?",
-   "source": "BBC News"
   }
  ]
 }
