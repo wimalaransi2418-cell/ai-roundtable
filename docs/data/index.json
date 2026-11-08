@@ -1,6 +1,11 @@
 {
  "sessions": [
   {
+   "id": "20261108-0957",
+   "started_at": "2026-11-08T09:57:14+00:00",
+   "question_en": "Should consumer brain‑wave headsets be subject to privacy regulations to protect users' neural data?"
+  },
+  {
    "id": "20261107-1918",
    "started_at": "2026-11-07T19:18:41+00:00",
    "question_en": "Should the proliferation of AI‑generated literature be regulated to protect the quality and cultural value of written works?"
