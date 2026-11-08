@@ -1,74 +1,74 @@
 {
- "updated_at": "2026-11-08T14:59:18+00:00",
+ "updated_at": "2026-11-08T19:28:50+00:00",
  "items": [
   {
    "id": "t0",
    "category": "weather",
-   "headline": "Vermont faces unprecedented weather extremes, report says",
-   "question": "What steps should communities take to adapt to increasingly extreme weather patterns?",
+   "headline": "Rain expected Sunday in Houston ahead of a midweek cold front",
+   "question": "How should residents prepare for the upcoming rain and potential temperature drop?",
    "source": "Google News"
   },
   {
    "id": "t1",
    "category": "sports",
-   "headline": "Australia reaches World Cup final after narrow win over Fiji",
-   "question": "Will Australia's recent performance signal a new era of dominance in international rugby?",
+   "headline": "England defeats Wallabies in rugby match under Borthwick's leadership",
+   "question": "What does this win indicate about England's prospects in upcoming international tournaments?",
    "source": "BBC Sport"
   },
   {
    "id": "t2",
    "category": "sports",
-   "headline": "Arsenal beats Hull, extends lead at top of Premier League",
-   "question": "Can Arsenal maintain its lead and secure the title this season?",
+   "headline": "Alcaraz defeats Shelton to claim his first Paris Masters title",
+   "question": "Will Alcaraz's victory signal a shift in the men's tennis hierarchy?",
    "source": "BBC Sport"
   },
   {
    "id": "t3",
    "category": "world",
-   "headline": "UK told it cannot cherry‑pick EU single market deal",
-   "question": "Should the UK negotiate a tailored agreement or accept the full EU single market terms?",
+   "headline": "Homes and temples illuminated across India for Diwali celebrations",
+   "question": "How does Diwali's lighting tradition impact energy consumption and environmental concerns?",
    "source": "BBC News"
   },
   {
    "id": "t4",
    "category": "tech",
-   "headline": "Govt considers banning under‑16s from Vinted and eBay",
-   "question": "Is restricting under‑16s from online marketplaces an effective way to protect young consumers?",
+   "headline": "AI stocks rise following massive market value reductions",
+   "question": "What factors are driving the recent rebound in AI stock performance?",
    "source": "BBC News"
   },
   {
    "id": "t5",
-   "category": "science",
-   "headline": "How climate change intensifies heatwaves, droughts, wildfires and floods",
-   "question": "What are the most urgent policy actions to mitigate climate‑driven extreme events?",
+   "category": "tech",
+   "headline": "Global markets dip amid concerns over a slowdown in US AI development",
+   "question": "How might a slowdown in US AI progress affect global technology investment trends?",
    "source": "BBC News"
   },
   {
    "id": "t6",
-   "category": "health",
-   "headline": "Why late‑night snacking can disrupt sleep and health",
-   "question": "Should public health campaigns target evening snack habits to improve sleep quality?",
+   "category": "science",
+   "headline": "Climate change intensifies heatwaves, droughts, wildfires and floods",
+   "question": "What policies are most effective in mitigating these escalating climate impacts?",
    "source": "BBC News"
   },
   {
    "id": "t7",
-   "category": "business",
-   "headline": "Mortgage payments rise £200 a month as interest rates climb",
-   "question": "How will higher mortgage costs affect the housing market and consumer spending?",
+   "category": "health",
+   "headline": "Evening snacking habits and their effects on sleep",
+   "question": "Should dietary guidelines address late-night snacking to improve sleep quality?",
    "source": "BBC News"
   },
   {
    "id": "t8",
    "category": "trending",
-   "headline": "Premier League table draws massive online interest",
-   "question": "Which factors will most influence the final league standings this season?",
+   "headline": "Atlético Madrid vs Barcelona match draws widespread attention",
+   "question": "Which team is more likely to dominate the upcoming encounter and why?",
    "source": "Google Trends"
   },
   {
    "id": "t9",
-   "category": "tech",
-   "headline": "AI stocks surge after massive market value losses elsewhere",
-   "question": "Is the recent AI stock rally justified amid broader market downturns?",
+   "category": "business",
+   "headline": "Mortgage payments increase by £200 as interest rates rise",
+   "question": "Are current interest rate policies sustainable for average homeowners?",
    "source": "BBC News"
   }
  ]
