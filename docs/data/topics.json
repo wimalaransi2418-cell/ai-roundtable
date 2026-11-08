@@ -1,75 +1,75 @@
 {
- "updated_at": "2026-11-07T20:47:02+00:00",
+ "updated_at": "2026-11-08T00:24:13+00:00",
  "items": [
   {
    "id": "t0",
    "category": "weather",
-   "headline": "When will winter weather arrive? November forecast offers an unusual answer",
-   "question": "What factors should forecasters consider when predicting the onset of winter this year?",
+   "headline": "Quiet and dry weather ahead, late week storm to watch in Philly region",
+   "question": "How should residents prepare for the expected late‑week storm in the Philadelphia area?",
    "source": "Google News"
   },
   {
    "id": "t1",
    "category": "sports",
-   "headline": "Arsenal defeat Hull to extend their lead at the top of the league",
-   "question": "Will Arsenal's recent form be enough to secure the title this season?",
+   "headline": "Arsenal beat Hull to extend lead at top of the table",
+   "question": "Will Arsenal maintain its lead for the rest of the season after this victory?",
    "source": "BBC Sport"
   },
   {
    "id": "t2",
    "category": "sports",
-   "headline": "Leeds beat Spurs, ending a five‑game winless streak",
-   "question": "Can Leeds build on this win to climb higher in the standings?",
+   "headline": "Leeds beat Spurs to end five‑game winless run",
+   "question": "Can Leeds build on this win to secure a higher league position?",
    "source": "BBC Sport"
   },
   {
    "id": "t3",
    "category": "world",
-   "headline": "Pope reports being in good health as he begins Latin America tour",
-   "question": "How might the Pope's health influence the Catholic Church's global outreach?",
+   "headline": "US offers $20 million reward for information about Iran's nuclear programme",
+   "question": "Will the US reward effectively encourage new intelligence on Iran's nuclear activities?",
    "source": "BBC News"
   },
   {
    "id": "t4",
    "category": "tech",
-   "headline": "Engine components designed to defy conventional physical limits",
-   "question": "Could these breakthrough engine parts reshape future transportation technologies?",
+   "headline": "Global stocks plunge as fears over US AI slowdown spread to Asia and Europe",
+   "question": "Are concerns about a US AI slowdown justified in influencing global markets?",
    "source": "BBC News"
   },
   {
    "id": "t5",
    "category": "science",
-   "headline": "Climate change intensifies heatwaves, droughts, wildfires and floods",
-   "question": "What policy actions are most effective in mitigating these escalating climate impacts?",
+   "headline": "How climate change worsens heatwaves, droughts, wildfires and floods",
+   "question": "What policies are most effective in mitigating the escalating climate‑related disasters?",
    "source": "BBC News"
   },
   {
    "id": "t6",
-   "category": "science",
-   "headline": "Prolific meteor shower set to light up night skies this weekend",
-   "question": "How can amateur astronomers best prepare to observe this celestial event?",
+   "category": "health",
+   "headline": "Cocaine overtakes heroin as leading cause of drug deaths in England and Wales",
+   "question": "What factors are driving the rise of cocaine‑related deaths compared to heroin?",
    "source": "BBC News"
   },
   {
    "id": "t7",
-   "category": "health",
-   "headline": "Late‑night snacking explained: why it happens and how to curb it",
-   "question": "What are the most practical strategies for reducing unhealthy bedtime snacking?",
+   "category": "business",
+   "headline": "How does it affect me if share prices fall?",
+   "question": "How significant is the impact of falling share prices on everyday investors?",
    "source": "BBC News"
   },
   {
    "id": "t8",
-   "category": "business",
-   "headline": "UK government urges firms to list salaries in job ads under new law",
-   "question": "Will mandatory salary disclosure improve pay transparency and reduce wage gaps?",
-   "source": "BBC News"
+   "category": "trending",
+   "headline": "wizards vs thunder",
+   "question": "Which team is favored to win the upcoming Wizards vs Thunder matchup?",
+   "source": "Google Trends"
   },
   {
    "id": "t9",
-   "category": "trending",
-   "headline": "Big 12 college football standings heat up as season progresses",
-   "question": "Which teams are most likely to clinch the conference title based on current trends?",
-   "source": "Google Trends"
+   "category": "science",
+   "headline": "Delhi's toxic winter air is back – is the Indian capital prepared for pollution?",
+   "question": "Are current measures sufficient to protect Delhi residents from the worsening winter smog?",
+   "source": "BBC News"
   }
  ]
 }
