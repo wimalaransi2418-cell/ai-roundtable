@@ -1,68 +1,75 @@
 {
- "updated_at": "2026-11-08T07:09:25+00:00",
+ "updated_at": "2026-11-08T14:59:18+00:00",
  "items": [
   {
    "id": "t0",
    "category": "weather",
-   "headline": "FIRST ALERT WEATHER: Cold start to Sunday before a milder afternoon",
-   "question": "How should residents prepare for sudden temperature shifts this weekend?",
+   "headline": "Vermont faces unprecedented weather extremes, report says",
+   "question": "What steps should communities take to adapt to increasingly extreme weather patterns?",
    "source": "Google News"
   },
   {
    "id": "t1",
    "category": "sports",
-   "headline": "Arsenal beat Hull to extend lead at top of the table",
-   "question": "Does Arsenal's recent win signal a dominant season ahead?",
+   "headline": "Australia reaches World Cup final after narrow win over Fiji",
+   "question": "Will Australia's recent performance signal a new era of dominance in international rugby?",
    "source": "BBC Sport"
   },
   {
    "id": "t2",
    "category": "sports",
-   "headline": "Leeds beat Spurs to end five-game winless run",
-   "question": "Will Leeds' victory over Spurs mark a turning point in their campaign?",
+   "headline": "Arsenal beats Hull, extends lead at top of Premier League",
+   "question": "Can Arsenal maintain its lead and secure the title this season?",
    "source": "BBC Sport"
   },
   {
    "id": "t3",
-   "category": "tech",
-   "headline": "Can the Zelda remake capture the magic of the original?",
-   "question": "Can the Zelda remake live up to fans' expectations while innovating gameplay?",
+   "category": "world",
+   "headline": "UK told it cannot cherry‑pick EU single market deal",
+   "question": "Should the UK negotiate a tailored agreement or accept the full EU single market terms?",
    "source": "BBC News"
   },
   {
    "id": "t4",
-   "category": "science",
-   "headline": "How climate change worsens heatwaves, droughts, wildfires and floods",
-   "question": "What policies are most effective in mitigating worsening climate‑related disasters?",
+   "category": "tech",
+   "headline": "Govt considers banning under‑16s from Vinted and eBay",
+   "question": "Is restricting under‑16s from online marketplaces an effective way to protect young consumers?",
    "source": "BBC News"
   },
   {
    "id": "t5",
-   "category": "health",
-   "headline": "Tempted by snacks before bed? Here's why - and what you can do about it",
-   "question": "Do late‑night snacks significantly disrupt sleep quality and overall health?",
+   "category": "science",
+   "headline": "How climate change intensifies heatwaves, droughts, wildfires and floods",
+   "question": "What are the most urgent policy actions to mitigate climate‑driven extreme events?",
    "source": "BBC News"
   },
   {
    "id": "t6",
-   "category": "business",
-   "headline": "Why smoky bacon crisps threaten to reignite rows over EU rules",
-   "question": "Should EU regulators tighten rules on flavored bacon crisps to address health concerns?",
+   "category": "health",
+   "headline": "Why late‑night snacking can disrupt sleep and health",
+   "question": "Should public health campaigns target evening snack habits to improve sleep quality?",
    "source": "BBC News"
   },
   {
    "id": "t7",
-   "category": "world",
-   "headline": "UK cannot 'cherry pick' EU single market deal, Barnier tells BBC",
-   "question": "Is the UK's approach to the EU single market deal realistic for future trade?",
+   "category": "business",
+   "headline": "Mortgage payments rise £200 a month as interest rates climb",
+   "question": "How will higher mortgage costs affect the housing market and consumer spending?",
    "source": "BBC News"
   },
   {
    "id": "t8",
    "category": "trending",
-   "headline": "Elon Musk net worth trends",
-   "question": "Does Elon Musk's net worth reflect his impact on technology and society?",
+   "headline": "Premier League table draws massive online interest",
+   "question": "Which factors will most influence the final league standings this season?",
    "source": "Google Trends"
+  },
+  {
+   "id": "t9",
+   "category": "tech",
+   "headline": "AI stocks surge after massive market value losses elsewhere",
+   "question": "Is the recent AI stock rally justified amid broader market downturns?",
+   "source": "BBC News"
   }
  ]
 }
