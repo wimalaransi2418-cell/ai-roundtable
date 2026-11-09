@@ -1,6 +1,11 @@
 {
  "sessions": [
   {
+   "id": "20261109-1101",
+   "started_at": "2026-11-09T11:01:18+00:00",
+   "question_en": "Should the AI research community prioritize speed and scalability over output quality and safety in parallel coarse-to-fine text generation models?"
+  },
+  {
    "id": "20261108-1924",
    "started_at": "2026-11-08T19:24:14+00:00",
    "question_en": "Should governments mandate the installation of CSAM detection software on all smartphones?"
