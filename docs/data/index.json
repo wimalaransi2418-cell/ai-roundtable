@@ -1,6 +1,11 @@
 {
  "sessions": [
   {
+   "id": "20261109-2344",
+   "started_at": "2026-11-09T23:44:08+00:00",
+   "question_en": "Should AI services like Google Gemini be allowed to route users' personal Drive files and emails to human annotators for training?"
+  },
+  {
    "id": "20261109-1101",
    "started_at": "2026-11-09T11:01:18+00:00",
    "question_en": "Should the AI research community prioritize speed and scalability over output quality and safety in parallel coarse-to-fine text generation models?"
