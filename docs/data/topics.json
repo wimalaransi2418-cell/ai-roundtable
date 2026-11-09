@@ -1,75 +1,75 @@
 {
- "updated_at": "2026-11-09T05:59:15+00:00",
+ "updated_at": "2026-11-09T15:58:47+00:00",
  "items": [
   {
    "id": "t0",
-   "category": "weather",
-   "headline": "World leaders meet in Turkey for UN climate summit after extreme weather",
-   "question": "How effective are UN climate summits in prompting real policy changes?",
-   "source": "Google News"
+   "category": "world",
+   "headline": "Krakow shooting suspect has died in hospital, police say",
+   "source": "BBC News",
+   "question": "What do you make of this story: Krakow shooting suspect has died in hospital, police say?"
   },
   {
    "id": "t1",
-   "category": "sports",
-   "headline": "Manchester United scores twice in stoppage time to share points in 8‑goal draw",
-   "question": "Should teams be rewarded with points for high-scoring draws in football?",
-   "source": "BBC Sport"
+   "category": "world",
+   "headline": "Trump says he was 'kidding' about Dana White press secretary offer",
+   "source": "BBC News",
+   "question": "What do you make of this story: Trump says he was 'kidding' about Dana White press secretary offer?"
   },
   {
    "id": "t2",
-   "category": "sports",
-   "headline": "Sergio Norris shines in São Paulo Grand Prix despite firework incident",
-   "question": "Do safety protocols need tightening after incidents like the firework mishap in racing?",
-   "source": "BBC Sport"
+   "category": "world",
+   "headline": "Nine foreigners caught allegedly trying to leave South Africa to fight in Ukraine",
+   "source": "BBC News",
+   "question": "What do you make of this story: Nine foreigners caught allegedly trying to leave South Africa to fight in Ukraine?"
   },
   {
    "id": "t3",
-   "category": "tech",
-   "headline": "Elon Musk hints at ending production of the Cybertruck",
-   "question": "Is discontinuing the Cybertruck a sign of shifting priorities in the EV market?",
-   "source": "BBC News"
+   "category": "world",
+   "headline": "Thirteen migrants die after boat sinks off Crete",
+   "source": "BBC News",
+   "question": "What do you make of this story: Thirteen migrants die after boat sinks off Crete?"
   },
   {
    "id": "t4",
-   "category": "tech",
-   "headline": "Global markets tumble as concerns grow over US AI slowdown",
-   "question": "Will concerns over AI development slow innovation or protect economies?",
-   "source": "BBC News"
+   "category": "sports",
+   "headline": "Incident-by-incident: Was it a bad weekend for VAR?",
+   "source": "BBC Sport",
+   "question": "What do you make of this story: Incident-by-incident: Was it a bad weekend for VAR??"
   },
   {
    "id": "t5",
-   "category": "science",
-   "headline": "Major meteor shower set to light up night skies this weekend",
-   "question": "How can amateur astronomers best prepare to view the upcoming meteor shower?",
-   "source": "BBC News"
+   "category": "sports",
+   "headline": "England clear way for Carse return and drop Bashir",
+   "source": "BBC Sport",
+   "question": "What do you make of this story: England clear way for Carse return and drop Bashir?"
   },
   {
    "id": "t6",
-   "category": "science",
-   "headline": "Simple guide explains the basics of climate change",
-   "question": "What individual actions are most impactful in combating climate change?",
-   "source": "BBC News"
+   "category": "sports",
+   "headline": "Alisson wants to sign new Liverpool contract",
+   "source": "BBC Sport",
+   "question": "What do you make of this story: Alisson wants to sign new Liverpool contract?"
   },
   {
    "id": "t7",
-   "category": "health",
-   "headline": "Snacking before bed: why it matters and how to manage cravings",
-   "question": "Are late-night snacks harmful, or can they fit into a healthy diet?",
-   "source": "BBC News"
+   "category": "sports",
+   "headline": "How Hawkins overcame illness to star for England",
+   "source": "BBC Sport",
+   "question": "What do you make of this story: How Hawkins overcame illness to star for England?"
   },
   {
    "id": "t8",
-   "category": "business",
-   "headline": "Tips to save money now for the upcoming Christmas season",
-   "question": "Are early Christmas savings strategies more effective than last‑minute deals?",
-   "source": "BBC News"
+   "category": "tech",
+   "headline": "What we know so far about Jensen Huang's affair with suspected Chinese spy",
+   "source": "BBC News",
+   "question": "What do you make of this story: What we know so far about Jensen Huang's affair with suspected Chinese spy?"
   },
   {
    "id": "t9",
-   "category": "trending",
-   "headline": "Delhi's air quality index spikes: what does it mean for residents?",
-   "question": "What steps can Delhi residents take to protect health during high AQI days?",
-   "source": "Google Trends"
+   "category": "tech",
+   "headline": "Government 'looking seriously' at banning under-16s from Vinted and eBay",
+   "source": "BBC News",
+   "question": "What do you make of this story: Government 'looking seriously' at banning under-16s from Vinted and eBay?"
   }
  ]
 }
