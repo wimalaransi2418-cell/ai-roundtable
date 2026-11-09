@@ -1,75 +1,75 @@
 {
- "updated_at": "2026-11-08T23:36:58+00:00",
+ "updated_at": "2026-11-09T05:59:15+00:00",
  "items": [
   {
    "id": "t0",
    "category": "weather",
-   "headline": "Storm expected to hit Philadelphia region later this week",
-   "question": "How should residents prepare for the upcoming storm to minimize disruption?",
+   "headline": "World leaders meet in Turkey for UN climate summit after extreme weather",
+   "question": "How effective are UN climate summits in prompting real policy changes?",
    "source": "Google News"
   },
   {
    "id": "t1",
    "category": "sports",
-   "headline": "Manchester United scores twice in stoppage time to draw 4-4",
-   "question": "Does this dramatic comeback reflect United's resilience or defensive frailties?",
+   "headline": "Manchester United scores twice in stoppage time to share points in 8‑goal draw",
+   "question": "Should teams be rewarded with points for high-scoring draws in football?",
    "source": "BBC Sport"
   },
   {
    "id": "t2",
    "category": "sports",
-   "headline": "Liverpool beats Crystal Palace to increase pressure on manager",
-   "question": "Will Liverpool's recent form sustain a title challenge this season?",
+   "headline": "Sergio Norris shines in São Paulo Grand Prix despite firework incident",
+   "question": "Do safety protocols need tightening after incidents like the firework mishap in racing?",
    "source": "BBC Sport"
   },
   {
    "id": "t3",
-   "category": "world",
-   "headline": "Homes and temples illuminated across India for Diwali celebrations",
-   "question": "How does Diwali's widespread lighting impact India's energy consumption?",
+   "category": "tech",
+   "headline": "Elon Musk hints at ending production of the Cybertruck",
+   "question": "Is discontinuing the Cybertruck a sign of shifting priorities in the EV market?",
    "source": "BBC News"
   },
   {
    "id": "t4",
    "category": "tech",
-   "headline": "Debate over whether the Zelda remake can match the original's appeal",
-   "question": "Should remakes prioritize preserving nostalgia or introducing new innovations?",
+   "headline": "Global markets tumble as concerns grow over US AI slowdown",
+   "question": "Will concerns over AI development slow innovation or protect economies?",
    "source": "BBC News"
   },
   {
    "id": "t5",
    "category": "science",
-   "headline": "Major meteor shower expected to brighten night skies this weekend",
-   "question": "What factors determine public interest in observing meteor showers?",
+   "headline": "Major meteor shower set to light up night skies this weekend",
+   "question": "How can amateur astronomers best prepare to view the upcoming meteor shower?",
    "source": "BBC News"
   },
   {
    "id": "t6",
-   "category": "health",
-   "headline": "Why many people crave snacks before bedtime and how to manage it",
-   "question": "Do late-night snacks significantly affect sleep quality and metabolism?",
+   "category": "science",
+   "headline": "Simple guide explains the basics of climate change",
+   "question": "What individual actions are most impactful in combating climate change?",
    "source": "BBC News"
   },
   {
    "id": "t7",
-   "category": "business",
-   "headline": "Understanding the personal impact of declining share prices",
-   "question": "Should individual investors adjust strategies during market downturns?",
+   "category": "health",
+   "headline": "Snacking before bed: why it matters and how to manage cravings",
+   "question": "Are late-night snacks harmful, or can they fit into a healthy diet?",
    "source": "BBC News"
   },
   {
    "id": "t8",
-   "category": "trending",
-   "headline": "Discussion rises over the New England Patriots' coaching future",
-   "question": "Is it time for the Patriots to hire a new head coach to improve performance?",
-   "source": "Google Trends"
+   "category": "business",
+   "headline": "Tips to save money now for the upcoming Christmas season",
+   "question": "Are early Christmas savings strategies more effective than last‑minute deals?",
+   "source": "BBC News"
   },
   {
    "id": "t9",
-   "category": "business",
-   "headline": "Rising interest rates cause many UK mortgages to increase by £200 monthly",
-   "question": "Are current monetary policies adequately protecting homeowners from rate spikes?",
-   "source": "BBC News"
+   "category": "trending",
+   "headline": "Delhi's air quality index spikes: what does it mean for residents?",
+   "question": "What steps can Delhi residents take to protect health during high AQI days?",
+   "source": "Google Trends"
   }
  ]
 }
