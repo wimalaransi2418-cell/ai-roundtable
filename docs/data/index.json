@@ -1,6 +1,11 @@
 {
  "sessions": [
   {
+   "id": "20261110-2115",
+   "started_at": "2026-11-10T21:15:24+00:00",
+   "question_en": "Should smart home devices be required to operate fully offline to protect user privacy and reliability?"
+  },
+  {
    "id": "20261110-1052",
    "started_at": "2026-11-10T10:52:36+00:00",
    "question_en": "Should Nvidia's dominant position in AI hardware be regulated to prevent market monopolies and ensure competition?"
