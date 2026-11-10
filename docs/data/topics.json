@@ -1,75 +1,75 @@
 {
- "updated_at": "2026-11-09T15:58:47+00:00",
+ "updated_at": "2026-11-10T00:07:20+00:00",
  "items": [
   {
    "id": "t0",
-   "category": "world",
-   "headline": "Krakow shooting suspect has died in hospital, police say",
-   "source": "BBC News",
-   "question": "What do you make of this story: Krakow shooting suspect has died in hospital, police say?"
+   "category": "weather",
+   "headline": "Quiet weather expected throughout the week",
+   "question": "Will the calm forecast affect outdoor events and travel plans this week?",
+   "source": "Google News"
   },
   {
    "id": "t1",
-   "category": "world",
-   "headline": "Trump says he was 'kidding' about Dana White press secretary offer",
-   "source": "BBC News",
-   "question": "What do you make of this story: Trump says he was 'kidding' about Dana White press secretary offer?"
+   "category": "sports",
+   "headline": "NFL Week 9: Team of the Week and player awards announced",
+   "question": "Do the selected players truly represent the best performances of the week?",
+   "source": "Google News"
   },
   {
    "id": "t2",
-   "category": "world",
-   "headline": "Nine foreigners caught allegedly trying to leave South Africa to fight in Ukraine",
-   "source": "BBC News",
-   "question": "What do you make of this story: Nine foreigners caught allegedly trying to leave South Africa to fight in Ukraine?"
+   "category": "sports",
+   "headline": "ESPN secures exclusive rights for expanded 24‑team College Football Playoff",
+   "question": "Will ESPN's exclusive deal improve the visibility and quality of college football?",
+   "source": "Google News"
   },
   {
    "id": "t3",
    "category": "world",
-   "headline": "Thirteen migrants die after boat sinks off Crete",
-   "source": "BBC News",
-   "question": "What do you make of this story: Thirteen migrants die after boat sinks off Crete?"
+   "headline": "Russia's leading independent newspaper forced to close after eviction",
+   "question": "What impact will the newspaper's closure have on media freedom in Russia?",
+   "source": "BBC News"
   },
   {
    "id": "t4",
-   "category": "sports",
-   "headline": "Incident-by-incident: Was it a bad weekend for VAR?",
-   "source": "BBC Sport",
-   "question": "What do you make of this story: Incident-by-incident: Was it a bad weekend for VAR??"
+   "category": "world",
+   "headline": "France accuses Iran of hacking supermarket refrigeration systems",
+   "question": "Are the alleged fridge hacks part of a broader cyber‑espionage campaign?",
+   "source": "BBC News"
   },
   {
    "id": "t5",
-   "category": "sports",
-   "headline": "England clear way for Carse return and drop Bashir",
-   "source": "BBC Sport",
-   "question": "What do you make of this story: England clear way for Carse return and drop Bashir?"
+   "category": "tech",
+   "headline": "Elon Musk hints at ending production of the Cybertruck",
+   "question": "Is discontinuing the Cybertruck a sign of shifting priorities for Tesla?",
+   "source": "BBC News"
   },
   {
    "id": "t6",
-   "category": "sports",
-   "headline": "Alisson wants to sign new Liverpool contract",
-   "source": "BBC Sport",
-   "question": "What do you make of this story: Alisson wants to sign new Liverpool contract?"
+   "category": "tech",
+   "headline": "AI stocks rise after market loses trillions in value",
+   "question": "Will the recent AI rally be sustainable amid broader market volatility?",
+   "source": "BBC News"
   },
   {
    "id": "t7",
-   "category": "sports",
-   "headline": "How Hawkins overcame illness to star for England",
-   "source": "BBC Sport",
-   "question": "What do you make of this story: How Hawkins overcame illness to star for England?"
+   "category": "science",
+   "headline": "Scientists say 2026 could be the hottest year on record",
+   "question": "How should governments respond if 2026 becomes the hottest year yet?",
+   "source": "BBC News"
   },
   {
    "id": "t8",
-   "category": "tech",
-   "headline": "What we know so far about Jensen Huang's affair with suspected Chinese spy",
-   "source": "BBC News",
-   "question": "What do you make of this story: What we know so far about Jensen Huang's affair with suspected Chinese spy?"
+   "category": "health",
+   "headline": "UK doctor treated for Ebola after infection in London",
+   "question": "What measures are needed to prevent future Ebola exposures in UK hospitals?",
+   "source": "BBC News"
   },
   {
    "id": "t9",
-   "category": "tech",
-   "headline": "Government 'looking seriously' at banning under-16s from Vinted and eBay",
-   "source": "BBC News",
-   "question": "What do you make of this story: Government 'looking seriously' at banning under-16s from Vinted and eBay?"
+   "category": "trending",
+   "headline": "Search trend: 'Dion Dawkins' spikes online",
+   "question": "What factors are driving the sudden interest in Dion Dawkins?",
+   "source": "Google Trends"
   }
  ]
 }
