@@ -1,75 +1,75 @@
 {
- "updated_at": "2026-11-10T08:15:42+00:00",
+ "updated_at": "2026-11-10T16:58:44+00:00",
  "items": [
   {
    "id": "t0",
    "category": "world",
-   "headline": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
-   "source": "BBC News",
-   "question": "What do you make of this story: Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy?"
+   "headline": "First day of Ukraine peace talks described as very productive, US says",
+   "question": "What factors will determine whether the Ukraine peace talks lead to a lasting agreement?",
+   "source": "BBC News"
   },
   {
    "id": "t1",
-   "category": "world",
-   "headline": "Trump says more US attacks on Iran 'highly unlikely'",
-   "source": "BBC News",
-   "question": "What do you make of this story: Trump says more US attacks on Iran 'highly unlikely'?"
+   "category": "sports",
+   "headline": "Formula 1 to conclude its 2026 season in the Middle East",
+   "question": "Is moving the Formula 1 season finale to the Middle East beneficial for the sport's global growth?",
+   "source": "BBC Sport"
   },
   {
    "id": "t2",
-   "category": "world",
-   "headline": "Australia considers criminal penalties for rogue AI in wake of OpenAI hack",
-   "source": "BBC News",
-   "question": "What do you make of this story: Australia considers criminal penalties for rogue AI in wake of OpenAI hack?"
+   "category": "sports",
+   "headline": "2026 NFL trade deadline brings a flurry of rumors and potential deals",
+   "question": "Will the 2026 NFL trade deadline reshape team competitiveness for the rest of the season?",
+   "source": "Google News"
   },
   {
    "id": "t3",
-   "category": "world",
-   "headline": "Republican congressman to force impeachment vote on Defence Secretary Hegseth",
-   "source": "BBC News",
-   "question": "What do you make of this story: Republican congressman to force impeachment vote on Defence Secretary Hegseth?"
+   "category": "weather",
+   "headline": "Nor'easter may bring first snow to millions as cold air moves across the East",
+   "question": "How prepared are East Coast communities for the potential impacts of the predicted nor'easter?",
+   "source": "Google News"
   },
   {
    "id": "t4",
-   "category": "sports",
-   "headline": "Man Utd expected to sack head coach Carrick",
-   "source": "BBC Sport",
-   "question": "What do you make of this story: Man Utd expected to sack head coach Carrick?"
+   "category": "tech",
+   "headline": "Australia weighs criminal penalties for rogue AI after recent OpenAI hack",
+   "question": "Should governments impose criminal liability on developers of rogue AI systems?",
+   "source": "BBC News"
   },
   {
    "id": "t5",
-   "category": "sports",
-   "headline": "'No reason' to reopen sandpaper investigation",
-   "source": "BBC Sport",
-   "question": "What do you make of this story: 'No reason' to reopen sandpaper investigation?"
+   "category": "science",
+   "headline": "Scientists say 2026 could be the hottest year on record as climate talks start",
+   "question": "What actions are most urgent to prevent 2026 from becoming the hottest year on record?",
+   "source": "BBC News"
   },
   {
    "id": "t6",
-   "category": "sports",
-   "headline": "How Germany's greatest goalscorer is guiding the next generation",
-   "source": "BBC Sport",
-   "question": "What do you make of this story: How Germany's greatest goalscorer is guiding the next generation?"
+   "category": "science",
+   "headline": "Birds return to a waterfowl park after oil vandalism damages habitat",
+   "question": "What measures can protect wildlife parks from future oil vandalism incidents?",
+   "source": "BBC News"
   },
   {
    "id": "t7",
-   "category": "sports",
-   "headline": "Meet Stephanie Case - the first woman to run 100 miles in Antarctica",
-   "source": "BBC Sport",
-   "question": "What do you make of this story: Meet Stephanie Case - the first woman to run 100 miles in Antarctica?"
+   "category": "health",
+   "headline": "Cocaine now surpasses heroin as leading cause of drug deaths in England and Wales",
+   "question": "What underlying causes are driving the rise of cocaine-related deaths over heroin?",
+   "source": "BBC News"
   },
   {
    "id": "t8",
-   "category": "tech",
-   "headline": "Faisal Islam: What Jensen Huang told me about China, national security and persuading Trump",
-   "source": "BBC News",
-   "question": "What do you make of this story: Faisal Islam: What Jensen Huang told me about China, national security and persuading Trump?"
+   "category": "business",
+   "headline": "US inflation rises above expectations in October, affecting consumer prices",
+   "question": "How should policymakers respond to higher-than-expected inflation to protect consumers?",
+   "source": "BBC News"
   },
   {
    "id": "t9",
-   "category": "tech",
-   "headline": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
-   "source": "BBC News",
-   "question": "What do you make of this story: Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy?"
+   "category": "trending",
+   "headline": "Search interest spikes for Whoopi Goldberg – what drives the renewed attention?",
+   "question": "What cultural or media events are fueling the recent surge in searches for Whoopi Goldberg?",
+   "source": "Google Trends"
   }
  ]
 }
