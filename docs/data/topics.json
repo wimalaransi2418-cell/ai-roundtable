@@ -1,75 +1,75 @@
 {
- "updated_at": "2026-11-10T00:07:20+00:00",
+ "updated_at": "2026-11-10T08:15:42+00:00",
  "items": [
   {
    "id": "t0",
-   "category": "weather",
-   "headline": "Quiet weather expected throughout the week",
-   "question": "Will the calm forecast affect outdoor events and travel plans this week?",
-   "source": "Google News"
+   "category": "world",
+   "headline": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
+   "source": "BBC News",
+   "question": "What do you make of this story: Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy?"
   },
   {
    "id": "t1",
-   "category": "sports",
-   "headline": "NFL Week 9: Team of the Week and player awards announced",
-   "question": "Do the selected players truly represent the best performances of the week?",
-   "source": "Google News"
+   "category": "world",
+   "headline": "Trump says more US attacks on Iran 'highly unlikely'",
+   "source": "BBC News",
+   "question": "What do you make of this story: Trump says more US attacks on Iran 'highly unlikely'?"
   },
   {
    "id": "t2",
-   "category": "sports",
-   "headline": "ESPN secures exclusive rights for expanded 24‑team College Football Playoff",
-   "question": "Will ESPN's exclusive deal improve the visibility and quality of college football?",
-   "source": "Google News"
+   "category": "world",
+   "headline": "Australia considers criminal penalties for rogue AI in wake of OpenAI hack",
+   "source": "BBC News",
+   "question": "What do you make of this story: Australia considers criminal penalties for rogue AI in wake of OpenAI hack?"
   },
   {
    "id": "t3",
    "category": "world",
-   "headline": "Russia's leading independent newspaper forced to close after eviction",
-   "question": "What impact will the newspaper's closure have on media freedom in Russia?",
-   "source": "BBC News"
+   "headline": "Republican congressman to force impeachment vote on Defence Secretary Hegseth",
+   "source": "BBC News",
+   "question": "What do you make of this story: Republican congressman to force impeachment vote on Defence Secretary Hegseth?"
   },
   {
    "id": "t4",
-   "category": "world",
-   "headline": "France accuses Iran of hacking supermarket refrigeration systems",
-   "question": "Are the alleged fridge hacks part of a broader cyber‑espionage campaign?",
-   "source": "BBC News"
+   "category": "sports",
+   "headline": "Man Utd expected to sack head coach Carrick",
+   "source": "BBC Sport",
+   "question": "What do you make of this story: Man Utd expected to sack head coach Carrick?"
   },
   {
    "id": "t5",
-   "category": "tech",
-   "headline": "Elon Musk hints at ending production of the Cybertruck",
-   "question": "Is discontinuing the Cybertruck a sign of shifting priorities for Tesla?",
-   "source": "BBC News"
+   "category": "sports",
+   "headline": "'No reason' to reopen sandpaper investigation",
+   "source": "BBC Sport",
+   "question": "What do you make of this story: 'No reason' to reopen sandpaper investigation?"
   },
   {
    "id": "t6",
-   "category": "tech",
-   "headline": "AI stocks rise after market loses trillions in value",
-   "question": "Will the recent AI rally be sustainable amid broader market volatility?",
-   "source": "BBC News"
+   "category": "sports",
+   "headline": "How Germany's greatest goalscorer is guiding the next generation",
+   "source": "BBC Sport",
+   "question": "What do you make of this story: How Germany's greatest goalscorer is guiding the next generation?"
   },
   {
    "id": "t7",
-   "category": "science",
-   "headline": "Scientists say 2026 could be the hottest year on record",
-   "question": "How should governments respond if 2026 becomes the hottest year yet?",
-   "source": "BBC News"
+   "category": "sports",
+   "headline": "Meet Stephanie Case - the first woman to run 100 miles in Antarctica",
+   "source": "BBC Sport",
+   "question": "What do you make of this story: Meet Stephanie Case - the first woman to run 100 miles in Antarctica?"
   },
   {
    "id": "t8",
-   "category": "health",
-   "headline": "UK doctor treated for Ebola after infection in London",
-   "question": "What measures are needed to prevent future Ebola exposures in UK hospitals?",
-   "source": "BBC News"
+   "category": "tech",
+   "headline": "Faisal Islam: What Jensen Huang told me about China, national security and persuading Trump",
+   "source": "BBC News",
+   "question": "What do you make of this story: Faisal Islam: What Jensen Huang told me about China, national security and persuading Trump?"
   },
   {
    "id": "t9",
-   "category": "trending",
-   "headline": "Search trend: 'Dion Dawkins' spikes online",
-   "question": "What factors are driving the sudden interest in Dion Dawkins?",
-   "source": "Google Trends"
+   "category": "tech",
+   "headline": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
+   "source": "BBC News",
+   "question": "What do you make of this story: Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy?"
   }
  ]
 }
