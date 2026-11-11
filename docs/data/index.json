@@ -1,6 +1,11 @@
 {
  "sessions": [
   {
+   "id": "20261111-1028",
+   "started_at": "2026-11-11T10:28:53+00:00",
+   "question_en": "Should governments impose stricter regulations on the commercial sale and distribution of synthetic DNA to prevent bioterrorism?"
+  },
+  {
    "id": "20261110-2115",
    "started_at": "2026-11-10T21:15:24+00:00",
    "question_en": "Should smart home devices be required to operate fully offline to protect user privacy and reliability?"
