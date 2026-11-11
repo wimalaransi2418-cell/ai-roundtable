@@ -1,75 +1,75 @@
 {
- "updated_at": "2026-11-11T02:41:41+00:00",
+ "updated_at": "2026-11-11T10:40:59+00:00",
  "items": [
   {
    "id": "t0",
-   "category": "world",
-   "headline": "Kenyans fear El Niño floods threaten lives",
-   "question": "How should the government and communities prepare for worsening El Niño impacts?",
-   "source": "BBC News"
+   "category": "weather",
+   "headline": "Kauai Weather Forecast for November 11, 2026",
+   "question": "How should residents and visitors adjust their plans based on this forecast?",
+   "source": "Google News"
   },
   {
    "id": "t1",
-   "category": "world",
-   "headline": "Trinidad and Tobago overturns anti‑homosexuality laws",
-   "question": "What effects will the repeal have on LGBT rights and societal attitudes in the region?",
-   "source": "BBC News"
+   "category": "sports",
+   "headline": "College Football Playoff Rankings: Georgia moves to No. 1",
+   "question": "Will Georgia maintain its top ranking through the rest of the season?",
+   "source": "Google News"
   },
   {
    "id": "t2",
    "category": "sports",
-   "headline": "Noskova defeats Gauff to reach WTA Finals semifinals",
-   "question": "Does Noskova's performance signal a shift in the competitive landscape of women's tennis?",
-   "source": "BBC Sport"
+   "headline": "Manchester United near hiring Mauricio Pochettino as manager",
+   "question": "Will Pochettino's appointment improve United's performance in the Premier League?",
+   "source": "Google News"
   },
   {
    "id": "t3",
-   "category": "sports",
-   "headline": "Formula 1 to conclude season with races in the Middle East",
-   "question": "Should F1 continue expanding into the Middle East despite concerns over human‑rights issues?",
-   "source": "BBC Sport"
+   "category": "tech",
+   "headline": "Robot vessels deployed for dangerous mine‑hunting tasks",
+   "question": "Can autonomous vessels safely replace human crews in mine‑clearing operations?",
+   "source": "BBC News"
   },
   {
    "id": "t4",
-   "category": "tech",
-   "headline": "Australia mulls criminal penalties for rogue AI after OpenAI hack",
-   "question": "Are criminal penalties an effective way to regulate rogue AI development?",
+   "category": "science",
+   "headline": "Scientists say 2026 could be the hottest year on record",
+   "question": "What policies are most effective in limiting further temperature rise this year?",
    "source": "BBC News"
   },
   {
    "id": "t5",
-   "category": "science",
-   "headline": "Scientists say 2026 likely hottest year as climate talks start",
-   "question": "What concrete actions are needed from nations to prevent 2026 from becoming a record‑hot year?",
+   "category": "health",
+   "headline": "Study finds escitalopram reduces relapse in depression patients",
+   "question": "Should escitalopram become first‑line treatment for preventing depressive relapse?",
    "source": "BBC News"
   },
   {
    "id": "t6",
-   "category": "health",
-   "headline": "Study finds escitalopram effective at preventing depression relapse",
-   "question": "Should escitalopram become first‑line maintenance therapy for depression?",
+   "category": "business",
+   "headline": "Poundland negotiations continue to secure a rescue deal",
+   "question": "Will the rescue plan be enough to keep Poundland financially viable long term?",
    "source": "BBC News"
   },
   {
    "id": "t7",
-   "category": "business",
-   "headline": "Poundland seeks rescue deal to avoid collapse",
-   "question": "Can a last‑minute rescue save Poundland, or is closure inevitable?",
+   "category": "world",
+   "headline": "Kenyans worry El Niño could bring severe floods",
+   "question": "What measures can Kenya take now to mitigate potential El Niño flooding?",
    "source": "BBC News"
   },
   {
    "id": "t8",
-   "category": "weather",
-   "headline": "NorCal braces for first wet, snowy spell of the season",
-   "question": "How will the upcoming wet and snowy weather affect transportation and safety in NorCal?",
-   "source": "Google News"
+   "category": "trending",
+   "headline": "Search trend: 'side effect' spikes online",
+   "question": "What factors are driving the recent surge in interest about medication side effects?",
+   "source": "Google Trends"
   },
   {
    "id": "t9",
-   "category": "trending",
-   "headline": "Trending: searches for Brandy Norwood surge online",
-   "question": "What might be driving the recent spike in interest around Brandy Norwood?",
-   "source": "Google Trends"
+   "category": "tech",
+   "headline": "Australia mulls criminal penalties for rogue AI after OpenAI hack",
+   "question": "Are criminal penalties the best way to regulate rogue AI systems?",
+   "source": "BBC News"
   }
  ]
 }
