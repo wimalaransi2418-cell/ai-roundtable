@@ -1,75 +1,75 @@
 {
- "updated_at": "2026-11-11T10:40:59+00:00",
+ "updated_at": "2026-11-11T18:35:26+00:00",
  "items": [
   {
    "id": "t0",
-   "category": "weather",
-   "headline": "Kauai Weather Forecast for November 11, 2026",
-   "question": "How should residents and visitors adjust their plans based on this forecast?",
-   "source": "Google News"
+   "category": "world",
+   "headline": "Spain experiences widespread disruption during its first general strike in 14 years",
+   "question": "Will the strike lead to lasting changes in Spain's labor policies?",
+   "source": "BBC News"
   },
   {
    "id": "t1",
-   "category": "sports",
-   "headline": "College Football Playoff Rankings: Georgia moves to No. 1",
-   "question": "Will Georgia maintain its top ranking through the rest of the season?",
-   "source": "Google News"
+   "category": "tech",
+   "headline": "Robotic vessels are being deployed for the hazardous task of naval mine clearance",
+   "question": "Can autonomous ships fully replace humans in dangerous mine‑hunting operations?",
+   "source": "BBC News"
   },
   {
    "id": "t2",
-   "category": "sports",
-   "headline": "Manchester United near hiring Mauricio Pochettino as manager",
-   "question": "Will Pochettino's appointment improve United's performance in the Premier League?",
-   "source": "Google News"
+   "category": "tech",
+   "headline": "Australia debates criminal penalties for rogue AI following a major OpenAI hack",
+   "question": "Should governments impose strict criminal liability on developers of uncontrolled AI?",
+   "source": "BBC News"
   },
   {
    "id": "t3",
-   "category": "tech",
-   "headline": "Robot vessels deployed for dangerous mine‑hunting tasks",
-   "question": "Can autonomous vessels safely replace human crews in mine‑clearing operations?",
+   "category": "science",
+   "headline": "Scientists forecast 2026 to be the hottest year on record as global climate talks start",
+   "question": "Are current international climate commitments sufficient to prevent record heat?",
    "source": "BBC News"
   },
   {
    "id": "t4",
-   "category": "science",
-   "headline": "Scientists say 2026 could be the hottest year on record",
-   "question": "What policies are most effective in limiting further temperature rise this year?",
+   "category": "health",
+   "headline": "Study finds escitalopram more effective at preventing depression relapse than alternatives",
+   "question": "Should escitalopram become the first‑line treatment for depression relapse prevention?",
    "source": "BBC News"
   },
   {
    "id": "t5",
-   "category": "health",
-   "headline": "Study finds escitalopram reduces relapse in depression patients",
-   "question": "Should escitalopram become first‑line treatment for preventing depressive relapse?",
+   "category": "business",
+   "headline": "US inflation rises above expectations in October, affecting consumer prices",
+   "question": "What monetary policies are needed to curb the recent surge in inflation?",
    "source": "BBC News"
   },
   {
    "id": "t6",
-   "category": "business",
-   "headline": "Poundland negotiations continue to secure a rescue deal",
-   "question": "Will the rescue plan be enough to keep Poundland financially viable long term?",
-   "source": "BBC News"
+   "category": "weather",
+   "headline": "Nor’easter forecast predicts heavy snowfall for regions along the East Coast",
+   "question": "How should municipalities prepare for the expected snow accumulation from the Nor’easter?",
+   "source": "Google News"
   },
   {
    "id": "t7",
-   "category": "world",
-   "headline": "Kenyans worry El Niño could bring severe floods",
-   "question": "What measures can Kenya take now to mitigate potential El Niño flooding?",
-   "source": "BBC News"
+   "category": "sports",
+   "headline": "NFL teams weigh starting Deshaun Watson for the Browns and trading for QB Kirk Cousins",
+   "question": "Will the Browns' decision to start Watson improve their playoff prospects?",
+   "source": "Google News"
   },
   {
    "id": "t8",
-   "category": "trending",
-   "headline": "Search trend: 'side effect' spikes online",
-   "question": "What factors are driving the recent surge in interest about medication side effects?",
-   "source": "Google Trends"
+   "category": "sports",
+   "headline": "Manchester United moves toward appointing Mauricio Pochettino as new manager",
+   "question": "Can Pochettino revitalize Manchester United's performance in the upcoming season?",
+   "source": "Google News"
   },
   {
    "id": "t9",
-   "category": "tech",
-   "headline": "Australia mulls criminal penalties for rogue AI after OpenAI hack",
-   "question": "Are criminal penalties the best way to regulate rogue AI systems?",
-   "source": "BBC News"
+   "category": "trending",
+   "headline": "NFL trade deadline approaches, with teams scrambling to finalize deals",
+   "question": "Which teams are likely to make the most impactful trades before the deadline?",
+   "source": "Google Trends"
   }
  ]
 }
