@@ -1,6 +1,11 @@
 {
  "sessions": [
   {
+   "id": "20261111-2148",
+   "started_at": "2026-11-11T21:48:19+00:00",
+   "question_en": "Should cloud providers be required to offer official, fully functional offline emulators of their services to enable developers to test and debug code without exposing data to the cloud?"
+  },
+  {
    "id": "20261111-1028",
    "started_at": "2026-11-11T10:28:53+00:00",
    "question_en": "Should governments impose stricter regulations on the commercial sale and distribution of synthetic DNA to prevent bioterrorism?"
