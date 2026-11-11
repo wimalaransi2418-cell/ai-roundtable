@@ -1,67 +1,74 @@
 {
- "updated_at": "2026-11-10T22:15:56+00:00",
+ "updated_at": "2026-11-11T02:41:41+00:00",
  "items": [
   {
    "id": "t0",
-   "category": "weather",
-   "headline": "Chicago area forecast may see first snowfall of the season this week",
-   "question": "How will the early snowfall impact commuters and local businesses in the region?",
-   "source": "Google News"
+   "category": "world",
+   "headline": "Kenyans fear El Niño floods threaten lives",
+   "question": "How should the government and communities prepare for worsening El Niño impacts?",
+   "source": "BBC News"
   },
   {
    "id": "t1",
-   "category": "sports",
-   "headline": "2026 NFL trade deadline brings rumors and potential player moves",
-   "question": "Will the upcoming trades significantly reshape the competitive balance of the league?",
-   "source": "Google News"
+   "category": "world",
+   "headline": "Trinidad and Tobago overturns anti‑homosexuality laws",
+   "question": "What effects will the repeal have on LGBT rights and societal attitudes in the region?",
+   "source": "BBC News"
   },
   {
    "id": "t2",
    "category": "sports",
-   "headline": "Victor Wembanyama's recent performance sparks debate on his future role",
-   "question": "Should teams build their strategies around Wembanyama's unique skill set?",
-   "source": "Google News"
+   "headline": "Noskova defeats Gauff to reach WTA Finals semifinals",
+   "question": "Does Noskova's performance signal a shift in the competitive landscape of women's tennis?",
+   "source": "BBC Sport"
   },
   {
    "id": "t3",
-   "category": "world",
-   "headline": "Spain's king and queen attend memorial for victims of recent rail crash",
-   "question": "What measures should be taken to improve rail safety after the tragedy?",
-   "source": "BBC News"
+   "category": "sports",
+   "headline": "Formula 1 to conclude season with races in the Middle East",
+   "question": "Should F1 continue expanding into the Middle East despite concerns over human‑rights issues?",
+   "source": "BBC Sport"
   },
   {
    "id": "t4",
    "category": "tech",
-   "headline": "Claude AI startup plans $1.3tn market debut despite warnings of risks",
-   "question": "Are investors overlooking potential AI safety concerns in pursuit of profit?",
+   "headline": "Australia mulls criminal penalties for rogue AI after OpenAI hack",
+   "question": "Are criminal penalties an effective way to regulate rogue AI development?",
    "source": "BBC News"
   },
   {
    "id": "t5",
    "category": "science",
-   "headline": "Scientists say 2026 could be hottest year on record as climate talks start",
-   "question": "Will the upcoming climate negotiations be enough to curb rising global temperatures?",
+   "headline": "Scientists say 2026 likely hottest year as climate talks start",
+   "question": "What concrete actions are needed from nations to prevent 2026 from becoming a record‑hot year?",
    "source": "BBC News"
   },
   {
    "id": "t6",
    "category": "health",
-   "headline": "Cocaine now surpasses heroin as leading cause of drug deaths in England",
-   "question": "What policies could most effectively address the surge in cocaine‑related fatalities?",
+   "headline": "Study finds escitalopram effective at preventing depression relapse",
+   "question": "Should escitalopram become first‑line maintenance therapy for depression?",
    "source": "BBC News"
   },
   {
    "id": "t7",
    "category": "business",
-   "headline": "US October inflation rises above expectations, affecting price levels",
-   "question": "How should policymakers respond to higher‑than‑expected inflation?",
+   "headline": "Poundland seeks rescue deal to avoid collapse",
+   "question": "Can a last‑minute rescue save Poundland, or is closure inevitable?",
    "source": "BBC News"
   },
   {
    "id": "t8",
+   "category": "weather",
+   "headline": "NorCal braces for first wet, snowy spell of the season",
+   "question": "How will the upcoming wet and snowy weather affect transportation and safety in NorCal?",
+   "source": "Google News"
+  },
+  {
+   "id": "t9",
    "category": "trending",
-   "headline": "Trending: Rising searches for 'inflación' reflect global economic concerns",
-   "question": "What does the growing interest in inflation indicate about public confidence in economies?",
+   "headline": "Trending: searches for Brandy Norwood surge online",
+   "question": "What might be driving the recent spike in interest around Brandy Norwood?",
    "source": "Google Trends"
   }
  ]
