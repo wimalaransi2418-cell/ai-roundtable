@@ -1,75 +1,75 @@
 {
- "updated_at": "2026-11-12T01:27:13+00:00",
+ "updated_at": "2026-11-12T09:40:39+00:00",
  "items": [
   {
    "id": "t0",
    "category": "world",
-   "headline": "Russia-Ukraine talks focus on post-war security but end without breakthrough",
-   "question": "What are the realistic prospects for a lasting security framework in the region?",
-   "source": "BBC News"
+   "headline": "'No light, no water, no heat': Ukrainians struggle with blackouts as Russia hits power grid",
+   "source": "BBC News",
+   "question": "What do you make of this story: 'No light, no water, no heat': Ukrainians struggle with blackouts as Russia hits power grid?"
   },
   {
    "id": "t1",
-   "category": "sports",
-   "headline": "Harry Kane's journey from humble beginnings to football stardom",
-   "question": "Does Kane's success reflect broader changes in talent development in football?",
-   "source": "BBC Sport"
+   "category": "world",
+   "headline": "Democrat Scott Colom seals historic win in Mississippi Senate race",
+   "source": "BBC News",
+   "question": "What do you make of this story: Democrat Scott Colom seals historic win in Mississippi Senate race?"
   },
   {
    "id": "t2",
-   "category": "tech",
-   "headline": "Claude chatbot maker plans $1.3tn IPO despite AI safety concerns",
-   "question": "Should investors prioritize AI safety warnings over potential financial returns?",
-   "source": "BBC News"
+   "category": "world",
+   "headline": "Ugandan police investigate deaths of four pupils in suspected school poisoning",
+   "source": "BBC News",
+   "question": "What do you make of this story: Ugandan police investigate deaths of four pupils in suspected school poisoning?"
   },
   {
    "id": "t3",
-   "category": "tech",
-   "headline": "Australia weighs criminal penalties for rogue AI after OpenAI hack",
-   "question": "Are criminal penalties an effective deterrent for misuse of artificial intelligence?",
-   "source": "BBC News"
+   "category": "world",
+   "headline": "Clashes erupt in Barcelona after thousands join Spain general strike",
+   "source": "BBC News",
+   "question": "What do you make of this story: Clashes erupt in Barcelona after thousands join Spain general strike?"
   },
   {
    "id": "t4",
-   "category": "science",
-   "headline": "Toxic 'forever' chemicals in England's rivers show significant decline",
-   "question": "What policies most contributed to the reduction of these persistent pollutants?",
-   "source": "BBC News"
+   "category": "sports",
+   "headline": "England legend Anderson, 44, joins Surrey",
+   "source": "BBC Sport",
+   "question": "What do you make of this story: England legend Anderson, 44, joins Surrey?"
   },
   {
    "id": "t5",
-   "category": "health",
-   "headline": "Regulators urge sunbed firms to stop downplaying cancer risks",
-   "question": "How should governments balance industry regulation with personal choice in tanning?",
-   "source": "BBC News"
+   "category": "sports",
+   "headline": "Pochettino a decade in Man Utd's making - but Carrick deserves better",
+   "source": "BBC Sport",
+   "question": "What do you make of this story: Pochettino a decade in Man Utd's making - but Carrick deserves better?"
   },
   {
    "id": "t6",
-   "category": "business",
-   "headline": "Poundland seeks extended rescue talks amid financial uncertainty",
-   "question": "Can a prolonged rescue process improve Poundland's long-term viability?",
-   "source": "BBC News"
+   "category": "sports",
+   "headline": "Marsh dodges Khawaja claims as Cummins vows to 'respond properly'",
+   "source": "BBC Sport",
+   "question": "What do you make of this story: Marsh dodges Khawaja claims as Cummins vows to 'respond properly'?"
   },
   {
    "id": "t7",
-   "category": "weather",
-   "headline": "Super El Niño designation imminent: implications for global weather",
-   "question": "How should societies prepare for the potential impacts of a Super El Niño event?",
-   "source": "Google News"
+   "category": "sports",
+   "headline": "England's Blues brothers - how the Bellinghams helped save Birmingham",
+   "source": "BBC Sport",
+   "question": "What do you make of this story: England's Blues brothers - how the Bellinghams helped save Birmingham?"
   },
   {
    "id": "t8",
-   "category": "sports",
-   "headline": "Manchester United contacts US Soccer regarding potential Pochettino appointment",
-   "question": "Will hiring Pochettino significantly improve Manchester United's performance?",
-   "source": "Google News"
+   "category": "tech",
+   "headline": "What we know as pressure builds on embattled Nvidia CEO Jensen Huang",
+   "source": "BBC News",
+   "question": "What do you make of this story: What we know as pressure builds on embattled Nvidia CEO Jensen Huang?"
   },
   {
    "id": "t9",
-   "category": "trending",
-   "headline": "Dwayne Johnson trends worldwide across search platforms",
-   "question": "What factors drive Dwayne Johnson's sustained popularity in online searches?",
-   "source": "Google Trends"
+   "category": "tech",
+   "headline": "New Indian mega library rocked by scandal over 'AI-generated books'",
+   "source": "BBC News",
+   "question": "What do you make of this story: New Indian mega library rocked by scandal over 'AI-generated books'?"
   }
  ]
 }
