@@ -1,6 +1,11 @@
 {
  "sessions": [
   {
+   "id": "20261112-2148",
+   "started_at": "2026-11-12T21:48:02+00:00",
+   "question_en": "Should large technology companies be required to publicly disclose a detailed CEO succession plan to ensure market stability?"
+  },
+  {
    "id": "20261112-1045",
    "started_at": "2026-11-12T10:45:08+00:00",
    "question_en": "Should governments mandate rapid coordinated disclosure and mandatory patch timelines for critical vulnerabilities in essential open-source software like Apache HTTP Server?"
