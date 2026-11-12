@@ -1,75 +1,75 @@
 {
- "updated_at": "2026-11-12T09:40:39+00:00",
+ "updated_at": "2026-11-12T18:07:57+00:00",
  "items": [
   {
    "id": "t0",
    "category": "world",
-   "headline": "'No light, no water, no heat': Ukrainians struggle with blackouts as Russia hits power grid",
-   "source": "BBC News",
-   "question": "What do you make of this story: 'No light, no water, no heat': Ukrainians struggle with blackouts as Russia hits power grid?"
+   "headline": "Ukraine reports another disruption to military Starlink service",
+   "question": "How should the international community respond to repeated satellite disruptions in conflict zones?",
+   "source": "BBC News"
   },
   {
    "id": "t1",
    "category": "world",
-   "headline": "Democrat Scott Colom seals historic win in Mississippi Senate race",
-   "source": "BBC News",
-   "question": "What do you make of this story: Democrat Scott Colom seals historic win in Mississippi Senate race?"
+   "headline": "Charity says millions in Ebola funding missing and staff unpaid",
+   "question": "What mechanisms can ensure transparent use of emergency health funds in crises?",
+   "source": "BBC News"
   },
   {
    "id": "t2",
-   "category": "world",
-   "headline": "Ugandan police investigate deaths of four pupils in suspected school poisoning",
-   "source": "BBC News",
-   "question": "What do you make of this story: Ugandan police investigate deaths of four pupils in suspected school poisoning?"
+   "category": "tech",
+   "headline": "Nvidia hires US law firm to probe alleged Chinese espionage",
+   "question": "What impact could such investigations have on global tech collaboration?",
+   "source": "BBC News"
   },
   {
    "id": "t3",
-   "category": "world",
-   "headline": "Clashes erupt in Barcelona after thousands join Spain general strike",
-   "source": "BBC News",
-   "question": "What do you make of this story: Clashes erupt in Barcelona after thousands join Spain general strike?"
+   "category": "science",
+   "headline": "Toxic 'forever' chemicals show significant decline in England's rivers",
+   "question": "Are current regulations sufficient to sustain this reduction in pollutants?",
+   "source": "BBC News"
   },
   {
    "id": "t4",
-   "category": "sports",
-   "headline": "England legend Anderson, 44, joins Surrey",
-   "source": "BBC Sport",
-   "question": "What do you make of this story: England legend Anderson, 44, joins Surrey?"
+   "category": "health",
+   "headline": "Watchdog warns sunbed firms must not downplay cancer risk",
+   "question": "Should stricter regulations be imposed on commercial tanning services?",
+   "source": "BBC News"
   },
   {
    "id": "t5",
-   "category": "sports",
-   "headline": "Pochettino a decade in Man Utd's making - but Carrick deserves better",
-   "source": "BBC Sport",
-   "question": "What do you make of this story: Pochettino a decade in Man Utd's making - but Carrick deserves better?"
+   "category": "business",
+   "headline": "UK economy records fastest growth in over two years",
+   "question": "Will this growth be sustainable amid global economic uncertainties?",
+   "source": "BBC News"
   },
   {
    "id": "t6",
-   "category": "sports",
-   "headline": "Marsh dodges Khawaja claims as Cummins vows to 'respond properly'",
-   "source": "BBC Sport",
-   "question": "What do you make of this story: Marsh dodges Khawaja claims as Cummins vows to 'respond properly'?"
+   "category": "weather",
+   "headline": "Nor'easter expected to bring heavy snowfall across the Northeast",
+   "question": "How can cities best prepare for the imminent snowstorm to protect residents?",
+   "source": "Google News"
   },
   {
    "id": "t7",
    "category": "sports",
-   "headline": "England's Blues brothers - how the Bellinghams helped save Birmingham",
-   "source": "BBC Sport",
-   "question": "What do you make of this story: England's Blues brothers - how the Bellinghams helped save Birmingham?"
+   "headline": "Manchester United close to appointing Mauricio Pochettino as manager",
+   "question": "Will Pochettino's coaching style suit United's current squad?",
+   "source": "Google News"
   },
   {
    "id": "t8",
-   "category": "tech",
-   "headline": "What we know as pressure builds on embattled Nvidia CEO Jensen Huang",
-   "source": "BBC News",
-   "question": "What do you make of this story: What we know as pressure builds on embattled Nvidia CEO Jensen Huang?"
+   "category": "sports",
+   "headline": "2027 NFL mock draft predicts Chargers' Jeremiah Smith as top pick",
+   "question": "How reliable are mock drafts in forecasting actual NFL draft outcomes?",
+   "source": "Google News"
   },
   {
    "id": "t9",
-   "category": "tech",
-   "headline": "New Indian mega library rocked by scandal over 'AI-generated books'",
-   "source": "BBC News",
-   "question": "What do you make of this story: New Indian mega library rocked by scandal over 'AI-generated books'?"
+   "category": "trending",
+   "headline": "Costco stock gains attention amid rising consumer demand",
+   "question": "Is Costco's recent stock performance indicative of broader retail trends?",
+   "source": "Google Trends"
   }
  ]
 }
