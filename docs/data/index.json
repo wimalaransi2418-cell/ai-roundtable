@@ -1,6 +1,11 @@
 {
  "sessions": [
   {
+   "id": "20261112-1045",
+   "started_at": "2026-11-12T10:45:08+00:00",
+   "question_en": "Should governments mandate rapid coordinated disclosure and mandatory patch timelines for critical vulnerabilities in essential open-source software like Apache HTTP Server?"
+  },
+  {
    "id": "20261111-2148",
    "started_at": "2026-11-11T21:48:19+00:00",
    "question_en": "Should cloud providers be required to offer official, fully functional offline emulators of their services to enable developers to test and debug code without exposing data to the cloud?"
