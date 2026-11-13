@@ -1,74 +1,74 @@
 {
- "updated_at": "2026-11-13T16:07:25+00:00",
+ "updated_at": "2026-11-13T22:28:46+00:00",
  "items": [
   {
    "id": "t0",
-   "category": "world",
-   "headline": "Microsoft outage continues, raising questions about its duration",
-   "question": "What underlying factors are causing the prolonged Microsoft service disruption?",
-   "source": "BBC News"
+   "category": "weather",
+   "headline": "Early polar vortex meets El Niño: implications for this winter's weather",
+   "question": "How might the combined effects of a polar vortex and El Niño reshape seasonal weather patterns across the U.S.?",
+   "source": "Google News"
   },
   {
    "id": "t1",
-   "category": "tech",
-   "headline": "Microsoft outage impacts NHS, schools and police services",
-   "question": "How should essential public services prepare for large‑scale tech outages?",
-   "source": "BBC News"
+   "category": "sports",
+   "headline": "England's four‑year plan that led to its World Cup victory",
+   "question": "Was England's long‑term strategy the key factor behind its World Cup success, or did other elements play a larger role?",
+   "source": "BBC Sport"
   },
   {
    "id": "t2",
-   "category": "tech",
-   "headline": "Current known details about the ongoing Microsoft outage",
-   "question": "What steps can Microsoft take to improve transparency during such incidents?",
-   "source": "BBC News"
+   "category": "sports",
+   "headline": "Salah scores twice as Egypt and Nigeria secure Afcon 2027 qualifying wins",
+   "question": "What does Salah's performance indicate about Egypt's prospects in the upcoming Africa Cup of Nations?",
+   "source": "BBC Sport"
   },
   {
    "id": "t3",
-   "category": "tech",
-   "headline": "Heat pumps: assessing the actual heating needs of homes",
-   "question": "Are heat pumps a viable solution for all households given varying heat requirements?",
+   "category": "world",
+   "headline": "Peruvian city embraces Pope Leo as a local figure",
+   "question": "What social or cultural factors drive a community to adopt a religious leader as a hometown icon?",
    "source": "BBC News"
   },
   {
    "id": "t4",
-   "category": "science",
-   "headline": "Toxic “forever” chemicals in England's rivers show significant decline",
-   "question": "What policies contributed most to the reduction of persistent chemicals in waterways?",
+   "category": "tech",
+   "headline": "Microsoft outage highlights global reliance on digital infrastructure",
+   "question": "Should societies invest more in backup systems to reduce dependence on single tech providers?",
    "source": "BBC News"
   },
   {
    "id": "t5",
-   "category": "health",
-   "headline": "Watchdog urges sunbed firms to accurately present cancer risks",
-   "question": "Should stricter regulations be imposed on sunbed advertising to protect public health?",
+   "category": "science",
+   "headline": "SpaceX plans double catch attempt for massive Starship rocket",
+   "question": "Will SpaceX's double‑catch technique become the new standard for reusable launch vehicles?",
    "source": "BBC News"
   },
   {
    "id": "t6",
-   "category": "sports",
-   "headline": "Can Ferguson‑inspired Pochettino succeed at Manchester United?",
-   "question": "Will Pochettino's coaching style translate into success at Manchester United?",
-   "source": "BBC Sport"
+   "category": "health",
+   "headline": "Watchdog warns sunbed firms must not downplay cancer risks",
+   "question": "How effective are current regulations in preventing misleading health claims by tanning businesses?",
+   "source": "BBC News"
   },
   {
    "id": "t7",
-   "category": "sports",
-   "headline": "England's World Cup win: the role of strategic planning and tactics",
-   "question": "How crucial was the four‑year strategic plan to England's World Cup victory?",
-   "source": "BBC Sport"
+   "category": "business",
+   "headline": "Heat pumps: estimating the actual heating needs of homes",
+   "question": "Are heat pumps a realistic solution for meeting residential heating demand in colder climates?",
+   "source": "BBC News"
   },
   {
    "id": "t8",
-   "category": "weather",
-   "headline": "Nor'easter brings rain and snow along I‑95, affecting the Northeast",
-   "question": "What measures can commuters take to stay safe during the ongoing Nor'easter?",
-   "source": "Google News"
+   "category": "trending",
+   "headline": "Trending search: Argentina vs Uruguay",
+   "question": "What factors are fueling the current surge in interest around the Argentina‑Uruguay matchup?",
+   "source": "Google Trends"
   },
   {
    "id": "t9",
    "category": "business",
-   "headline": "Housefishing: determining when AI use shifts from enhancement to deception",
-   "question": "Where should the line be drawn between beneficial AI use and misleading content?",
+   "headline": "The rise of 'housefishing': when AI use shifts from enhancement to deception",
+   "question": "Where should the line be drawn between legitimate AI assistance and misleading AI‑generated content?",
    "source": "BBC News"
   }
  ]
