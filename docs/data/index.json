@@ -1,6 +1,11 @@
 {
  "sessions": [
   {
+   "id": "20261113-1041",
+   "started_at": "2026-11-13T10:41:54+00:00",
+   "question_en": "Should governments regulate the availability of large language models that can run on consumer devices to mitigate potential misuse?"
+  },
+  {
    "id": "20261112-2148",
    "started_at": "2026-11-12T21:48:02+00:00",
    "question_en": "Should large technology companies be required to publicly disclose a detailed CEO succession plan to ensure market stability?"
