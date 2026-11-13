@@ -1,75 +1,75 @@
 {
- "updated_at": "2026-11-13T00:06:35+00:00",
+ "updated_at": "2026-11-13T07:47:06+00:00",
  "items": [
   {
    "id": "t0",
-   "category": "world",
-   "headline": "Nvidia CEO Jensen Huang resigns amid scandal, company faces uncertainty",
-   "question": "How will Huang's departure affect Nvidia's position in the AI chip market?",
-   "source": "BBC News"
+   "category": "weather",
+   "headline": "Powerful nor'easter brings tornadoes, hail and flooding to the Northeast",
+   "question": "How should local authorities balance emergency response with long‑term climate adaptation for such storms?",
+   "source": "Google News"
   },
   {
    "id": "t1",
-   "category": "weather",
-   "headline": "Nor'easter forecast predicts heavy snowfall across the Northeast",
-   "question": "Should schools and businesses implement early closures to mitigate the storm's impact?",
-   "source": "Google News"
+   "category": "sports",
+   "headline": "Assessing Harry Kane's place among England's all‑time football greats",
+   "question": "Should goal‑scoring records be the primary factor in ranking England's football legends?",
+   "source": "BBC Sport"
   },
   {
    "id": "t2",
    "category": "sports",
-   "headline": "2026 Midseason All-Pro team selections spark debate among NFL fans",
-   "question": "Do the chosen players truly represent the season's top performers?",
-   "source": "Google News"
+   "headline": "Arsenal displays gritty performance in draw against Barcelona",
+   "question": "Does Arsenal's recent defensive resilience indicate a shift in their tactical identity?",
+   "source": "BBC Sport"
   },
   {
    "id": "t3",
-   "category": "sports",
-   "headline": "UFC analyst predicts Josh Hokit could headline UFC 334 against a top star",
-   "question": "Is Hokit a realistic contender for a main event at UFC 334?",
-   "source": "Google News"
+   "category": "world",
+   "headline": "Zelensky welcomes US role in expanding Europe‑Ukraine peace negotiations",
+   "question": "Can broader European involvement improve the chances of a lasting Ukraine peace deal?",
+   "source": "BBC News"
   },
   {
    "id": "t4",
    "category": "tech",
-   "headline": "Lego's BrickLink marketplace goes offline after detecting unusual activity",
-   "question": "What steps should BrickLink take to restore trust among its user community?",
+   "headline": "Details emerging on the recent global Microsoft service outage",
+   "question": "What measures should major tech firms take to prevent widespread outages in the future?",
    "source": "BBC News"
   },
   {
    "id": "t5",
-   "category": "business",
-   "headline": "UK economy records its fastest growth rate in over two years",
-   "question": "Is the current growth sustainable given underlying economic challenges?",
+   "category": "tech",
+   "headline": "Exploring the rise of 'housefishing' and AI's line between enhancement and deception",
+   "question": "Where should regulators draw the line on AI‑generated content that may mislead audiences?",
    "source": "BBC News"
   },
   {
    "id": "t6",
    "category": "science",
-   "headline": "Study finds significant decline in persistent 'forever chemicals' in English rivers",
-   "question": "Will the reduction in these chemicals translate into measurable health benefits?",
+   "headline": "Study shows significant decline of persistent 'forever' chemicals in English rivers",
+   "question": "What policies were most effective in reducing these chemicals, and should they be expanded?",
    "source": "BBC News"
   },
   {
    "id": "t7",
    "category": "health",
-   "headline": "New analysis shows escitalopram more effective at preventing depression relapse",
-   "question": "Should escitalopram become the first-line treatment for preventing relapse?",
+   "headline": "Junior doctor burnout identified as risk factor for maternity care",
+   "question": "How can healthcare systems address doctor burnout without compromising patient safety?",
    "source": "BBC News"
   },
   {
    "id": "t8",
-   "category": "trending",
-   "headline": "Search trend 'punch the monkey' rises sharply online",
-   "question": "What factors might be driving the sudden popularity of this phrase?",
-   "source": "Google Trends"
+   "category": "business",
+   "headline": "UK economy records fastest growth in over two years",
+   "question": "Is the current growth sustainable given underlying inflation and labor market pressures?",
+   "source": "BBC News"
   },
   {
    "id": "t9",
-   "category": "sports",
-   "headline": "Mauricio Pochettino appointed Manchester United manager on a 2.5‑year deal",
-   "question": "Can Pochettino revitalize United's performance in his first season?",
-   "source": "Google News"
+   "category": "trending",
+   "headline": "Anticipated release date for GTA 6 on PC draws gamer attention",
+   "question": "Will the PC launch of GTA 6 set new standards for open‑world game performance?",
+   "source": "Google Trends"
   }
  ]
 }
