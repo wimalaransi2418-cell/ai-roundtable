@@ -1,75 +1,75 @@
 {
- "updated_at": "2026-11-13T07:47:06+00:00",
+ "updated_at": "2026-11-13T16:07:25+00:00",
  "items": [
   {
    "id": "t0",
-   "category": "weather",
-   "headline": "Powerful nor'easter brings tornadoes, hail and flooding to the Northeast",
-   "question": "How should local authorities balance emergency response with long‑term climate adaptation for such storms?",
-   "source": "Google News"
+   "category": "world",
+   "headline": "Microsoft outage continues, raising questions about its duration",
+   "question": "What underlying factors are causing the prolonged Microsoft service disruption?",
+   "source": "BBC News"
   },
   {
    "id": "t1",
-   "category": "sports",
-   "headline": "Assessing Harry Kane's place among England's all‑time football greats",
-   "question": "Should goal‑scoring records be the primary factor in ranking England's football legends?",
-   "source": "BBC Sport"
+   "category": "tech",
+   "headline": "Microsoft outage impacts NHS, schools and police services",
+   "question": "How should essential public services prepare for large‑scale tech outages?",
+   "source": "BBC News"
   },
   {
    "id": "t2",
-   "category": "sports",
-   "headline": "Arsenal displays gritty performance in draw against Barcelona",
-   "question": "Does Arsenal's recent defensive resilience indicate a shift in their tactical identity?",
-   "source": "BBC Sport"
+   "category": "tech",
+   "headline": "Current known details about the ongoing Microsoft outage",
+   "question": "What steps can Microsoft take to improve transparency during such incidents?",
+   "source": "BBC News"
   },
   {
    "id": "t3",
-   "category": "world",
-   "headline": "Zelensky welcomes US role in expanding Europe‑Ukraine peace negotiations",
-   "question": "Can broader European involvement improve the chances of a lasting Ukraine peace deal?",
+   "category": "tech",
+   "headline": "Heat pumps: assessing the actual heating needs of homes",
+   "question": "Are heat pumps a viable solution for all households given varying heat requirements?",
    "source": "BBC News"
   },
   {
    "id": "t4",
-   "category": "tech",
-   "headline": "Details emerging on the recent global Microsoft service outage",
-   "question": "What measures should major tech firms take to prevent widespread outages in the future?",
+   "category": "science",
+   "headline": "Toxic “forever” chemicals in England's rivers show significant decline",
+   "question": "What policies contributed most to the reduction of persistent chemicals in waterways?",
    "source": "BBC News"
   },
   {
    "id": "t5",
-   "category": "tech",
-   "headline": "Exploring the rise of 'housefishing' and AI's line between enhancement and deception",
-   "question": "Where should regulators draw the line on AI‑generated content that may mislead audiences?",
+   "category": "health",
+   "headline": "Watchdog urges sunbed firms to accurately present cancer risks",
+   "question": "Should stricter regulations be imposed on sunbed advertising to protect public health?",
    "source": "BBC News"
   },
   {
    "id": "t6",
-   "category": "science",
-   "headline": "Study shows significant decline of persistent 'forever' chemicals in English rivers",
-   "question": "What policies were most effective in reducing these chemicals, and should they be expanded?",
-   "source": "BBC News"
+   "category": "sports",
+   "headline": "Can Ferguson‑inspired Pochettino succeed at Manchester United?",
+   "question": "Will Pochettino's coaching style translate into success at Manchester United?",
+   "source": "BBC Sport"
   },
   {
    "id": "t7",
-   "category": "health",
-   "headline": "Junior doctor burnout identified as risk factor for maternity care",
-   "question": "How can healthcare systems address doctor burnout without compromising patient safety?",
-   "source": "BBC News"
+   "category": "sports",
+   "headline": "England's World Cup win: the role of strategic planning and tactics",
+   "question": "How crucial was the four‑year strategic plan to England's World Cup victory?",
+   "source": "BBC Sport"
   },
   {
    "id": "t8",
-   "category": "business",
-   "headline": "UK economy records fastest growth in over two years",
-   "question": "Is the current growth sustainable given underlying inflation and labor market pressures?",
-   "source": "BBC News"
+   "category": "weather",
+   "headline": "Nor'easter brings rain and snow along I‑95, affecting the Northeast",
+   "question": "What measures can commuters take to stay safe during the ongoing Nor'easter?",
+   "source": "Google News"
   },
   {
    "id": "t9",
-   "category": "trending",
-   "headline": "Anticipated release date for GTA 6 on PC draws gamer attention",
-   "question": "Will the PC launch of GTA 6 set new standards for open‑world game performance?",
-   "source": "Google Trends"
+   "category": "business",
+   "headline": "Housefishing: determining when AI use shifts from enhancement to deception",
+   "question": "Where should the line be drawn between beneficial AI use and misleading content?",
+   "source": "BBC News"
   }
  ]
 }
