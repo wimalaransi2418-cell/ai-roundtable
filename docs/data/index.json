@@ -1,6 +1,11 @@
 {
  "sessions": [
   {
+   "id": "20261114-1948",
+   "started_at": "2026-11-14T19:48:02+00:00",
+   "question_en": "Should Nvidia be required to open‑source its GPU drivers to promote competition and improve security?"
+  },
+  {
    "id": "20261114-0953",
    "started_at": "2026-11-14T09:53:48+00:00",
    "question_en": "Should consumers be encouraged to repurpose old smartphones for edge AI computing instead of buying dedicated single-board computers like the Raspberry Pi?"
