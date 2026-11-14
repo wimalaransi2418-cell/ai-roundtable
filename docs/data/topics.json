@@ -1,74 +1,74 @@
 {
- "updated_at": "2026-11-13T22:28:46+00:00",
+ "updated_at": "2026-11-14T03:02:13+00:00",
  "items": [
   {
    "id": "t0",
    "category": "weather",
-   "headline": "Early polar vortex meets El Niño: implications for this winter's weather",
-   "question": "How might the combined effects of a polar vortex and El Niño reshape seasonal weather patterns across the U.S.?",
+   "headline": "US National Weather Service reports nationwide internet and communications issues",
+   "question": "How should critical public services prepare for large-scale internet outages?",
    "source": "Google News"
   },
   {
    "id": "t1",
    "category": "sports",
-   "headline": "England's four‑year plan that led to its World Cup victory",
-   "question": "Was England's long‑term strategy the key factor behind its World Cup success, or did other elements play a larger role?",
+   "headline": "France edges past South Africa in a tight rugby thriller",
+   "question": "What strategies are most effective for teams to maintain composure in close matches?",
    "source": "BBC Sport"
   },
   {
    "id": "t2",
    "category": "sports",
-   "headline": "Salah scores twice as Egypt and Nigeria secure Afcon 2027 qualifying wins",
-   "question": "What does Salah's performance indicate about Egypt's prospects in the upcoming Africa Cup of Nations?",
+   "headline": "Salah scores twice as Egypt and Nigeria secure Afcon 2027 qualification",
+   "question": "How will the recent performances impact the future of African football development?",
    "source": "BBC Sport"
   },
   {
    "id": "t3",
    "category": "world",
    "headline": "Peruvian city embraces Pope Leo as a local figure",
-   "question": "What social or cultural factors drive a community to adopt a religious leader as a hometown icon?",
+   "question": "What does the local reverence for Pope Leo suggest about the role of religious leaders in community identity?",
    "source": "BBC News"
   },
   {
    "id": "t4",
    "category": "tech",
-   "headline": "Microsoft outage highlights global reliance on digital infrastructure",
-   "question": "Should societies invest more in backup systems to reduce dependence on single tech providers?",
+   "headline": "Microsoft apologises for global outage and announces recovery progress",
+   "question": "What measures should tech giants implement to reduce the risk of widespread service disruptions?",
    "source": "BBC News"
   },
   {
    "id": "t5",
    "category": "science",
-   "headline": "SpaceX plans double catch attempt for massive Starship rocket",
-   "question": "Will SpaceX's double‑catch technique become the new standard for reusable launch vehicles?",
+   "headline": "Potential impacts of El Niño on winter weather across the US and Canada",
+   "question": "How should policymakers balance preparedness for El Niño‑related weather extremes with economic considerations?",
    "source": "BBC News"
   },
   {
    "id": "t6",
    "category": "health",
-   "headline": "Watchdog warns sunbed firms must not downplay cancer risks",
-   "question": "How effective are current regulations in preventing misleading health claims by tanning businesses?",
+   "headline": "Doctor burnout threatens maternity care, regulator warns",
+   "question": "What systemic changes are needed to address physician burnout without compromising patient care?",
    "source": "BBC News"
   },
   {
    "id": "t7",
    "category": "business",
-   "headline": "Heat pumps: estimating the actual heating needs of homes",
-   "question": "Are heat pumps a realistic solution for meeting residential heating demand in colder climates?",
+   "headline": "Heat pumps: estimating the actual heating needs for homes",
+   "question": "Are heat pumps a cost‑effective solution for residential heating in varied climates?",
    "source": "BBC News"
   },
   {
    "id": "t8",
    "category": "trending",
-   "headline": "Trending search: Argentina vs Uruguay",
-   "question": "What factors are fueling the current surge in interest around the Argentina‑Uruguay matchup?",
+   "headline": "Is Stephen Curry playing tonight? Fans search for updates",
+   "question": "How does real‑time speculation about athlete participation affect fan engagement and betting markets?",
    "source": "Google Trends"
   },
   {
    "id": "t9",
-   "category": "business",
-   "headline": "The rise of 'housefishing': when AI use shifts from enhancement to deception",
-   "question": "Where should the line be drawn between legitimate AI assistance and misleading AI‑generated content?",
+   "category": "tech",
+   "headline": "SpaceX Starship double‑catch test faces setback",
+   "question": "What are the broader implications of repeated Starship test setbacks for the commercial space industry?",
    "source": "BBC News"
   }
  ]
