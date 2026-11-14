@@ -1,75 +1,75 @@
 {
- "updated_at": "2026-11-14T03:02:13+00:00",
+ "updated_at": "2026-11-14T10:07:44+00:00",
  "items": [
   {
    "id": "t0",
-   "category": "weather",
-   "headline": "US National Weather Service reports nationwide internet and communications issues",
-   "question": "How should critical public services prepare for large-scale internet outages?",
-   "source": "Google News"
+   "category": "world",
+   "headline": "What we know about the ground stop and what to do if you're affected",
+   "source": "BBC News",
+   "question": "What do you make of this story: What we know about the ground stop and what to do if you're affected?"
   },
   {
    "id": "t1",
-   "category": "sports",
-   "headline": "France edges past South Africa in a tight rugby thriller",
-   "question": "What strategies are most effective for teams to maintain composure in close matches?",
-   "source": "BBC Sport"
+   "category": "world",
+   "headline": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
+   "source": "BBC News",
+   "question": "What do you make of this story: Trump, Putin and Xi plan historic joint meeting in China next week, White House says?"
   },
   {
    "id": "t2",
-   "category": "sports",
-   "headline": "Salah scores twice as Egypt and Nigeria secure Afcon 2027 qualification",
-   "question": "How will the recent performances impact the future of African football development?",
-   "source": "BBC Sport"
+   "category": "world",
+   "headline": "Setback for SpaceX Starship rocket's double-catch test",
+   "source": "BBC News",
+   "question": "What do you make of this story: Setback for SpaceX Starship rocket's double-catch test?"
   },
   {
    "id": "t3",
    "category": "world",
-   "headline": "Peruvian city embraces Pope Leo as a local figure",
-   "question": "What does the local reverence for Pope Leo suggest about the role of religious leaders in community identity?",
-   "source": "BBC News"
+   "headline": "Nvidia scandal fallout widens as Trump's treasury secretary blames cabinet colleague",
+   "source": "BBC News",
+   "question": "What do you make of this story: Nvidia scandal fallout widens as Trump's treasury secretary blames cabinet colleague?"
   },
   {
    "id": "t4",
-   "category": "tech",
-   "headline": "Microsoft apologises for global outage and announces recovery progress",
-   "question": "What measures should tech giants implement to reduce the risk of widespread service disruptions?",
-   "source": "BBC News"
+   "category": "sports",
+   "headline": "Fitness obsessed & 'control freak' - what can Man Utd expect from Pochettino?",
+   "source": "BBC Sport",
+   "question": "What do you make of this story: Fitness obsessed & 'control freak' - what can Man Utd expect from Pochettino??"
   },
   {
    "id": "t5",
-   "category": "science",
-   "headline": "Potential impacts of El Niño on winter weather across the US and Canada",
-   "question": "How should policymakers balance preparedness for El Niño‑related weather extremes with economic considerations?",
-   "source": "BBC News"
+   "category": "sports",
+   "headline": "Warner accuses Cricket Australia of 'cover-up'",
+   "source": "BBC Sport",
+   "question": "What do you make of this story: Warner accuses Cricket Australia of 'cover-up'?"
   },
   {
    "id": "t6",
-   "category": "health",
-   "headline": "Doctor burnout threatens maternity care, regulator warns",
-   "question": "What systemic changes are needed to address physician burnout without compromising patient care?",
-   "source": "BBC News"
+   "category": "sports",
+   "headline": "Japan's unlikely leader who turned down the All Blacks",
+   "source": "BBC Sport",
+   "question": "What do you make of this story: Japan's unlikely leader who turned down the All Blacks?"
   },
   {
    "id": "t7",
-   "category": "business",
-   "headline": "Heat pumps: estimating the actual heating needs for homes",
-   "question": "Are heat pumps a cost‑effective solution for residential heating in varied climates?",
-   "source": "BBC News"
+   "category": "sports",
+   "headline": "How a reunion with scout Bompastor solved Chelsea's striker issue",
+   "source": "BBC Sport",
+   "question": "What do you make of this story: How a reunion with scout Bompastor solved Chelsea's striker issue?"
   },
   {
    "id": "t8",
-   "category": "trending",
-   "headline": "Is Stephen Curry playing tonight? Fans search for updates",
-   "question": "How does real‑time speculation about athlete participation affect fan engagement and betting markets?",
-   "source": "Google Trends"
+   "category": "tech",
+   "headline": "Microsoft says services fully restored after day-long global outage",
+   "source": "BBC News",
+   "question": "What do you make of this story: Microsoft says services fully restored after day-long global outage?"
   },
   {
    "id": "t9",
    "category": "tech",
-   "headline": "SpaceX Starship double‑catch test faces setback",
-   "question": "What are the broader implications of repeated Starship test setbacks for the commercial space industry?",
-   "source": "BBC News"
+   "headline": "How the Jensen Huang scandal created a headache for business-friendly Singapore",
+   "source": "BBC News",
+   "question": "What do you make of this story: How the Jensen Huang scandal created a headache for business-friendly Singapore?"
   }
  ]
 }
