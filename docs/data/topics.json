@@ -1,75 +1,75 @@
 {
- "updated_at": "2026-11-14T10:07:44+00:00",
+ "updated_at": "2026-11-14T16:57:37+00:00",
  "items": [
   {
    "id": "t0",
-   "category": "world",
-   "headline": "What we know about the ground stop and what to do if you're affected",
-   "source": "BBC News",
-   "question": "What do you make of this story: What we know about the ground stop and what to do if you're affected?"
+   "category": "weather",
+   "headline": "Choking fires, deadly heat and devastating floods: 2026 in extreme weather",
+   "question": "How should governments balance emergency response with long‑term climate mitigation in such extreme events?",
+   "source": "Google News"
   },
   {
    "id": "t1",
-   "category": "world",
-   "headline": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
-   "source": "BBC News",
-   "question": "What do you make of this story: Trump, Putin and Xi plan historic joint meeting in China next week, White House says?"
+   "category": "sports",
+   "headline": "Magnificent Wales beat New Zealand for first time since 1953",
+   "question": "What factors contributed to Wales' breakthrough victory over New Zealand after decades?",
+   "source": "BBC Sport"
   },
   {
    "id": "t2",
-   "category": "world",
-   "headline": "Setback for SpaceX Starship rocket's double-catch test",
-   "source": "BBC News",
-   "question": "What do you make of this story: Setback for SpaceX Starship rocket's double-catch test?"
+   "category": "sports",
+   "headline": "Chelsea go top with 1-0 win against Man City",
+   "question": "Can Chelsea sustain their lead in the league after this win over Manchester City?",
+   "source": "BBC Sport"
   },
   {
    "id": "t3",
    "category": "world",
-   "headline": "Nvidia scandal fallout widens as Trump's treasury secretary blames cabinet colleague",
-   "source": "BBC News",
-   "question": "What do you make of this story: Nvidia scandal fallout widens as Trump's treasury secretary blames cabinet colleague?"
+   "headline": "Italy fines Meta €805m over accessing users' photos",
+   "question": "Do such large fines effectively deter tech companies from privacy violations?",
+   "source": "BBC News"
   },
   {
    "id": "t4",
-   "category": "sports",
-   "headline": "Fitness obsessed & 'control freak' - what can Man Utd expect from Pochettino?",
-   "source": "BBC Sport",
-   "question": "What do you make of this story: Fitness obsessed & 'control freak' - what can Man Utd expect from Pochettino??"
+   "category": "world",
+   "headline": "Nigeria cautions against travel via Ethiopia's main airport due to altitude",
+   "question": "Should airlines adjust flight routes or provide additional safety measures for high‑altitude airports?",
+   "source": "BBC News"
   },
   {
    "id": "t5",
-   "category": "sports",
-   "headline": "Warner accuses Cricket Australia of 'cover-up'",
-   "source": "BBC Sport",
-   "question": "What do you make of this story: Warner accuses Cricket Australia of 'cover-up'?"
+   "category": "tech",
+   "headline": "Microsoft outage 'stark reminder' of how much we rely on tech",
+   "question": "What steps can organizations take to reduce dependence on single‑provider cloud services?",
+   "source": "BBC News"
   },
   {
    "id": "t6",
-   "category": "sports",
-   "headline": "Japan's unlikely leader who turned down the All Blacks",
-   "source": "BBC Sport",
-   "question": "What do you make of this story: Japan's unlikely leader who turned down the All Blacks?"
+   "category": "science",
+   "headline": "What could El Niño mean for winter weather in the US and Canada?",
+   "question": "How should policymakers prepare for the potential impacts of an El Niño winter?",
+   "source": "BBC News"
   },
   {
    "id": "t7",
-   "category": "sports",
-   "headline": "How a reunion with scout Bompastor solved Chelsea's striker issue",
-   "source": "BBC Sport",
-   "question": "What do you make of this story: How a reunion with scout Bompastor solved Chelsea's striker issue?"
+   "category": "health",
+   "headline": "Sunbed firms must not downplay cancer risk, says watchdog",
+   "question": "Should stricter regulations be imposed on commercial sunbed operators to protect public health?",
+   "source": "BBC News"
   },
   {
    "id": "t8",
-   "category": "tech",
-   "headline": "Microsoft says services fully restored after day-long global outage",
-   "source": "BBC News",
-   "question": "What do you make of this story: Microsoft says services fully restored after day-long global outage?"
+   "category": "business",
+   "headline": "Heat pumps: How much heat does your home really need?",
+   "question": "Are heat pumps a cost‑effective solution for most households compared to traditional heating?",
+   "source": "BBC News"
   },
   {
    "id": "t9",
-   "category": "tech",
-   "headline": "How the Jensen Huang scandal created a headache for business-friendly Singapore",
-   "source": "BBC News",
-   "question": "What do you make of this story: How the Jensen Huang scandal created a headache for business-friendly Singapore?"
+   "category": "trending",
+   "headline": "Chiefs depth chart",
+   "question": "How does the current Chiefs depth chart influence their chances in the upcoming season?",
+   "source": "Google Trends"
   }
  ]
 }
