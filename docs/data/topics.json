@@ -1,74 +1,74 @@
 {
- "updated_at": "2026-11-15T16:56:57+00:00",
+ "updated_at": "2026-11-15T21:39:02+00:00",
  "items": [
   {
    "id": "t0",
-   "category": "weather",
-   "headline": "Maui Weather Forecast for November 15, 2026",
-   "question": "How might the upcoming Maui weather affect local tourism and safety plans?",
-   "source": "Google News"
+   "category": "world",
+   "headline": "Czechs protest plan to change public media funding",
+   "question": "Should the Czech government alter the funding model for public broadcasters?",
+   "source": "BBC News"
   },
   {
    "id": "t1",
    "category": "sports",
-   "headline": "Rory McIlroy dedicates record-equalling win to his ill father",
-   "question": "Should athletes use personal tragedies as motivation in high-profile competitions?",
+   "headline": "McIlroy dedicates record‑tying win to ill father",
+   "question": "How do personal tributes impact athletes' performance and public perception?",
    "source": "BBC Sport"
   },
   {
    "id": "t2",
    "category": "sports",
-   "headline": "Alexander Zverev wins first ATP Finals title as world No.1",
-   "question": "Will Zverev's new world No.1 ranking change the dynamics of men's tennis?",
-   "source": "BBC Sport"
+   "headline": "Kirk Cousins leads Vikings to strong debut, sacks Packers 8 times",
+   "question": "Can Cousins' early success signal a lasting turnaround for the Vikings?",
+   "source": "Google News"
   },
   {
    "id": "t3",
-   "category": "world",
-   "headline": "Czech public protests plan to change funding of public media",
-   "question": "What are the potential impacts of changing public media funding in the Czech Republic?",
+   "category": "tech",
+   "headline": "Italy imposes €805 million fine on Meta for unauthorized photo access",
+   "question": "What should be the balance between user privacy and platform functionality?",
    "source": "BBC News"
   },
   {
    "id": "t4",
-   "category": "tech",
-   "headline": "Microsoft restores services after a global outage lasting a day",
-   "question": "What steps should companies take to prevent future widespread service outages?",
+   "category": "science",
+   "headline": "SpaceX catches top section of Starship rocket in first successful test",
+   "question": "Will reusable rocket technology fundamentally change the economics of space travel?",
    "source": "BBC News"
   },
   {
    "id": "t5",
-   "category": "science",
-   "headline": "SpaceX captures top section of Starship rocket in a historic test",
-   "question": "Does catching the Starship top segment mark a turning point for reusable rockets?",
+   "category": "health",
+   "headline": "Doctor burnout threatens maternity care, regulator warns",
+   "question": "What systemic changes are needed to reduce burnout among maternity healthcare providers?",
    "source": "BBC News"
   },
   {
    "id": "t6",
-   "category": "health",
-   "headline": "Regulators tell sunbed companies not to downplay cancer risks",
-   "question": "How effective are current regulations in ensuring sunbed companies disclose health risks?",
+   "category": "business",
+   "headline": "Heat pumps: How to determine the right heating capacity for your home",
+   "question": "Are heat pumps a cost‑effective solution for average households in varied climates?",
    "source": "BBC News"
   },
   {
    "id": "t7",
-   "category": "business",
-   "headline": "Heat pumps: How to determine the right heating capacity for homes",
-   "question": "What factors should homeowners consider when sizing a heat pump for efficiency?",
-   "source": "BBC News"
+   "category": "weather",
+   "headline": "Houston faces heavy rain, strong winds and flood risk from cold front",
+   "question": "How can Houston improve its infrastructure to better handle sudden flood threats?",
+   "source": "Google News"
   },
   {
    "id": "t8",
    "category": "trending",
-   "headline": "Google Trends shows rising interest in 'deportivo' and Barcelona",
-   "question": "Why are searches for 'deportivo' and Barcelona spiking on Google Trends now?",
+   "headline": "49ers dominate current Google Trends",
+   "question": "What factors are driving the 49ers' surge in online searches right now?",
    "source": "Google Trends"
   },
   {
    "id": "t9",
-   "category": "tech",
-   "headline": "Italy imposes €805 million fine on Meta for accessing user photos",
-   "question": "What precedent does Italy's fine set for global tech firms handling user data?",
+   "category": "world",
+   "headline": "Pope Leo travels in Peru, rides in helicopter cockpit",
+   "question": "What message does the Pope’s helicopter ride send about the Church’s stance on modern technology?",
    "source": "BBC News"
   }
  ]
