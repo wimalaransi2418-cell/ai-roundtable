@@ -1,74 +1,74 @@
 {
- "updated_at": "2026-11-14T21:19:20+00:00",
+ "updated_at": "2026-11-15T01:44:07+00:00",
  "items": [
   {
    "id": "t0",
    "category": "world",
-   "headline": "Copper wire upgrade triggers nationwide flight suspension, US transport secretary says",
-   "question": "Should infrastructure upgrades be scheduled to minimize disruption to essential services like air travel?",
+   "headline": "Copper wire upgrade causes nationwide flight suspension, US transport secretary says",
+   "question": "Should the government prioritize infrastructure upgrades over potential short‑term travel disruptions?",
    "source": "BBC News"
   },
   {
    "id": "t1",
-   "category": "world",
-   "headline": "Philippines wins first Eurovision Song Contest representing Asia",
-   "question": "Will the Philippines' Eurovision win reshape the contest's cultural influence in Asia?",
+   "category": "business",
+   "headline": "Italy fines Meta €805 million for accessing users' photos without consent",
+   "question": "Are current data‑privacy penalties sufficient to deter large tech firms from misusing personal data?",
    "source": "BBC News"
   },
   {
    "id": "t2",
    "category": "sports",
-   "headline": "Wales stun All Blacks in historic rugby victory, hailed as one of the greatest wins",
-   "question": "Does Wales' upset over the All Blacks signal a shift in global rugby power dynamics?",
+   "headline": "Spain test will reveal if Tuchel and England have learned World Cup lessons",
+   "question": "Will the upcoming Spain test be a reliable indicator of England's readiness for future tournaments?",
    "source": "BBC Sport"
   },
   {
    "id": "t3",
    "category": "sports",
-   "headline": "Arsenal forward Rice close to signing new contract with the club",
-   "question": "Should clubs prioritize retaining homegrown talent like Rice over pursuing high-profile signings?",
+   "headline": "Wales stun All Blacks in surprise victory, hailed as one of the greatest wins",
+   "question": "Does Wales' upset over the All Blacks signal a shift in the balance of power in international rugby?",
    "source": "BBC Sport"
   },
   {
    "id": "t4",
-   "category": "tech",
-   "headline": "Microsoft reports full restoration of services after a day-long global outage",
-   "question": "What measures can cloud providers implement to prevent future widespread outages?",
-   "source": "BBC News"
+   "category": "sports",
+   "headline": "Grant Wilson leads Indiana to boost CFP and Big Ten hopes with win over USC",
+   "question": "Can Indiana's recent win position them as serious contenders for the College Football Playoff?",
+   "source": "Google News"
   },
   {
    "id": "t5",
-   "category": "science",
-   "headline": "Potential impacts of El Niño on winter weather across the US and Canada examined",
-   "question": "How should policymakers prepare for the varied climate effects of an upcoming El Niño?",
+   "category": "tech",
+   "headline": "Microsoft reports full restoration of services after a day‑long global outage",
+   "question": "What steps should cloud providers take to prevent future widespread service disruptions?",
    "source": "BBC News"
   },
   {
    "id": "t6",
-   "category": "health",
-   "headline": "Study finds antidepressant escitalopram more effective at preventing relapse",
-   "question": "Should escitalopram become the first‑line treatment for depression relapse prevention?",
+   "category": "science",
+   "headline": "SpaceX successfully catches the top of its massive Starship rocket on return",
+   "question": "How significant is the successful catch for the future viability of fully reusable rockets?",
    "source": "BBC News"
   },
   {
    "id": "t7",
-   "category": "business",
-   "headline": "Rise of “housefishing” raises concerns about AI use crossing from enhancement to deception",
-   "question": "Where should the line be drawn between beneficial AI augmentation and misleading content?",
+   "category": "health",
+   "headline": "Doctor burnout threatens maternity care, regulator warns",
+   "question": "What measures can health systems implement to reduce physician burnout while maintaining patient safety?",
    "source": "BBC News"
   },
   {
    "id": "t8",
    "category": "weather",
-   "headline": "2026 extreme weather report: fires, heat, floods highlight growing climate challenges",
-   "question": "Are current climate policies sufficient to address the increasing frequency of extreme events?",
+   "headline": "San Diego weather forecast for November 14, 2026: mild temperatures expected",
+   "question": "How might the predicted mild weather in San Diego affect local tourism and outdoor activities?",
    "source": "Google News"
   },
   {
    "id": "t9",
    "category": "trending",
-   "headline": "Mavericks surfing trend gains momentum online, sparking interest in extreme sports",
-   "question": "Can the growing popularity of Mavericks surfing translate into broader mainstream appeal?",
+   "headline": "Dwayne Johnson tops current Google Trends searches",
+   "question": "What does Dwayne Johnson's trending status reveal about public interest in celebrity culture today?",
    "source": "Google Trends"
   }
  ]
