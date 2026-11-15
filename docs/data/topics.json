@@ -1,75 +1,75 @@
 {
- "updated_at": "2026-11-15T01:44:07+00:00",
+ "updated_at": "2026-11-15T09:09:56+00:00",
  "items": [
   {
    "id": "t0",
    "category": "world",
-   "headline": "Copper wire upgrade causes nationwide flight suspension, US transport secretary says",
-   "question": "Should the government prioritize infrastructure upgrades over potential short‑term travel disruptions?",
+   "headline": "Pope Francis visits remote Andes town, speaks of community suffering",
+   "question": "How should the global Catholic Church address the social challenges highlighted in remote regions?",
    "source": "BBC News"
   },
   {
    "id": "t1",
-   "category": "business",
-   "headline": "Italy fines Meta €805 million for accessing users' photos without consent",
-   "question": "Are current data‑privacy penalties sufficient to deter large tech firms from misusing personal data?",
-   "source": "BBC News"
+   "category": "weather",
+   "headline": "Cold front expected Sunday, bringing severe weather threats in the morning",
+   "question": "What steps should local authorities take to prepare residents for the upcoming severe weather?",
+   "source": "Google News"
   },
   {
    "id": "t2",
    "category": "sports",
-   "headline": "Spain test will reveal if Tuchel and England have learned World Cup lessons",
-   "question": "Will the upcoming Spain test be a reliable indicator of England's readiness for future tournaments?",
-   "source": "BBC Sport"
+   "headline": "Arch Manning leads Texas to upset win over LSU with game‑winning drive",
+   "question": "Does this victory signal a shift in college football power dynamics?",
+   "source": "Google News"
   },
   {
    "id": "t3",
    "category": "sports",
-   "headline": "Wales stun All Blacks in surprise victory, hailed as one of the greatest wins",
-   "question": "Does Wales' upset over the All Blacks signal a shift in the balance of power in international rugby?",
-   "source": "BBC Sport"
-  },
-  {
-   "id": "t4",
-   "category": "sports",
-   "headline": "Grant Wilson leads Indiana to boost CFP and Big Ten hopes with win over USC",
-   "question": "Can Indiana's recent win position them as serious contenders for the College Football Playoff?",
+   "headline": "NFL Week 10 betting tips: Chiefs and Steelers poised to exploit schedule quirks",
+   "question": "How reliable are schedule‑based betting strategies in predicting NFL outcomes?",
    "source": "Google News"
   },
   {
-   "id": "t5",
+   "id": "t4",
    "category": "tech",
-   "headline": "Microsoft reports full restoration of services after a day‑long global outage",
-   "question": "What steps should cloud providers take to prevent future widespread service disruptions?",
+   "headline": "Microsoft restores all services after a day‑long global outage",
+   "question": "What measures can cloud providers implement to prevent future widespread outages?",
+   "source": "BBC News"
+  },
+  {
+   "id": "t5",
+   "category": "science",
+   "headline": "Guide to spotting November's planetary parade before dawn",
+   "question": "How can amateur astronomers best prepare to observe the upcoming planetary alignment?",
    "source": "BBC News"
   },
   {
    "id": "t6",
-   "category": "science",
-   "headline": "SpaceX successfully catches the top of its massive Starship rocket on return",
-   "question": "How significant is the successful catch for the future viability of fully reusable rockets?",
+   "category": "health",
+   "headline": "Regulator warns doctor burnout endangers maternity patient safety",
+   "question": "What policies could effectively reduce physician burnout in maternity care?",
    "source": "BBC News"
   },
   {
    "id": "t7",
-   "category": "health",
-   "headline": "Doctor burnout threatens maternity care, regulator warns",
-   "question": "What measures can health systems implement to reduce physician burnout while maintaining patient safety?",
+   "category": "business",
+   "headline": "Rise of 'housefishing': When AI use crosses from helpful to misleading",
+   "question": "Where should the line be drawn between AI‑enhanced content and deceptive manipulation?",
    "source": "BBC News"
   },
   {
    "id": "t8",
-   "category": "weather",
-   "headline": "San Diego weather forecast for November 14, 2026: mild temperatures expected",
-   "question": "How might the predicted mild weather in San Diego affect local tourism and outdoor activities?",
-   "source": "Google News"
+   "category": "trending",
+   "headline": "Samsung Galaxy S27 Pro production ramps up amid high consumer demand",
+   "question": "Will the Galaxy S27 Pro set new standards for smartphone innovation?",
+   "source": "Google Trends"
   },
   {
    "id": "t9",
-   "category": "trending",
-   "headline": "Dwayne Johnson tops current Google Trends searches",
-   "question": "What does Dwayne Johnson's trending status reveal about public interest in celebrity culture today?",
-   "source": "Google Trends"
+   "category": "business",
+   "headline": "Italy imposes €805 million fine on Meta for unauthorized photo access",
+   "question": "Are current data‑privacy regulations sufficient to deter major tech companies from misuse?",
+   "source": "BBC News"
   }
  ]
 }
