@@ -1,6 +1,11 @@
 {
  "sessions": [
   {
+   "id": "20261116-1045",
+   "started_at": "2026-11-16T10:45:44+00:00",
+   "question_en": "Should companies be required to obtain explicit user consent before using smartwatch data to track whole-body movement?"
+  },
+  {
    "id": "20261115-2013",
    "started_at": "2026-11-15T20:13:29+00:00",
    "question_en": "Should AI‑generated code be required to be released under an open‑source license?"
