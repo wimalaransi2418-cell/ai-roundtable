@@ -1,74 +1,74 @@
 {
- "updated_at": "2026-11-16T01:49:38+00:00",
+ "updated_at": "2026-11-16T09:26:01+00:00",
  "items": [
   {
    "id": "t0",
    "category": "weather",
-   "headline": "Houston faces heavy rain, strong winds and flood risk as cold front moves in",
-   "question": "Should local authorities prioritize evacuations or reinforce infrastructure during such storms?",
+   "headline": "Hawaii County weather forecast for November 16, 2026",
+   "question": "How should residents prepare for the predicted conditions in Hawaii this week?",
    "source": "Google News"
   },
   {
    "id": "t1",
    "category": "sports",
-   "headline": "England holds on against Spain; analysis of Tuchel's tactical changes",
-   "question": "Was Tuchel's strategy the decisive factor in England's narrow victory over Spain?",
+   "headline": "England's dramatic win: 60 minutes of perfection, 30 minutes of chaos",
+   "question": "Did England's performance indicate a sustainable strategy for future tournaments?",
    "source": "BBC Sport"
   },
   {
    "id": "t2",
    "category": "sports",
-   "headline": "Ronaldinho, 46, returns to professional football with Ravenna",
-   "question": "Can veteran players like Ronaldinho meaningfully contribute at the professional level again?",
-   "source": "BBC Sport"
+   "headline": "Bengals defeat Steelers 38-18 in Sunday Night Football",
+   "question": "What adjustments should the Steelers make to rebound after this loss?",
+   "source": "Google News"
   },
   {
    "id": "t3",
-   "category": "tech",
-   "headline": "Microsoft restores all services after a day-long global outage",
-   "question": "What steps should cloud providers take to prevent future widespread outages?",
+   "category": "world",
+   "headline": "Bangladesh clothing factories shut as workers strike over pay",
+   "question": "Will the strike lead to lasting improvements in workers' wages and conditions?",
    "source": "BBC News"
   },
   {
    "id": "t4",
    "category": "tech",
-   "headline": "Italy imposes €805 million fine on Meta for unauthorized photo access",
-   "question": "Are current data‑privacy penalties sufficient to deter large tech firms from misuse?",
+   "headline": "Investors sue Intel after 29% stock plunge",
+   "question": "Is Intel's recent performance indicative of deeper issues in the semiconductor industry?",
    "source": "BBC News"
   },
   {
    "id": "t5",
    "category": "science",
-   "headline": "SpaceX catches the top of its Starship rocket for the first time",
-   "question": "How critical is the successful catch for the future of reusable launch systems?",
+   "headline": "SpaceX catches top of Starship rocket for first time",
+   "question": "How will this successful catch impact the timeline for Starship's operational flights?",
    "source": "BBC News"
   },
   {
    "id": "t6",
    "category": "health",
-   "headline": "New 'cancer sponge' test may help diagnose serious disease in patients with indigestion",
-   "question": "Should the 'cancer sponge' test be offered as a routine screening for high‑risk individuals?",
+   "headline": "Cancer 'sponge' tests may be offered to more patients with indigestion",
+   "question": "Should the 'sponge' test become a standard screening tool for early cancer detection?",
    "source": "BBC News"
   },
   {
    "id": "t7",
    "category": "business",
-   "headline": "Report recommends cutting national insurance for under‑25s to boost employment",
-   "question": "Will reducing national insurance for young workers significantly increase job creation?",
+   "headline": "How to avoid Black Friday scams and verify real deals",
+   "question": "What consumer protections are needed to reduce fraudulent Black Friday offers?",
    "source": "BBC News"
   },
   {
    "id": "t8",
-   "category": "world",
-   "headline": "Czechs protest plan to change funding model for public media",
-   "question": "Is altering public‑media financing a threat to journalistic independence in the Czech Republic?",
-   "source": "BBC News"
+   "category": "trending",
+   "headline": "GTA VI game generates massive online buzz",
+   "question": "Will GTA VI live up to expectations and set new standards for open-world games?",
+   "source": "Google Trends"
   },
   {
    "id": "t9",
    "category": "trending",
-   "headline": "Google Trends shows rising interest in the term 'prison'",
-   "question": "What factors might be driving the recent surge in searches related to 'prison'?",
+   "headline": "Keira Knightley stars in new Netflix spy series",
+   "question": "Can the series revitalize interest in espionage dramas on streaming platforms?",
    "source": "Google Trends"
   }
  ]
