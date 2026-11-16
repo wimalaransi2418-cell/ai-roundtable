@@ -1,75 +1,75 @@
 {
- "updated_at": "2026-11-15T21:39:02+00:00",
+ "updated_at": "2026-11-16T01:49:38+00:00",
  "items": [
   {
    "id": "t0",
-   "category": "world",
-   "headline": "Czechs protest plan to change public media funding",
-   "question": "Should the Czech government alter the funding model for public broadcasters?",
-   "source": "BBC News"
+   "category": "weather",
+   "headline": "Houston faces heavy rain, strong winds and flood risk as cold front moves in",
+   "question": "Should local authorities prioritize evacuations or reinforce infrastructure during such storms?",
+   "source": "Google News"
   },
   {
    "id": "t1",
    "category": "sports",
-   "headline": "McIlroy dedicates record‑tying win to ill father",
-   "question": "How do personal tributes impact athletes' performance and public perception?",
+   "headline": "England holds on against Spain; analysis of Tuchel's tactical changes",
+   "question": "Was Tuchel's strategy the decisive factor in England's narrow victory over Spain?",
    "source": "BBC Sport"
   },
   {
    "id": "t2",
    "category": "sports",
-   "headline": "Kirk Cousins leads Vikings to strong debut, sacks Packers 8 times",
-   "question": "Can Cousins' early success signal a lasting turnaround for the Vikings?",
-   "source": "Google News"
+   "headline": "Ronaldinho, 46, returns to professional football with Ravenna",
+   "question": "Can veteran players like Ronaldinho meaningfully contribute at the professional level again?",
+   "source": "BBC Sport"
   },
   {
    "id": "t3",
    "category": "tech",
-   "headline": "Italy imposes €805 million fine on Meta for unauthorized photo access",
-   "question": "What should be the balance between user privacy and platform functionality?",
+   "headline": "Microsoft restores all services after a day-long global outage",
+   "question": "What steps should cloud providers take to prevent future widespread outages?",
    "source": "BBC News"
   },
   {
    "id": "t4",
-   "category": "science",
-   "headline": "SpaceX catches top section of Starship rocket in first successful test",
-   "question": "Will reusable rocket technology fundamentally change the economics of space travel?",
+   "category": "tech",
+   "headline": "Italy imposes €805 million fine on Meta for unauthorized photo access",
+   "question": "Are current data‑privacy penalties sufficient to deter large tech firms from misuse?",
    "source": "BBC News"
   },
   {
    "id": "t5",
-   "category": "health",
-   "headline": "Doctor burnout threatens maternity care, regulator warns",
-   "question": "What systemic changes are needed to reduce burnout among maternity healthcare providers?",
+   "category": "science",
+   "headline": "SpaceX catches the top of its Starship rocket for the first time",
+   "question": "How critical is the successful catch for the future of reusable launch systems?",
    "source": "BBC News"
   },
   {
    "id": "t6",
-   "category": "business",
-   "headline": "Heat pumps: How to determine the right heating capacity for your home",
-   "question": "Are heat pumps a cost‑effective solution for average households in varied climates?",
+   "category": "health",
+   "headline": "New 'cancer sponge' test may help diagnose serious disease in patients with indigestion",
+   "question": "Should the 'cancer sponge' test be offered as a routine screening for high‑risk individuals?",
    "source": "BBC News"
   },
   {
    "id": "t7",
-   "category": "weather",
-   "headline": "Houston faces heavy rain, strong winds and flood risk from cold front",
-   "question": "How can Houston improve its infrastructure to better handle sudden flood threats?",
-   "source": "Google News"
+   "category": "business",
+   "headline": "Report recommends cutting national insurance for under‑25s to boost employment",
+   "question": "Will reducing national insurance for young workers significantly increase job creation?",
+   "source": "BBC News"
   },
   {
    "id": "t8",
-   "category": "trending",
-   "headline": "49ers dominate current Google Trends",
-   "question": "What factors are driving the 49ers' surge in online searches right now?",
-   "source": "Google Trends"
+   "category": "world",
+   "headline": "Czechs protest plan to change funding model for public media",
+   "question": "Is altering public‑media financing a threat to journalistic independence in the Czech Republic?",
+   "source": "BBC News"
   },
   {
    "id": "t9",
-   "category": "world",
-   "headline": "Pope Leo travels in Peru, rides in helicopter cockpit",
-   "question": "What message does the Pope’s helicopter ride send about the Church’s stance on modern technology?",
-   "source": "BBC News"
+   "category": "trending",
+   "headline": "Google Trends shows rising interest in the term 'prison'",
+   "question": "What factors might be driving the recent surge in searches related to 'prison'?",
+   "source": "Google Trends"
   }
  ]
 }
