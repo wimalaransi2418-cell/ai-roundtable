@@ -1,6 +1,11 @@
 {
  "sessions": [
   {
+   "id": "20261116-2341",
+   "started_at": "2026-11-16T23:41:14+00:00",
+   "question_en": "Should operating systems be prohibited from collecting data on developers' coding tools and environments without explicit consent?"
+  },
+  {
    "id": "20261116-1045",
    "started_at": "2026-11-16T10:45:44+00:00",
    "question_en": "Should companies be required to obtain explicit user consent before using smartwatch data to track whole-body movement?"
