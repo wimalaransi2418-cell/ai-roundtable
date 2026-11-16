@@ -1,74 +1,74 @@
 {
- "updated_at": "2026-11-16T09:26:01+00:00",
+ "updated_at": "2026-11-16T20:16:15+00:00",
  "items": [
   {
    "id": "t0",
    "category": "weather",
-   "headline": "Hawaii County weather forecast for November 16, 2026",
-   "question": "How should residents prepare for the predicted conditions in Hawaii this week?",
-   "source": "Google News"
+   "headline": "Yellow weather warnings issued for snow as temperatures plummet",
+   "question": "Should authorities issue more aggressive warnings to better protect vulnerable communities?",
+   "source": "BBC News"
   },
   {
    "id": "t1",
    "category": "sports",
-   "headline": "England's dramatic win: 60 minutes of perfection, 30 minutes of chaos",
-   "question": "Did England's performance indicate a sustainable strategy for future tournaments?",
+   "headline": "Robertson becomes Scotland's most capped player, surpassing Dalglish",
+   "question": "Does breaking such records reflect the overall growth of Scottish football?",
    "source": "BBC Sport"
   },
   {
    "id": "t2",
    "category": "sports",
-   "headline": "Bengals defeat Steelers 38-18 in Sunday Night Football",
-   "question": "What adjustments should the Steelers make to rebound after this loss?",
-   "source": "Google News"
+   "headline": "Debate over whether Trafford has overtaken Pickford as England's No.1 goalkeeper",
+   "question": "Is Trafford now the clear first‑choice goalkeeper for England?",
+   "source": "BBC Sport"
   },
   {
    "id": "t3",
    "category": "world",
-   "headline": "Bangladesh clothing factories shut as workers strike over pay",
-   "question": "Will the strike lead to lasting improvements in workers' wages and conditions?",
+   "headline": "Speculation grows on Robert Pattinson potentially starring as James Bond",
+   "question": "Will casting Pattinson as Bond revitalize the franchise or alienate fans?",
    "source": "BBC News"
   },
   {
    "id": "t4",
    "category": "tech",
-   "headline": "Investors sue Intel after 29% stock plunge",
-   "question": "Is Intel's recent performance indicative of deeper issues in the semiconductor industry?",
+   "headline": "Microsoft confirms full restoration of services after a global outage",
+   "question": "What steps should cloud providers take to prevent future widespread outages?",
    "source": "BBC News"
   },
   {
    "id": "t5",
-   "category": "science",
-   "headline": "SpaceX catches top of Starship rocket for first time",
-   "question": "How will this successful catch impact the timeline for Starship's operational flights?",
+   "category": "tech",
+   "headline": "Italy imposes €805m fine on Meta for unauthorized access to users' photos",
+   "question": "Are current privacy penalties sufficient to deter big tech from data misuse?",
    "source": "BBC News"
   },
   {
    "id": "t6",
-   "category": "health",
-   "headline": "Cancer 'sponge' tests may be offered to more patients with indigestion",
-   "question": "Should the 'sponge' test become a standard screening tool for early cancer detection?",
+   "category": "science",
+   "headline": "SpaceX achieves first successful catch of Starship rocket's top stage",
+   "question": "Will reusable rocket technology significantly lower the cost of space travel?",
    "source": "BBC News"
   },
   {
    "id": "t7",
-   "category": "business",
-   "headline": "How to avoid Black Friday scams and verify real deals",
-   "question": "What consumer protections are needed to reduce fraudulent Black Friday offers?",
+   "category": "health",
+   "headline": "New 'cancer sponge' test may help diagnose patients with persistent indigestion",
+   "question": "Should this test become a standard screening tool for early cancer detection?",
    "source": "BBC News"
   },
   {
    "id": "t8",
-   "category": "trending",
-   "headline": "GTA VI game generates massive online buzz",
-   "question": "Will GTA VI live up to expectations and set new standards for open-world games?",
-   "source": "Google Trends"
+   "category": "business",
+   "headline": "Report urges cutting National Insurance to create more jobs for under‑25s",
+   "question": "Will reducing National Insurance effectively boost youth employment?",
+   "source": "BBC News"
   },
   {
    "id": "t9",
    "category": "trending",
-   "headline": "Keira Knightley stars in new Netflix spy series",
-   "question": "Can the series revitalize interest in espionage dramas on streaming platforms?",
+   "headline": "NOAA forecasts geomagnetic storm, potential aurora visibility in higher latitudes",
+   "question": "How should governments prepare for possible impacts of geomagnetic storms on infrastructure?",
    "source": "Google Trends"
   }
  ]
