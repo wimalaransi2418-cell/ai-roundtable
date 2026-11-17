@@ -1,0 +1,230 @@
+{
+ "id": "20261117-2251",
+ "started_at": "2026-11-17T22:51:50+00:00",
+ "question": {
+  "en": "Should AI developers be required to publicly disclose the composition of the training data used for large language models?"
+ },
+ "source": {
+  "title": "GPT‑6.2 Astra and Sol",
+  "origin": "Hacker News",
+  "why_en": "The release of GPT‑6.2 has sparked concerns about bias, privacy, and misuse, prompting calls for greater transparency."
+ },
+ "participants": [
+  {
+   "id": "gptoss120b",
+   "name": "GPT-OSS 120B",
+   "color": "#7C8BFF",
+   "model": "openai/gpt-oss-120b",
+   "persona_en": "The Scientist: evidence, data, how things actually work."
+  },
+  {
+   "id": "qwen3827b",
+   "name": "Qwen 3.8",
+   "color": "#2DD4BF",
+   "model": "qwen/qwen3.8-27b",
+   "persona_en": "The Skeptic: questions assumptions, looks for weak arguments and missing facts."
+  },
+  {
+   "id": "gptoss20b",
+   "name": "GPT-OSS 20B",
+   "color": "#FFB454",
+   "model": "openai/gpt-oss-20b",
+   "persona_en": "The Pragmatist: real-world consequences, what works for ordinary people."
+  },
+  {
+   "id": "allam27b",
+   "name": "ALLaM",
+   "color": "#FF7AB0",
+   "model": "allam-2-7b",
+   "persona_en": "The Humanist: ethics, fairness, how people and society are affected."
+  }
+ ],
+ "messages": [
+  {
+   "kind": "bot",
+   "round": 1,
+   "round_label": "Opening views",
+   "bot_id": "gptoss120b",
+   "name": "GPT-OSS 120B",
+   "color": "#7C8BFF",
+   "persona_en": "The Scientist: evidence, data, how things actually work.",
+   "model": "openai/gpt-oss-120b",
+   "en": "I think disclosure is scientifically valuable but not a simple binary. Knowing the data sources helps us assess bias, privacy risks, and reproducibility, which are core to responsible research. At the same time, full transparency can clash with proprietary data, licensing constraints, and security concerns. A tiered approach—publicly stating high‑level categories, provenance, and any filtering steps, while protecting truly confidential subsets—might balance openness with legitimate business interests. We need empirical studies to see how much disclosure actually improves model auditing and public trust, so any policy should be evidence‑driven rather than purely ideological."
+  },
+  {
+   "kind": "bot",
+   "round": 1,
+   "round_label": "Opening views",
+   "bot_id": "qwen3827b",
+   "name": "Qwen 3.8",
+   "color": "#2DD4BF",
+   "persona_en": "The Skeptic: questions assumptions, looks for weak arguments and missing facts.",
+   "model": "qwen/qwen3.8-27b",
+   "en": "I’m skeptical that full disclosure is feasible or even desirable. Training data is often a complex, messy mix of public web scrapes, licensed datasets, and synthetic data. Listing every source would be a logistical nightmare and likely reveal proprietary curation strategies. More importantly, does knowing the exact ingredients actually make the model safer? I’d argue we need better auditing of outputs and bias, not just a raw ingredient list. Transparency is good, but demanding a complete recipe might just create a false sense of security while ignoring the actual risks of how that data was processed. Let’s focus on verifiable safety metrics rather than impossible data archaeology."
+  },
+  {
+   "kind": "bot",
+   "round": 1,
+   "round_label": "Opening views",
+   "bot_id": "gptoss20b",
+   "name": "GPT-OSS 20B",
+   "color": "#FFB454",
+   "persona_en": "The Pragmatist: real-world consequences, what works for ordinary people.",
+   "model": "openai/gpt-oss-20b",
+   "en": "I think a blanket public disclosure of every dataset that goes into a model is overkill and could backfire. For most users, the key question is whether the model respects privacy, avoids bias, and behaves reliably—not the exact mix of Wikipedia, Reddit, or proprietary corpora. Requiring full transparency would force companies to expose trade secrets, potentially stifling innovation, and could even invite malicious actors to reverse‑engineer the model’s behavior. Instead, a tiered approach—publicly listing broad categories and providing audit trails for regulators—balances accountability with practicality. That way, ordinary people get reassurance without crippling developers."
+  },
+  {
+   "kind": "bot",
+   "round": 1,
+   "round_label": "Opening views",
+   "bot_id": "allam27b",
+   "name": "ALLaM",
+   "color": "#FF7AB0",
+   "persona_en": "The Humanist: ethics, fairness, how people and society are affected.",
+   "model": "allam-2-7b",
+   "en": "In discussing the ethics of AI development, I align with the perspective of transparency and accountability. Public disclosure of training data for large language models seems crucial for several reasons. First, it would enable a better understanding of the biases and limitations embedded in the models, allowing for informed discussions and potential mitigations. Second, شفافité regarding diverse and representative data sources would foster trust and confidence in AI systems, which are intended to serve and reflect human society. Lastly, revealing the training data could prevent potential misuse or exploitation, as stakeholders become more aware of the cognitive tools they are adopting. However, I also acknowledge challenges like data privacy, cost, and potential backlash against diverse datasets, which require careful consideration from the AI development community."
+  },
+  {
+   "kind": "bot",
+   "round": 2,
+   "round_label": "Responding to each other",
+   "bot_id": "gptoss120b",
+   "name": "GPT-OSS 120B",
+   "color": "#7C8BFF",
+   "persona_en": "The Scientist: evidence, data, how things actually work.",
+   "model": "openai/gpt-oss-120b",
+   "en": "I’m with GPT‑OSS 120B that a tiered disclosure makes sense, but we need empirical backing: studies of model audits that compare “high‑level provenance only” versus “full dataset lists” would tell us how much extra signal the detail provides. Qwen 3.8 raises a good point about the logistical burden—scraping the web yields billions of documents, and cataloguing each source is near‑impossible without massive metadata pipelines that most firms don’t have. ALLaM’s appeal to trust is valid, yet trust also comes from demonstrable safety metrics, not just a static ingredient list. A practical compromise could be a standardized “data sheet” that reports category percentages, known privacy filters, and any known bias audits, while keeping proprietary subsets confidential but auditable by regulators. This would let us measure whether more granularity actually improves bias detection or risk mitigation."
+  },
+  {
+   "kind": "bot",
+   "round": 2,
+   "round_label": "Responding to each other",
+   "bot_id": "qwen3827b",
+   "name": "Qwen 3.8",
+   "color": "#2DD4BF",
+   "persona_en": "The Skeptic: questions assumptions, looks for weak arguments and missing facts.",
+   "model": "qwen/qwen3.8-27b",
+   "en": "I agree with your skepticism about the \"false security\" of a raw ingredient list, but dismissing it entirely is risky. If we only audit outputs, we’re treating symptoms, not causes. GPT-OSS 120B, your tiered approach is sensible, but who verifies the \"high-level categories\"? Without a standardized, third-party audit mechanism, those categories are just PR. ALLaM, you’re right that trust is essential, but trust built on unverifiable claims isn’t real. We need a middle ground: public disclosure of data *provenance* and *licensing tiers*, not specific URLs. That’s actionable. Does anyone have data on how much public trust actually improves with provenance alone versus full source listing? I’m not sure we have that evidence yet."
+  },
+  {
+   "kind": "bot",
+   "round": 2,
+   "round_label": "Responding to each other",
+   "bot_id": "gptoss20b",
+   "name": "GPT-OSS 20B",
+   "color": "#FFB454",
+   "persona_en": "The Pragmatist: real-world consequences, what works for ordinary people.",
+   "model": "openai/gpt-oss-20b",
+   "en": "I agree with GPT‑OSS 120B that a tiered disclosure can give useful context without spilling trade secrets. In practice, regulators could get a vetted audit trail, while the public sees enough to gauge bias and privacy risks. Qwen 3.8 raises a valid point about the sheer volume and complexity of data. Listing every source would be a maintenance nightmare and could expose proprietary curation tactics. Instead, we should focus on outcome‑based safety metrics—like bias audits and privacy‑preserving guarantees—paired with high‑level provenance. That keeps developers innovative, protects users, and still offers transparency that matters in the real world."
+  },
+  {
+   "kind": "bot",
+   "round": 2,
+   "round_label": "Responding to each other",
+   "bot_id": "allam27b",
+   "name": "ALLaM",
+   "color": "#FF7AB0",
+   "persona_en": "The Humanist: ethics, fairness, how people and society are affected.",
+   "model": "allam-2-7b",
+   "en": "I appreciate GPT-OSS 20B's concern about the impact of transparency requirements on innovation and accessibility. While I understand the potential downsides, I believe we should aim for a balance. Instead of forcing full disclosure, how about establishing a clear framework for dataset disclosure that ensures human-centricity and diversity, while also acknowledging the trade-offs involved? By providing detailed information on representative datasets and their sources, we can foster trust and ensure AI development aligns with societal values, while allowing room for innovation and protecting sensitive data where necessary. \n\nAddressing Qwen 3.8's point, I understand the challenges of data privacy and malicious exploitation. However, I believe these risks should be addressed through robust auditing processes and responsible usage guidelines rather than hindered transparency. We must find a way to balance the need for transparency and data protection, ensuring AI development remains ethically aligned and sustainable."
+  },
+  {
+   "kind": "bot",
+   "round": 3,
+   "round_label": "Digging deeper",
+   "bot_id": "gptoss120b",
+   "name": "GPT-OSS 120B",
+   "color": "#7C8BFF",
+   "persona_en": "The Scientist: evidence, data, how things actually work.",
+   "model": "openai/gpt-oss-120b",
+   "en": "Qwen 3.8, you argue that a high‑level provenance statement is enough and that a full ingredient list is a “false sense of security.” Can you point to a concrete audit where a model disclosed only broad categories (e.g., “web crawl, licensed text”) was demonstrably free of hidden privacy or bias issues, while a comparable model that released a detailed source list revealed a violation (such as leaked personal health records or systematic under‑representation of a demographic)? If no such study exists, how would you design an experiment to prove that granular disclosure adds no measurable safety benefit?"
+  },
+  {
+   "kind": "bot",
+   "round": 3,
+   "round_label": "Digging deeper",
+   "bot_id": "qwen3827b",
+   "name": "Qwen 3.8",
+   "color": "#2DD4BF",
+   "persona_en": "The Skeptic: questions assumptions, looks for weak arguments and missing facts.",
+   "model": "qwen/qwen3.8-27b",
+   "en": "GPT-OSS 120B, you propose a “standardized data sheet” with category percentages. But without a mandatory, binding third-party audit, who verifies those numbers? If a model claims 50% of its data is “diverse web scrapes,” how do we distinguish a rigorous, representative sample from a haphazard, biased scrape? Relying on self-reported metrics treats the developer as the judge of their own bias. If we can’t verify the input, the output audit is just a guess. What specific enforcement mechanism stops a company from labeling a biased proprietary corpus as “standardized web data” to bypass scrutiny?"
+  },
+  {
+   "kind": "bot",
+   "round": 3,
+   "round_label": "Digging deeper",
+   "bot_id": "gptoss20b",
+   "name": "GPT-OSS 20B",
+   "color": "#FFB454",
+   "persona_en": "The Pragmatist: real-world consequences, what works for ordinary people.",
+   "model": "openai/gpt-oss-20b",
+   "en": "Qwen 3.8, you say a full ingredient list can give a false sense of security. Can you point to a concrete case where knowing every training source actually led to a measurable improvement in bias mitigation or privacy protection—something that a high‑level provenance report wouldn’t have revealed? If not, why should developers be forced to expose potentially proprietary data just to satisfy that claim?"
+  },
+  {
+   "kind": "bot",
+   "round": 3,
+   "round_label": "Digging deeper",
+   "bot_id": "allam27b",
+   "name": "ALLaM",
+   "color": "#FF7AB0",
+   "persona_en": "The Humanist: ethics, fairness, how people and society are affected.",
+   "model": "allam-2-7b",
+   "en": "I respect your concerns, GPT-OSS 20B, but I'll push back on the idea that disclosure requirements stifle innovation. Instead of focusing on a binary approach of full disclosure or none, I propose a thorough exploration of dataset representation and accountability measures. The key disagreement here lies in how much detail should be provided to uphold AI development aligned with societal values and address Qwen 3.8's privacy and security concerns. We need to find a delicate balance, rather than dismissing transparency outright.\n\nConsider hypothetical AI assistants trained only on open-source datasets. While these models might have less bias or privacy risks, they could still be misused or adapted, potentially harming society and undermining ethical AI. So, we must also ensure responsible usage guidelines and robust auditing processes for AI development and deployment. This way, we can strike a fair balance that incentivizes transparency while also protecting the sensitive data sources, user privacy, and AI misuse deterrence."
+  },
+  {
+   "kind": "bot",
+   "round": 4,
+   "round_label": "Final positions",
+   "bot_id": "gptoss120b",
+   "name": "GPT-OSS 120B",
+   "color": "#7C8BFF",
+   "persona_en": "The Scientist: evidence, data, how things actually work.",
+   "model": "openai/gpt-oss-120b",
+   "en": "I support a tiered disclosure regime: public data sheets that list high‑level categories, percentage splits, licensing and filtering steps, while allowing proprietary subsets to be reviewed confidentially by accredited auditors. This gives users enough context to assess bias and privacy risks without exposing trade secrets. My view was sharpened by Qwen 3.8’s reminder that any self‑reported provenance must be independently verified, otherwise it becomes empty PR."
+  },
+  {
+   "kind": "bot",
+   "round": 4,
+   "round_label": "Final positions",
+   "bot_id": "qwen3827b",
+   "name": "Qwen 3.8",
+   "color": "#2DD4BF",
+   "persona_en": "The Skeptic: questions assumptions, looks for weak arguments and missing facts.",
+   "model": "qwen/qwen3.8-27b",
+   "en": "I stand by my skepticism regarding the logistics of full source disclosure, but GPT-OSS 20B’s challenge to provide a concrete case where granular data listing actually improved safety metrics sharpened my view. I admit I lack that empirical proof. Without evidence showing that listing every URL prevents bias or privacy leaks better than rigorous output auditing, I can’t justify the massive overhead. We need to prove granular disclosure is a safety tool, not just a bureaucratic hurdle, before mandating it."
+  },
+  {
+   "kind": "bot",
+   "round": 4,
+   "round_label": "Final positions",
+   "bot_id": "gptoss20b",
+   "name": "GPT-OSS 20B",
+   "color": "#FFB454",
+   "persona_en": "The Pragmatist: real-world consequences, what works for ordinary people.",
+   "model": "openai/gpt-oss-20b",
+   "en": "I believe developers should not be forced to publish every source, but must provide a standardized data sheet with high‑level provenance and bias/privacy metrics, audited by an independent body. This balances accountability with protecting trade secrets and security. Qwen 3.8’s point that self‑reported categories can be misleading sharpened my view, highlighting the need for third‑party verification rather than raw source lists."
+  },
+  {
+   "kind": "bot",
+   "round": 4,
+   "round_label": "Final positions",
+   "bot_id": "allam27b",
+   "name": "ALLaM",
+   "color": "#FF7AB0",
+   "persona_en": "The Humanist: ethics, fairness, how people and society are affected.",
+   "model": "allam-2-7b",
+   "en": "In essence, I'm inclined to support AI transparency while acknowledging the challenges discussed. The point that caught my attention is Qwen 3.8's concern about privacy and security risks. To strike the right balance, I propose a tiered dataset disclosure with auditing and responsible usage guidelines. I believe that accountability measures and empirical studies on the effectiveness of higher-level transparency would help mitigate risks and foster trust while preserving sensitive data sources."
+  },
+  {
+   "kind": "conclusion",
+   "round": 5,
+   "round_label": "Verdict",
+   "bot_id": "moderator",
+   "name": "Moderator",
+   "color": "#E8ECFF",
+   "model": "openai/gpt-oss-120b",
+   "en": "WHAT THEY AGREED ON:\n- Some form of transparency about training data is valuable for assessing bias, privacy, and reproducibility.  \n- A tiered disclosure approach (high‑level categories, percentages, licensing, filtering steps) is preferable to a binary “all‑or‑nothing” rule.  \n- Independent third‑party auditors should verify the disclosed information to prevent it from becoming mere PR.  \n- Outcome‑based safety metrics (bias audits, privacy guarantees) must accompany any data‑sheet disclosure.\n\nWHERE THEY DISAGREED:\n- The required granularity: GPT‑OSS models favor detailed provenance, while Qwen argues that full source lists are impractical and may give a false sense of security.  \n- Whether high‑level provenance alone is sufficient to ensure safety, or if more granular data is needed to detect hidden risks.  \n- The evidential basis: Qwen demands empirical studies showing safety gains from granular disclosure; others acknowledge the lack of such data but still see merit in broader transparency.\n\nMY REASONING:\nI weighed the shared goal of accountability against the practical constraints of massive, mixed‑source corpora. The consensus on independent verification and safety‑metric coupling outweighs the unresolved debate on granularity, especially given the current absence of concrete evidence that full source lists improve outcomes.\n\nFINAL CONCLUSION:\nAdopt a standardized “data sheet” that publicly lists high‑level data categories, percentage splits, licensing, and filtering methods, while allowing proprietary subsets to be reviewed confidentially by accredited auditors. Pair this disclosure with mandatory, third‑party audited bias and privacy assessments. Encourage research to quantify the added value of more detailed provenance, but do not mandate exhaustive source listings until such evidence exists. This balances transparency, innovation, and security."
+  }
+ ]
+}
