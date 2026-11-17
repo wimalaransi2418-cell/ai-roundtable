@@ -1,75 +1,75 @@
 {
- "updated_at": "2026-11-17T13:04:42+00:00",
+ "updated_at": "2026-11-17T21:43:23+00:00",
  "items": [
   {
    "id": "t0",
    "category": "world",
-   "headline": "Crimea bridge partially collapses amid Ukraine conflict",
-   "question": "What are the broader implications of the bridge collapse for regional stability?",
-   "source": "BBC News"
+   "headline": "Putin's Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
+   "source": "BBC News",
+   "question": "What do you make of this story: Putin's Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine?"
   },
   {
    "id": "t1",
    "category": "world",
-   "headline": "Japan scrambles jets after reported Russian airspace incursion",
-   "question": "How should Japan respond to alleged airspace violations to ensure security?",
-   "source": "BBC News"
+   "headline": "Jensen Huang says he would be 'honoured' to return as Nvidia CEO if board asked him",
+   "source": "BBC News",
+   "question": "What do you make of this story: Jensen Huang says he would be 'honoured' to return as Nvidia CEO if board asked him?"
   },
   {
    "id": "t2",
-   "category": "weather",
-   "headline": "South Florida flood alert issued amid heavy rain threat",
-   "question": "What measures can residents take to prepare for imminent flooding?",
-   "source": "Google News"
+   "category": "world",
+   "headline": "Russian military plane crashes killing all 19 on board",
+   "source": "BBC News",
+   "question": "What do you make of this story: Russian military plane crashes killing all 19 on board?"
   },
   {
    "id": "t3",
-   "category": "sports",
-   "headline": "Bryson DeChambeau joins DP World Tour after LIV Golf ends",
-   "question": "Will DeChambeau's move influence other players' tour affiliations?",
-   "source": "BBC Sport"
+   "category": "world",
+   "headline": "Palestinian woman, 72, shot dead by Israeli settlers in West Bank, health ministry says",
+   "source": "BBC News",
+   "question": "What do you make of this story: Palestinian woman, 72, shot dead by Israeli settlers in West Bank, health ministry says?"
   },
   {
    "id": "t4",
    "category": "sports",
-   "headline": "London City defender Goodwin earns first England call‑up",
-   "question": "Can Goodwin secure a regular spot in the national squad this season?",
-   "source": "BBC Sport"
+   "headline": "Rooney says he considered taking his own life at Man Utd",
+   "source": "BBC Sport",
+   "question": "What do you make of this story: Rooney says he considered taking his own life at Man Utd?"
   },
   {
    "id": "t5",
-   "category": "tech",
-   "headline": "US launches investigation into Megaspeed over export controls",
-   "question": "What impact could the probe have on US‑China tech relations?",
-   "source": "BBC News"
+   "category": "sports",
+   "headline": "FA wants to host Nations League finals in England",
+   "source": "BBC Sport",
+   "question": "What do you make of this story: FA wants to host Nations League finals in England?"
   },
   {
    "id": "t6",
-   "category": "science",
-   "headline": "SpaceX catches top section of Starship rocket in test flight",
-   "question": "Does this milestone bring Starship closer to operational status?",
-   "source": "BBC News"
+   "category": "sports",
+   "headline": "Arsenal Double winner Storey dies aged 81",
+   "source": "BBC Sport",
+   "question": "What do you make of this story: Arsenal Double winner Storey dies aged 81?"
   },
   {
    "id": "t7",
-   "category": "science",
-   "headline": "£160 million needed to remediate Europe's large illegal dump",
-   "question": "How should EU funding be allocated to address such massive waste sites?",
-   "source": "BBC News"
+   "category": "sports",
+   "headline": "DeChambeau joins DP World Tour after LIV Golf collapse",
+   "source": "BBC Sport",
+   "question": "What do you make of this story: DeChambeau joins DP World Tour after LIV Golf collapse?"
   },
   {
    "id": "t8",
-   "category": "health",
-   "headline": "Doctor burnout linked to risks for maternity patients, regulator says",
-   "question": "What systemic changes are needed to reduce burnout among maternity staff?",
-   "source": "BBC News"
+   "category": "tech",
+   "headline": "How new US chip restrictions on South East Asia will hit China",
+   "source": "BBC News",
+   "question": "What do you make of this story: How new US chip restrictions on South East Asia will hit China?"
   },
   {
    "id": "t9",
-   "category": "business",
-   "headline": "Former minister warns UK could lose Royal Mail without swift action",
-   "question": "What policy steps are essential to preserve Royal Mail's future?",
-   "source": "BBC News"
+   "category": "tech",
+   "headline": "Pretending to be in New Zealand, booking leave and buying consoles - the lengths fans are going to for GTA 6",
+   "source": "BBC News",
+   "question": "What do you make of this story: Pretending to be in New Zealand, booking leave and buying consoles - the lengths fans are going to for GTA 6?"
   }
  ]
 }
