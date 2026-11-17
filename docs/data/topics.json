@@ -1,75 +1,75 @@
 {
- "updated_at": "2026-11-16T20:16:15+00:00",
+ "updated_at": "2026-11-17T03:40:27+00:00",
  "items": [
   {
    "id": "t0",
    "category": "weather",
-   "headline": "Yellow weather warnings issued for snow as temperatures plummet",
-   "question": "Should authorities issue more aggressive warnings to better protect vulnerable communities?",
-   "source": "BBC News"
+   "headline": "2026-2027 Winter Weather Outlook",
+   "question": "How should households prepare for the predicted winter conditions across regions?",
+   "source": "Google News"
   },
   {
    "id": "t1",
    "category": "sports",
-   "headline": "Robertson becomes Scotland's most capped player, surpassing Dalglish",
-   "question": "Does breaking such records reflect the overall growth of Scottish football?",
-   "source": "BBC Sport"
+   "headline": "B/R Experts release Week 11 NFL Power Rankings",
+   "question": "Do the current power rankings accurately reflect team performance this season?",
+   "source": "Google News"
   },
   {
    "id": "t2",
    "category": "sports",
-   "headline": "Debate over whether Trafford has overtaken Pickford as England's No.1 goalkeeper",
-   "question": "Is Trafford now the clear first‑choice goalkeeper for England?",
-   "source": "BBC Sport"
+   "headline": "Chargers vs Ravens Monday Night Football betting odds released",
+   "question": "What factors should bettors consider most when evaluating these odds?",
+   "source": "Google News"
   },
   {
    "id": "t3",
    "category": "world",
-   "headline": "Speculation grows on Robert Pattinson potentially starring as James Bond",
-   "question": "Will casting Pattinson as Bond revitalize the franchise or alienate fans?",
+   "headline": "Speculation on Robert Pattinson starring as James Bond in upcoming film",
+   "question": "Will casting Pattinson as Bond attract new audiences or alienate traditional fans?",
    "source": "BBC News"
   },
   {
    "id": "t4",
    "category": "tech",
-   "headline": "Microsoft confirms full restoration of services after a global outage",
-   "question": "What steps should cloud providers take to prevent future widespread outages?",
+   "headline": "California files lawsuit against OpenAI over alleged Hugging Face attack",
+   "question": "What precedent could this lawsuit set for AI liability in the US?",
    "source": "BBC News"
   },
   {
    "id": "t5",
-   "category": "tech",
-   "headline": "Italy imposes €805m fine on Meta for unauthorized access to users' photos",
-   "question": "Are current privacy penalties sufficient to deter big tech from data misuse?",
+   "category": "science",
+   "headline": "SpaceX achieves first successful catch of Starship rocket's top section",
+   "question": "How will this milestone impact the timeline for Starship's operational flights?",
    "source": "BBC News"
   },
   {
    "id": "t6",
-   "category": "science",
-   "headline": "SpaceX achieves first successful catch of Starship rocket's top stage",
-   "question": "Will reusable rocket technology significantly lower the cost of space travel?",
+   "category": "health",
+   "headline": "Regulator warns doctor burnout threatens maternity patient safety",
+   "question": "What systemic changes are needed to reduce burnout among maternity care providers?",
    "source": "BBC News"
   },
   {
    "id": "t7",
-   "category": "health",
-   "headline": "New 'cancer sponge' test may help diagnose patients with persistent indigestion",
-   "question": "Should this test become a standard screening tool for early cancer detection?",
+   "category": "business",
+   "headline": "Report urges cutting National Insurance to boost jobs for under‑25s",
+   "question": "Would reducing National Insurance be an effective strategy to increase youth employment?",
    "source": "BBC News"
   },
   {
    "id": "t8",
-   "category": "business",
-   "headline": "Report urges cutting National Insurance to create more jobs for under‑25s",
-   "question": "Will reducing National Insurance effectively boost youth employment?",
-   "source": "BBC News"
+   "category": "trending",
+   "headline": "Search interest spikes for a potential Madden video game movie",
+   "question": "Could a Madden movie successfully capture the appeal of the gaming franchise?",
+   "source": "Google Trends"
   },
   {
    "id": "t9",
-   "category": "trending",
-   "headline": "NOAA forecasts geomagnetic storm, potential aurora visibility in higher latitudes",
-   "question": "How should governments prepare for possible impacts of geomagnetic storms on infrastructure?",
-   "source": "Google Trends"
+   "category": "business",
+   "headline": "Customers report service outages at several major US banks",
+   "question": "What steps should banks take to improve reliability of their online services?",
+   "source": "BBC News"
   }
  ]
 }
