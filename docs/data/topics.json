@@ -1,75 +1,75 @@
 {
- "updated_at": "2026-11-17T21:43:23+00:00",
+ "updated_at": "2026-11-18T03:36:17+00:00",
  "items": [
   {
    "id": "t0",
-   "category": "world",
-   "headline": "Putin's Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine",
-   "source": "BBC News",
-   "question": "What do you make of this story: Putin's Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine?"
+   "category": "weather",
+   "headline": "Storms to batter West with mountain snow, rain, waves and strong winds",
+   "question": "How should local authorities balance emergency response with minimizing economic disruption during such storms?",
+   "source": "Google News"
   },
   {
    "id": "t1",
-   "category": "world",
-   "headline": "Jensen Huang says he would be 'honoured' to return as Nvidia CEO if board asked him",
-   "source": "BBC News",
-   "question": "What do you make of this story: Jensen Huang says he would be 'honoured' to return as Nvidia CEO if board asked him?"
+   "category": "sports",
+   "headline": "Tiger Woods set to return at Hero World Challenge in the Bahamas",
+   "question": "Will Woods' comeback influence the popularity and sponsorship of senior golf events?",
+   "source": "Google News"
   },
   {
    "id": "t2",
-   "category": "world",
-   "headline": "Russian military plane crashes killing all 19 on board",
-   "source": "BBC News",
-   "question": "What do you make of this story: Russian military plane crashes killing all 19 on board?"
+   "category": "sports",
+   "headline": "Erling Haaland scores last‑minute penalty to send Norway into Nations League quarters",
+   "question": "Should the use of penalty shootouts in knockout stages be re‑examined for fairness?",
+   "source": "Google News"
   },
   {
    "id": "t3",
    "category": "world",
-   "headline": "Palestinian woman, 72, shot dead by Israeli settlers in West Bank, health ministry says",
-   "source": "BBC News",
-   "question": "What do you make of this story: Palestinian woman, 72, shot dead by Israeli settlers in West Bank, health ministry says?"
+   "headline": "US loses measles elimination status after 26 years amid rising case numbers",
+   "question": "What policies are most effective for restoring measles elimination in the United States?",
+   "source": "BBC News"
   },
   {
    "id": "t4",
-   "category": "sports",
-   "headline": "Rooney says he considered taking his own life at Man Utd",
-   "source": "BBC Sport",
-   "question": "What do you make of this story: Rooney says he considered taking his own life at Man Utd?"
+   "category": "tech",
+   "headline": "Waymo temporarily suspends driverless taxis on all US freeways",
+   "question": "Is a temporary pullback the best way to address safety concerns in autonomous vehicle testing?",
+   "source": "BBC News"
   },
   {
    "id": "t5",
-   "category": "sports",
-   "headline": "FA wants to host Nations League finals in England",
-   "source": "BBC Sport",
-   "question": "What do you make of this story: FA wants to host Nations League finals in England?"
+   "category": "science",
+   "headline": "Adviser warns UK may miss climate targets if EV regulations are weakened",
+   "question": "Should governments prioritize stricter EV policies over industry lobbying pressures?",
+   "source": "BBC News"
   },
   {
    "id": "t6",
-   "category": "sports",
-   "headline": "Arsenal Double winner Storey dies aged 81",
-   "source": "BBC Sport",
-   "question": "What do you make of this story: Arsenal Double winner Storey dies aged 81?"
+   "category": "health",
+   "headline": "Doctor burnout cited as risk to maternity patient safety by regulator",
+   "question": "What systemic changes are needed to reduce doctor burnout and improve patient outcomes?",
+   "source": "BBC News"
   },
   {
    "id": "t7",
-   "category": "sports",
-   "headline": "DeChambeau joins DP World Tour after LIV Golf collapse",
-   "source": "BBC Sport",
-   "question": "What do you make of this story: DeChambeau joins DP World Tour after LIV Golf collapse?"
+   "category": "business",
+   "headline": "Europe outlines strategy to capture next wave of computer chip innovation",
+   "question": "Can Europe's new chip initiative close the gap with US and Asian manufacturers?",
+   "source": "BBC News"
   },
   {
    "id": "t8",
-   "category": "tech",
-   "headline": "How new US chip restrictions on South East Asia will hit China",
-   "source": "BBC News",
-   "question": "What do you make of this story: How new US chip restrictions on South East Asia will hit China?"
+   "category": "trending",
+   "headline": "Trending: Hornets vs Lakers matchup draws major fan interest",
+   "question": "Will this high‑profile game boost viewership for the NBA's upcoming season?",
+   "source": "Google Trends"
   },
   {
    "id": "t9",
-   "category": "tech",
-   "headline": "Pretending to be in New Zealand, booking leave and buying consoles - the lengths fans are going to for GTA 6",
-   "source": "BBC News",
-   "question": "What do you make of this story: Pretending to be in New Zealand, booking leave and buying consoles - the lengths fans are going to for GTA 6?"
+   "category": "business",
+   "headline": "Nvidia reports strong earnings but says CEO Jensen Huang will not return",
+   "question": "How will Nvidia's leadership continuity affect its long‑term innovation strategy?",
+   "source": "BBC News"
   }
  ]
 }
