@@ -1,6 +1,11 @@
 {
  "sessions": [
   {
+   "id": "20261118-2231",
+   "started_at": "2026-11-18T22:31:28+00:00",
+   "question_en": "Should AI-generated chip designs be required to undergo regulatory review to ensure security and reliability before production?"
+  },
+  {
    "id": "20261118-1117",
    "started_at": "2026-11-18T11:17:53+00:00",
    "question_en": "Should major search engines be required to clearly label AI-generated answers to ensure transparency for users?"
