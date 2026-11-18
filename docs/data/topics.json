@@ -1,75 +1,75 @@
 {
- "updated_at": "2026-11-18T03:36:17+00:00",
+ "updated_at": "2026-11-18T12:55:36+00:00",
  "items": [
   {
    "id": "t0",
    "category": "weather",
-   "headline": "Storms to batter West with mountain snow, rain, waves and strong winds",
-   "question": "How should local authorities balance emergency response with minimizing economic disruption during such storms?",
+   "headline": "Heavy rain causes flash flooding in Fort Lauderdale",
+   "question": "What measures should local authorities prioritize to mitigate flash flooding risks in coastal cities?",
    "source": "Google News"
   },
   {
    "id": "t1",
    "category": "sports",
-   "headline": "Tiger Woods set to return at Hero World Challenge in the Bahamas",
-   "question": "Will Woods' comeback influence the popularity and sponsorship of senior golf events?",
-   "source": "Google News"
+   "headline": "England clinches series win with Duckett's century and strong bowling",
+   "question": "Will England's recent performance signal a lasting resurgence in Test cricket?",
+   "source": "BBC Sport"
   },
   {
    "id": "t2",
    "category": "sports",
-   "headline": "Erling Haaland scores last‑minute penalty to send Norway into Nations League quarters",
-   "question": "Should the use of penalty shootouts in knockout stages be re‑examined for fairness?",
-   "source": "Google News"
+   "headline": "Premier League sees record six referee errors in a single weekend",
+   "question": "Should the league implement new technologies to reduce referee mistakes?",
+   "source": "BBC Sport"
   },
   {
    "id": "t3",
    "category": "world",
-   "headline": "US loses measles elimination status after 26 years amid rising case numbers",
-   "question": "What policies are most effective for restoring measles elimination in the United States?",
+   "headline": "US-backed mineral highway proposal aims to boost peace in DR Congo",
+   "question": "Can infrastructure projects like a mineral highway effectively foster stability in conflict zones?",
    "source": "BBC News"
   },
   {
    "id": "t4",
    "category": "tech",
-   "headline": "Waymo temporarily suspends driverless taxis on all US freeways",
-   "question": "Is a temporary pullback the best way to address safety concerns in autonomous vehicle testing?",
+   "headline": "Critical security flaw discovered in Java programming language",
+   "question": "How should the global developer community respond to large-scale language vulnerabilities?",
    "source": "BBC News"
   },
   {
    "id": "t5",
    "category": "science",
-   "headline": "Adviser warns UK may miss climate targets if EV regulations are weakened",
-   "question": "Should governments prioritize stricter EV policies over industry lobbying pressures?",
+   "headline": "Pakistan's solar surge outpaces national grid capacity",
+   "question": "What strategies can Pakistan adopt to integrate rapid solar growth into its grid?",
    "source": "BBC News"
   },
   {
    "id": "t6",
    "category": "health",
-   "headline": "Doctor burnout cited as risk to maternity patient safety by regulator",
-   "question": "What systemic changes are needed to reduce doctor burnout and improve patient outcomes?",
+   "headline": "British study examines impact of social media bans on youth mental health",
+   "question": "Do social media restrictions improve or hinder mental wellbeing among teenagers?",
    "source": "BBC News"
   },
   {
    "id": "t7",
    "category": "business",
-   "headline": "Europe outlines strategy to capture next wave of computer chip innovation",
-   "question": "Can Europe's new chip initiative close the gap with US and Asian manufacturers?",
+   "headline": "UK energy bills projected to rise by £443 annually amid rising inflation",
+   "question": "What policies could effectively curb rising household energy costs?",
    "source": "BBC News"
   },
   {
    "id": "t8",
    "category": "trending",
-   "headline": "Trending: Hornets vs Lakers matchup draws major fan interest",
-   "question": "Will this high‑profile game boost viewership for the NBA's upcoming season?",
+   "headline": "GTA 6 cheat codes spark online interest",
+   "question": "Should game developers release official cheat codes to enhance player experience?",
    "source": "Google Trends"
   },
   {
    "id": "t9",
-   "category": "business",
-   "headline": "Nvidia reports strong earnings but says CEO Jensen Huang will not return",
-   "question": "How will Nvidia's leadership continuity affect its long‑term innovation strategy?",
-   "source": "BBC News"
+   "category": "trending",
+   "headline": "Ruby Bridges remembered in trending discussions",
+   "question": "How can Ruby Bridges' legacy inform current debates on school integration?",
+   "source": "Google Trends"
   }
  ]
 }
