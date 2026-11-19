@@ -1,74 +1,74 @@
 {
- "updated_at": "2026-11-19T12:49:03+00:00",
+ "updated_at": "2026-11-19T21:21:51+00:00",
  "items": [
   {
    "id": "t0",
    "category": "world",
-   "headline": "China's Xi marks a diplomatic milestone, but faces challenges",
-   "question": "Will Xi's diplomatic efforts strengthen China's global influence?",
+   "headline": "Van Gogh masterpiece fetches $190.4m amid controversy over Nazi-era provenance",
+   "question": "Should museums return artworks with disputed provenance, even if it means losing record sales?",
    "source": "BBC News"
   },
   {
    "id": "t1",
-   "category": "sports",
-   "headline": "Saudi-backed LIV Golf pays millions, leaving UK firms unpaid",
-   "question": "Should LIV Golf be required to settle debts with UK suppliers promptly?",
-   "source": "BBC Sport"
+   "category": "tech",
+   "headline": "Dutch consumer agency advises against purchasing AI-powered smart glasses",
+   "question": "Are current privacy regulations sufficient to protect users of AI-enabled wearables?",
+   "source": "BBC News"
   },
   {
    "id": "t2",
-   "category": "sports",
-   "headline": "Analyzing NFL teams: Who are the true contenders this season?",
-   "question": "Which NFL team has the best chance to win the Super Bowl this year?",
-   "source": "Google News"
+   "category": "tech",
+   "headline": "GTA 6 release sparks worldwide excitement as game launches in the UK",
+   "question": "Will the open-world design of GTA 6 set new standards for interactive storytelling?",
+   "source": "BBC News"
   },
   {
    "id": "t3",
-   "category": "weather",
-   "headline": "Understanding why parts of Florida flood during the dry season",
-   "question": "Are current water management policies enough to prevent Florida's dry-season floods?",
-   "source": "Google News"
+   "category": "science",
+   "headline": "Adviser warns UK may miss climate goals if electric‑vehicle standards are relaxed",
+   "question": "Should governments prioritize stricter EV regulations over concerns about market impact?",
+   "source": "BBC News"
   },
   {
    "id": "t4",
-   "category": "tech",
-   "headline": "Frequent outages: Are they caused by hacks, AI issues, or outdated systems?",
-   "question": "What is the primary cause of recent widespread service outages?",
+   "category": "health",
+   "headline": "UK launches biggest study on social‑media bans and youth mental health",
+   "question": "Do social‑media bans improve mental health outcomes for teenagers, or do they cause unintended harms?",
    "source": "BBC News"
   },
   {
    "id": "t5",
-   "category": "science",
-   "headline": "Pakistan's rapid solar growth outpaces national grid capacity",
-   "question": "Can Pakistan's grid be upgraded quickly enough to handle its solar surge?",
+   "category": "business",
+   "headline": "Europe outlines strategy to lead next generation of semiconductor manufacturing",
+   "question": "Can Europe realistically compete with US and Asian chipmakers in the coming decade?",
    "source": "BBC News"
   },
   {
    "id": "t6",
-   "category": "health",
-   "headline": "British study examines social media ban impact on youth mental health",
-   "question": "Do social media bans improve mental health outcomes for young people?",
-   "source": "BBC News"
+   "category": "weather",
+   "headline": "Severe tropical weather forecast to continue through Sunday, Nov 22",
+   "question": "What measures should communities take to prepare for prolonged tropical storms?",
+   "source": "Google News"
   },
   {
    "id": "t7",
-   "category": "business",
-   "headline": "Europe aims to lead the next wave of computer chip innovation",
-   "question": "Will Europe's chip strategy reduce reliance on Asian manufacturers?",
-   "source": "BBC News"
+   "category": "sports",
+   "headline": "Texans aim for playoff spot, need victory over Colts in Thursday Night Football",
+   "question": "Can the Texans’ defense secure the win they need to stay in playoff contention?",
+   "source": "Google News"
   },
   {
    "id": "t8",
-   "category": "trending",
-   "headline": "What does the AI company Anthropic specialize in?",
-   "question": "Is Anthropic's approach to AI development more responsible than competitors?",
-   "source": "Google Trends"
+   "category": "sports",
+   "headline": "Rams place WR Puka Nacua on three‑game suspension while on injured reserve",
+   "question": "Should the NFL enforce stricter penalties for off‑field conduct to maintain league integrity?",
+   "source": "Google News"
   },
   {
    "id": "t9",
    "category": "trending",
-   "headline": "Today's dollar exchange rate: implications for consumers and investors",
-   "question": "How will the current strength of the dollar affect global economies?",
+   "headline": "CalMatters reports surge in California climate policy discussions",
+   "question": "Will California's latest climate initiatives influence national environmental legislation?",
    "source": "Google Trends"
   }
  ]
