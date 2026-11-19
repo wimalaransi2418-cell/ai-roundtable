@@ -1,6 +1,11 @@
 {
  "sessions": [
   {
+   "id": "20261119-1115",
+   "started_at": "2026-11-19T11:15:40+00:00",
+   "question_en": "Should maintainers of critical open-source infrastructure like Nginx be legally obligated to promptly fix and publicly disclose security vulnerabilities?"
+  },
+  {
    "id": "20261118-2231",
    "started_at": "2026-11-18T22:31:28+00:00",
    "question_en": "Should AI-generated chip designs be required to undergo regulatory review to ensure security and reliability before production?"
