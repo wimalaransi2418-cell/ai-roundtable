@@ -1,75 +1,75 @@
 {
- "updated_at": "2026-11-18T21:19:20+00:00",
+ "updated_at": "2026-11-19T03:09:49+00:00",
  "items": [
   {
    "id": "t0",
    "category": "weather",
-   "headline": "Holiday travel forecast ahead of Thanksgiving weekend",
-   "question": "How should travelers adjust plans given the early weather outlook?",
+   "headline": "Storm brings heavy rain and flooding to San Francisco Bay Area",
+   "question": "How should local authorities balance immediate flood response with long‑term climate adaptation?",
    "source": "Google News"
   },
   {
    "id": "t1",
    "category": "sports",
-   "headline": "Six referee errors recorded in recent Premier League matches",
-   "question": "What measures can be taken to reduce officiating mistakes in football?",
-   "source": "BBC Sport"
+   "headline": "Houston defeats top‑ranked Florida to reach Players Era 8 championship",
+   "question": "What factors most contributed to Houston's upset over Florida in the tournament?",
+   "source": "Google News"
   },
   {
    "id": "t2",
    "category": "sports",
-   "headline": "Alcaraz maintains winning streak despite injury concerns",
-   "question": "Should players be allowed to compete when dealing with injuries?",
-   "source": "BBC Sport"
+   "headline": "Joe Burrow and Jahmyr Gibbs highlighted as Players of the Week",
+   "question": "Do weekly player awards accurately reflect overall season performance?",
+   "source": "Google News"
   },
   {
    "id": "t3",
    "category": "world",
-   "headline": "Prince William and Kate meet Indian Prime Minister Modi",
-   "question": "What impact do royal visits have on diplomatic relations between the UK and India?",
+   "headline": "UN court to deliver verdict on Myanmar's genocide case over Rohingya",
+   "question": "What impact could the UN verdict have on international accountability for genocide?",
    "source": "BBC News"
   },
   {
    "id": "t4",
    "category": "tech",
-   "headline": "Critical security flaw discovered in Java programming language",
-   "question": "How can the software industry improve response to widespread language vulnerabilities?",
+   "headline": "Security flaw discovered in Java, a major programming language",
+   "question": "How should the software industry prioritize patching vulnerabilities in widely used languages like Java?",
    "source": "BBC News"
   },
   {
    "id": "t5",
    "category": "science",
-   "headline": "Pakistan's solar expansion outpaces national grid capacity",
-   "question": "What policies are needed to integrate renewable energy into existing grids effectively?",
+   "headline": "Pakistan's solar growth outpaces grid capacity, causing supply challenges",
+   "question": "What policies can help integrate rapid solar expansion into Pakistan's existing grid?",
    "source": "BBC News"
   },
   {
    "id": "t6",
-   "category": "health",
-   "headline": "Large UK study examines social media ban's effect on youth mental health",
-   "question": "Do social media bans improve mental health outcomes for young people?",
+   "category": "science",
+   "headline": "Experts warn weakened EV rules could jeopardize climate targets",
+   "question": "Should governments strengthen EV incentives despite economic concerns?",
    "source": "BBC News"
   },
   {
    "id": "t7",
-   "category": "business",
-   "headline": "Energy bills projected to rise by £443 per household in coming year",
-   "question": "What steps can consumers take to mitigate rising energy costs?",
+   "category": "health",
+   "headline": "Large UK study to assess social media ban effects on youth mental health",
+   "question": "Will restricting social media use improve mental health outcomes for teenagers?",
    "source": "BBC News"
   },
   {
    "id": "t8",
-   "category": "trending",
-   "headline": "Google Trends shows rising interest in San Francisco",
-   "question": "What factors are driving increased online searches about San Francisco right now?",
-   "source": "Google Trends"
+   "category": "business",
+   "headline": "Anthropic valued up to $1.5tn ahead of anticipated stock market debut",
+   "question": "Can Anthropic's valuation be justified given current AI market dynamics?",
+   "source": "BBC News"
   },
   {
    "id": "t9",
-   "category": "business",
-   "headline": "Nvidia announces it will not reinstate CEO Jensen Huang",
-   "question": "How might Nvidia's leadership change affect its market performance and innovation?",
-   "source": "BBC News"
+   "category": "trending",
+   "headline": "Search trend shows increased interest in Michael Bublé",
+   "question": "What factors are driving the recent surge in searches for Michael Bublé?",
+   "source": "Google Trends"
   }
  ]
 }
