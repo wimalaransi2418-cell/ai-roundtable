@@ -1,6 +1,11 @@
 {
  "sessions": [
   {
+   "id": "20261119-2237",
+   "started_at": "2026-11-19T22:37:11+00:00",
+   "question_en": "Should AI companies that achieve massive market valuations be subject to stricter regulatory oversight to ensure safety, fairness, and accountability?"
+  },
+  {
    "id": "20261119-1115",
    "started_at": "2026-11-19T11:15:40+00:00",
    "question_en": "Should maintainers of critical open-source infrastructure like Nginx be legally obligated to promptly fix and publicly disclose security vulnerabilities?"
