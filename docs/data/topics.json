@@ -1,74 +1,74 @@
 {
- "updated_at": "2026-11-20T11:18:21+00:00",
+ "updated_at": "2026-11-20T19:57:46+00:00",
  "items": [
   {
    "id": "t0",
    "category": "world",
-   "headline": "UK and EU to agree youth mobility scheme, BBC understands",
-   "question": "How might a youth mobility scheme impact labour markets and cultural exchange in Europe?",
+   "headline": "UK to explore closer ties with EU after deal agreement",
+   "question": "What are the potential benefits and drawbacks of the UK deepening its relationship with the EU?",
    "source": "BBC News"
   },
   {
    "id": "t1",
-   "category": "tech",
-   "headline": "Should AI be judging our credit worthiness?",
-   "question": "Can AI-driven credit scoring be fair and unbiased compared to traditional methods?",
+   "category": "weather",
+   "headline": "Torrential rain triggers widespread flooding across South Florida",
+   "question": "How should local authorities improve flood preparedness in the face of increasing extreme weather?",
    "source": "BBC News"
   },
   {
    "id": "t2",
-   "category": "science",
-   "headline": "What are heat pumps and how much do they cost?",
-   "question": "Are heat pumps a cost‑effective solution for reducing household carbon emissions?",
-   "source": "BBC News"
+   "category": "sports",
+   "headline": "Alcaraz downplays injury, aims to dominate Cobolli in upcoming match",
+   "question": "Should players prioritize competing while injured, or focus on long‑term health?",
+   "source": "BBC Sport"
   },
   {
    "id": "t3",
-   "category": "health",
-   "headline": "Massive hope for pancreatic cancer pill after trial saw tumours vanish",
-   "question": "Will the new pancreatic cancer treatment be accessible and affordable for patients worldwide?",
-   "source": "BBC News"
+   "category": "sports",
+   "headline": "Drake Maye injury update raises concerns for Patriots' playoff hopes",
+   "question": "Will the Patriots' season be significantly impacted if Maye misses the rest of the year?",
+   "source": "Google News"
   },
   {
    "id": "t4",
-   "category": "business",
-   "headline": "Airbnb's divisive new house rules come into force",
-   "question": "Do Airbnb's new house rules strike the right balance between host safety and guest freedom?",
+   "category": "tech",
+   "headline": "Debate: Should AI systems be used to assess creditworthiness?",
+   "question": "Can AI provide fairer credit decisions than traditional methods, or does it risk bias?",
    "source": "BBC News"
   },
   {
    "id": "t5",
-   "category": "weather",
-   "headline": "Warm weather lasts into the weekend, big changes next week",
-   "question": "How will the upcoming weather shift affect outdoor activities and energy demand this weekend?",
-   "source": "Google News"
+   "category": "science",
+   "headline": "NASA's Mercury mission set to encounter a new visitor after eight‑year journey",
+   "question": "What scientific insights could the Mercury visitor provide about our solar system?",
+   "source": "BBC News"
   },
   {
    "id": "t6",
-   "category": "sports",
-   "headline": "C.J. Stroud stays in 'groove' with another 3‑TD night in Texans' blowout",
-   "question": "Can Stroud maintain his high‑scoring performance throughout the season?",
-   "source": "Google News"
+   "category": "health",
+   "headline": "New pancreatic cancer drug shows tumors disappearing in early trials",
+   "question": "Could this breakthrough change the standard of care for pancreatic cancer patients?",
+   "source": "BBC News"
   },
   {
    "id": "t7",
-   "category": "sports",
-   "headline": "Rams star Nacua suspended for personal conduct violation",
-   "question": "What should be the appropriate disciplinary response for personal conduct violations in professional sports?",
-   "source": "Google News"
+   "category": "business",
+   "headline": "Analysis: Cost‑cutting UK‑EU deal may not lead to lower consumer prices",
+   "question": "Will the recent UK‑EU agreement truly benefit everyday shoppers?",
+   "source": "BBC News"
   },
   {
    "id": "t8",
    "category": "trending",
-   "headline": "Stock market futures",
-   "question": "What factors are currently driving movements in global stock market futures?",
+   "headline": "SMH stock sees heightened interest amid market volatility",
+   "question": "Is SMH a good long‑term investment given current market conditions?",
    "source": "Google Trends"
   },
   {
    "id": "t9",
-   "category": "world",
-   "headline": "Nigeria moves to end jail terms for attempted suicide",
-   "question": "Will decriminalising attempted suicide improve mental health outcomes in Nigeria?",
+   "category": "science",
+   "headline": "Heat pumps explained: how they work and their typical installation cost",
+   "question": "Are heat pumps a cost‑effective solution for reducing household carbon footprints?",
    "source": "BBC News"
   }
  ]
