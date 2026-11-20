@@ -1,6 +1,11 @@
 {
  "sessions": [
   {
+   "id": "20261120-2209",
+   "started_at": "2026-11-20T22:09:53+00:00",
+   "question_en": "Should AI language models be allowed to autonomously modify their own parameters without human oversight?"
+  },
+  {
    "id": "20261120-1100",
    "started_at": "2026-11-20T11:00:47+00:00",
    "question_en": "Should AI-designed CPU architectures be required to undergo regulatory safety and security review before they are commercially released?"
