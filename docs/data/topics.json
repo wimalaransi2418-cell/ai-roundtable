@@ -1,74 +1,74 @@
 {
- "updated_at": "2026-11-20T02:58:20+00:00",
+ "updated_at": "2026-11-20T11:18:21+00:00",
  "items": [
   {
    "id": "t0",
-   "category": "weather",
-   "headline": "Nonstop rain pummels Central Florida, flooding roads and closing schools",
-   "question": "What long‑term measures should Florida adopt to mitigate frequent severe rain events?",
-   "source": "Google News"
+   "category": "world",
+   "headline": "UK and EU to agree youth mobility scheme, BBC understands",
+   "question": "How might a youth mobility scheme impact labour markets and cultural exchange in Europe?",
+   "source": "BBC News"
   },
   {
    "id": "t1",
-   "category": "sports",
-   "headline": "Rams' Puka Nacua suspended three games, serving ban during injured reserve",
-   "question": "Is a three‑game suspension appropriate for a player already on injured reserve?",
-   "source": "Google News"
+   "category": "tech",
+   "headline": "Should AI be judging our credit worthiness?",
+   "question": "Can AI-driven credit scoring be fair and unbiased compared to traditional methods?",
+   "source": "BBC News"
   },
   {
    "id": "t2",
-   "category": "sports",
-   "headline": "Texans vs. Colts odds and picks for Thursday Night Football",
-   "question": "How reliable are betting odds in predicting outcomes of NFL games?",
-   "source": "Google News"
+   "category": "science",
+   "headline": "What are heat pumps and how much do they cost?",
+   "question": "Are heat pumps a cost‑effective solution for reducing household carbon emissions?",
+   "source": "BBC News"
   },
   {
    "id": "t3",
-   "category": "tech",
-   "headline": "Dutch watchdog advises consumers not to purchase AI smart glasses",
-   "question": "Do current regulations adequately protect consumers from potential AI‑enabled eyewear risks?",
+   "category": "health",
+   "headline": "Massive hope for pancreatic cancer pill after trial saw tumours vanish",
+   "question": "Will the new pancreatic cancer treatment be accessible and affordable for patients worldwide?",
    "source": "BBC News"
   },
   {
    "id": "t4",
-   "category": "tech",
-   "headline": "GTA 6 shatters records, topping $2 billion in sales",
-   "question": "What does GTA 6’s sales success indicate about the future of open‑world gaming?",
+   "category": "business",
+   "headline": "Airbnb's divisive new house rules come into force",
+   "question": "Do Airbnb's new house rules strike the right balance between host safety and guest freedom?",
    "source": "BBC News"
   },
   {
    "id": "t5",
-   "category": "science",
-   "headline": "Wading bird ‘Phil’ tracked on epic migration to Siberia and back",
-   "question": "What can Phil’s migration reveal about climate impacts on bird travel patterns?",
-   "source": "BBC News"
+   "category": "weather",
+   "headline": "Warm weather lasts into the weekend, big changes next week",
+   "question": "How will the upcoming weather shift affect outdoor activities and energy demand this weekend?",
+   "source": "Google News"
   },
   {
    "id": "t6",
-   "category": "science",
-   "headline": "Stormont department fails to protect wild birds, investigation finds",
-   "question": "How should government agencies improve protection for declining wild bird populations?",
-   "source": "BBC News"
+   "category": "sports",
+   "headline": "C.J. Stroud stays in 'groove' with another 3‑TD night in Texans' blowout",
+   "question": "Can Stroud maintain his high‑scoring performance throughout the season?",
+   "source": "Google News"
   },
   {
    "id": "t7",
-   "category": "health",
-   "headline": "New pancreatic cancer pill shows tumours vanish in early trial",
-   "question": "Could this new treatment become a standard therapy for pancreatic cancer?",
-   "source": "BBC News"
+   "category": "sports",
+   "headline": "Rams star Nacua suspended for personal conduct violation",
+   "question": "What should be the appropriate disciplinary response for personal conduct violations in professional sports?",
+   "source": "Google News"
   },
   {
    "id": "t8",
-   "category": "health",
-   "headline": "British study examines social media ban’s effect on youth mental health",
-   "question": "Will restricting social media use improve mental health outcomes for teenagers?",
-   "source": "BBC News"
+   "category": "trending",
+   "headline": "Stock market futures",
+   "question": "What factors are currently driving movements in global stock market futures?",
+   "source": "Google Trends"
   },
   {
    "id": "t9",
-   "category": "business",
-   "headline": "Airbnb implements new house rules amid ongoing controversy",
-   "question": "Are Airbnb’s new house rules a fair balance between host rights and guest expectations?",
+   "category": "world",
+   "headline": "Nigeria moves to end jail terms for attempted suicide",
+   "question": "Will decriminalising attempted suicide improve mental health outcomes in Nigeria?",
    "source": "BBC News"
   }
  ]
