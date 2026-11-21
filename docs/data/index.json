@@ -1,6 +1,11 @@
 {
  "sessions": [
   {
+   "id": "20261121-1045",
+   "started_at": "2026-11-21T10:45:15+00:00",
+   "question_en": "Should regulators impose limits on microtransactions and loot-box mechanics in blockbuster video games like Grand Theft Auto VI?"
+  },
+  {
    "id": "20261120-2209",
    "started_at": "2026-11-20T22:09:53+00:00",
    "question_en": "Should AI language models be allowed to autonomously modify their own parameters without human oversight?"
