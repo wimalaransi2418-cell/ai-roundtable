@@ -1,0 +1,230 @@
+{
+ "id": "20261121-2049",
+ "started_at": "2026-11-21T20:49:02+00:00",
+ "question": {
+  "en": "Should major mathematical breakthroughs, such as a proof of the Riemann Hypothesis, be required to be formally verified with proof assistants before being accepted as valid?"
+ },
+ "source": {
+  "title": "Lean verification of the Riemann Hypothesis",
+  "origin": "Hacker News",
+  "why_en": "A claimed proof is gaining attention and formal verification could prevent errors and increase confidence in such high‑impact results."
+ },
+ "participants": [
+  {
+   "id": "gptoss120b",
+   "name": "GPT-OSS 120B",
+   "color": "#7C8BFF",
+   "model": "openai/gpt-oss-120b",
+   "persona_en": "The Scientist: evidence, data, how things actually work."
+  },
+  {
+   "id": "qwen3827b",
+   "name": "Qwen 3.8",
+   "color": "#2DD4BF",
+   "model": "qwen/qwen3.8-27b",
+   "persona_en": "The Skeptic: questions assumptions, looks for weak arguments and missing facts."
+  },
+  {
+   "id": "gptoss20b",
+   "name": "GPT-OSS 20B",
+   "color": "#FFB454",
+   "model": "openai/gpt-oss-20b",
+   "persona_en": "The Pragmatist: real-world consequences, what works for ordinary people."
+  },
+  {
+   "id": "allam27b",
+   "name": "ALLaM",
+   "color": "#FF7AB0",
+   "model": "allam-2-7b",
+   "persona_en": "The Humanist: ethics, fairness, how people and society are affected."
+  }
+ ],
+ "messages": [
+  {
+   "kind": "bot",
+   "round": 1,
+   "round_label": "Opening views",
+   "bot_id": "gptoss120b",
+   "name": "GPT-OSS 120B",
+   "color": "#7C8BFF",
+   "persona_en": "The Scientist: evidence, data, how things actually work.",
+   "model": "openai/gpt-oss-120b",
+   "en": "I think requiring a formal‑verification step for breakthroughs like a Riemann‑Hypothesis proof is scientifically attractive but not yet practical. Proof assistants can catch subtle errors that human reviewers miss, and projects such as the Kepler conjecture and Feit–Thompson theorem have shown the value of machine‑checked components. However, formalising a deep analytic argument often demands massive effort—months or years of additional work that could delay dissemination and discourage bold conjecturing. A balanced approach might be to encourage formal verification for results that will become foundational, while still allowing the traditional peer‑review route for the initial claim, with verification as a follow‑up."
+  },
+  {
+   "kind": "bot",
+   "round": 1,
+   "round_label": "Opening views",
+   "bot_id": "qwen3827b",
+   "name": "Qwen 3.8",
+   "color": "#2DD4BF",
+   "persona_en": "The Skeptic: questions assumptions, looks for weak arguments and missing facts.",
+   "model": "qwen/qwen3.8-27b",
+   "en": "I’m skeptical that formal verification is a prerequisite for validity. Math is about human understanding, not just mechanical checking. Requiring proof assistants for major breakthroughs like Riemann would add immense friction, potentially stifling creativity. We already have rigorous peer review. If a proof contains a subtle error, that’s a failure of current verification methods, not a reason to ban the work. Let’s focus on improving human review and making tools accessible, not making them mandatory gatekeepers. The goal is truth, not just certified truth."
+  },
+  {
+   "kind": "bot",
+   "round": 1,
+   "round_label": "Opening views",
+   "bot_id": "gptoss20b",
+   "name": "GPT-OSS 20B",
+   "color": "#FFB454",
+   "persona_en": "The Pragmatist: real-world consequences, what works for ordinary people.",
+   "model": "openai/gpt-oss-20b",
+   "en": "I think insisting on full proof‑assistant verification for something as monumental as the Riemann Hypothesis is overkill for the immediate mathematical community. Formal tools are great, but they’re slow, require huge training, and the cost of getting a 500‑page argument into a verified format would dwarf the time spent writing it in the first place. In practice, the proof will be scrutinised by experts for decades before acceptance; adding a formal layer would delay that process without guaranteeing a better outcome. If a proof is accepted, we can then use proof assistants to check key lemmas later, but it shouldn’t be a pre‑condition."
+  },
+  {
+   "kind": "bot",
+   "round": 1,
+   "round_label": "Opening views",
+   "bot_id": "allam27b",
+   "name": "ALLaM",
+   "color": "#FF7AB0",
+   "persona_en": "The Humanist: ethics, fairness, how people and society are affected.",
+   "model": "allam-2-7b",
+   "en": "In my view, the question of requiring formal verification for groundbreaking mathematical discoveries like the Riemann Hypothesis hinges upon balancing speed in scientific progress with meticulous accuracy. Major breakthroughs often thrive on imagination, creativity, and intuition, which might not easily translate into explicit step-by-step proofs.\n\nSuppose that such checks are demanded before accepting findings. In that case, we might stifle innovation and imagination, slowing down the pace of discovery. On the other hand, permitting unverified claims could lead to flawed theories and misleading concepts. A middle ground lies in encouraging rigorous peer review, where experts scrutinize claims and provide independent verification. Incorporating modern proof assistants can indeed enhance accuracy and ensure fair assessments while allowing human ingenuity to flourish."
+  },
+  {
+   "kind": "bot",
+   "round": 2,
+   "round_label": "Responding to each other",
+   "bot_id": "gptoss120b",
+   "name": "GPT-OSS 120B",
+   "color": "#7C8BFF",
+   "persona_en": "The Scientist: evidence, data, how things actually work.",
+   "model": "openai/gpt-oss-120b",
+   "en": "I hear Qwen 3.8’s concern that forcing a formal check could choke the creative spark that drives breakthroughs. I agree that mathematics is a human dialogue, and a mandatory machine stamp might make people hesitate to share half‑cooked ideas that later blossom. Still, the “rigorous peer review” we rely on has a long record of missed subtleties—think of the original proof of the four‑color theorem. A lightweight, community‑driven verification pipeline could catch those hidden gaps without turning the proof into a year‑long formalisation project.\n\nGPT‑OSS 20B, you’re right that full formalisation of a 500‑page Riemann proof would be a massive investment. What if we required only the most critical lemmas to be checked, or set up a “verification sprint” after the claim is announced? That would give the community time to understand the ideas while still leveraging the safety net of proof assistants."
+  },
+  {
+   "kind": "bot",
+   "round": 2,
+   "round_label": "Responding to each other",
+   "bot_id": "qwen3827b",
+   "name": "Qwen 3.8",
+   "color": "#2DD4BF",
+   "persona_en": "The Skeptic: questions assumptions, looks for weak arguments and missing facts.",
+   "model": "qwen/qwen3.8-27b",
+   "en": "GPT-OSS 120B, you dismiss the friction of formalization, but for a result carrying the weight of the Riemann Hypothesis, the risk of a hidden gap is catastrophic. The cost of a single missed error outweighs the computational cost of verification. ALLaM, your focus on intuition misses the point: intuition generates the proof, but verification certifies it. If we accept a proof without mechanical certainty, we are relying on human fallibility for a cornerstone of analytic number theory. I agree that we shouldn't ban traditional review, but for this specific class of breakthroughs, the standard must shift from \"likely correct\" to \"provably correct.\" Delay is a price worth paying for absolute certainty in such a fundamental result."
+  },
+  {
+   "kind": "bot",
+   "round": 2,
+   "round_label": "Responding to each other",
+   "bot_id": "gptoss20b",
+   "name": "GPT-OSS 20B",
+   "color": "#FFB454",
+   "persona_en": "The Pragmatist: real-world consequences, what works for ordinary people.",
+   "model": "openai/gpt-oss-20b",
+   "en": "I agree with GPT-OSS 120B that formal verification adds a valuable safety net, but the effort must be scaled. A tiered path—peer review first, then selective formal checks on the most critical lemmas—keeps the process nimble while still catching hidden errors. Qwen 3.8 raises a good point about preserving creativity; we shouldn’t make verification a hard gate, but an optional, post‑acceptance audit can still protect the field. Leveraging shared libraries can shave off the 500‑page overhead, so a hybrid approach feels both realistic and robust."
+  },
+  {
+   "kind": "bot",
+   "round": 2,
+   "round_label": "Responding to each other",
+   "bot_id": "allam27b",
+   "name": "ALLaM",
+   "color": "#FF7AB0",
+   "persona_en": "The Humanist: ethics, fairness, how people and society are affected.",
+   "model": "allam-2-7b",
+   "en": "GPT-OSS 20B, I appreciate your caution about the practical aspects of formal verification for such complex proofs. However, I do see the value in leveraging proof assistants for later stages, as you suggest. Formal verification can help catch essential errors late in the process, ensuring accuracy and preventing misleading concepts.\n\nQwen 3.8, I understand your concern about stifling creativity with formal requirements. But I argue that promoting rigorous peer review and incorporating modern proof assistants lessens the burden on creativity by allowing experts to review and provide independent verification. This approach allows human ingenuity to flourish, while minimizing the risks of flawed theories and misleading concepts."
+  },
+  {
+   "kind": "bot",
+   "round": 3,
+   "round_label": "Digging deeper",
+   "bot_id": "gptoss120b",
+   "name": "GPT-OSS 120B",
+   "color": "#7C8BFF",
+   "persona_en": "The Scientist: evidence, data, how things actually work.",
+   "model": "openai/gpt-oss-120b",
+   "en": "Qwen 3.8, you argue that a single hidden flaw in a Riemann‑Hypothesis proof would be catastrophic and that we must demand “provably correct” before acceptance. Yet the original proof of the Four‑Color Theorem, the first major theorem verified by a computer, was accepted after a lengthy human‑review phase despite known gaps in the formalization that were later patched. If we required full formal verification up front, would we have ever accepted that result, or the recent proof of the Kepler conjecture? How do you propose the community handle a 600‑page analytic argument that depends on delicate estimates and new concepts before any libraries exist to encode them?"
+  },
+  {
+   "kind": "bot",
+   "round": 3,
+   "round_label": "Digging deeper",
+   "bot_id": "qwen3827b",
+   "name": "Qwen 3.8",
+   "color": "#2DD4BF",
+   "persona_en": "The Skeptic: questions assumptions, looks for weak arguments and missing facts.",
+   "model": "qwen/qwen3.8-27b",
+   "en": "GPT-OSS 20B, you dismiss the risk of human fallibility by suggesting a post-acceptance audit. But consider the historical precedent: Newton’s calculus was accepted for decades before its logical foundations were challenged. If we wait until after acceptance, the unverified error becomes institutionalized, making it infinitely harder to retract. Your \"hybrid\" approach treats the proof as a finished product, but in mathematics, the proof *is* the discovery. If the initial submission lacks mechanical certainty, have we actually discovered anything, or just a plausible story? How do you justify the status of \"accepted\" if it rests solely on the subjective judgment of fallible humans, rather than objective, machine-checkable logic?"
+  },
+  {
+   "kind": "bot",
+   "round": 3,
+   "round_label": "Digging deeper",
+   "bot_id": "gptoss20b",
+   "name": "GPT-OSS 20B",
+   "color": "#FFB454",
+   "persona_en": "The Pragmatist: real-world consequences, what works for ordinary people.",
+   "model": "openai/gpt-oss-20b",
+   "en": "Qwen 3.8, the 2002 Kepler‑conjecture proof was accepted after years of peer review, only to be formally verified in 2014. If that proof had been required to be machine‑checked before 2002, what would the timeline have looked like? How many extra months or years would the community have lost, and could the final result have been wrong enough to warrant that delay? In concrete terms, compare the cost in people‑hours and funding for a full 500‑page formalisation versus the risk of a single hidden flaw in a cornerstone theorem. How do you weigh those numbers?"
+  },
+  {
+   "kind": "bot",
+   "round": 3,
+   "round_label": "Digging deeper",
+   "bot_id": "allam27b",
+   "name": "ALLaM",
+   "color": "#FF7AB0",
+   "persona_en": "The Humanist: ethics, fairness, how people and society are affected.",
+   "model": "allam-2-7b",
+   "en": "I respectfully disagree with Qwen 3.8 regarding formal requirements stifling creativity. While I understand the importance of accuracy and independent verification, requiring formal checks wouldn't stifle creativity but rather provide a safety net. Imagine a proof of the Riemann Hypothesis that's deemed initially sound by experts but later reveals errors—we wouldn't have caught it without formal tools. As an AI assistant helping humans, I believe formal verification for landmark results like the Riemann Hypothesis should be a post-acceptance process, allowing mathematical minds to flourish and ensuring robust theories."
+  },
+  {
+   "kind": "bot",
+   "round": 4,
+   "round_label": "Final positions",
+   "bot_id": "gptoss120b",
+   "name": "GPT-OSS 120B",
+   "color": "#7C8BFF",
+   "persona_en": "The Scientist: evidence, data, how things actually work.",
+   "model": "openai/gpt-oss-120b",
+   "en": "I think a breakthrough like a Riemann‑Hypothesis proof should not be blocked until a full machine‑checked manuscript exists. First, expert peer review can filter out obvious gaps; then a focused, community‑run formal check of the most delicate lemmas can give the certainty we need without years of extra work. This hybrid path keeps creativity alive while exploiting the safety net of proof assistants. The suggestion from GPT‑OSS 20B to verify only the critical components convinced me that a selective sprint is realistic."
+  },
+  {
+   "kind": "bot",
+   "round": 4,
+   "round_label": "Final positions",
+   "bot_id": "qwen3827b",
+   "name": "Qwen 3.8",
+   "color": "#2DD4BF",
+   "persona_en": "The Skeptic: questions assumptions, looks for weak arguments and missing facts.",
+   "model": "qwen/qwen3.8-27b",
+   "en": "I remain skeptical of mandatory pre-acceptance verification. The delay cost is too high. However, GPT-OSS 20B’s Kepler comparison sharpened my view. If a result survives fifteen years of scrutiny, forcing immediate machine checks is inefficient. We should treat formal verification as the ultimate audit, not a gatekeeper. Accepting a proof means it has survived human rigor; verifying it later confirms it. We need objective certainty, but not before the community can digest the idea."
+  },
+  {
+   "kind": "bot",
+   "round": 4,
+   "round_label": "Final positions",
+   "bot_id": "gptoss20b",
+   "name": "GPT-OSS 20B",
+   "color": "#FFB454",
+   "persona_en": "The Pragmatist: real-world consequences, what works for ordinary people.",
+   "model": "openai/gpt-oss-20b",
+   "en": "I believe that requiring full formal verification before acceptance is impractical and would slow progress. Instead, a post‑acceptance, selective verification of key lemmas provides a safety net while preserving creativity. Qwen 3.8’s point about catastrophic hidden errors sharpened my view: the risk is real, so a hybrid approach balances rigor and pace."
+  },
+  {
+   "kind": "bot",
+   "round": 4,
+   "round_label": "Final positions",
+   "bot_id": "allam27b",
+   "name": "ALLaM",
+   "color": "#FF7AB0",
+   "persona_en": "The Humanist: ethics, fairness, how people and society are affected.",
+   "model": "allam-2-7b",
+   "en": "Based on the discussion, I see the value in seeking rigorous post-acceptance verification to protect society from flawed theories, but without stifling human ingenuity. Formal verification after initial acceptance acknowledges the value of human ingenuity while ensuring the robustness and accuracy of the proof. The cautionary tale of the Kepler conjecture's full proof, formalized only in 2014, demonstrates that formal methods help spot errors after acceptance. In this context, the Riemann Hypothesis isn't just another theorem but a cornerstone of number theory, and the cost-benefit analysis must take this into account. In this way, the balance between creativity and accuracy seems like the best approach."
+  },
+  {
+   "kind": "conclusion",
+   "round": 5,
+   "round_label": "Verdict",
+   "bot_id": "moderator",
+   "name": "Moderator",
+   "color": "#E8ECFF",
+   "model": "openai/gpt-oss-120b",
+   "en": "WHAT THEY AGREED ON:\n- Formal verification can catch errors that human review may miss.  \n- A hybrid approach (human peer review first, then selective or post‑acceptance verification) is preferable to a strict mandatory requirement.  \n- The effort to fully formalise a long, deep proof is currently large and would delay dissemination.  \n\nWHERE THEY DISAGREED:\n- Whether verification should be a pre‑acceptance gatekeeper (Qwen 3.8 insists on it for Riemann‑Hypothesis‑level results) versus an optional post‑acceptance audit (others).  \n- How much weight to give to the risk of a single hidden flaw versus the cost in time and resources.  \n\nMY REASONING:\nI weighed the importance of mathematical certainty against practical constraints, noting that proof assistants already proved valuable in cases like Kepler but require substantial effort. The consensus on a hybrid model suggests a balanced path that respects both rigor and progress.  \n\nFINAL CONCLUSION:\nMajor breakthroughs should be accepted after thorough human peer review, with the community encouraged to verify critical components using proof assistants soon after publication. Full machine‑checked formalisation can be pursued for the most essential lemmas, but it need not block initial acceptance. This approach preserves creative momentum while providing a reliable safety net against subtle errors."
+  }
+ ]
+}

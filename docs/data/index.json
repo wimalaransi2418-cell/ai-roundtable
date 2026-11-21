@@ -1,6 +1,11 @@
 {
  "sessions": [
   {
+   "id": "20261121-2049",
+   "started_at": "2026-11-21T20:49:02+00:00",
+   "question_en": "Should major mathematical breakthroughs, such as a proof of the Riemann Hypothesis, be required to be formally verified with proof assistants before being accepted as valid?"
+  },
+  {
    "id": "20261121-1045",
    "started_at": "2026-11-21T10:45:15+00:00",
    "question_en": "Should regulators impose limits on microtransactions and loot-box mechanics in blockbuster video games like Grand Theft Auto VI?"
