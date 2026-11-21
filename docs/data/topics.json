@@ -1,75 +1,75 @@
 {
- "updated_at": "2026-11-21T01:21:01+00:00",
+ "updated_at": "2026-11-21T09:35:35+00:00",
  "items": [
   {
    "id": "t0",
    "category": "weather",
-   "headline": "California under cold weather advisory through Saturday",
-   "question": "Should California invest more in infrastructure to mitigate cold‑weather impacts?",
+   "headline": "Friday evening First Alert weather forecast for 11/20/26",
+   "question": "How might the predicted conditions affect travel plans for the weekend?",
    "source": "Google News"
   },
   {
    "id": "t1",
    "category": "sports",
-   "headline": "Man Utd manager turnover costs approach £100 million",
-   "question": "Is the high cost of frequent managerial changes justified for football clubs?",
-   "source": "BBC Sport"
+   "headline": "England captain Harry Kane to miss several months with ankle injury",
+   "question": "How will Kane's absence affect England's chances in upcoming tournaments?",
+   "source": "Google News"
   },
   {
    "id": "t2",
    "category": "sports",
-   "headline": "NFL Week 11 expert picks and betting odds released",
-   "question": "How reliable are expert predictions for NFL outcomes compared to statistical models?",
+   "headline": "KC Current aims to peak for NWSL Championship after past setbacks",
+   "question": "Can KC Current's current form translate into a championship win?",
    "source": "Google News"
   },
   {
    "id": "t3",
-   "category": "tech",
-   "headline": "Testing AI's ability to spot Black Friday deals",
-   "question": "Can AI reliably identify the best Black Friday discounts for consumers?",
+   "category": "world",
+   "headline": "COP31 climate talks stall over fossil fuel disagreements",
+   "question": "What compromises could break the deadlock at COP31?",
    "source": "BBC News"
   },
   {
    "id": "t4",
-   "category": "science",
-   "headline": "Mercury to receive a visitor after eight‑year spacecraft journey",
-   "question": "What scientific benefits will the upcoming Mercury mission provide?",
+   "category": "world",
+   "headline": "EU deal proceeds without a tuition fee agreement, says Miliband",
+   "question": "Will the EU‑UK deal succeed without resolving tuition fee issues?",
    "source": "BBC News"
   },
   {
    "id": "t5",
-   "category": "health",
-   "headline": "Pancreatic cancer trial shows tumours vanish with new pill",
-   "question": "Could this new pancreatic cancer drug become a standard treatment soon?",
+   "category": "tech",
+   "headline": "Debate: Should AI be used to assess creditworthiness?",
+   "question": "What are the risks and benefits of AI‑driven credit scoring?",
    "source": "BBC News"
   },
   {
    "id": "t6",
-   "category": "business",
-   "headline": "Tinned food and long‑life milk sales rise after 'Be Ready' campaign",
-   "question": "Do emergency food campaigns effectively change consumer purchasing habits?",
+   "category": "science",
+   "headline": "Mercury to receive a spacecraft visitor after an eight‑year journey",
+   "question": "What scientific discoveries could the Mercury mission enable?",
    "source": "BBC News"
   },
   {
    "id": "t7",
-   "category": "world",
-   "headline": "UK explores closer ties with EU following new agreement",
-   "question": "Will deeper UK‑EU cooperation benefit both economies post‑Brexit?",
+   "category": "health",
+   "headline": "Pancreatic cancer trial shows tumours vanish with new pill",
+   "question": "Could this trial herald a breakthrough in pancreatic cancer treatment?",
    "source": "BBC News"
   },
   {
    "id": "t8",
-   "category": "trending",
-   "headline": "Badger basketball trending on social media",
-   "question": "What factors are driving the surge in popularity of 'badger basketball' online?",
-   "source": "Google Trends"
+   "category": "business",
+   "headline": "Tinned food and long-life milk sales rise after 'Be Ready' campaign",
+   "question": "Is the surge in shelf‑stable foods a lasting consumer trend?",
+   "source": "BBC News"
   },
   {
    "id": "t9",
-   "category": "sports",
-   "headline": "Price reaches Grand Slam darts semis after match win",
-   "question": "Will Price's recent performance signal a shift in the darts competitive landscape?",
-   "source": "BBC Sport"
+   "category": "trending",
+   "headline": "Quentin Tarantino trending: renewed interest in his filmography",
+   "question": "What impact does Tarantino's legacy have on contemporary cinema?",
+   "source": "Google Trends"
   }
  ]
 }
