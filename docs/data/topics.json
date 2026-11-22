@@ -1,75 +1,75 @@
 {
- "updated_at": "2026-11-21T23:01:53+00:00",
+ "updated_at": "2026-11-22T02:59:17+00:00",
  "items": [
   {
    "id": "t0",
    "category": "weather",
-   "headline": "Coastal storms forecasted, raising concerns for Thanksgiving travel",
-   "question": "How should travelers adjust plans to stay safe during the upcoming coastal storms?",
+   "headline": "California storm forecast to hit Thanksgiving week amid high king tides",
+   "question": "How should residents prepare for the potential impact of the upcoming storm?",
    "source": "Google News"
   },
   {
    "id": "t1",
    "category": "sports",
-   "headline": "Leeds secure first win at Stamford Bridge since 1999, defeating Chelsea",
-   "question": "What does Leeds' victory indicate about the shifting balance of power in the Premier League?",
+   "headline": "Arsenal go six points clear after a lively draw at Newcastle",
+   "question": "Will Arsenal maintain their lead in the league for the rest of the season?",
    "source": "BBC Sport"
   },
   {
    "id": "t2",
    "category": "sports",
-   "headline": "Arsenal move six points clear after a spirited draw with Newcastle",
-   "question": "Can Arsenal maintain their lead in the title race after the draw with Newcastle?",
+   "headline": "Man City drop points to Fulham despite Anderson's superb volley",
+   "question": "Can Manchester City recover quickly and regain form after this setback?",
    "source": "BBC Sport"
   },
   {
    "id": "t3",
    "category": "tech",
-   "headline": "Testing AI's ability to identify Black Friday deals",
-   "question": "Will AI become a reliable tool for consumers seeking the best Black Friday discounts?",
+   "headline": "Can AI really help spot Black Friday deals? We put it to the test",
+   "question": "Will AI become a reliable tool for consumers hunting Black Friday discounts?",
    "source": "BBC News"
   },
   {
    "id": "t4",
-   "category": "tech",
-   "headline": "Tech sell-off hits markets as Anthropic shares decline",
-   "question": "What does Anthropic's stock slide suggest about investor confidence in AI startups?",
+   "category": "science",
+   "headline": "Mercury set to receive a visitor after spacecraft's eight‑year voyage",
+   "question": "What scientific insights could the Mercury mission provide about the planet’s history?",
    "source": "BBC News"
   },
   {
    "id": "t5",
-   "category": "science",
-   "headline": "Spacecraft set to visit Mercury after an eight-year journey",
-   "question": "What scientific discoveries could the upcoming Mercury mission unlock?",
+   "category": "health",
+   "headline": "Massive hope for pancreatic cancer pill after trial showed tumours vanish",
+   "question": "Could this new pancreatic cancer drug become a standard treatment soon?",
    "source": "BBC News"
   },
   {
    "id": "t6",
-   "category": "science",
-   "headline": "Bird 'Phil' tracked on remarkable migration between Siberia and home",
-   "question": "How can tracking bird migrations improve our understanding of climate change impacts?",
+   "category": "business",
+   "headline": "Tinned food and long‑life milk boost retail sales after ‘Be Ready’ campaign",
+   "question": "Will the surge in shelf‑stable food sales continue beyond the current campaign?",
    "source": "BBC News"
   },
   {
    "id": "t7",
-   "category": "health",
-   "headline": "Trial shows pancreatic cancer drug causing tumor disappearance",
-   "question": "Should this new pancreatic cancer treatment be fast‑tracked for wider patient access?",
-   "source": "BBC News"
+   "category": "trending",
+   "headline": "Wembanyama’s hype dominates online searches worldwide",
+   "question": "Is the excitement around Wembanyama justified by his on‑court performance?",
+   "source": "Google Trends"
   },
   {
    "id": "t8",
-   "category": "business",
-   "headline": "Tinned food and long-life milk sales rise after 'Be Ready' campaign",
-   "question": "Will the increased demand for shelf‑stable foods persist beyond the current crisis?",
+   "category": "world",
+   "headline": "FBI reportedly investigating an apparent hack of its criminal database",
+   "question": "What are the broader implications for law‑enforcement data security after this breach?",
    "source": "BBC News"
   },
   {
    "id": "t9",
-   "category": "trending",
-   "headline": "Tesla releases Full Self‑Driving software version 15",
-   "question": "Is Tesla's FSD v15 a safe step toward fully autonomous driving?",
-   "source": "Google Trends"
+   "category": "tech",
+   "headline": "Tech stock sell‑off drags markets down as Anthropic shares slide",
+   "question": "Will the recent tech stock decline signal a longer‑term market correction?",
+   "source": "BBC News"
   }
  ]
 }
