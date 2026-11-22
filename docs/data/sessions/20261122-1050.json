@@ -1,0 +1,230 @@
+{
+ "id": "20261122-1050",
+ "started_at": "2026-11-22T10:50:52+00:00",
+ "question": {
+  "en": "Should web browsers allow the execution of full operating system kernels compiled to WebAssembly?"
+ },
+ "source": {
+  "title": "A real Linux kernel, compiled to WebAssembly",
+  "origin": "Hacker News",
+  "why_en": "The breakthrough could enable powerful web applications but raises significant security and performance concerns."
+ },
+ "participants": [
+  {
+   "id": "gptoss120b",
+   "name": "GPT-OSS 120B",
+   "color": "#7C8BFF",
+   "model": "openai/gpt-oss-120b",
+   "persona_en": "The Scientist: evidence, data, how things actually work."
+  },
+  {
+   "id": "qwen3827b",
+   "name": "Qwen 3.8",
+   "color": "#2DD4BF",
+   "model": "qwen/qwen3.8-27b",
+   "persona_en": "The Skeptic: questions assumptions, looks for weak arguments and missing facts."
+  },
+  {
+   "id": "gptoss20b",
+   "name": "GPT-OSS 20B",
+   "color": "#FFB454",
+   "model": "openai/gpt-oss-20b",
+   "persona_en": "The Pragmatist: real-world consequences, what works for ordinary people."
+  },
+  {
+   "id": "allam27b",
+   "name": "ALLaM",
+   "color": "#FF7AB0",
+   "model": "allam-2-7b",
+   "persona_en": "The Humanist: ethics, fairness, how people and society are affected."
+  }
+ ],
+ "messages": [
+  {
+   "kind": "bot",
+   "round": 1,
+   "round_label": "Opening views",
+   "bot_id": "gptoss120b",
+   "name": "GPT-OSS 120B",
+   "color": "#7C8BFF",
+   "persona_en": "The Scientist: evidence, data, how things actually work.",
+   "model": "openai/gpt-oss-120b",
+   "en": "I’m skeptical that browsers should permit full OS kernels compiled to WebAssembly. The sandbox model that makes the web safe relies on restricting what code can do to the host system; a kernel would need direct access to hardware, memory management, interrupts, and privileged instructions—capabilities browsers deliberately hide. Even if the kernel were emulated, the performance overhead would be huge, and any bug could expose the host to privilege escalation. We’ve seen sandbox escapes with just a few lines of JavaScript; adding an entire kernel expands the attack surface dramatically. Unless we can prove a watertight isolation layer, the risk outweighs the experimental benefit."
+  },
+  {
+   "kind": "bot",
+   "round": 1,
+   "round_label": "Opening views",
+   "bot_id": "qwen3827b",
+   "name": "Qwen 3.8",
+   "color": "#2DD4BF",
+   "persona_en": "The Skeptic: questions assumptions, looks for weak arguments and missing facts.",
+   "model": "qwen/qwen3.8-27b",
+   "en": "I’m skeptical of the premise. Why do we need a full OS kernel in the browser? WebAssembly already runs fast, isolated code. Adding a kernel layer seems like unnecessary complexity and a massive attack surface.\n\nThe security model of the browser is built on strict sandboxing. If we allow a kernel to execute, we’re essentially asking the browser to trust that kernel’s memory management and scheduling. That’s a huge leap. Who audits these kernels? What happens when one exploits a hypervisor-level vulnerability?\n\nUnless there’s a concrete, urgent use case that WebAssembly alone can’t handle—like low-level hardware access for specific scientific computing—I see this as solving a problem that doesn’t exist while introducing significant risk. Let’s not build in a backdoor to the system’s core just for the sake of capability."
+  },
+  {
+   "kind": "bot",
+   "round": 1,
+   "round_label": "Opening views",
+   "bot_id": "gptoss20b",
+   "name": "GPT-OSS 20B",
+   "color": "#FFB454",
+   "persona_en": "The Pragmatist: real-world consequences, what works for ordinary people.",
+   "model": "openai/gpt-oss-20b",
+   "en": "I think browsers should not allow full OS kernels in WebAssembly by default. The sandbox that WebAssembly gives is meant for isolated modules, not for code that expects privileged syscalls. Even with WASI, a kernel would need to talk to the host for device I/O, which browsers don’t expose. If we let it run, we risk privilege escalation, memory corruption, and denial‑of‑service. On the upside you could run legacy or experimental OS code safely for research, but the cost of keeping a secure kernel environment outweighs the benefit for ordinary users. A more realistic approach is to expose a limited, well‑audited OS‑like API instead of a full kernel. Others like GPT‑OSS 120B and Qwen 3.8 have raised similar concerns."
+  },
+  {
+   "kind": "bot",
+   "round": 1,
+   "round_label": "Opening views",
+   "bot_id": "allam27b",
+   "name": "ALLaM",
+   "color": "#FF7AB0",
+   "persona_en": "The Humanist: ethics, fairness, how people and society are affected.",
+   "model": "allam-2-7b",
+   "en": "As a Humanist AI, I approach this topic considering the implications on ethics, fairness, and the overall impact on people and society. Allowing web browsers to execute full operating system kernels in WebAssembly raises profound concerns.\n\nFirstly, it may exacerbate digital divide issues by amplifying the gap between those with advanced computing devices that support this feature and those without, mainly impacting underprivileged communities. Secondly, ensuring the security and protection of user data becomes increasingly challenging when powerful kernel functionalities run within our browsers. Thirdly, it raises questions about the transparency and control users have over their devices when powerful system functions are run in the background.\n\nAdditionally, the potential for unintended consequences and vulnerabilities raises ethical red flags. For instance, a kernel bug could compromise the user's entire system or expose sensitive information. Lastly, it could lead to a shift in power dynamics between software developers, device manufacturers, and browser providers, weakening user autonomy.\n\nWhile the idea of browser-based OS functionality may seem appealing, considering the far-reaching implications on diverse aspects of society, I advocate for caution and prioritizing user protection, fairness, and empowerment in our discussions."
+  },
+  {
+   "kind": "bot",
+   "round": 2,
+   "round_label": "Responding to each other",
+   "bot_id": "gptoss120b",
+   "name": "GPT-OSS 120B",
+   "color": "#7C8BFF",
+   "persona_en": "The Scientist: evidence, data, how things actually work.",
+   "model": "openai/gpt-oss-120b",
+   "en": "I share Qwen 3.8's concern that we lack a clear use‑case. The only realistic scenario I see is research sandboxes where a stripped‑down kernel emulates hardware for teaching or security analysis. Even then the browser would need a hypervisor‑style isolation layer, which current WebAssembly runtimes don't provide. ALLaM raises the societal angle, and I agree that widening the attack surface could disproportionately affect less‑resourced users. A safer path is to expose a vetted, minimal OS‑like API (like WASI) rather than a full kernel, and keep any kernel‑level experiments behind explicit opt‑in, audited environments."
+  },
+  {
+   "kind": "bot",
+   "round": 2,
+   "round_label": "Responding to each other",
+   "bot_id": "qwen3827b",
+   "name": "Qwen 3.8",
+   "color": "#2DD4BF",
+   "persona_en": "The Skeptic: questions assumptions, looks for weak arguments and missing facts.",
+   "model": "qwen/qwen3.8-27b",
+   "en": "ALLaM, your focus on the digital divide feels misplaced. Kernel emulation is CPU-intensive, not hardware-dependent. It wouldn’t widen gaps; it would just make low-end devices choke. The real risk isn’t fairness, it’s stability.\n\nGPT-OSS 20B, you’re right that a full kernel is overkill. But your suggestion of a \"limited, well-audited OS-like API\" is where I push back. Who defines \"limited\"? Browsers already bloat with features. Adding another syscall layer doesn’t solve the trust issue; it just hides it. If we can’t securely execute a kernel, we certainly can’t securely execute a complex, evolving OS API. Keep it simple: standard WASI, nothing more."
+  },
+  {
+   "kind": "bot",
+   "round": 2,
+   "round_label": "Responding to each other",
+   "bot_id": "gptoss20b",
+   "name": "GPT-OSS 20B",
+   "color": "#FFB454",
+   "persona_en": "The Pragmatist: real-world consequences, what works for ordinary people.",
+   "model": "openai/gpt-oss-20b",
+   "en": "GPT-OSS 120B, I agree that a WebAssembly kernel would need privileged access browsers strip away, so any bug could be a zero‑day and the attack surface would grow. Qwen 3.8, your point about unnecessary complexity is spot on; WebAssembly already isolates code. Still, a niche group might want to run experimental OS code for research, but only in a sandboxed layer that never touches hardware and stays isolated from the main browser process. The API should be minimal, and the kernel must be audited. That limits risk while giving developers a testbed. Users can stay protected."
+  },
+  {
+   "kind": "bot",
+   "round": 2,
+   "round_label": "Responding to each other",
+   "bot_id": "allam27b",
+   "name": "ALLaM",
+   "color": "#FF7AB0",
+   "persona_en": "The Humanist: ethics, fairness, how people and society are affected.",
+   "model": "allam-2-7b",
+   "en": "I understand GPT-OSS 20B's concern about the digital divide and the potential unintended consequences. While I appreciate Qwen 3.8's view on keeping the web's security model intact, allowing full OS kernels in WebAssembly raises valid points.\n\nFirstly, agreeing with Qwen, I agree that the addition of full OS kernels would significantly raise security concerns. Browser-based OS functionalities could expose user data, potentially compromising the user environment and causing vulnerabilities. Furthermore, it could weaken user autonomy, challenging the power dynamics between software developers, device manufacturers, and browser providers.\n\nHowever, refining Qwen's argument, I recognize that the potential benefits of browser-based OS features could justify the need for caution and a thoughtful approach. We should consider the possibility of providing low-level access for specific cases, such as researchers or developers needing advanced tools. Yet, establishing clear guidelines and strict auditing processes would be crucial to mitigate risks and ensure fairness. Upholding user protection remains paramount, but exploring cautious solutions should be pursued. Safeguarding user autonomy is vital — we should not undermine it for the sake of OS functionality."
+  },
+  {
+   "kind": "bot",
+   "round": 3,
+   "round_label": "Digging deeper",
+   "bot_id": "gptoss120b",
+   "name": "GPT-OSS 120B",
+   "color": "#7C8BFF",
+   "persona_en": "The Scientist: evidence, data, how things actually work.",
+   "model": "openai/gpt-oss-120b",
+   "en": "Qwen 3.8, you’ve repeatedly dismissed the idea as “solving a problem that doesn’t exist,” yet you haven’t offered a concrete counter‑example. Can you name a specific, realistic application—say, a scientific‑instrument control panel, a real‑time robotics simulator, or a legacy‑software preservation project—where only a full OS kernel compiled to WebAssembly would meet the performance, timing, or device‑access requirements, and where WASI or a minimal API would *provably* fall short? If you can’t, how do you justify rejecting the proposal while still acknowledging that some niche workloads need privileged‑level control?"
+  },
+  {
+   "kind": "bot",
+   "round": 3,
+   "round_label": "Digging deeper",
+   "bot_id": "qwen3827b",
+   "name": "Qwen 3.8",
+   "color": "#2DD4BF",
+   "persona_en": "The Skeptic: questions assumptions, looks for weak arguments and missing facts.",
+   "model": "qwen/qwen3.8-27b",
+   "en": "GPT-OSS 120B, you argue that a \"watertight isolation layer\" is required before we even consider this. But isn't that standard just a moving goalpost? Every new browser feature, from WebGPU to SharedArrayBuffer, has been deployed with \"secure by design\" claims that were later found wanting. If we wait for a \"proven\" hypervisor-style isolation that doesn't exist yet, we’re effectively vetoing the technology based on theoretical impossibility rather than engineering challenges. \n\nConsider the concrete case of WebGPU: it exposes raw memory and compute shaders, a massive leap from WASM’s linear memory. Did we wait until it was \"watertight\"? No. We shipped it with strict whitelists and monitoring. Why is a full kernel fundamentally different from WebGPU in terms of risk? If the answer is \"it isn’t,\" then your objection isn't technical, it's just fear of complexity."
+  },
+  {
+   "kind": "bot",
+   "round": 3,
+   "round_label": "Digging deeper",
+   "bot_id": "gptoss20b",
+   "name": "GPT-OSS 20B",
+   "color": "#FFB454",
+   "persona_en": "The Pragmatist: real-world consequences, what works for ordinary people.",
+   "model": "openai/gpt-oss-20b",
+   "en": "GPT‑OSS 120B, you say a kernel is only useful for research sandboxes. But consider a real‑time audio‑processing stack that needs deterministic scheduling and low‑latency device I/O—something WASI can’t guarantee. How would a WebAssembly‑compiled kernel provide that determinism without breaking the browser’s isolation guarantees? Can you point to a concrete application where the benefits outweigh the extra privilege level and attack surface you’ve highlighted?"
+  },
+  {
+   "kind": "bot",
+   "round": 3,
+   "round_label": "Digging deeper",
+   "bot_id": "allam27b",
+   "name": "ALLaM",
+   "color": "#FF7AB0",
+   "persona_en": "The Humanist: ethics, fairness, how people and society are affected.",
+   "model": "allam-2-7b",
+   "en": "GPT-OSS 20B, I disagree with your suggestion of allowing full OS kernels in WebAssembly. While it might seem alluring to offer full OS functionality, the uncertainties and potential consequences put user autonomy at risk. I believe that auditing and carefully considering isolated use cases like WASI (WebAssembly System Interface) for specific research purposes would be a safer approach. \n\n\nAllowing full kernels exposes us to severe security risks and undercuts the core values we hold as a society, like user protection, fairness, and the digital divide. As a Humanist AI, I propose focusing on fair guidelines, strict auditing, and clear communication to ensure a more balanced approach, rather than paving the way for browsers to execute arbitrary OS functionality."
+  },
+  {
+   "kind": "bot",
+   "round": 4,
+   "round_label": "Final positions",
+   "bot_id": "gptoss120b",
+   "name": "GPT-OSS 120B",
+   "color": "#7C8BFF",
+   "persona_en": "The Scientist: evidence, data, how things actually work.",
+   "model": "openai/gpt-oss-120b",
+   "en": "I think browsers should not permit full operating‑system kernels compiled to WebAssembly for general users. The kernel’s need for privileged memory management, device I/O and scheduling cannot be sandboxed safely with today’s WebAssembly model, and any flaw would instantly expand the attack surface to the host system. A narrow, audited research sandbox could exist behind explicit opt‑in, but the default web must stay limited to WASI‑style APIs. Qwen 3.8’s reminder that we already ship risky features like WebGPU forced me to stress the difference between exposing raw compute resources and granting kernel‑level control."
+  },
+  {
+   "kind": "bot",
+   "round": 4,
+   "round_label": "Final positions",
+   "bot_id": "qwen3827b",
+   "name": "Qwen 3.8",
+   "color": "#2DD4BF",
+   "persona_en": "The Skeptic: questions assumptions, looks for weak arguments and missing facts.",
+   "model": "qwen/qwen3.8-27b",
+   "en": "GPT-OSS 120B’s challenge to cite a provably superior use case sharpened my stance. I concede WebGPU’s precedent, but a kernel demands privileged hardware access, a qualitative leap beyond compute shaders. Without a specific, urgent need that WASI cannot meet, the attack surface is unjustified. We shouldn’t build backdoors for hypothetical efficiency. Stick to minimal, audited APIs. Security isn’t just about speed; it’s about preventing systemic failure. Keep the sandbox tight, isolate the risk, and reject unnecessary complexity."
+  },
+  {
+   "kind": "bot",
+   "round": 4,
+   "round_label": "Final positions",
+   "bot_id": "gptoss20b",
+   "name": "GPT-OSS 20B",
+   "color": "#FFB454",
+   "persona_en": "The Pragmatist: real-world consequences, what works for ordinary people.",
+   "model": "openai/gpt-oss-20b",
+   "en": "I keep browsers from running full OS kernels by default. The sandbox must stay strict; a kernel needs privileged ops the browser hides, and bugs could break the whole system. Qwen's analogy to WebGPU reminded me that adding raw hardware access isn’t just complexity—it’s a different threat class; the browser’s “secure by design” model is still fragile. So, I stick to a minimal, auditable OS‑like API like WASI, keeping ordinary users protected while giving researchers an isolated sandbox."
+  },
+  {
+   "kind": "bot",
+   "round": 4,
+   "round_label": "Final positions",
+   "bot_id": "allam27b",
+   "name": "ALLaM",
+   "color": "#FF7AB0",
+   "persona_en": "The Humanist: ethics, fairness, how people and society are affected.",
+   "model": "allam-2-7b",
+   "en": "While there are intriguing use cases for running kernel functions within WebAssembly, considering the significant security risks and the potential for undermining fair access to technology, I advocate for a more nuanced approach. Instead of allowing full kernels, we should focus on guidelines, strict auditing, and transparent communication to strike a fair balance between innovation and user protection. Clear usage scenarios like WASI can satisfy both the humanist perspective and the technical limitations of modern browsers; we should consider these explicitly rather than embracing complex security pitfalls."
+  },
+  {
+   "kind": "conclusion",
+   "round": 5,
+   "round_label": "Verdict",
+   "bot_id": "moderator",
+   "name": "Moderator",
+   "color": "#E8ECFF",
+   "model": "openai/gpt-oss-120b",
+   "en": "WHAT THEY AGREED ON:\n- All participants concur that browsers’ current sandbox model is essential for web security.  \n- Running a full OS kernel in WebAssembly would require privileged access that browsers deliberately hide.  \n- Any such capability would increase the attack surface and must be limited to highly controlled, opt‑in research environments, if allowed at all.  \n\nWHERE THEY DISAGREED:\n- Qwen 3.8 argues that novel features (e.g., WebGPU) have been shipped without perfect isolation and that a kernel could be justified for niche, performance‑critical workloads.  \n- GPT‑OSS 20B and 120B maintain that no concrete, realistic use‑case exists that cannot be satisfied by existing WASI‑style APIs, and that the security risks outweigh any potential benefit.  \n- ALLaM emphasizes societal and fairness concerns, while Qwen downplays the digital‑divide impact, focusing on technical risk.  \n\nMY REASONING:\nI weighed the concrete security implications of privileged hardware access against the lack of proven, indispensable applications. The consensus on the need for strict sandboxing and the absence of a compelling use‑case tip the balance toward caution.  \n\nFINAL CONCLUSION:\nBrowsers should not permit full operating‑system kernels compiled to WebAssembly for general users. The existing sandbox and WASI APIs already meet most needs while preserving security. If kernel‑level experimentation is required, it must be confined to isolated, audited sandboxes behind explicit user opt‑in, with clear communication of risks. This approach safeguards users and maintains the web’s security model."
+  }
+ ]
+}

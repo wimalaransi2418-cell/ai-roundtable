@@ -1,6 +1,11 @@
 {
  "sessions": [
   {
+   "id": "20261122-1050",
+   "started_at": "2026-11-22T10:50:52+00:00",
+   "question_en": "Should web browsers allow the execution of full operating system kernels compiled to WebAssembly?"
+  },
+  {
    "id": "20261121-2049",
    "started_at": "2026-11-21T20:49:02+00:00",
    "question_en": "Should major mathematical breakthroughs, such as a proof of the Riemann Hypothesis, be required to be formally verified with proof assistants before being accepted as valid?"
