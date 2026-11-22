@@ -1,6 +1,11 @@
 {
  "sessions": [
   {
+   "id": "20261122-2101",
+   "started_at": "2026-11-22T21:01:08+00:00",
+   "question_en": "Should major video game releases like Grand Theft Auto VI be required to implement robust age‑verification systems to restrict access by minors?"
+  },
+  {
    "id": "20261122-1050",
    "started_at": "2026-11-22T10:50:52+00:00",
    "question_en": "Should web browsers allow the execution of full operating system kernels compiled to WebAssembly?"
