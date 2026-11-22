@@ -1,75 +1,75 @@
 {
- "updated_at": "2026-11-22T11:02:01+00:00",
+ "updated_at": "2026-11-22T18:25:37+00:00",
  "items": [
   {
    "id": "t0",
-   "category": "world",
-   "headline": "South Korea education minister resigns over exam cheating scandal",
-   "source": "BBC News",
-   "question": "What do you make of this story: South Korea education minister resigns over exam cheating scandal?"
+   "category": "weather",
+   "headline": "Thanksgiving travel weather forecast: best and worst days to drive in Northern California",
+   "question": "How should travelers balance safety and timing when planning Thanksgiving road trips in variable weather?",
+   "source": "Google News"
   },
   {
    "id": "t1",
-   "category": "world",
-   "headline": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
-   "source": "BBC News",
-   "question": "What do you make of this story: Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out?"
+   "category": "sports",
+   "headline": "Verstappen says Russell is far below his level amid race chaos",
+   "question": "Is Verstappen's assessment of Russell fair, or does it reflect broader competitive dynamics in F1?",
+   "source": "BBC Sport"
   },
   {
    "id": "t2",
-   "category": "world",
-   "headline": "Italian jeweller and businessman Paolo Bulgari dies aged 89",
-   "source": "BBC News",
-   "question": "What do you make of this story: Italian jeweller and businessman Paolo Bulgari dies aged 89?"
+   "category": "sports",
+   "headline": "England cautions against overconfidence after victory over the All Blacks",
+   "question": "Can England maintain momentum against top rugby nations after a single win?",
+   "source": "BBC Sport"
   },
   {
    "id": "t3",
    "category": "world",
-   "headline": "FBI reportedly investigating apparent hack of its criminal database",
-   "source": "BBC News",
-   "question": "What do you make of this story: FBI reportedly investigating apparent hack of its criminal database?"
+   "headline": "South Korea's education minister resigns amid nationwide exam cheating scandal",
+   "question": "What reforms are needed to restore integrity in South Korea's education testing system?",
+   "source": "BBC News"
   },
   {
    "id": "t4",
-   "category": "sports",
-   "headline": "Hamilton-Leclerc collision completely unacceptable, says Ferrari boss",
-   "source": "BBC Sport",
-   "question": "What do you make of this story: Hamilton-Leclerc collision completely unacceptable, says Ferrari boss?"
+   "category": "tech",
+   "headline": "Debate rises over using AI to assess individuals' creditworthiness",
+   "question": "Should AI-driven credit scoring be adopted widely, given concerns about bias and transparency?",
+   "source": "BBC News"
   },
   {
    "id": "t5",
-   "category": "sports",
-   "headline": "Injured Jacks out of T20 Australia tour",
-   "source": "BBC Sport",
-   "question": "What do you make of this story: Injured Jacks out of T20 Australia tour?"
+   "category": "science",
+   "headline": "Heat pumps explained: how they work and typical installation costs",
+   "question": "Are heat pumps a cost-effective solution for homeowners seeking to reduce carbon emissions?",
+   "source": "BBC News"
   },
   {
    "id": "t6",
-   "category": "sports",
-   "headline": "'Not the right time' - Fernandes pauses Man Utd contract talks",
-   "source": "BBC Sport",
-   "question": "What do you make of this story: 'Not the right time' - Fernandes pauses Man Utd contract talks?"
+   "category": "health",
+   "headline": "New pancreatic cancer drug shows tumor disappearance in early trials",
+   "question": "What steps are necessary to ensure promising early results translate into approved treatments?",
+   "source": "BBC News"
   },
   {
    "id": "t7",
-   "category": "sports",
-   "headline": "Why Arsenal are behind in race for Women's Champions League spots",
-   "source": "BBC Sport",
-   "question": "What do you make of this story: Why Arsenal are behind in race for Women's Champions League spots?"
+   "category": "business",
+   "headline": "Employers urged to provide interview feedback: what candidates really want",
+   "question": "Will mandatory interview feedback improve hiring processes or create new challenges for recruiters?",
+   "source": "BBC News"
   },
   {
    "id": "t8",
-   "category": "tech",
-   "headline": "Can AI really help spot Black Friday deals? We put it to the test",
-   "source": "BBC News",
-   "question": "What do you make of this story: Can AI really help spot Black Friday deals? We put it to the test?"
+   "category": "trending",
+   "headline": "Fans search for Taylor Swift's appearance at Chiefs game today",
+   "question": "How do celebrity sightings at sporting events impact fan experience and media coverage?",
+   "source": "Google Trends"
   },
   {
    "id": "t9",
    "category": "tech",
-   "headline": "GTA 6 sales hit $3.8bn in a single day - the biggest entertainment launch in history",
-   "source": "BBC News",
-   "question": "What do you make of this story: GTA 6 sales hit $3.8bn in a single day - the biggest entertainment launch in history?"
+   "headline": "Testing AI's ability to spot Black Friday deals: a practical experiment",
+   "question": "Can AI reliably identify the best Black Friday deals for consumers compared to human shoppers?",
+   "source": "BBC News"
   }
  ]
 }
