@@ -1,75 +1,75 @@
 {
- "updated_at": "2026-11-22T02:59:17+00:00",
+ "updated_at": "2026-11-22T11:02:01+00:00",
  "items": [
   {
    "id": "t0",
-   "category": "weather",
-   "headline": "California storm forecast to hit Thanksgiving week amid high king tides",
-   "question": "How should residents prepare for the potential impact of the upcoming storm?",
-   "source": "Google News"
+   "category": "world",
+   "headline": "South Korea education minister resigns over exam cheating scandal",
+   "source": "BBC News",
+   "question": "What do you make of this story: South Korea education minister resigns over exam cheating scandal?"
   },
   {
    "id": "t1",
-   "category": "sports",
-   "headline": "Arsenal go six points clear after a lively draw at Newcastle",
-   "question": "Will Arsenal maintain their lead in the league for the rest of the season?",
-   "source": "BBC Sport"
+   "category": "world",
+   "headline": "Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out",
+   "source": "BBC News",
+   "question": "What do you make of this story: Mexican drug lord on FBI's 10 most wanted list arrested in shoot-out?"
   },
   {
    "id": "t2",
-   "category": "sports",
-   "headline": "Man City drop points to Fulham despite Anderson's superb volley",
-   "question": "Can Manchester City recover quickly and regain form after this setback?",
-   "source": "BBC Sport"
+   "category": "world",
+   "headline": "Italian jeweller and businessman Paolo Bulgari dies aged 89",
+   "source": "BBC News",
+   "question": "What do you make of this story: Italian jeweller and businessman Paolo Bulgari dies aged 89?"
   },
   {
    "id": "t3",
-   "category": "tech",
-   "headline": "Can AI really help spot Black Friday deals? We put it to the test",
-   "question": "Will AI become a reliable tool for consumers hunting Black Friday discounts?",
-   "source": "BBC News"
+   "category": "world",
+   "headline": "FBI reportedly investigating apparent hack of its criminal database",
+   "source": "BBC News",
+   "question": "What do you make of this story: FBI reportedly investigating apparent hack of its criminal database?"
   },
   {
    "id": "t4",
-   "category": "science",
-   "headline": "Mercury set to receive a visitor after spacecraft's eight‑year voyage",
-   "question": "What scientific insights could the Mercury mission provide about the planet’s history?",
-   "source": "BBC News"
+   "category": "sports",
+   "headline": "Hamilton-Leclerc collision completely unacceptable, says Ferrari boss",
+   "source": "BBC Sport",
+   "question": "What do you make of this story: Hamilton-Leclerc collision completely unacceptable, says Ferrari boss?"
   },
   {
    "id": "t5",
-   "category": "health",
-   "headline": "Massive hope for pancreatic cancer pill after trial showed tumours vanish",
-   "question": "Could this new pancreatic cancer drug become a standard treatment soon?",
-   "source": "BBC News"
+   "category": "sports",
+   "headline": "Injured Jacks out of T20 Australia tour",
+   "source": "BBC Sport",
+   "question": "What do you make of this story: Injured Jacks out of T20 Australia tour?"
   },
   {
    "id": "t6",
-   "category": "business",
-   "headline": "Tinned food and long‑life milk boost retail sales after ‘Be Ready’ campaign",
-   "question": "Will the surge in shelf‑stable food sales continue beyond the current campaign?",
-   "source": "BBC News"
+   "category": "sports",
+   "headline": "'Not the right time' - Fernandes pauses Man Utd contract talks",
+   "source": "BBC Sport",
+   "question": "What do you make of this story: 'Not the right time' - Fernandes pauses Man Utd contract talks?"
   },
   {
    "id": "t7",
-   "category": "trending",
-   "headline": "Wembanyama’s hype dominates online searches worldwide",
-   "question": "Is the excitement around Wembanyama justified by his on‑court performance?",
-   "source": "Google Trends"
+   "category": "sports",
+   "headline": "Why Arsenal are behind in race for Women's Champions League spots",
+   "source": "BBC Sport",
+   "question": "What do you make of this story: Why Arsenal are behind in race for Women's Champions League spots?"
   },
   {
    "id": "t8",
-   "category": "world",
-   "headline": "FBI reportedly investigating an apparent hack of its criminal database",
-   "question": "What are the broader implications for law‑enforcement data security after this breach?",
-   "source": "BBC News"
+   "category": "tech",
+   "headline": "Can AI really help spot Black Friday deals? We put it to the test",
+   "source": "BBC News",
+   "question": "What do you make of this story: Can AI really help spot Black Friday deals? We put it to the test?"
   },
   {
    "id": "t9",
    "category": "tech",
-   "headline": "Tech stock sell‑off drags markets down as Anthropic shares slide",
-   "question": "Will the recent tech stock decline signal a longer‑term market correction?",
-   "source": "BBC News"
+   "headline": "GTA 6 sales hit $3.8bn in a single day - the biggest entertainment launch in history",
+   "source": "BBC News",
+   "question": "What do you make of this story: GTA 6 sales hit $3.8bn in a single day - the biggest entertainment launch in history?"
   }
  ]
 }
