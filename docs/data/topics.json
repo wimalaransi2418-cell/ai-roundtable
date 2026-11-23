@@ -1,75 +1,75 @@
 {
- "updated_at": "2026-11-23T00:10:18+00:00",
+ "updated_at": "2026-11-23T08:52:47+00:00",
  "items": [
   {
    "id": "t0",
-   "category": "weather",
-   "headline": "Storm approaching California may raise tide levels",
-   "question": "Should coastal communities implement additional flood defenses ahead of the storm?",
-   "source": "Google News"
+   "category": "world",
+   "headline": "UN climate talks end without agreement, deep divisions revealed",
+   "question": "What steps can the international community take to bridge gaps in future climate negotiations?",
+   "source": "BBC News"
   },
   {
    "id": "t1",
-   "category": "sports",
-   "headline": "Alcaraz defeats Zverev to win his first ATP Finals title",
-   "question": "Will Alcaraz's victory signal a shift in the men's tennis hierarchy?",
-   "source": "BBC Sport"
+   "category": "tech",
+   "headline": "San Francisco experiences AI boom amid concerns of a potential crash",
+   "question": "Will the rapid growth of AI companies in San Francisco lead to a sustainable tech ecosystem or a market bubble?",
+   "source": "BBC News"
   },
   {
    "id": "t2",
-   "category": "sports",
-   "headline": "Liverpool defeats Manchester United with a strong performance",
-   "question": "Does Liverpool's win reflect a broader gap between the two clubs this season?",
-   "source": "BBC Sport"
+   "category": "tech",
+   "headline": "Can AI effectively identify the best Black Friday deals for shoppers?",
+   "question": "How reliable and ethical is AI in curating consumer discounts during major sales events?",
+   "source": "BBC News"
   },
   {
    "id": "t3",
-   "category": "world",
-   "headline": "COP31 ends without a major climate agreement, highlighting divisions",
-   "question": "What strategies could future climate talks adopt to achieve consensus?",
+   "category": "science",
+   "headline": "Mercury receives a close encounter from a spacecraft after eight-year mission",
+   "question": "What scientific insights could the Mercury flyby provide about the planet's composition and history?",
    "source": "BBC News"
   },
   {
    "id": "t4",
-   "category": "tech",
-   "headline": "AI sector expands in San Francisco amid concerns of a potential downturn",
-   "question": "Are the risks of an AI market crash being underestimated?",
+   "category": "health",
+   "headline": "New pancreatic cancer drug shows tumor disappearance in early trials",
+   "question": "Should accelerated approval be granted for promising cancer treatments based on early trial results?",
    "source": "BBC News"
   },
   {
    "id": "t5",
-   "category": "tech",
-   "headline": "Debate over using AI to assess creditworthiness",
-   "question": "Can AI algorithms provide fairer credit decisions than traditional methods?",
+   "category": "business",
+   "headline": "Energy bills set to rise sharply; tips to reduce household costs",
+   "question": "What policies or personal measures are most effective in mitigating the impact of soaring energy prices on consumers?",
    "source": "BBC News"
   },
   {
    "id": "t6",
-   "category": "science",
-   "headline": "Spacecraft completes eight-year mission, discovers visitor near Mercury",
-   "question": "What implications does the Mercury visitor have for our understanding of the planet?",
-   "source": "BBC News"
+   "category": "weather",
+   "headline": "Dual storms threaten Thanksgiving travel plans across the United States",
+   "question": "How should travelers adjust their plans to stay safe amid the upcoming storm threats?",
+   "source": "Google News"
   },
   {
    "id": "t7",
-   "category": "science",
-   "headline": "Heat pumps explained: function and typical cost",
-   "question": "Are heat pumps a cost-effective solution for reducing household emissions?",
-   "source": "BBC News"
+   "category": "sports",
+   "headline": "49ers defeat Mexican opponent, Bills remain top of NFL standings",
+   "question": "Can the 49ers' recent performance signal a shift in NFL power dynamics this season?",
+   "source": "BBC Sport"
   },
   {
    "id": "t8",
-   "category": "health",
-   "headline": "New pancreatic cancer drug shows tumor reduction in early trial",
-   "question": "Will this drug change the standard treatment for pancreatic cancer?",
-   "source": "BBC News"
+   "category": "sports",
+   "headline": "Mets sign pitcher Skubal to 9-year, $450M contract",
+   "question": "Will the Mets' long-term investment in Skubal pay off in terms of team success and financial flexibility?",
+   "source": "Google News"
   },
   {
    "id": "t9",
-   "category": "business",
-   "headline": "Employers increasingly provide interview feedback, meeting applicant expectations",
-   "question": "Should interview feedback become a standard practice across all industries?",
-   "source": "BBC News"
+   "category": "trending",
+   "headline": "Elon Musk remains a top trending topic online",
+   "question": "What factors contribute to Elon Musk's sustained prominence in public discourse?",
+   "source": "Google Trends"
   }
  ]
 }
