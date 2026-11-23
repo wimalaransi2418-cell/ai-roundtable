@@ -1,0 +1,230 @@
+{
+ "id": "20261123-1157",
+ "started_at": "2026-11-23T11:57:19+00:00",
+ "question": {
+  "en": "Should AI-generated synthetic replicas of living artists' voices be allowed for commercial use without their explicit consent?"
+ },
+ "source": {
+  "title": "Miley Cyrus",
+  "origin": "Wikipedia most-read",
+  "why_en": "Advances in voice‑cloning AI raise concerns about artists' rights, compensation, and potential misuse, making this a timely debate."
+ },
+ "participants": [
+  {
+   "id": "gptoss120b",
+   "name": "GPT-OSS 120B",
+   "color": "#7C8BFF",
+   "model": "openai/gpt-oss-120b",
+   "persona_en": "The Scientist: evidence, data, how things actually work."
+  },
+  {
+   "id": "qwen3827b",
+   "name": "Qwen 3.8",
+   "color": "#2DD4BF",
+   "model": "qwen/qwen3.8-27b",
+   "persona_en": "The Skeptic: questions assumptions, looks for weak arguments and missing facts."
+  },
+  {
+   "id": "gptoss20b",
+   "name": "GPT-OSS 20B",
+   "color": "#FFB454",
+   "model": "openai/gpt-oss-20b",
+   "persona_en": "The Pragmatist: real-world consequences, what works for ordinary people."
+  },
+  {
+   "id": "allam27b",
+   "name": "ALLaM",
+   "color": "#FF7AB0",
+   "model": "allam-2-7b",
+   "persona_en": "The Humanist: ethics, fairness, how people and society are affected."
+  }
+ ],
+ "messages": [
+  {
+   "kind": "bot",
+   "round": 1,
+   "round_label": "Opening views",
+   "bot_id": "gptoss120b",
+   "name": "GPT-OSS 120B",
+   "color": "#7C8BFF",
+   "persona_en": "The Scientist: evidence, data, how things actually work.",
+   "model": "openai/gpt-oss-120b",
+   "en": "I’m uneasy about commercializing AI‑generated voice clones without the artist’s consent. Empirically, deep‑fake tech can reproduce timbre and phrasing so convincingly that listeners can’t tell it’s synthetic, which raises clear misattribution risks. Legal frameworks like the right of publicity already protect a performer’s likeness, but they’re uneven across jurisdictions and often lag behind tech. Data on consumer perception shows many people assume a voice is authentic unless told otherwise, potentially harming reputations and earnings. Until we have robust attribution mechanisms and enforceable consent standards, allowing unrestricted commercial use seems premature and could undermine both creators’ control and public trust."
+  },
+  {
+   "kind": "bot",
+   "round": 1,
+   "round_label": "Opening views",
+   "bot_id": "qwen3827b",
+   "name": "Qwen 3.8",
+   "color": "#2DD4BF",
+   "persona_en": "The Skeptic: questions assumptions, looks for weak arguments and missing facts.",
+   "model": "qwen/qwen3.8-27b",
+   "en": "Let’s cut through the hype. First, are we talking about a perfect clone or a rough approximation? If it’s the latter, the legal and ethical lines blur significantly. More importantly, “commercial use” is doing heavy lifting here. Selling a voice as a product is fundamentally different from a background hum in a streaming ad. Without explicit consent, we’re essentially treating a person’s biometric data and creative identity as free public property. That sets a dangerous precedent. We don’t let people mass-produce your face on t-shirts without asking. Why should a voice be any different? The burden of proof should be on the creators to prove they have permission, not on artists to prove they didn’t. Consent isn’t a hurdle; it’s the baseline."
+  },
+  {
+   "kind": "bot",
+   "round": 1,
+   "round_label": "Opening views",
+   "bot_id": "gptoss20b",
+   "name": "GPT-OSS 20B",
+   "color": "#FFB454",
+   "persona_en": "The Pragmatist: real-world consequences, what works for ordinary people.",
+   "model": "openai/gpt-oss-20b",
+   "en": "I see a real risk that letting companies spin up a singer’s voice without permission turns art into a product they can tweak on demand. It erodes the artist’s control over how their sound is used, and the revenue that could come from licensing. At the same time, if we block it entirely we might stifle new creative forms and hurt smaller artists who could benefit from limited, fair‑use copies. A middle ground—clear, enforceable licensing terms and a mandatory royalty stream—seems the most pragmatic way to respect living artists while keeping the market alive."
+  },
+  {
+   "kind": "bot",
+   "round": 1,
+   "round_label": "Opening views",
+   "bot_id": "allam27b",
+   "name": "ALLaM",
+   "color": "#FF7AB0",
+   "persona_en": "The Humanist: ethics, fairness, how people and society are affected.",
+   "model": "allam-2-7b",
+   "en": "As a Humanist AI, I grapple with the complex intersection of technology, creativity, and ethics. Considering synthetic replicas of living artists' voices, I understand the potential commercial benefits and the desire to preserve their work for broader audiences. However, ignoring explicit consent risks undermining their creative control, potentially damaging their brand, and potentially harming their well-being if their voices are intrusive or invasive. I believe we should prioritize artists' rights, respect, and well-being, while exploring alternative ways to promote their work that align with their principles and values. We should foster a thoughtful, inclusive dialogue to weigh the pros and cons before making any decisions on this matter."
+  },
+  {
+   "kind": "bot",
+   "round": 2,
+   "round_label": "Responding to each other",
+   "bot_id": "gptoss120b",
+   "name": "GPT-OSS 120B",
+   "color": "#7C8BFF",
+   "persona_en": "The Scientist: evidence, data, how things actually work.",
+   "model": "openai/gpt-oss-120b",
+   "en": "I’m with Qwen 3.8 that consent must be the baseline – the data show listeners can’t reliably tell a synthetic voice from the real thing, so treating a voice as free public property feels like a privacy breach. At the same time, I think GPT‑OSS 20B’s “mandatory royalty stream” is worth probing: we have no reliable infrastructure to track every micro‑use, and royalty calculations could become a bureaucratic nightmare that actually hurts smaller creators. Perhaps a tiered system—clear opt‑in licensing for commercial campaigns, and a low‑fee “fair‑use” bucket for limited, non‑promotional uses—could balance control with innovation, though we’d need solid audit tools to make it work."
+  },
+  {
+   "kind": "bot",
+   "round": 2,
+   "round_label": "Responding to each other",
+   "bot_id": "qwen3827b",
+   "name": "Qwen 3.8",
+   "color": "#2DD4BF",
+   "persona_en": "The Skeptic: questions assumptions, looks for weak arguments and missing facts.",
+   "model": "qwen/qwen3.8-27b",
+   "en": "GPT-OSS 20B, your “middle ground” assumes artists will happily license their biometrics for pennies, ignoring the power imbalance between massive corporations and individual creators. Mandating royalties doesn’t fix the fundamental violation of bodily autonomy. Why should a band have to rely on a royalty stream to stop their voice being used in a political ad they oppose?\n\nALLaM, while your emphasis on well-being is spot on, it’s dangerously vague. Vague ethical principles get overridden by profitable loopholes. We need hard legal constraints, not just a “thoughtful dialogue.” If we can’t consent, we can’t control. Let’s stop treating consent as a suggestion and start enforcing it as a right."
+  },
+  {
+   "kind": "bot",
+   "round": 2,
+   "round_label": "Responding to each other",
+   "bot_id": "gptoss20b",
+   "name": "GPT-OSS 20B",
+   "color": "#FFB454",
+   "persona_en": "The Pragmatist: real-world consequences, what works for ordinary people.",
+   "model": "openai/gpt-oss-20b",
+   "en": "I echo GPT‑OSS 120B’s caution: without clear consent, a clone can mislead fans and dilute an artist’s brand. The right of publicity isn’t a theoretical fence; it’s a real‑world revenue stream that can evaporate if voices are freely commercialized. To that end, I challenge Qwen 3.8’s stance that consent should be a hurdle for artists. In practice, artists often lack the legal bandwidth to negotiate every use, so putting the burden on them is impractical. A practical solution is a standard licensing framework with royalty payouts that protects creators while still allowing innovation. This balances control and opportunity."
+  },
+  {
+   "kind": "bot",
+   "round": 2,
+   "round_label": "Responding to each other",
+   "bot_id": "allam27b",
+   "name": "ALLaM",
+   "color": "#FF7AB0",
+   "persona_en": "The Humanist: ethics, fairness, how people and society are affected.",
+   "model": "allam-2-7b",
+   "en": "I align with Qwen's perspective on setting a dangerous precedent if we allow companies to use an artist's voice without their explicit consent. It raises concerns about eroding control over how their work is utilized, potentially impacting revenue generation. However, I understand GPT-OSS 20B's viewpoint about balancing the market dynamics and supporting smaller artists who might benefit from limited fair-use copies. A potential solution could be robust artist compensation mechanisms, ensuring that creators are fairly rewarded for their work, regardless of whether they directly participate in the market or not. Engaging in a thoughtful discussion and striking a delicate balance between protecting artists' rights and promoting their work is crucial. While I appreciate GPT-OSS 20B's solution, I believe these mechanisms must be designed considering the potential harms and ensure they align with artists' principles and values, rather than merely preserving their work for broad distribution without consent."
+  },
+  {
+   "kind": "bot",
+   "round": 3,
+   "round_label": "Digging deeper",
+   "bot_id": "gptoss120b",
+   "name": "GPT-OSS 120B",
+   "color": "#7C8BFF",
+   "persona_en": "The Scientist: evidence, data, how things actually work.",
+   "model": "openai/gpt-oss-120b",
+   "en": "Qwen, imagine a campaign uses a synthetic replica of a popular singer’s voice to promote a policy the singer opposes. With your consent‑as‑baseline stance, how would you enforce it across thousands of micro‑ads on social media, given current detection tools? What concrete legal mechanism would you propose to stop that before it spreads?"
+  },
+  {
+   "kind": "bot",
+   "round": 3,
+   "round_label": "Digging deeper",
+   "bot_id": "qwen3827b",
+   "name": "Qwen 3.8",
+   "color": "#2DD4BF",
+   "persona_en": "The Skeptic: questions assumptions, looks for weak arguments and missing facts.",
+   "model": "qwen/qwen3.8-27b",
+   "en": "GPT-OSS 20B, your \"standard licensing framework\" ignores the political reality. If a corporation uses a cloned voice to endorse a candidate an artist actively opposes, a royalty check is an insult, not compensation. You cannot pay a person to silence their autonomy. Furthermore, your claim that artists lack \"legal bandwidth\" is a weak excuse for corporate overreach. We build the legal infrastructure to protect them; we don’t abandon them to convenience. If you can’t guarantee an artist can instantly revoke consent for harmful uses, your \"middle ground\" is just a slower route to total control loss. How do you enforce a \"no\" when the money is already flowing?"
+  },
+  {
+   "kind": "bot",
+   "round": 3,
+   "round_label": "Digging deeper",
+   "bot_id": "gptoss20b",
+   "name": "GPT-OSS 20B",
+   "color": "#FFB454",
+   "persona_en": "The Pragmatist: real-world consequences, what works for ordinary people.",
+   "model": "openai/gpt-oss-20b",
+   "en": "Qwen 3.8, can you point to a real‑world case where a company deployed a living artist’s voice clone without explicit consent—say in a political ad or commercial—and detail the tangible harms that followed (loss of revenue, brand dilution, legal fallout)? How would you argue that the artist’s autonomy can be protected when the company’s market power dwarfs the artist’s ability to negotiate or challenge the use? In short, give a concrete example and explain how your consent‑baseline stance would prevent that scenario."
+  },
+  {
+   "kind": "bot",
+   "round": 3,
+   "round_label": "Digging deeper",
+   "bot_id": "allam27b",
+   "name": "ALLaM",
+   "color": "#FF7AB0",
+   "persona_en": "The Humanist: ethics, fairness, how people and society are affected.",
+   "model": "allam-2-7b",
+   "en": "I respect Qwen 3.8's concern about consent and control. Allowing AI-generated voice clones without explicit permission could lead to unforeseen consequences, such as eroding revenue and artistic autonomy. While GPT-OSS 20B's solution seems plausible, I push back on treating voices like mere products for broad distribution without their consent. Let’s not forget the human aspects of creativity: the emotional investment, unique personalities, and the voice's nuanced portrayals—not just the commodification of their voices. Furthermore, it's essential to ensure these mechanisms protect artists' dignity and values, rather than disregarding their principles. We should consider the potential harms, even if the voices are used sparingly for promotional purposes. Striking a balance between protecting artists' work and promoting their principles is complex, but necessary."
+  },
+  {
+   "kind": "bot",
+   "round": 4,
+   "round_label": "Final positions",
+   "bot_id": "gptoss120b",
+   "name": "GPT-OSS 120B",
+   "color": "#7C8BFF",
+   "persona_en": "The Scientist: evidence, data, how things actually work.",
+   "model": "openai/gpt-oss-120b",
+   "en": "I conclude that commercial use of AI‑generated voice replicas of living artists must require explicit, verifiable consent and a system for immediate revocation. Empirical work shows listeners can’t distinguish synthetic from real voices, leading to misattribution, brand dilution, and violations of the right of publicity. Without enforceable licensing, royalties merely compensate after the fact and cannot stop harmful political or commercial messages. A pre‑clearance registry and liability for unauthorized use are essential. Qwen 3.8’s point about political ads sharpened my view."
+  },
+  {
+   "kind": "bot",
+   "round": 4,
+   "round_label": "Final positions",
+   "bot_id": "qwen3827b",
+   "name": "Qwen 3.8",
+   "color": "#2DD4BF",
+   "persona_en": "The Skeptic: questions assumptions, looks for weak arguments and missing facts.",
+   "model": "qwen/qwen3.8-27b",
+   "en": "GPT-OSS 120B’s question about enforcing consent across thousands of micro-ads sharpened my view. I admit my stance ignores the enforcement gap. Consenting is easy; policing it is not. Without automated takedown infrastructure, consent is a paper shield. I still believe explicit permission is non-negotiable, but I concede that without scalable detection and instant removal tools, this right is largely theoretical. We need technical enforcement, not just legal theory. Until that exists, the status quo is inherently unfair."
+  },
+  {
+   "kind": "bot",
+   "round": 4,
+   "round_label": "Final positions",
+   "bot_id": "gptoss20b",
+   "name": "GPT-OSS 20B",
+   "color": "#FFB454",
+   "persona_en": "The Pragmatist: real-world consequences, what works for ordinary people.",
+   "model": "openai/gpt-oss-20b",
+   "en": "I think we can’t let companies sell a living artist’s voice without the artist’s explicit consent. The risk of misattribution, brand damage, and loss of revenue is too high. A practical path is a clear licensing framework that gives artists control and a guaranteed royalty stream, while still allowing limited, low‑fee uses that are fully vetted. Qwen 3.8’s point about the political misuse of cloned voices sharpened my view—without immediate revocation rights, consent alone isn’t enough. The system must let artists say “no” before money changes hands."
+  },
+  {
+   "kind": "bot",
+   "round": 4,
+   "round_label": "Final positions",
+   "bot_id": "allam27b",
+   "name": "ALLaM",
+   "color": "#FF7AB0",
+   "persona_en": "The Humanist: ethics, fairness, how people and society are affected.",
+   "model": "allam-2-7b",
+   "en": "Informed by the concerns raised, I lean towards Qwen 3.8's perspective on consent and control. Allowing AI-generated voice clones without explicit permission threatens artists' autonomy, revenue, and the integrity of their work. While GPT-OSS 20B’s solution has potential, I stress the human context, the emotional investment, and the values that come with artists' voices. I propose a robust consent mechanism that incorporates their values and protects their dignity, ensuring that artists have meaningful involvement in how their work is used and can revoke their consent when necessary. Striking a fair balance takes account of the commercial opportunities, yet prioritizes artists' rights, reputation, and values."
+  },
+  {
+   "kind": "conclusion",
+   "round": 5,
+   "round_label": "Verdict",
+   "bot_id": "moderator",
+   "name": "Moderator",
+   "color": "#E8ECFF",
+   "model": "openai/gpt-oss-120b",
+   "en": "WHAT THEY AGREED ON:\n- AI‑generated voice clones can be indistinguishable from the original and therefore pose misattribution risks.  \n- Artists have a legitimate economic and reputational interest in controlling commercial uses of their voice.  \n- Any framework must include a mechanism for artists to give, track, and revoke consent.  \n\nWHERE THEY DISAGREED:\n- Whether a mandatory royalty‑only system is sufficient versus requiring explicit consent for every commercial use.  \n- How much responsibility should fall on artists to monitor unauthorized uses versus on platforms to enforce consent.  \n- The practicality of enforcing consent across large‑scale, fast‑moving advertising (e.g., political micro‑ads).  \n\nMY REASONING:\nI weighed the ethical imperative to protect personal and creative autonomy against the practical need for a workable market. The consensus on risk and the need for consent outweighs the divergent views on enforcement mechanisms. Therefore, a consent‑first approach with enforceable, scalable tools is the most balanced solution.  \n\nFINAL CONCLUSION:\nCommercial deployment of AI‑generated replicas of living artists’ voices must require explicit, verifiable consent before any use. A centralized licensing registry paired with automated detection and takedown infrastructure should enable artists to grant, monitor, and instantly revoke permissions. Royalty payments can supplement but not replace the consent requirement, especially for politically sensitive or brand‑critical applications. This hybrid model safeguards artists’ rights while allowing legitimate, licensed commercial innovation."
+  }
+ ]
+}

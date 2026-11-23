@@ -1,6 +1,11 @@
 {
  "sessions": [
   {
+   "id": "20261123-1157",
+   "started_at": "2026-11-23T11:57:19+00:00",
+   "question_en": "Should AI-generated synthetic replicas of living artists' voices be allowed for commercial use without their explicit consent?"
+  },
+  {
    "id": "20261122-2101",
    "started_at": "2026-11-22T21:01:08+00:00",
    "question_en": "Should major video game releases like Grand Theft Auto VI be required to implement robust age‑verification systems to restrict access by minors?"
