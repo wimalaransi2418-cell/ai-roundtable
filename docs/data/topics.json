@@ -1,75 +1,75 @@
 {
- "updated_at": "2026-11-24T05:53:07+00:00",
+ "updated_at": "2026-11-24T17:28:31+00:00",
  "items": [
   {
    "id": "t0",
-   "category": "world",
-   "headline": "Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang",
-   "source": "BBC News",
-   "question": "What do you make of this story: Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang?"
+   "category": "weather",
+   "headline": "Thanksgiving travel forecast predicts storms on both US coasts",
+   "question": "How should travelers adjust plans given the forecasted storms on both coasts?",
+   "source": "Google News"
   },
   {
    "id": "t1",
-   "category": "world",
-   "headline": "Nato chief vows defence against space threat after Russian nuclear satellite reports",
-   "source": "BBC News",
-   "question": "What do you make of this story: Nato chief vows defence against space threat after Russian nuclear satellite reports?"
+   "category": "sports",
+   "headline": "NFL Week 12 power rankings released ahead of Thanksgiving games",
+   "question": "What factors should be weighted most when ranking teams this week?",
+   "source": "Google News"
   },
   {
    "id": "t2",
-   "category": "world",
-   "headline": "What strike on Russian ship in Libya says about spread of Ukraine war",
-   "source": "BBC News",
-   "question": "What do you make of this story: What strike on Russian ship in Libya says about spread of Ukraine war?"
+   "category": "sports",
+   "headline": "Cubs sign Japanese pitcher Teruaki Sato to six-year, $120 million contract",
+   "question": "Will Sato's long-term deal improve the Cubs' competitiveness in coming seasons?",
+   "source": "Google News"
   },
   {
    "id": "t3",
-   "category": "world",
-   "headline": "Israeli attacks have turned Gaza into 'toxic wasteland', Oxfam says",
-   "source": "BBC News",
-   "question": "What do you make of this story: Israeli attacks have turned Gaza into 'toxic wasteland', Oxfam says?"
+   "category": "tech",
+   "headline": "San Francisco experiences AI boom while experts warn of potential market crash",
+   "question": "Can the rapid AI growth in San Francisco be sustained without a major downturn?",
+   "source": "BBC News"
   },
   {
    "id": "t4",
-   "category": "sports",
-   "headline": "Tarkowski's first Premier League red ruins Moyes' night - was it deserved?",
-   "source": "BBC Sport",
-   "question": "What do you make of this story: Tarkowski's first Premier League red ruins Moyes' night - was it deserved??"
+   "category": "science",
+   "headline": "Mercury receives a visitor after an eight‑year spacecraft mission",
+   "question": "What scientific insights could the Mercury flyby provide for future exploration?",
+   "source": "BBC News"
   },
   {
    "id": "t5",
-   "category": "sports",
-   "headline": "'No-one's coming to save us' - but how can Man Utd save themselves?",
-   "source": "BBC Sport",
-   "question": "What do you make of this story: 'No-one's coming to save us' - but how can Man Utd save themselves??"
+   "category": "health",
+   "headline": "NHS launches large AI trial to detect breast cancer earlier",
+   "question": "Will AI screening significantly improve early detection rates compared to current methods?",
+   "source": "BBC News"
   },
   {
    "id": "t6",
-   "category": "sports",
-   "headline": "De Bruyne's feelings for Man City will 'never change'",
-   "source": "BBC Sport",
-   "question": "What do you make of this story: De Bruyne's feelings for Man City will 'never change'?"
+   "category": "business",
+   "headline": "New type of landlord emerges, reshaping the rental market",
+   "question": "How will the rise of non‑traditional landlords affect tenant rights and housing affordability?",
+   "source": "BBC News"
   },
   {
    "id": "t7",
-   "category": "sports",
-   "headline": "'Right on time' - Kildunne on Quins exit stories",
-   "source": "BBC Sport",
-   "question": "What do you make of this story: 'Right on time' - Kildunne on Quins exit stories?"
+   "category": "trending",
+   "headline": "Bioware trends as gamers anticipate upcoming releases",
+   "question": "What expectations do fans have for Bioware's next game, and how realistic are they?",
+   "source": "Google Trends"
   },
   {
    "id": "t8",
-   "category": "tech",
-   "headline": "US to blacklist Asian AI firm Megaspeed after Nvidia scandal",
-   "source": "BBC News",
-   "question": "What do you make of this story: US to blacklist Asian AI firm Megaspeed after Nvidia scandal?"
+   "category": "world",
+   "headline": "NATO chief pledges defence against space threats after Russian satellite incident",
+   "question": "Is NATO's focus on space security a necessary shift in modern defence strategy?",
+   "source": "BBC News"
   },
   {
    "id": "t9",
-   "category": "tech",
-   "headline": "How important are Nvidia and Jensen Huang to the US economy?",
-   "source": "BBC News",
-   "question": "What do you make of this story: How important are Nvidia and Jensen Huang to the US economy??"
+   "category": "science",
+   "headline": "Analysis of COP31 failure highlights global divisions on climate action",
+   "question": "What steps can be taken to bridge the gaps that led to the COP31 stalemate?",
+   "source": "BBC News"
   }
  ]
 }
