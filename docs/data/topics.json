@@ -1,75 +1,75 @@
 {
- "updated_at": "2026-11-23T21:11:42+00:00",
+ "updated_at": "2026-11-24T05:53:07+00:00",
  "items": [
   {
    "id": "t0",
-   "category": "weather",
-   "headline": "Thanksgiving weather forecast: storm maps and potential travel impacts",
-   "question": "How should travelers adjust their plans in anticipation of the Thanksgiving storm?",
-   "source": "Google News"
+   "category": "world",
+   "headline": "Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang",
+   "source": "BBC News",
+   "question": "What do you make of this story: Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang?"
   },
   {
    "id": "t1",
-   "category": "sports",
-   "headline": "Man United's challenges: can the club turn its season around?",
-   "question": "What strategic changes could Manchester United implement to improve performance?",
-   "source": "BBC Sport"
+   "category": "world",
+   "headline": "Nato chief vows defence against space threat after Russian nuclear satellite reports",
+   "source": "BBC News",
+   "question": "What do you make of this story: Nato chief vows defence against space threat after Russian nuclear satellite reports?"
   },
   {
    "id": "t2",
-   "category": "sports",
-   "headline": "2035 Women's World Cup to be hosted by England, NI, Scotland, Wales",
-   "question": "Will the joint hosting boost women's football development across the UK?",
-   "source": "BBC Sport"
+   "category": "world",
+   "headline": "What strike on Russian ship in Libya says about spread of Ukraine war",
+   "source": "BBC News",
+   "question": "What do you make of this story: What strike on Russian ship in Libya says about spread of Ukraine war?"
   },
   {
    "id": "t3",
    "category": "world",
-   "headline": "COP31's failure highlights global division on climate action",
-   "question": "What steps are needed to overcome divisions and achieve a new climate agreement?",
-   "source": "BBC News"
+   "headline": "Israeli attacks have turned Gaza into 'toxic wasteland', Oxfam says",
+   "source": "BBC News",
+   "question": "What do you make of this story: Israeli attacks have turned Gaza into 'toxic wasteland', Oxfam says?"
   },
   {
    "id": "t4",
-   "category": "tech",
-   "headline": "San Francisco AI boom raises concerns about a potential market crash",
-   "question": "Is the rapid growth of AI in San Francisco sustainable or a bubble waiting to burst?",
-   "source": "BBC News"
+   "category": "sports",
+   "headline": "Tarkowski's first Premier League red ruins Moyes' night - was it deserved?",
+   "source": "BBC Sport",
+   "question": "What do you make of this story: Tarkowski's first Premier League red ruins Moyes' night - was it deserved??"
   },
   {
    "id": "t5",
-   "category": "science",
-   "headline": "Mercury mission returns after eight-year journey, bringing new data",
-   "question": "What scientific insights are most significant from Mercury's recent visitor mission?",
-   "source": "BBC News"
+   "category": "sports",
+   "headline": "'No-one's coming to save us' - but how can Man Utd save themselves?",
+   "source": "BBC Sport",
+   "question": "What do you make of this story: 'No-one's coming to save us' - but how can Man Utd save themselves??"
   },
   {
    "id": "t6",
-   "category": "health",
-   "headline": "Pancreatic cancer trial shows promising results with tumor disappearance",
-   "question": "Could this trial's approach become a standard treatment for pancreatic cancer?",
-   "source": "BBC News"
+   "category": "sports",
+   "headline": "De Bruyne's feelings for Man City will 'never change'",
+   "source": "BBC Sport",
+   "question": "What do you make of this story: De Bruyne's feelings for Man City will 'never change'?"
   },
   {
    "id": "t7",
-   "category": "business",
-   "headline": "Capita shares tumble 70% after CEO resignation over pension scheme failure",
-   "question": "What governance reforms could prevent similar pension-related collapses in the future?",
-   "source": "BBC News"
+   "category": "sports",
+   "headline": "'Right on time' - Kildunne on Quins exit stories",
+   "source": "BBC Sport",
+   "question": "What do you make of this story: 'Right on time' - Kildunne on Quins exit stories?"
   },
   {
    "id": "t8",
-   "category": "trending",
-   "headline": "Cathie Wood remains a focal point in investment discussions",
-   "question": "How should investors assess the risks and rewards of following Cathie Wood's strategies?",
-   "source": "Google Trends"
+   "category": "tech",
+   "headline": "US to blacklist Asian AI firm Megaspeed after Nvidia scandal",
+   "source": "BBC News",
+   "question": "What do you make of this story: US to blacklist Asian AI firm Megaspeed after Nvidia scandal?"
   },
   {
    "id": "t9",
    "category": "tech",
-   "headline": "Nvidia shares surge 33% as tech stocks rally on Jensen Huang's return",
-   "question": "Does Nvidia's stock jump reflect broader confidence in the semiconductor sector?",
-   "source": "BBC News"
+   "headline": "How important are Nvidia and Jensen Huang to the US economy?",
+   "source": "BBC News",
+   "question": "What do you make of this story: How important are Nvidia and Jensen Huang to the US economy??"
   }
  ]
 }
