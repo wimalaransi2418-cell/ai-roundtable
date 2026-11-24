@@ -1,6 +1,11 @@
 {
  "sessions": [
   {
+   "id": "20261124-2348",
+   "started_at": "2026-11-24T23:48:34+00:00",
+   "question_en": "Should insurance companies be allowed to use AI‑predicted long‑term heart attack and stroke risk to determine premiums?"
+  },
+  {
    "id": "20261124-1323",
    "started_at": "2026-11-24T13:23:09+00:00",
    "question_en": "Should existing insider‑trading laws be expanded to cover prediction‑market platforms like Polymarket?"
