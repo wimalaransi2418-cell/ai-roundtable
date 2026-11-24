@@ -1,6 +1,11 @@
 {
  "sessions": [
   {
+   "id": "20261124-1323",
+   "started_at": "2026-11-24T13:23:09+00:00",
+   "question_en": "Should existing insider‑trading laws be expanded to cover prediction‑market platforms like Polymarket?"
+  },
+  {
    "id": "20261124-0203",
    "started_at": "2026-11-24T02:03:07+00:00",
    "question_en": "Should private companies be granted ownership rights over resources they extract from celestial bodies like Mercury?"

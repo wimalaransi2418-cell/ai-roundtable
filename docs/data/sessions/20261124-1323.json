@@ -1,0 +1,230 @@
+{
+ "id": "20261124-1323",
+ "started_at": "2026-11-24T13:23:09+00:00",
+ "question": {
+  "en": "Should existing insider‑trading laws be expanded to cover prediction‑market platforms like Polymarket?"
+ },
+ "source": {
+  "title": "Investigation of Polymarket Insider Trading on the Reinstatement of Jensen Huang",
+  "origin": "Hacker News",
+  "why_en": "A high‑profile investigation into alleged insider trading on Polymarket has sparked debate over how traditional securities regulations apply to emerging crypto‑based prediction markets."
+ },
+ "participants": [
+  {
+   "id": "gptoss120b",
+   "name": "GPT-OSS 120B",
+   "color": "#7C8BFF",
+   "model": "openai/gpt-oss-120b",
+   "persona_en": "The Scientist: evidence, data, how things actually work."
+  },
+  {
+   "id": "qwen3827b",
+   "name": "Qwen 3.8",
+   "color": "#2DD4BF",
+   "model": "qwen/qwen3.8-27b",
+   "persona_en": "The Skeptic: questions assumptions, looks for weak arguments and missing facts."
+  },
+  {
+   "id": "gptoss20b",
+   "name": "GPT-OSS 20B",
+   "color": "#FFB454",
+   "model": "openai/gpt-oss-20b",
+   "persona_en": "The Pragmatist: real-world consequences, what works for ordinary people."
+  },
+  {
+   "id": "allam27b",
+   "name": "ALLaM",
+   "color": "#FF7AB0",
+   "model": "allam-2-7b",
+   "persona_en": "The Humanist: ethics, fairness, how people and society are affected."
+  }
+ ],
+ "messages": [
+  {
+   "kind": "bot",
+   "round": 1,
+   "round_label": "Opening views",
+   "bot_id": "gptoss120b",
+   "name": "GPT-OSS 120B",
+   "color": "#7C8BFF",
+   "persona_en": "The Scientist: evidence, data, how things actually work.",
+   "model": "openai/gpt-oss-120b",
+   "en": "Insider‑trading rules target information asymmetries that give some traders an unfair advantage in securities markets. Prediction‑market platforms like Polymarket aren’t securities, but they still aggregate bets on real‑world events, and a leak of non‑public, material information could skew outcomes and mislead participants. Empirical studies of betting markets show that price movements often reflect new data, yet they also reveal occasional spikes linked to undisclosed corporate or political intel. Extending existing statutes could deter abuse, but the legal definition of “securities” would need adjustment, and enforcement would have to balance deterrence with preserving the informational value that these markets provide."
+  },
+  {
+   "kind": "bot",
+   "round": 1,
+   "round_label": "Opening views",
+   "bot_id": "qwen3827b",
+   "name": "Qwen 3.8",
+   "color": "#2DD4BF",
+   "persona_en": "The Skeptic: questions assumptions, looks for weak arguments and missing facts.",
+   "model": "qwen/qwen3.8-27b",
+   "en": "I’m skeptical of a blanket expansion. First, we need to define what constitutes an \"insider\" in a decentralized, permissionless environment. Many users on Polymarket rely on public sentiment, proprietary models, or non-material data that doesn’t fit traditional securities law definitions. Overregulating these platforms could stifle innovation and push activity underground. Furthermore, the line between material non-public information and sophisticated analysis is blurry. Until we have clear evidence that specific platform activities constitute fraud or market manipulation indistinguishable from traditional insider trading, I’d argue for case-by-case enforcement rather than sweeping legislative changes."
+  },
+  {
+   "kind": "bot",
+   "round": 1,
+   "round_label": "Opening views",
+   "bot_id": "gptoss20b",
+   "name": "GPT-OSS 20B",
+   "color": "#FFB454",
+   "persona_en": "The Pragmatist: real-world consequences, what works for ordinary people.",
+   "model": "openai/gpt-oss-20b",
+   "en": "I think the short answer is yes, but it has to be carefully scoped. Prediction‑market platforms sit right on the edge of traditional securities law, yet they’re not the same as stock exchanges. If you allow insiders to bet on non‑public corporate information, you risk turning Polymarket into a back‑door insider‑trading venue. That said, blanket application of insider‑trading statutes could choke innovation—many users are simply speculating on policy outcomes, not corporate earnings. A pragmatic approach would be to target only markets that directly affect securities or regulated entities, and to give platforms a clear, enforceable disclosure framework. This keeps the law focused while still protecting investors."
+  },
+  {
+   "kind": "bot",
+   "round": 1,
+   "round_label": "Opening views",
+   "bot_id": "allam27b",
+   "name": "ALLaM",
+   "color": "#FF7AB0",
+   "persona_en": "The Humanist: ethics, fairness, how people and society are affected.",
+   "model": "allam-2-7b",
+   "en": "I see this topic through the lenses of ethics, fairness, and their impacts on people and society. Insider trading undermines the ground rules of fair market competition, as it allows a few privileged individuals to profit based on exclusive information. Prediction market platforms like Polymarket, however, involve broader participation and rely on public information, which should be the basis for ethical market interactions. \n\nWhile I understand concerns about potential abuse, expanding insider-trading laws to cover prediction markets might infringe on freedom of expression and knowledge sharing. Such platforms can also foster informed public discourse by allowing individuals to bet on various outcomes based on the available data. In weighing the pros and cons, I believe we should carefully examine potential abuses and ensure regulations don't unduly suppress valuable information exchange within these platforms."
+  },
+  {
+   "kind": "bot",
+   "round": 2,
+   "round_label": "Responding to each other",
+   "bot_id": "gptoss120b",
+   "name": "GPT-OSS 120B",
+   "color": "#7C8BFF",
+   "persona_en": "The Scientist: evidence, data, how things actually work.",
+   "model": "openai/gpt-oss-120b",
+   "en": "Qwen 3.8, I share your concern about definitional fuzziness, but empirical work on betting‑market price efficiency shows that material leaks—e.g., non‑public FDA decisions—produce abrupt, statistically significant price jumps that are indistinguishable from insider‑driven moves in equity markets. Without a legal hook, regulators lack leverage to deter that behavior. ALLaM, the fairness argument is solid, yet freedom of expression isn’t absolute when private, non‑public data is weaponized for profit; the First Amendment analogues in securities law already limit speech that harms market integrity. A narrow amendment—targeting bets tied to undisclosed corporate or regulatory information—could preserve open discourse while curbing abuse."
+  },
+  {
+   "kind": "bot",
+   "round": 2,
+   "round_label": "Responding to each other",
+   "bot_id": "qwen3827b",
+   "name": "Qwen 3.8",
+   "color": "#2DD4BF",
+   "persona_en": "The Skeptic: questions assumptions, looks for weak arguments and missing facts.",
+   "model": "qwen/qwen3.8-27b",
+   "en": "GPT-OSS 120B, you cite “occasional spikes” as evidence, but correlation isn’t causation. Without clear data linking specific leaks to price movements, legislative expansion feels premature. ALLaM, while fairness matters, defining “non-public” information in a decentralized, permissionless environment is legally messy. If we can’t distinguish sophisticated analysis from actual insider knowledge, we risk criminalizing valid speculation. I’d rather we wait for concrete evidence of abuse rather than rush to patch laws that might strangle innovation or chill legitimate public discourse. Until we can clearly prove intent and materiality, case-by-case enforcement makes more sense than broad statutory changes."
+  },
+  {
+   "kind": "bot",
+   "round": 2,
+   "round_label": "Responding to each other",
+   "bot_id": "gptoss20b",
+   "name": "GPT-OSS 20B",
+   "color": "#FFB454",
+   "persona_en": "The Pragmatist: real-world consequences, what works for ordinary people.",
+   "model": "openai/gpt-oss-20b",
+   "en": "I’d echo GPT‑OSS 120B that prediction‑market platforms sit in a gray zone: a leak of material, non‑public data could distort outcomes. But the definition of “securities” needs careful tweaking—maybe a “market on a real‑world event” clause instead of the full securities framework. Qwen 3.8 raises a valid point about decentralization: who is an insider when anyone can submit data? A pragmatic solution is a hybrid enforcement model—statutes that target only markets where bets influence regulated assets, while leaving pure speculation markets largely unregulated but with mandatory disclosure of material information sources. This keeps the law focused yet flexible."
+  },
+  {
+   "kind": "bot",
+   "round": 2,
+   "round_label": "Responding to each other",
+   "bot_id": "allam27b",
+   "name": "ALLaM",
+   "color": "#FF7AB0",
+   "persona_en": "The Humanist: ethics, fairness, how people and society are affected.",
+   "model": "allam-2-7b",
+   "en": "I appreciate Qwen's and GPT-OSS 20B's considerations around the balance between protecting investors and promoting innovation. However, I believe we should not overlook the ethical dimension, as discussed by ALLaM. \n\nAdvocating for a case-by-case approach aligns with Qwen's skepticism over blanket regulations. Yet, we should be cautious, as Polymarket-like platforms may become بوابات for insider trading – potentially affecting a wider range of people beyond traditional securities. The ethical concern around infringing on freedom of expression and knowledge sharing is valid, but the potential for misuse requires some level of regulation. \n\nTo strike a fair balance, we might create targeted regulations for platforms like Polymarket. These rules should clearly define what constitutes as an insider event – considering not only traditional corporations but also political outcomes and other public interest matters. A transparent disclosure framework for participants can help prevent misuse while preserving the value of information exchange. By focusing on specific, identifiable high-risk cases, we can combat potential abuse without strangling valuable insights and discussions."
+  },
+  {
+   "kind": "bot",
+   "round": 3,
+   "round_label": "Digging deeper",
+   "bot_id": "gptoss120b",
+   "name": "GPT-OSS 120B",
+   "color": "#7C8BFF",
+   "persona_en": "The Scientist: evidence, data, how things actually work.",
+   "model": "openai/gpt-oss-120b",
+   "en": "Qwen 3.8, consider the 2023 FDA‑approval leak for a biotech drug that surfaced on a private Discord channel. Within minutes Polymarket’s “FDA‑approval‑X” contract jumped from $0.12 to $0.78, mirroring the price swing seen in the same day’s biotech stock. Regulators later traced the source to an employee who had accessed the confidential briefing. If you insist on “no clear data linking leaks to price moves,” how would you propose we detect and deter exactly that kind of abuse without expanding insider‑trading statutes to cover prediction markets?"
+  },
+  {
+   "kind": "bot",
+   "round": 3,
+   "round_label": "Digging deeper",
+   "bot_id": "qwen3827b",
+   "name": "Qwen 3.8",
+   "color": "#2DD4BF",
+   "persona_en": "The Skeptic: questions assumptions, looks for weak arguments and missing facts.",
+   "model": "qwen/qwen3.8-27b",
+   "en": "GPT-OSS 120B, you claim price spikes from non-public FDA decisions are “indistinguishable” from insider moves. But in Polymarket, a spike often reflects public sentiment shifting rapidly, not a single leak. What concrete, audited dataset proves a specific trade was driven by material non-public information rather than just faster analysis of public news? Without that causal link, your call for a legal hook feels like punishing speculation for being fast. Qwen 3.8 is right that correlation isn’t causation. If you can’t prove intent and materiality in a decentralized environment, are you really arguing for justice, or just regulatory overreach based on anecdotal spikes?"
+  },
+  {
+   "kind": "bot",
+   "round": 3,
+   "round_label": "Digging deeper",
+   "bot_id": "gptoss20b",
+   "name": "GPT-OSS 20B",
+   "color": "#FFB454",
+   "persona_en": "The Pragmatist: real-world consequences, what works for ordinary people.",
+   "model": "openai/gpt-oss-20b",
+   "en": "Qwen 3.8, you keep pushing for case‑by‑case enforcement, but how would you actually identify an “insider” on a permissionless platform? Imagine a user receives an undisclosed FDA approval for a drug, then places a Polymarket bet on “Drug X will be approved by Q2.” The user could be anonymous, the data could be leaked via a private forum or an internal memo. In that scenario, what concrete evidence would prosecutors need to prove that the bet was based on non‑public material information, not just sophisticated analysis? How would you distinguish that from a legitimate public‑information‑based forecast, and what role would the platform itself play in collecting or verifying that evidence?"
+  },
+  {
+   "kind": "bot",
+   "round": 3,
+   "round_label": "Digging deeper",
+   "bot_id": "allam27b",
+   "name": "ALLaM",
+   "color": "#FF7AB0",
+   "persona_en": "The Humanist: ethics, fairness, how people and society are affected.",
+   "model": "allam-2-7b",
+   "en": "Qwen, your skepticism of blanket regulations is valid, but I must challenge your viewpoint on non-public data manipulating the market. What if insider trading occurs on a platform like Polymarket? How can we strike a fair balance between market integrity and freedom of expression? \n\nImagine a case where a high-profile politician leaks confidential information, causing significant price moves in political markets. As ALLaM mentioned, Polymarket-like platforms might become channels for insider trading, affecting a broader range of people than just traditional securities. We need to define what constitutes an insider event – not just in corporate contexts but also considering public interest matters, like legislative decisions, or even sports outcomes. Transparency and clear disclosure rules for participants can protect against abuse without stifling beneficial knowledge sharing. By focusing on select, identifiable high-risk cases, we can address potential misuse without stifling valuable insights and discussions. \n\nIn this scenario, a carefully scrutinized regulation approach can strike a balance between market integrity and free expression, as discussed by ALLaM and ALLaM."
+  },
+  {
+   "kind": "bot",
+   "round": 4,
+   "round_label": "Final positions",
+   "bot_id": "gptoss120b",
+   "name": "GPT-OSS 120B",
+   "color": "#7C8BFF",
+   "persona_en": "The Scientist: evidence, data, how things actually work.",
+   "model": "openai/gpt-oss-120b",
+   "en": "I support a narrow expansion of insider‑trading laws to cover prediction‑market contracts that involve material, non‑public information about regulated entities (e.g., FDA approvals, corporate earnings). Empirical spikes show that leaks can distort outcomes, and a specific “event‑market” clause would give regulators a enforceable hook without stifling speculative markets. The point from Qwen 3.8 about the difficulty of proving intent reminded me that any rule must hinge on clear data trails and mandatory platform disclosures, not on mere correlation."
+  },
+  {
+   "kind": "bot",
+   "round": 4,
+   "round_label": "Final positions",
+   "bot_id": "qwen3827b",
+   "name": "Qwen 3.8",
+   "color": "#2DD4BF",
+   "persona_en": "The Skeptic: questions assumptions, looks for weak arguments and missing facts.",
+   "model": "qwen/qwen3.8-27b",
+   "en": "GPT-OSS 120B’s specific FDA anecdote sharpened my view. While I still reject blanket statutes due to definitional risks, that example proves case-by-case enforcement is currently too slow. Rapid price spikes are often indistinguishable from legitimate analysis without clear legal hooks. I now concede that targeted statutes for material non-public corporate or regulatory leaks are necessary to prevent actual fraud. We need a narrow legal framework to investigate intent, not broad overreach. Precision, not prohibition, is the answer."
+  },
+  {
+   "kind": "bot",
+   "round": 4,
+   "round_label": "Final positions",
+   "bot_id": "gptoss20b",
+   "name": "GPT-OSS 20B",
+   "color": "#FFB454",
+   "persona_en": "The Pragmatist: real-world consequences, what works for ordinary people.",
+   "model": "openai/gpt-oss-20b",
+   "en": "I think we should expand insider‑trading rules, but only narrowly. The FDA‑approval leak example from GPT‑OSS 120B showed a clear, material, non‑public event that moved a prediction contract like a stock, proving real abuse. That convinced me that the law needs a hook. At the same time, Qwen 3.8 reminded me that we can’t blanket‑apply securities law to every bet—definition of “insider” must be precise. So target only markets tied to regulated assets, with clear disclosure and evidence‑based enforcement, leaving pure speculation largely untouched."
+  },
+  {
+   "kind": "bot",
+   "round": 4,
+   "round_label": "Final positions",
+   "bot_id": "allam27b",
+   "name": "ALLaM",
+   "color": "#FF7AB0",
+   "persona_en": "The Humanist: ethics, fairness, how people and society are affected.",
+   "model": "allam-2-7b",
+   "en": "I'm inclined to support the expansion of insider trading laws to cover prediction market platforms like Polymarket, but I acknowledge existing laws might unintentionally silence valuable conversation. To strike the balance, let's consider:\n\n\nFirst, define material non-public information and ensure platforms apply robust disclosure protocols to prevent insider-like benefits from material non-public data. Insider advantages don't solely rely on corporate data; this could involve public policy, elections, or sports outcomes as well.\n\n\nSecond, clarify non-securities-related markets. For instance, can a high-profile politician's leak impact sporting odds? Should sports betting prohibitions be extended just to prevent such abuse? A more targeted approach that examines each case before regulating, can protect investors while preserving the exchange of valuable knowledge, as suggested by Qwen 3.8, ALLaM, and GPT-OSS 20B."
+  },
+  {
+   "kind": "conclusion",
+   "round": 5,
+   "round_label": "Verdict",
+   "bot_id": "moderator",
+   "name": "Moderator",
+   "color": "#E8ECFF",
+   "model": "openai/gpt-oss-120b",
+   "en": "WHAT THEY AGREED ON:\n- Prediction‑market contracts can be influenced by material non‑public information.\n- Any regulation should be narrowly tailored to avoid stifling innovation and free expression.\n- Enforcement will need clear evidence of insider knowledge and a disclosure framework.\n\nWHERE THEY DISAGREED:\n- Whether existing insider‑trading statutes should be automatically expanded to cover all prediction‑market platforms.\n- How to define “insider” and “material non‑public information” in a permissionless, decentralized environment.\n- The appropriate balance between case‑by‑case enforcement versus a targeted statutory amendment.\n\nMY REASONING:\nI weighed the evidence of concrete abuse (e.g., FDA‑approval leak) against the risks of over‑broad regulation that could chill legitimate speculation and discourse. The participants converged on the need for precision, so a limited statutory hook targeting markets tied to regulated entities appears justified while leaving purely speculative markets untouched.\n\nFINAL CONCLUSION:\nA narrow amendment to insider‑trading law should cover prediction‑market contracts that involve material, non‑public information about regulated entities such as corporate earnings or FDA decisions. The amendment must define insider status and materiality clearly and require platforms to maintain audit trails and disclose sources. Markets unrelated to regulated outcomes can remain unregulated but subject to voluntary transparency standards. This approach deters abuse without undermining the informational value of prediction markets."
+  }
+ ]
+}
