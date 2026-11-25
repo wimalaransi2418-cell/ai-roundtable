@@ -1,75 +1,75 @@
 {
- "updated_at": "2026-11-24T17:28:31+00:00",
+ "updated_at": "2026-11-25T02:14:27+00:00",
  "items": [
   {
    "id": "t0",
    "category": "weather",
-   "headline": "Thanksgiving travel forecast predicts storms on both US coasts",
-   "question": "How should travelers adjust plans given the forecasted storms on both coasts?",
+   "headline": "Major Thanksgiving storm expected to bring significant impacts",
+   "question": "How should communities prepare for the upcoming Thanksgiving storm to minimize disruption?",
    "source": "Google News"
   },
   {
    "id": "t1",
    "category": "sports",
-   "headline": "NFL Week 12 power rankings released ahead of Thanksgiving games",
-   "question": "What factors should be weighted most when ranking teams this week?",
-   "source": "Google News"
+   "headline": "Man City’s playing style shows signs of slowing down",
+   "question": "Is Manchester City’s recent dip in performance a temporary slump or a sign of deeper issues?",
+   "source": "BBC Sport"
   },
   {
    "id": "t2",
    "category": "sports",
-   "headline": "Cubs sign Japanese pitcher Teruaki Sato to six-year, $120 million contract",
-   "question": "Will Sato's long-term deal improve the Cubs' competitiveness in coming seasons?",
-   "source": "Google News"
+   "headline": "Bellingham downplays Zidane comparison after impressive goal",
+   "question": "Should young talents like Bellingham be compared to legends such as Zidane, or does it create undue pressure?",
+   "source": "BBC Sport"
   },
   {
    "id": "t3",
-   "category": "tech",
-   "headline": "San Francisco experiences AI boom while experts warn of potential market crash",
-   "question": "Can the rapid AI growth in San Francisco be sustained without a major downturn?",
+   "category": "world",
+   "headline": "NATO chief pledges defence against emerging space threats",
+   "question": "What are the most effective strategies for NATO to address potential space‑based security challenges?",
    "source": "BBC News"
   },
   {
    "id": "t4",
-   "category": "science",
-   "headline": "Mercury receives a visitor after an eight‑year spacecraft mission",
-   "question": "What scientific insights could the Mercury flyby provide for future exploration?",
+   "category": "tech",
+   "headline": "Faisal Islam warns that concerns over the AI boom persist",
+   "question": "Are the current regulatory approaches sufficient to address the risks associated with rapid AI development?",
    "source": "BBC News"
   },
   {
    "id": "t5",
-   "category": "health",
-   "headline": "NHS launches large AI trial to detect breast cancer earlier",
-   "question": "Will AI screening significantly improve early detection rates compared to current methods?",
+   "category": "tech",
+   "headline": "Nvidia’s market value rises by nearly $1tn as stocks rally",
+   "question": "Does Nvidia’s soaring valuation reflect sustainable growth or a speculative bubble in the tech sector?",
    "source": "BBC News"
   },
   {
    "id": "t6",
-   "category": "business",
-   "headline": "New type of landlord emerges, reshaping the rental market",
-   "question": "How will the rise of non‑traditional landlords affect tenant rights and housing affordability?",
+   "category": "science",
+   "headline": "Will there be a White Christmas in the UK this year?",
+   "question": "How reliable are current climate models in predicting the likelihood of a White Christmas in the UK?",
    "source": "BBC News"
   },
   {
    "id": "t7",
-   "category": "trending",
-   "headline": "Bioware trends as gamers anticipate upcoming releases",
-   "question": "What expectations do fans have for Bioware's next game, and how realistic are they?",
-   "source": "Google Trends"
+   "category": "health",
+   "headline": "NHS launches large trial to test AI for early breast cancer detection",
+   "question": "Can AI‑driven screening reliably improve early detection rates for breast cancer compared to traditional methods?",
+   "source": "BBC News"
   },
   {
    "id": "t8",
-   "category": "world",
-   "headline": "NATO chief pledges defence against space threats after Russian satellite incident",
-   "question": "Is NATO's focus on space security a necessary shift in modern defence strategy?",
+   "category": "business",
+   "headline": "New energy price cap to be announced as households brace for higher bills",
+   "question": "Will the upcoming energy price cap effectively protect consumers from soaring utility costs?",
    "source": "BBC News"
   },
   {
    "id": "t9",
-   "category": "science",
-   "headline": "Analysis of COP31 failure highlights global divisions on climate action",
-   "question": "What steps can be taken to bridge the gaps that led to the COP31 stalemate?",
-   "source": "BBC News"
+   "category": "trending",
+   "headline": "Google Trends shows rising interest in basketball player Trae Young",
+   "question": "What factors are driving the recent surge in online searches for Trae Young?",
+   "source": "Google Trends"
   }
  ]
 }
