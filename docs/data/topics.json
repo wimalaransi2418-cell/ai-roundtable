@@ -1,75 +1,75 @@
 {
- "updated_at": "2026-11-25T12:33:52+00:00",
+ "updated_at": "2026-11-25T22:22:50+00:00",
  "items": [
   {
    "id": "t0",
    "category": "world",
-   "headline": "US Attorney General avoids answering questions on Nvidia probe",
-   "question": "Should the Attorney General be more transparent about investigations into major tech firms?",
+   "headline": "US announces new tariffs on several countries, including China",
+   "question": "Will the new US tariffs effectively protect domestic industries without harming global trade?",
    "source": "BBC News"
   },
   {
    "id": "t1",
    "category": "sports",
-   "headline": "Bellingham downplays Zidane comparison after impressive goal",
-   "question": "Do media comparisons to legends create unfair pressure on young players?",
+   "headline": "Borussia Dortmund draws with Arsenal after comeback",
+   "question": "Does Dortmund's performance indicate they can challenge for the title this season?",
    "source": "BBC Sport"
   },
   {
    "id": "t2",
    "category": "sports",
-   "headline": "Lincoln Football Club dismisses head coach duo Cohen and Shaw",
-   "question": "Is replacing both head coaches simultaneously an effective strategy for a struggling team?",
+   "headline": "Isak scores twice as Liverpool defeats Brugge",
+   "question": "Can Liverpool maintain this attacking form throughout the Champions League?",
    "source": "BBC Sport"
   },
   {
    "id": "t3",
-   "category": "tech",
-   "headline": "EA introduces AI-generated commentator John Motson in FC 27",
-   "question": "Will AI-generated sports commentary enhance or diminish the fan experience?",
-   "source": "BBC News"
+   "category": "weather",
+   "headline": "Thanksgiving storm expected to hit East Coast with heavy rain and flooding",
+   "question": "How should authorities prepare communities for the anticipated Thanksgiving storm?",
+   "source": "Google News"
   },
   {
    "id": "t4",
    "category": "tech",
-   "headline": "Tiny cars gaining popularity across Europe",
-   "question": "Are microcars a sustainable solution to urban congestion and emissions?",
+   "headline": "US moves to blacklist Asian AI firm Megaspeed following Nvidia scandal",
+   "question": "Will blacklisting Megaspeed curb AI-related security risks or hinder innovation?",
    "source": "BBC News"
   },
   {
    "id": "t5",
    "category": "science",
-   "headline": "China launches first Pakistani astronaut aboard Shenzhou-24",
-   "question": "What are the geopolitical implications of joint space missions between China and Pakistan?",
+   "headline": "Canadian astronaut welcomes baby girl from the International Space Station",
+   "question": "What are the implications of births being celebrated from space for public interest in space travel?",
    "source": "BBC News"
   },
   {
    "id": "t6",
    "category": "health",
-   "headline": "NHS starts large trial to test AI for early breast cancer detection",
-   "question": "Can AI reliably improve early cancer detection compared to traditional methods?",
+   "headline": "NHS launches large trial to test AI for earlier breast cancer detection",
+   "question": "Can AI improve early breast cancer detection enough to become standard practice?",
    "source": "BBC News"
   },
   {
    "id": "t7",
    "category": "business",
-   "headline": "Energy bills set to rise 26% in January due to gas price surge",
-   "question": "What measures should governments take to protect consumers from sudden energy cost spikes?",
+   "headline": "Energy bills set to rise 26% from January as gas prices surge",
+   "question": "What measures can households take to mitigate the impact of rising energy costs?",
    "source": "BBC News"
   },
   {
    "id": "t8",
-   "category": "weather",
-   "headline": "Timeline shows upcoming East Coast Thanksgiving week storm impacts",
-   "question": "How should travelers adjust plans in anticipation of major Thanksgiving storms?",
-   "source": "Google News"
+   "category": "trending",
+   "headline": "Stock markets trending as investors watch economic indicators",
+   "question": "Are current market trends signaling a sustained recovery or a temporary bounce?",
+   "source": "Google Trends"
   },
   {
    "id": "t9",
-   "category": "trending",
-   "headline": "Upcoming PCE report expected to influence inflation outlook",
-   "question": "How much weight should policymakers give to the PCE report when setting monetary policy?",
-   "source": "Google Trends"
+   "category": "tech",
+   "headline": "Reviewer shares experience with Meta's Muse ahead of UK launch",
+   "question": "Does Meta's Muse offer enough unique features to compete in the AI assistant market?",
+   "source": "BBC News"
   }
  ]
 }
