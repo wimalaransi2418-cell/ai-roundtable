@@ -1,74 +1,74 @@
 {
- "updated_at": "2026-11-25T02:14:27+00:00",
+ "updated_at": "2026-11-25T12:33:52+00:00",
  "items": [
   {
    "id": "t0",
-   "category": "weather",
-   "headline": "Major Thanksgiving storm expected to bring significant impacts",
-   "question": "How should communities prepare for the upcoming Thanksgiving storm to minimize disruption?",
-   "source": "Google News"
+   "category": "world",
+   "headline": "US Attorney General avoids answering questions on Nvidia probe",
+   "question": "Should the Attorney General be more transparent about investigations into major tech firms?",
+   "source": "BBC News"
   },
   {
    "id": "t1",
    "category": "sports",
-   "headline": "Man City’s playing style shows signs of slowing down",
-   "question": "Is Manchester City’s recent dip in performance a temporary slump or a sign of deeper issues?",
+   "headline": "Bellingham downplays Zidane comparison after impressive goal",
+   "question": "Do media comparisons to legends create unfair pressure on young players?",
    "source": "BBC Sport"
   },
   {
    "id": "t2",
    "category": "sports",
-   "headline": "Bellingham downplays Zidane comparison after impressive goal",
-   "question": "Should young talents like Bellingham be compared to legends such as Zidane, or does it create undue pressure?",
+   "headline": "Lincoln Football Club dismisses head coach duo Cohen and Shaw",
+   "question": "Is replacing both head coaches simultaneously an effective strategy for a struggling team?",
    "source": "BBC Sport"
   },
   {
    "id": "t3",
-   "category": "world",
-   "headline": "NATO chief pledges defence against emerging space threats",
-   "question": "What are the most effective strategies for NATO to address potential space‑based security challenges?",
+   "category": "tech",
+   "headline": "EA introduces AI-generated commentator John Motson in FC 27",
+   "question": "Will AI-generated sports commentary enhance or diminish the fan experience?",
    "source": "BBC News"
   },
   {
    "id": "t4",
    "category": "tech",
-   "headline": "Faisal Islam warns that concerns over the AI boom persist",
-   "question": "Are the current regulatory approaches sufficient to address the risks associated with rapid AI development?",
+   "headline": "Tiny cars gaining popularity across Europe",
+   "question": "Are microcars a sustainable solution to urban congestion and emissions?",
    "source": "BBC News"
   },
   {
    "id": "t5",
-   "category": "tech",
-   "headline": "Nvidia’s market value rises by nearly $1tn as stocks rally",
-   "question": "Does Nvidia’s soaring valuation reflect sustainable growth or a speculative bubble in the tech sector?",
+   "category": "science",
+   "headline": "China launches first Pakistani astronaut aboard Shenzhou-24",
+   "question": "What are the geopolitical implications of joint space missions between China and Pakistan?",
    "source": "BBC News"
   },
   {
    "id": "t6",
-   "category": "science",
-   "headline": "Will there be a White Christmas in the UK this year?",
-   "question": "How reliable are current climate models in predicting the likelihood of a White Christmas in the UK?",
+   "category": "health",
+   "headline": "NHS starts large trial to test AI for early breast cancer detection",
+   "question": "Can AI reliably improve early cancer detection compared to traditional methods?",
    "source": "BBC News"
   },
   {
    "id": "t7",
-   "category": "health",
-   "headline": "NHS launches large trial to test AI for early breast cancer detection",
-   "question": "Can AI‑driven screening reliably improve early detection rates for breast cancer compared to traditional methods?",
+   "category": "business",
+   "headline": "Energy bills set to rise 26% in January due to gas price surge",
+   "question": "What measures should governments take to protect consumers from sudden energy cost spikes?",
    "source": "BBC News"
   },
   {
    "id": "t8",
-   "category": "business",
-   "headline": "New energy price cap to be announced as households brace for higher bills",
-   "question": "Will the upcoming energy price cap effectively protect consumers from soaring utility costs?",
-   "source": "BBC News"
+   "category": "weather",
+   "headline": "Timeline shows upcoming East Coast Thanksgiving week storm impacts",
+   "question": "How should travelers adjust plans in anticipation of major Thanksgiving storms?",
+   "source": "Google News"
   },
   {
    "id": "t9",
    "category": "trending",
-   "headline": "Google Trends shows rising interest in basketball player Trae Young",
-   "question": "What factors are driving the recent surge in online searches for Trae Young?",
+   "headline": "Upcoming PCE report expected to influence inflation outlook",
+   "question": "How much weight should policymakers give to the PCE report when setting monetary policy?",
    "source": "Google Trends"
   }
  ]
