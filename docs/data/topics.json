@@ -1,75 +1,75 @@
 {
- "updated_at": "2026-11-26T04:53:38+00:00",
+ "updated_at": "2026-11-26T14:57:34+00:00",
  "items": [
   {
    "id": "t0",
    "category": "world",
-   "headline": "US announces new tariffs on multiple countries, including China",
-   "question": "How might these tariffs affect global trade and domestic economies?",
+   "headline": "German boat dealer suspected of supplying migrant smuggling gangs, BBC finds",
+   "question": "What measures should governments take to curb the supply of boats used for migrant smuggling?",
    "source": "BBC News"
   },
   {
    "id": "t1",
    "category": "sports",
-   "headline": "Isak scores twice as Liverpool seeks to bounce back",
-   "question": "Will Isak's performance signal a turning point for Liverpool's season?",
+   "headline": "FIFA confirms internal data was stolen in a cyber‑attack",
+   "question": "How can major sports organisations improve cybersecurity to protect sensitive data?",
    "source": "BBC Sport"
   },
   {
    "id": "t2",
    "category": "sports",
-   "headline": "Football regulator chief prepares to confront Manchester City over governance issues",
-   "question": "Is the regulator's approach likely to improve accountability in the Premier League?",
+   "headline": "Four‑time MVP Aaron Rodgers released; may have played his last NFL game",
+   "question": "Should veteran star quarterbacks be given more opportunities to extend their careers?",
    "source": "BBC Sport"
   },
   {
    "id": "t3",
-   "category": "tech",
-   "headline": "Experts warn that concerns over the rapid AI boom remain unresolved",
-   "question": "What measures should governments take to balance AI innovation with societal risks?",
-   "source": "BBC News"
+   "category": "weather",
+   "headline": "Thanksgiving travel forecast predicts storms on both coasts",
+   "question": "How should travelers adjust plans given the predicted Thanksgiving storms?",
+   "source": "Google News"
   },
   {
    "id": "t4",
-   "category": "science",
-   "headline": "UK expects fewer frosts and hotter days as climate shifts, Met Office says",
-   "question": "How should the UK adapt its infrastructure to cope with changing seasonal patterns?",
+   "category": "tech",
+   "headline": "Regulators approve Musk's plan to launch a million SpaceX data satellites",
+   "question": "Will a megaconstellation of a million satellites benefit global internet access or harm space sustainability?",
    "source": "BBC News"
   },
   {
    "id": "t5",
-   "category": "health",
-   "headline": "NHS launches large trial to test AI's ability to detect breast cancer early",
-   "question": "Can AI reliably improve early breast cancer detection compared to traditional methods?",
+   "category": "tech",
+   "headline": "EA adds AI‑generated commentator John Motson to FIFA 27 video game",
+   "question": "Does using AI‑generated personalities in games enhance realism or raise ethical concerns?",
    "source": "BBC News"
   },
   {
    "id": "t6",
-   "category": "business",
-   "headline": "Guitar makers clash over design rights in the transatlantic Stratocaster dispute",
-   "question": "Should iconic instrument designs be protected by intellectual property laws?",
+   "category": "science",
+   "headline": "Images reveal asteroid impact crater the size of a stadium for Earth‑defence test",
+   "question": "Are asteroid‑deflection tests a necessary investment for planetary protection?",
    "source": "BBC News"
   },
   {
    "id": "t7",
-   "category": "weather",
-   "headline": "Major Thanksgiving storm forecast to hit Northeast and Mid-Atlantic regions",
-   "question": "What precautions should residents take ahead of the anticipated Thanksgiving storm?",
-   "source": "Google News"
+   "category": "health",
+   "headline": "NHS launches world’s largest trial to see if AI can spot breast cancer earlier",
+   "question": "Can AI reliably improve early breast cancer detection compared to traditional methods?",
+   "source": "BBC News"
   },
   {
    "id": "t8",
-   "category": "trending",
-   "headline": "Current NFL standings spark debate over playoff predictions",
-   "question": "Which teams are most likely to secure playoff spots based on this week's standings?",
-   "source": "Google Trends"
+   "category": "business",
+   "headline": "Average monthly mortgage payments set to rise by £100 for millions",
+   "question": "What impact will higher mortgage costs have on the UK housing market and borrowers?",
+   "source": "BBC News"
   },
   {
    "id": "t9",
-   "category": "tech",
-   "headline": "Fears over the AI boom haven't gone away, say industry analysts",
-   "question": "Is stricter regulation the best way to address the risks associated with rapid AI development?",
-   "source": "BBC News"
+   "category": "trending",
+   "headline": "Peloton trends as consumers seek home‑fitness solutions",
+   "question": "Is the surge in home‑fitness equipment a lasting shift or a temporary pandemic‑era trend?",
+   "source": "Google Trends"
   }
  ]
 }
