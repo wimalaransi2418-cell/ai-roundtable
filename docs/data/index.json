@@ -1,6 +1,11 @@
 {
  "sessions": [
   {
+   "id": "20261126-1159",
+   "started_at": "2026-11-26T11:59:49+00:00",
+   "question_en": "Should software companies be required to provide clear opt‑out options for AI‑generated content features that could disrupt professional creative workflows?"
+  },
+  {
    "id": "20261125-2330",
    "started_at": "2026-11-25T23:30:19+00:00",
    "question_en": "Should governments regulate AI hardware manufacturers like Nvidia to prevent market monopolies and ensure competition?"
