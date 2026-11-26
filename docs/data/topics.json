@@ -1,75 +1,75 @@
 {
- "updated_at": "2026-11-26T14:57:34+00:00",
+ "updated_at": "2026-11-26T23:41:30+00:00",
  "items": [
   {
    "id": "t0",
    "category": "world",
-   "headline": "German boat dealer suspected of supplying migrant smuggling gangs, BBC finds",
-   "question": "What measures should governments take to curb the supply of boats used for migrant smuggling?",
-   "source": "BBC News"
+   "headline": "US too focused on Middle East and not pushing Russia hard enough, Zelensky tells BBC",
+   "source": "BBC News",
+   "question": "What do you make of this story: US too focused on Middle East and not pushing Russia hard enough, Zelensky tells BBC?"
   },
   {
    "id": "t1",
-   "category": "sports",
-   "headline": "FIFA confirms internal data was stolen in a cyber‑attack",
-   "question": "How can major sports organisations improve cybersecurity to protect sensitive data?",
-   "source": "BBC Sport"
+   "category": "world",
+   "headline": "German boat dealer suspected of supplying Channel smuggling gangs, BBC finds",
+   "source": "BBC News",
+   "question": "What do you make of this story: German boat dealer suspected of supplying Channel smuggling gangs, BBC finds?"
   },
   {
    "id": "t2",
-   "category": "sports",
-   "headline": "Four‑time MVP Aaron Rodgers released; may have played his last NFL game",
-   "question": "Should veteran star quarterbacks be given more opportunities to extend their careers?",
-   "source": "BBC Sport"
+   "category": "world",
+   "headline": "Diesel tanker carrying up to 7,000 tonnes capsizes near Ibiza, killing one",
+   "source": "BBC News",
+   "question": "What do you make of this story: Diesel tanker carrying up to 7,000 tonnes capsizes near Ibiza, killing one?"
   },
   {
    "id": "t3",
-   "category": "weather",
-   "headline": "Thanksgiving travel forecast predicts storms on both coasts",
-   "question": "How should travelers adjust plans given the predicted Thanksgiving storms?",
-   "source": "Google News"
+   "category": "world",
+   "headline": "Pregnant US inmate escapes in prison vehicle after medical appointment",
+   "source": "BBC News",
+   "question": "What do you make of this story: Pregnant US inmate escapes in prison vehicle after medical appointment?"
   },
   {
    "id": "t4",
-   "category": "tech",
-   "headline": "Regulators approve Musk's plan to launch a million SpaceX data satellites",
-   "question": "Will a megaconstellation of a million satellites benefit global internet access or harm space sustainability?",
-   "source": "BBC News"
+   "category": "sports",
+   "headline": "Bournemouth 'allowed to dream' as fans book Europa League final hotels",
+   "source": "BBC Sport",
+   "question": "What do you make of this story: Bournemouth 'allowed to dream' as fans book Europa League final hotels?"
   },
   {
    "id": "t5",
-   "category": "tech",
-   "headline": "EA adds AI‑generated commentator John Motson to FIFA 27 video game",
-   "question": "Does using AI‑generated personalities in games enhance realism or raise ethical concerns?",
-   "source": "BBC News"
+   "category": "sports",
+   "headline": "India's Pant joins New Zealand club match under false name",
+   "source": "BBC Sport",
+   "question": "What do you make of this story: India's Pant joins New Zealand club match under false name?"
   },
   {
    "id": "t6",
-   "category": "science",
-   "headline": "Images reveal asteroid impact crater the size of a stadium for Earth‑defence test",
-   "question": "Are asteroid‑deflection tests a necessary investment for planetary protection?",
-   "source": "BBC News"
+   "category": "sports",
+   "headline": "No post-match drug testing in South Africa v New Zealand series",
+   "source": "BBC Sport",
+   "question": "What do you make of this story: No post-match drug testing in South Africa v New Zealand series?"
   },
   {
    "id": "t7",
-   "category": "health",
-   "headline": "NHS launches world’s largest trial to see if AI can spot breast cancer earlier",
-   "question": "Can AI reliably improve early breast cancer detection compared to traditional methods?",
-   "source": "BBC News"
+   "category": "sports",
+   "headline": "GB win decider to reach Davis Cup semis for first time since 2019",
+   "source": "BBC Sport",
+   "question": "What do you make of this story: GB win decider to reach Davis Cup semis for first time since 2019?"
   },
   {
    "id": "t8",
-   "category": "business",
-   "headline": "Average monthly mortgage payments set to rise by £100 for millions",
-   "question": "What impact will higher mortgage costs have on the UK housing market and borrowers?",
-   "source": "BBC News"
+   "category": "tech",
+   "headline": "Asia made a big AI bet on Nvidia. What happens now?",
+   "source": "BBC News",
+   "question": "What do you make of this story: Asia made a big AI bet on Nvidia. What happens now??"
   },
   {
    "id": "t9",
-   "category": "trending",
-   "headline": "Peloton trends as consumers seek home‑fitness solutions",
-   "question": "Is the surge in home‑fitness equipment a lasting shift or a temporary pandemic‑era trend?",
-   "source": "Google Trends"
+   "category": "tech",
+   "headline": "Huawei found guilty of stealing US trade secrets but acquitted of racketeering",
+   "source": "BBC News",
+   "question": "What do you make of this story: Huawei found guilty of stealing US trade secrets but acquitted of racketeering?"
   }
  ]
 }
