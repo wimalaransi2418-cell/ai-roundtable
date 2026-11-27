@@ -1,74 +1,74 @@
 {
- "updated_at": "2026-11-27T08:04:17+00:00",
+ "updated_at": "2026-11-27T18:07:24+00:00",
  "items": [
   {
    "id": "t0",
    "category": "weather",
-   "headline": "Power outages affect over 650,000 homes on the U.S. East Coast",
-   "question": "What steps should utilities take to improve grid resilience against future storms?",
+   "headline": "More Than 650,000 Without Power on East Coast After Storm",
+   "question": "What steps should utilities take to improve grid resilience during extreme weather?",
    "source": "Google News"
   },
   {
    "id": "t1",
    "category": "sports",
-   "headline": "Tyler Bass nails 57‑yard field goal as Bills edge Chiefs 13‑10",
-   "question": "Should teams rely more on long field goals in close games, or prioritize offensive strategy?",
+   "headline": "Tyler Bass Kicks 57-Yard Walk-Off Field Goal as Bills Beat Chiefs",
+   "question": "How much should clutch performance influence a kicker’s contract negotiations?",
    "source": "Google News"
   },
   {
    "id": "t2",
    "category": "sports",
-   "headline": "Caleb Williams and Rome Odunze spark Bears' upset over Lions",
-   "question": "How important is quarterback‑receiver chemistry for a team's success?",
+   "headline": "Chicago Bears Lead Division, Coach Biggs Calls Team ‘Hungry’",
+   "question": "What changes are needed for the Bears to sustain their early-season success?",
    "source": "Google News"
   },
   {
    "id": "t3",
    "category": "world",
-   "headline": "New Zealand coalition falls one seat short of a parliamentary majority",
-   "question": "Will the resulting minority government affect New Zealand's policy agenda?",
+   "headline": "Brazil Responds to Macron’s Claim That Its Meat Is ‘Doped’",
+   "question": "How should countries address accusations of food safety violations from foreign leaders?",
    "source": "BBC News"
   },
   {
    "id": "t4",
    "category": "tech",
-   "headline": "Asia places massive AI bet on Nvidia; future implications debated",
-   "question": "Will heavy investment in Nvidia's AI chips drive regional tech leadership?",
+   "headline": "Regulators Approve Musk’s Plan for One Million SpaceX Data Satellites",
+   "question": "Will a mega‑constellation of satellites benefit global communications more than it harms the night sky?",
    "source": "BBC News"
   },
   {
    "id": "t5",
    "category": "science",
-   "headline": "Inside the control room that powers your weather forecasting apps",
-   "question": "How can weather data centers improve accuracy and timeliness of forecasts?",
+   "headline": "Floating Nature Islands Installed in Glasgow Parks as Games Legacy",
+   "question": "Can artificial islands in parks effectively boost urban biodiversity long‑term?",
    "source": "BBC News"
   },
   {
    "id": "t6",
    "category": "health",
-   "headline": "NHS launches largest AI trial to detect breast cancer earlier",
-   "question": "Can AI reliably complement radiologists in early cancer detection?",
+   "headline": "NHS Chief Warns of ‘Horrible Spike’ in Flu Hospital Admissions",
+   "question": "What public health measures could best curb the rising flu cases this season?",
    "source": "BBC News"
   },
   {
    "id": "t7",
    "category": "business",
-   "headline": "Average UK mortgage payments set to rise by £100 per month",
-   "question": "How will higher mortgage costs impact the UK housing market?",
+   "headline": "Average Monthly Mortgage Payments Set to Rise by £100 for Millions",
+   "question": "How will higher mortgage costs affect the UK housing market and consumer spending?",
    "source": "BBC News"
   },
   {
    "id": "t8",
    "category": "trending",
-   "headline": "GTA 6 PC port: gamers anticipate release and performance",
-   "question": "What expectations should players have for a PC version of GTA 6?",
+   "headline": "Ariana Grande Tops Global Search Trends This Week",
+   "question": "What factors drive a pop star’s sudden surge in worldwide online searches?",
    "source": "Google Trends"
   },
   {
    "id": "t9",
-   "category": "business",
-   "headline": "Elevator mechanic shortage dubbed 'wizard' crisis",
-   "question": "What solutions can address the growing lack of qualified elevator technicians?",
+   "category": "tech",
+   "headline": "Shortage of ‘Wizard’ Elevator Mechanics Sparks Industry Concern",
+   "question": "What training or policy changes could resolve the shortage of specialized elevator technicians?",
    "source": "BBC News"
   }
  ]
