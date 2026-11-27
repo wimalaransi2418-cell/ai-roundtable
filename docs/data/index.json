@@ -1,6 +1,11 @@
 {
  "sessions": [
   {
+   "id": "20261127-1152",
+   "started_at": "2026-11-27T11:52:25+00:00",
+   "question_en": "Should the EU's Digital Markets Act be expanded to cover AI-powered web services to ensure fair competition?"
+  },
+  {
    "id": "20261126-2333",
    "started_at": "2026-11-26T23:33:41+00:00",
    "question_en": "Should AI companies be required to publicly disclose their cost structures and pricing strategies to ensure market transparency and fairness?"
