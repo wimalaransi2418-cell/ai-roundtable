@@ -1,6 +1,11 @@
 {
  "sessions": [
   {
+   "id": "20261127-2316",
+   "started_at": "2026-11-27T23:16:59+00:00",
+   "question_en": "Should governments significantly increase funding for planetary defense programs following the successful DART asteroid impact test?"
+  },
+  {
    "id": "20261127-1152",
    "started_at": "2026-11-27T11:52:25+00:00",
    "question_en": "Should the EU's Digital Markets Act be expanded to cover AI-powered web services to ensure fair competition?"
