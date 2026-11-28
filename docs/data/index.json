@@ -1,6 +1,11 @@
 {
  "sessions": [
   {
+   "id": "20261128-1127",
+   "started_at": "2026-11-28T11:27:47+00:00",
+   "question_en": "Should software platforms be required to obtain explicit user consent before transmitting any user‑generated content to remote servers for processing?"
+  },
+  {
    "id": "20261127-2316",
    "started_at": "2026-11-27T23:16:59+00:00",
    "question_en": "Should governments significantly increase funding for planetary defense programs following the successful DART asteroid impact test?"
