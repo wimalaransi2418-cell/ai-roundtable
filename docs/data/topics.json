@@ -1,74 +1,74 @@
 {
- "updated_at": "2026-11-27T18:07:24+00:00",
+ "updated_at": "2026-11-28T01:51:54+00:00",
  "items": [
   {
    "id": "t0",
    "category": "weather",
-   "headline": "More Than 650,000 Without Power on East Coast After Storm",
-   "question": "What steps should utilities take to improve grid resilience during extreme weather?",
+   "headline": "Thanksgiving storm brings snow, winds, and flooding to the Northeast",
+   "question": "How should communities balance emergency response with long‑term climate resilience after such storms?",
    "source": "Google News"
   },
   {
    "id": "t1",
    "category": "sports",
-   "headline": "Tyler Bass Kicks 57-Yard Walk-Off Field Goal as Bills Beat Chiefs",
-   "question": "How much should clutch performance influence a kicker’s contract negotiations?",
-   "source": "Google News"
+   "headline": "Ireland defeats Australia with five tries in autumn rugby finale",
+   "question": "What factors contributed most to Ireland's dominant performance over Australia?",
+   "source": "BBC Sport"
   },
   {
    "id": "t2",
    "category": "sports",
-   "headline": "Chicago Bears Lead Division, Coach Biggs Calls Team ‘Hungry’",
-   "question": "What changes are needed for the Bears to sustain their early-season success?",
-   "source": "Google News"
+   "headline": "Manchester United activates Fernandes' one‑year contract extension",
+   "question": "Will extending Fernandes' contract improve United's midfield stability this season?",
+   "source": "BBC Sport"
   },
   {
    "id": "t3",
    "category": "world",
-   "headline": "Brazil Responds to Macron’s Claim That Its Meat Is ‘Doped’",
-   "question": "How should countries address accusations of food safety violations from foreign leaders?",
+   "headline": "Brazil pushes back after Macron labels its meat 'doped'",
+   "question": "What impact could Macron's comments have on EU‑Brazil trade relations?",
    "source": "BBC News"
   },
   {
    "id": "t4",
    "category": "tech",
-   "headline": "Regulators Approve Musk’s Plan for One Million SpaceX Data Satellites",
-   "question": "Will a mega‑constellation of satellites benefit global communications more than it harms the night sky?",
+   "headline": "Asia places a massive AI bet on Nvidia: implications for the region",
+   "question": "Will Asia's heavy investment in Nvidia reshape the global AI landscape?",
    "source": "BBC News"
   },
   {
    "id": "t5",
    "category": "science",
-   "headline": "Floating Nature Islands Installed in Glasgow Parks as Games Legacy",
-   "question": "Can artificial islands in parks effectively boost urban biodiversity long‑term?",
+   "headline": "Satellite data reveals rapid sinking of several African coastal cities",
+   "question": "What policies are needed to address the accelerating land loss in African cities?",
    "source": "BBC News"
   },
   {
    "id": "t6",
    "category": "health",
-   "headline": "NHS Chief Warns of ‘Horrible Spike’ in Flu Hospital Admissions",
-   "question": "What public health measures could best curb the rising flu cases this season?",
+   "headline": "Experts discuss whether to get a flu vaccine this season",
+   "question": "Is getting a flu shot now the most effective way to protect public health?",
    "source": "BBC News"
   },
   {
    "id": "t7",
    "category": "business",
-   "headline": "Average Monthly Mortgage Payments Set to Rise by £100 for Millions",
-   "question": "How will higher mortgage costs affect the UK housing market and consumer spending?",
+   "headline": "Inside the rogue trader networks scamming customers from £250 to £9,000",
+   "question": "How can regulators better detect and prevent large‑scale trader scams?",
    "source": "BBC News"
   },
   {
    "id": "t8",
    "category": "trending",
-   "headline": "Ariana Grande Tops Global Search Trends This Week",
-   "question": "What factors drive a pop star’s sudden surge in worldwide online searches?",
+   "headline": "Reports emerge of a cruise ship outbreak amid holiday travel",
+   "question": "What measures should cruise lines adopt to prevent future health outbreaks?",
    "source": "Google Trends"
   },
   {
    "id": "t9",
-   "category": "tech",
-   "headline": "Shortage of ‘Wizard’ Elevator Mechanics Sparks Industry Concern",
-   "question": "What training or policy changes could resolve the shortage of specialized elevator technicians?",
+   "category": "world",
+   "headline": "Kyiv braces for another harsh winter amid ongoing conflict",
+   "question": "How can international aid best support Ukraine during the upcoming winter?",
    "source": "BBC News"
   }
  ]
